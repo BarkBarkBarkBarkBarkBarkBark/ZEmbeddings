@@ -1,0 +1,699 @@
+SPEAKER_R: Hello.
+SPEAKER_L: Hello
+SPEAKER_R: How's it going?
+SPEAKER_L: dad how are you?
+SPEAKER_R: Good. So we're supposed to talk for 25 minutes?
+SPEAKER_L: Yeah. 15 bucks. Pretty good.
+SPEAKER_R: I know. Okay. So well what goes around to 1226 and that should
+SPEAKER_L: Before
+SPEAKER_R: be it.
+SPEAKER_L: on. Sounds good. Where are you from?
+SPEAKER_R: I am currently in Durham north Carolina. What about you?
+SPEAKER_L: Hawaii I grew up here. Yeah.
+SPEAKER_R: Um What
+SPEAKER_L: Mhm.
+SPEAKER_R: part in hawaii? Yes.
+SPEAKER_L: I The Smallest one. What? Yeah.
+SPEAKER_R: many islands are there? Yeah. Yeah.
+SPEAKER_L: For main ones and then there are like little small ones off of the main ones.
+SPEAKER_R: Got it. And you're from and your like the small one? Right.
+SPEAKER_L: Yeah. The smallest of the main chain. Yeah.
+SPEAKER_R: So that's that's pretty fun because um in august um me and my friends were going to Honolulu for a race, we're doing this one of the spartan races. Um Yeah. So
+SPEAKER_L: Yes.
+SPEAKER_R: how's the situation over there right now? Just in general?
+SPEAKER_L: It's pretty good. I mean on my my islands just so small so it could have really bad or totally fine. Um And it's totally fine. We haven't had any new cases in a few weeks and everything's gonna be opening back up. So it's very very relaxed
+SPEAKER_R: And like when you say small,
+SPEAKER_L: there
+SPEAKER_R: like how big is the population? Okay.
+SPEAKER_L: 60 60K. About It's not like incredible. It doesn't sound like when I say it it doesn't sound that small but it's small enough that we have one Costco and every time you go you see 12 people you know. Oh it's like very yeah
+SPEAKER_R: that way.
+SPEAKER_L: very small. Yeah. Which is
+SPEAKER_R: No.
+SPEAKER_L: nice. I've never been to north Carolina though.
+SPEAKER_R: Have have you been anywhere within the south in general?
+SPEAKER_L: Well, I was born in texas, but I moved here when I was like three, so um anywhere else and
+SPEAKER_R: Where in texas were
+SPEAKER_L: you
+SPEAKER_R: you
+SPEAKER_L: know
+SPEAKER_R: born?
+SPEAKER_L: Dallas?
+SPEAKER_R: Nice. Okay. But I guess you weren't like you couldn't become old enough to like really experience it, right?
+SPEAKER_L: Yeah. Well I kind of remember just vaguely it being like really hot during the summer. Uh like I remember being just like three and walking out of my house and not being able to breathe in the summer just because it's so humid and hot and miserable and that's
+SPEAKER_R: Day.
+SPEAKER_L: all I remember.
+SPEAKER_R: Oh yeah that's pretty much the same thing
+SPEAKER_L: Help.
+SPEAKER_R: here, like in the south it's like the same. Um Well what made you move to Hawaii or your family moved to Hawaii? Sure.
+SPEAKER_L: my parents honeymooned here when they first got married. Um and I just really liked it. So they wanted to move back out here. Uh,
+SPEAKER_R: Interesting.
+SPEAKER_L: my mom went to med school in texas and that's when I was born. And then when she finished, she got a job out here. Um
+SPEAKER_R: She got a job, like a like a hospital there.
+SPEAKER_L: so she's been working at the hospital, the one hospital we have here for like.
+SPEAKER_R: so I was gonna say that's probably if there's one Costco there's one hospital. Okay. Okay. Um But yeah I I was born in
+SPEAKER_L: Well
+SPEAKER_R: California and then um family
+SPEAKER_L: no
+SPEAKER_R: moved over to south Carolina and When I was like four
+SPEAKER_L: back.
+SPEAKER_R: I started K. four in South Carolina and I just grew
+SPEAKER_L: hostage.
+SPEAKER_R: up there ever since. And then now I'm
+SPEAKER_L: Whoa.
+SPEAKER_R: in North Carolina for school, I'm in grad school right now.
+SPEAKER_L: Cool. What are you studying
+SPEAKER_R: Marketing. Yeah. What do you do?
+SPEAKER_L: I am here for corona, but I actually live in California. I live in L. A. Um Yeah and I went to chapman there and it's small and it's like very easily heard of. Um and I studied philosophy and psych and then right now I'm in a post back position before I apply to PhD programs. So yeah. That's cool.
+SPEAKER_R: Um so yeah I'm in a PhD program and my um it's a psychology track, so it's based on like its consumer behavior, so pretty much using like psychology to understand consumer
+SPEAKER_L: Perform.
+SPEAKER_R: behavior
+SPEAKER_L: Yeah. That's cool. We're doing I work at the lab at chapman right now as opposed
+SPEAKER_R: and
+SPEAKER_L: to back um and they focus on like decision making and free will research. So we talked about the economic decision making every once in a while, wow.
+SPEAKER_R: yeah same here but we talk about brands and uh choices and
+SPEAKER_L: Colours. It's
+SPEAKER_R: products, it's super fun. One of the projects I'm working on now is the
+SPEAKER_L: Four.
+SPEAKER_R: impact of like corona on combinations. So there's like a lot of products like like this one like aha sparkling water, it's a citrus and green
+SPEAKER_L: all
+SPEAKER_R: tea and you know there's like those
+SPEAKER_L: very
+SPEAKER_R: cheese, it's
+SPEAKER_L: much
+SPEAKER_R: like mixes of like jalapeno
+SPEAKER_L: Morning everyone
+SPEAKER_R: and cheddar, so like project like combinations and my hypothesis
+SPEAKER_L: felt
+SPEAKER_R: is
+SPEAKER_L: like
+SPEAKER_R: that
+SPEAKER_L: back
+SPEAKER_R: during
+SPEAKER_L: to the heart.
+SPEAKER_R: like infectious disease director, like when we're
+SPEAKER_L: It
+SPEAKER_R: thinking
+SPEAKER_L: will work.
+SPEAKER_R: about like diseases we want things to be like
+SPEAKER_L: simpler.
+SPEAKER_R: separate. So yeah, so people would want like, oh
+SPEAKER_L: Figure
+SPEAKER_R: I want strawberry
+SPEAKER_L: out what
+SPEAKER_R: or I
+SPEAKER_L: they
+SPEAKER_R: want banana
+SPEAKER_L: want,
+SPEAKER_R: by wouldn't want strawberry, banana.
+SPEAKER_L: wow. That would be interesting because it would think so pre conscious right, That you wouldn't even be really thinking that you're doing making the buyer behavior or um
+SPEAKER_R: so yeah that's one of the things that would be interesting to study during this time. Mhm.
+SPEAKER_L: I mean the only thing I know about anything relevant to that I guess is that uh like the difference between overt attention and covert attention. Um so there are two different types of attentional processes. So like you're looking at me right now, you're overly looking at me, you're using your eyes to look at me. Um but if you were covertly looking at me, then you could look somewhere off to the left or right and then focus on something, but then shift your peripheral attention to me. Um So if you right now, actually
+SPEAKER_R: interesting.
+SPEAKER_L: we're where I work, we're trying to test this with covert attention. But with overt attention basically, the more you can attract someone's eyes to something, the more likely they are to choose it. Like if when more when it's similar valence, so if you have to if you have two items that someone previously rated, so like two food items that they feel similarly about um and you kind of get them to look at one more than another you by your choice. Um It's
+SPEAKER_R: interesting them.
+SPEAKER_L: but we're seeing it right now, we're actually conducting a study where we're saying if we can do that for covert too. Um But we'll keep them in available that way and that's used in marketing and by behavior all the time. All you have to be public. One interesting graphic on your on your item, if
+SPEAKER_R: to
+SPEAKER_L: it's
+SPEAKER_R: get
+SPEAKER_L: like
+SPEAKER_R: their attention.
+SPEAKER_L: the difference between weekends or like Triscuits and you like something. Mhm.
+SPEAKER_R: Okay.
+SPEAKER_L: Mhm.
+SPEAKER_R: No that's interesting. I don't I don't play too
+SPEAKER_L: I
+SPEAKER_R: much was
+SPEAKER_L: have
+SPEAKER_R: sort of like
+SPEAKER_L: come
+SPEAKER_R: those
+SPEAKER_L: home.
+SPEAKER_R: that, but like I find that like just interesting in
+SPEAKER_L: All
+SPEAKER_R: general for attention. Um What do you
+SPEAKER_L: Or
+SPEAKER_R: want to do afterwards getting
+SPEAKER_L: or
+SPEAKER_R: for your PhD? Like what would be the ph D. B. N. Would it be
+SPEAKER_L: what?
+SPEAKER_R: like a forensics or psychology or what
+SPEAKER_L: would be cognitive neuro uh
+SPEAKER_R: cognitive Your. Okay.
+SPEAKER_L: Yeah. So I guess faculty really is like the big thing that could happen. Um We'll see. I mean my bosses are super stressed out all the time and their faculty, so.
+SPEAKER_R: Yeah. Are they tenure though? Yeah.
+SPEAKER_L: Mhm.
+SPEAKER_R: Are they
+SPEAKER_L: Are
+SPEAKER_R: assistant
+SPEAKER_L: they?
+SPEAKER_R: professors or associate professors
+SPEAKER_L: I think
+SPEAKER_R: or
+SPEAKER_L: that
+SPEAKER_R: full?
+SPEAKER_L: there is associate professor. Is that is that why?
+SPEAKER_R: Oh um no associates you should have tenure.
+SPEAKER_L: Well,
+SPEAKER_R: Um So yeah, I'm not sure why. It's usually the
+SPEAKER_L: I
+SPEAKER_R: assistant
+SPEAKER_L: don't know.
+SPEAKER_R: professors
+SPEAKER_L: That
+SPEAKER_R: that
+SPEAKER_L: are
+SPEAKER_R: are
+SPEAKER_L: the
+SPEAKER_R: stressed.
+SPEAKER_L: last ones.
+SPEAKER_R: Yeah they're
+SPEAKER_L: So
+SPEAKER_R: the
+SPEAKER_L: we're
+SPEAKER_R: ones
+SPEAKER_L: trying
+SPEAKER_R: that
+SPEAKER_L: to
+SPEAKER_R: are
+SPEAKER_L: get
+SPEAKER_R: pretty,
+SPEAKER_L: to an area.
+SPEAKER_R: yeah. Um My guess associates could get stressed out because like the next level for them is a full professor that sometimes really hard to achieve. Yeah.
+SPEAKER_L: I think it's just more the like whole research thing like to be a prestigious researcher. It's like just grueling a lot of work and meetings and juggling
+SPEAKER_R: that's
+SPEAKER_L: things
+SPEAKER_R: fair.
+SPEAKER_L: all the time. And my university is very, very bureaucratic. So these
+SPEAKER_R: Are
+SPEAKER_L: are
+SPEAKER_R: they get
+SPEAKER_L: struggling
+SPEAKER_R: things done?
+SPEAKER_L: like a million things at the university is like making them asking them to do, like they're checking them all the time. It's like very
+SPEAKER_R: like
+SPEAKER_L: stressful. So I'm like
+SPEAKER_R: like micro
+SPEAKER_L: experiencing
+SPEAKER_R: man?
+SPEAKER_L: and I'm just like they're assistant right now and I'm like uh so
+SPEAKER_R: Are you gonna like apply like just like broadly
+SPEAKER_L: tell
+SPEAKER_R: and
+SPEAKER_L: him.
+SPEAKER_R: just go wherever are you trying to stay in the area?
+SPEAKER_L: I don't know. I think, I don't know, I'm kind of sick of L. A. I like L. A. I think it's fun, but I'm very like easily sick of things. So I'm kind of ready to experience something new. But uh I have a professor that I am, I gotten a little closer to and then I really like and I want to do research with for my PhD. I use the L. A. Um So he said
+SPEAKER_R: No.
+SPEAKER_L: he would help me in his lab. So we'll see. I mean that's a super good option. I don't even know if I'll get in, but if I do get in then I could I would have a lab show working. so that would be cool. Um Other than that you probably just did and go to europe. Yeah,
+SPEAKER_R: really? Okay. Um Who's
+SPEAKER_L: don't
+SPEAKER_R: the who's
+SPEAKER_L: actually know that.
+SPEAKER_R: at U. C. L. A.
+SPEAKER_L: martin monty.
+SPEAKER_R: Monte. Okay. I don't I don't know that name. I know you I know U.
+SPEAKER_L: Well,
+SPEAKER_R: C. L.
+SPEAKER_L: for
+SPEAKER_R: A.
+SPEAKER_L: my home,
+SPEAKER_R: S. Marketing is pretty good and if marketing cycle usually
+SPEAKER_L: our home
+SPEAKER_R: tied together somehow but I'm
+SPEAKER_L: war,
+SPEAKER_R: not sure about that name. What kind of work
+SPEAKER_L: anyone
+SPEAKER_R: does he do?
+SPEAKER_L: along disordered states of consciousness. So people in like coma are minimally conscious states and kind of trying to figure out what their mental life is like.
+SPEAKER_R: Oh dang. Okay wow.
+SPEAKER_L: So it's cool, it's an opportunity to help rights school so that I can study this whole consciousness thing and do this neuroscience philosophy thing and help too, because sometimes people get so bogged down in research and the applicability becomes less and less. Like you focus on such a small little thing that like the applicability to the rest of the world and how it can be used in the rest of the world, like decreases it's not so much an issue with marketing, right? Because it's extraordinary marketing. Um But in philosophy and then um like kind of the field that I'm going into, it can be very easy to be like, okay, what if we make this one small change on the screen, what will the difference be like? Like it's very so it's it's nice to have an outlet where it makes a difference and it helps
+SPEAKER_R: I agree.
+SPEAKER_L: paul. Yeah.
+SPEAKER_R: Yeah I like the marketing side because you can do strategy but once like you're comfortable like as a professor and have tenure, you can dip dip yourself in psychology and publishing psych which is fun.
+SPEAKER_L: The. Mhm.
+SPEAKER_R: Rather than like do psych and have to go through that whole market and competition for publication
+SPEAKER_L: Are
+SPEAKER_R: just to
+SPEAKER_L: you
+SPEAKER_R: marketing.
+SPEAKER_L: taking are you taking a lot of classes in the marketing PhD?
+SPEAKER_R: Yes. Um we take 1 um We take we take mainly a consumer behavior seminar where each week is like a different topic, like
+SPEAKER_L: Think
+SPEAKER_R: one
+SPEAKER_L: quick
+SPEAKER_R: week could be on beauty products and then next week could be on authenticity.
+SPEAKER_L: at all. Yeah.
+SPEAKER_R: And so it it really
+SPEAKER_L: lot.
+SPEAKER_R: ties in like a lot of like psychology and marketing work together and we reached site papers as well as like marketing papers. Um
+SPEAKER_L: Yeah.
+SPEAKER_R: And then sometimes we take classes. We take psych classes to if we want to. Like I took one on motivation which was fun, like all the types of motivations that we have. Uh huh. And yeah, classes are pretty light in terms of because like it's on you to choose your classes. Um Like if
+SPEAKER_L: I'm
+SPEAKER_R: you have
+SPEAKER_L: walking.
+SPEAKER_R: a certain interest in something, you take it like, but if you don't want to like you don't have to. Um There's only
+SPEAKER_L: During
+SPEAKER_R: like
+SPEAKER_L: the
+SPEAKER_R: a certain set amount of core
+SPEAKER_L: No,
+SPEAKER_R: classes you have to take to graduate.
+SPEAKER_L: that
+SPEAKER_R: But other
+SPEAKER_L: has
+SPEAKER_R: than that, like you're just like doing research most of the time.
+SPEAKER_L: It's very similar for what I'm going into. In fact, they discourage you from taking classes. It's more about getting used to done what kind of So what does research look like in the marketing, like? Is it more like kind of literature analysis synthesis in coming up with hypotheses and so on? Or is it actual experiments where you're like testing it?
+SPEAKER_R: Oh, actually, actually actual experiment.
+SPEAKER_L: With
+SPEAKER_R: That's probably why
+SPEAKER_L: the university
+SPEAKER_R: I'm on
+SPEAKER_L: kids. Excellent.
+SPEAKER_R: kids, but also through prolific. We can run surveys and stuff like that. I've actually I've actually seen like a survey from one of my, one of my um
+SPEAKER_L: Here's
+SPEAKER_R: Like yeah,
+SPEAKER_L: fortunate
+SPEAKER_R: one of my people.
+SPEAKER_L: conclusion.
+SPEAKER_R: I was
+SPEAKER_L: It.
+SPEAKER_R: like, hey, I see your survey. Um But I've actually I do run studies on prolific. Um We
+SPEAKER_L: And
+SPEAKER_R: have
+SPEAKER_L: difficulties.
+SPEAKER_R: a behavioral lab that we were university students. And and um if we partner up with the company, we could do a field study with them too.
+SPEAKER_L: That's cool. That's what I was like. Maybe you have to work with a company but then it's kind of risky for them right to like do something. But I guess they could
+SPEAKER_R: No,
+SPEAKER_L: do it.
+SPEAKER_R: no it's like for like for them it's like free innovation. So they like we have like a lot of partners.
+SPEAKER_L: Free innovation
+SPEAKER_R: Yeah free innovation. So like like we have like the lows we have target,
+SPEAKER_L: people.
+SPEAKER_R: we have petsmart. And so like if
+SPEAKER_L: I
+SPEAKER_R: we
+SPEAKER_L: love
+SPEAKER_R: have a project
+SPEAKER_L: it.
+SPEAKER_R: that like kind of lines with what they do, we just offered to them, they change the stores
+SPEAKER_L: Thank
+SPEAKER_R: or manipulate the stores reports sales to us
+SPEAKER_L: you.
+SPEAKER_R: and then we can verify
+SPEAKER_L: The committee.
+SPEAKER_R: our hypothesis. And if it works like they have a free insight and we get a publication.
+SPEAKER_L: Uh huh. How cool is there any particular part or like it is marketing like separated and to like think so like per year kind of consumer industry anything or
+SPEAKER_R: for like especially in my uh
+SPEAKER_L: 50.4
+SPEAKER_R: my field we have two tracks. We have a quantitative track and we have a consumer
+SPEAKER_L: Oklahoma.
+SPEAKER_R: behavior track. So consumer behavior just think of it as like it's pretty much psychology but are dependent
+SPEAKER_L: What
+SPEAKER_R: variables
+SPEAKER_L: about
+SPEAKER_R: are
+SPEAKER_L: you?
+SPEAKER_R: just brands. And then you have your quantitative people who are like using like data to predict like things like um like hey let's get the number
+SPEAKER_L: Population
+SPEAKER_R: of likes on instagram as well as the number following and create like an equation and economic equation of how of their brand impact.
+SPEAKER_L: got it.
+SPEAKER_R: Yeah. So they're using like a lot of like data and sort of like modeling so they create like fancy equations that like. Yeah
+SPEAKER_L: That sounds complicated.
+SPEAKER_R: yeah but um there is like we have to
+SPEAKER_L: The
+SPEAKER_R: take
+SPEAKER_L: woman.
+SPEAKER_R: a quantitative class and there
+SPEAKER_L: No.
+SPEAKER_R: was one of them about luxury goods and I was like how can you like model like luxury goods? And there was like an equation for snow happiness, like it takes account into like the consumer snobbishness and then like rates the value of the brand, and I was like, what?
+SPEAKER_L: Yeah. I mean it makes sense Right. Like some kind of like very boujee exclusive brand that made itself very inaccessible, would just like make a snobby person jewel. Like just really
+SPEAKER_R: Exactly. And then it takes account into like the observers who tried to adopt
+SPEAKER_L: And
+SPEAKER_R: it. So it's
+SPEAKER_L: what
+SPEAKER_R: like, if
+SPEAKER_L: I'm
+SPEAKER_R: the
+SPEAKER_L: gonna
+SPEAKER_R: observers
+SPEAKER_L: matter.
+SPEAKER_R: try to adopt it, then like the brand
+SPEAKER_L: So
+SPEAKER_R: value decreases,
+SPEAKER_L: this is,
+SPEAKER_R: so like we have to like move things around. Yeah.
+SPEAKER_L: is there any particular industry that you want to work in? Like food, hospitality, cars?
+SPEAKER_R: um So, so like, afterwards you
+SPEAKER_L: It's both.
+SPEAKER_R: can,
+SPEAKER_L: Well, yeah.
+SPEAKER_R: so there's not really industry, I want to become an expertise
+SPEAKER_L: More
+SPEAKER_R: and but like those are all available if I just
+SPEAKER_L: people,
+SPEAKER_R: use them as
+SPEAKER_L: people
+SPEAKER_R: dependent variables,
+SPEAKER_L: brutal.
+SPEAKER_R: right? So like, if I'm interested in cars, I'll just use
+SPEAKER_L: But
+SPEAKER_R: cars
+SPEAKER_L: what
+SPEAKER_R: as
+SPEAKER_L: he
+SPEAKER_R: like
+SPEAKER_L: did
+SPEAKER_R: my like
+SPEAKER_L: break.
+SPEAKER_R: brand choices or something like that.
+SPEAKER_L: So it's very broad like after
+SPEAKER_R: It's
+SPEAKER_L: you get this, like you can just go and say my PhD in marketing and then you just
+SPEAKER_R: correct.
+SPEAKER_L: find a kind of thing.
+SPEAKER_R: Yeah, but afterwards, all of us were mainly tour going towards a tenure track position and
+SPEAKER_L: No.
+SPEAKER_R: that's, yeah, that's and that's how they like, so the business schools, if you are ever interested, um they're really good at funneling
+SPEAKER_L: Three.
+SPEAKER_R: people for positions, so they only accept like 50
+SPEAKER_L: My thanks.
+SPEAKER_R: to 100 PhD students per year to fill the faculties afterwards, to
+SPEAKER_L: darn it,
+SPEAKER_R: fill the retired faculties afterwards. So like you are
+SPEAKER_L: Working
+SPEAKER_R: guaranteed
+SPEAKER_L: on
+SPEAKER_R: somewhat like a job, it might not be like the best one, but like you're guaranteed a job rather than going to a post doc. Yeah.
+SPEAKER_L: Got it. Okay.
+SPEAKER_R: So they're really
+SPEAKER_L: That's so different from mine. It's like straight to post doc and then you're a postdoc probably like two different labs for like your thirties and then maybe you get like in the system
+SPEAKER_R: And maybe
+SPEAKER_L: for
+SPEAKER_R: you get
+SPEAKER_L: it.
+SPEAKER_R: it and if not you work in the industry. Exactly.
+SPEAKER_L: That what it's going to be like, but
+SPEAKER_R: So
+SPEAKER_L: I'm
+SPEAKER_R: that's
+SPEAKER_L: not
+SPEAKER_R: why
+SPEAKER_L: going
+SPEAKER_R: I
+SPEAKER_L: to
+SPEAKER_R: like.
+SPEAKER_L: have the difference between me and like, I guess the other grad students that I work with is that like there they have a really strong background and like math and coding and everything like that and I'm getting there but I'm nowhere near that. So like at any time they could just jump ship and join industry and make a have a really good career. Like I'm more into like philosophy side, less quants. So what can you what's good?
+SPEAKER_R: So yeah, like essentially like if I could, if the world was ideal, like I'd be
+SPEAKER_L: That's
+SPEAKER_R: doing like social psychology PhD right now, but like I have like an
+SPEAKER_L: perfect.
+SPEAKER_R: interesting marketing and so like I can just do this and like have better a
+SPEAKER_L: Fine.
+SPEAKER_R: better career and then get tenure,
+SPEAKER_L: Look
+SPEAKER_R: then
+SPEAKER_L: at that
+SPEAKER_R: dip
+SPEAKER_L: level.
+SPEAKER_R: into psychology again.
+SPEAKER_L: Yeah. And with I mean the thing is that you with your PhD now, I'm sure that you can teach psychology courses if you want it and that's like, it's like it's going to be like a non issue like you'll be able to teach those kinds of courses, so you'll be what
+SPEAKER_R: Because
+SPEAKER_L: you do,
+SPEAKER_R: because all like the methods and like the philosophy is all the same, it's just like our outcomes are just
+SPEAKER_L: Have
+SPEAKER_R: different.
+SPEAKER_L: a look. Yeah. So social site, that will be, it will be good. So once you have your PhD, it's just a matter of like what you actually do your research and like you can just define your own field there.
+SPEAKER_R: Right. And the like the cool thing with like all the industries that you talked about is like I can be
+SPEAKER_L: point.
+SPEAKER_R: like a third party consultant
+SPEAKER_L: Making
+SPEAKER_R: for all
+SPEAKER_L: your
+SPEAKER_R: all
+SPEAKER_L: security.
+SPEAKER_R: of them and have like my own small business. Like if I understand like just like simple decision making, I can go into cars and talk to like our people, I can go into the food about contacts in that. So a lot of people like do consulting on the side um after afterwards too,
+SPEAKER_L: That
+SPEAKER_R: which is fun. Okay.
+SPEAKER_L: sounds like a good deal. Oh,
+SPEAKER_R: it's been it's been good so far. I just wrapping up my first year right now. Um So yeah 44
+SPEAKER_L: nothing
+SPEAKER_R: more, four
+SPEAKER_L: magically
+SPEAKER_R: or five more to go.
+SPEAKER_L: hard. More. Yeah, it's very daunting.
+SPEAKER_R: Are you wanting to enroll like next fall?
+SPEAKER_L: Yeah. So I graduated in May of 2019 and I just wasn't ready. I was like, I I decided that I wanted to do this diana stuff and search like only my senior year, so I like last minute change to a second major in philosophy. Got all into it and I was spending all this time on it and really passionate about it, but I did not have the skills that I needed to apply to PhD programs to succeed for sure. Not yet. Uh So I was gonna look so I just, my lab that I work in now for me a paid position to stay, so I was like, ok, I'll just stay uh and learn. And so I took it to your position with them and I just finished my first year this May. So this month Obama finished with my first year and then um I'll have one more year and then I'll be applying this coming fall and starting next fall. So
+SPEAKER_R: Okay. That's okay. That's yeah, that's pretty good. I kind of did something similar where I didn't realize like I like this until the end
+SPEAKER_L: One
+SPEAKER_R: of my
+SPEAKER_L: more
+SPEAKER_R: career or like end of my senior year.
+SPEAKER_L: what?
+SPEAKER_R: And so like I took like
+SPEAKER_L: Any
+SPEAKER_R: an extra
+SPEAKER_L: more.
+SPEAKER_R: year working under with my professor while unemployed.
+SPEAKER_L: The whole country.
+SPEAKER_R: So
+SPEAKER_L: That's
+SPEAKER_R: I
+SPEAKER_L: hard.
+SPEAKER_R: just like yeah so I just took a gap year and just sort of like oh this is fun, like I'm just gonna keep doing it. Um.
+SPEAKER_L: it's fair. I mean it's hard. I mean, how young were we when we were in undergrad? Like are we really supposed to know that we really wanted to do? And I was pretty lost for a long time and I was already studying for the fucking else. Like, I was like,
+SPEAKER_R: Earth.
+SPEAKER_L: ready to go. I don't know what happened. Something like
+SPEAKER_R: No. Yeah no that's awesome that you actually have like a page like position to like explore.
+SPEAKER_L: wrap
+SPEAKER_R: That's awesome.
+SPEAKER_L: rare, super rare. I'm super grateful for it. It just happened that I was like planning on staying around anyway without getting paid. I have another job at a cafe and it just happened that my boss got this huge grant at the time I was going to stay and he was like, listen,
+SPEAKER_R: Yang
+SPEAKER_L: hey, you stay. Yeah,
+SPEAKER_R: That's actually really awesome.
+SPEAKER_L: yeah, so it's been good.
+SPEAKER_R: Um Would you consider like industry afterwards?
+SPEAKER_L: Mhm I don't know. I don't know. I don't know what kind of job I could get with a psych because the thing is that my school, my school is very soft psych. It's very personality and social people and everything like that. Um The lab and I work in is very Kwan like very like coating modeling neural network
+SPEAKER_R: Okay. But that's
+SPEAKER_L: always
+SPEAKER_R: like the most
+SPEAKER_L: like
+SPEAKER_R: valuable thing for industry so like soak it up while you can.
+SPEAKER_L: But so my background though, like my actual education is in philosophy and like not very quant psych so we'll learning all that stuff now. That's why I wasn't ready to go because I took one stats class and one research methods class and I took my research methods class when I was studying abroad. So I learned shit. I was not caring about swat all at that time. Uh And so I don't know, I don't know what kind of job I could get with us. I can Philosophy double major.
+SPEAKER_R: I mean like like at the end of it, like at the
+SPEAKER_L: You
+SPEAKER_R: end
+SPEAKER_L: want
+SPEAKER_R: of the day I felt like
+SPEAKER_L: it
+SPEAKER_R: what
+SPEAKER_L: is
+SPEAKER_R: you can do
+SPEAKER_L: office
+SPEAKER_R: rather than like your background because my back my background in engineering and like mechanical engineer like so like all like the engines and physics and stuff like that, but like
+SPEAKER_L: It's
+SPEAKER_R: by showing my interest
+SPEAKER_L: that.
+SPEAKER_R: in like marketing, by like say like
+SPEAKER_L: I
+SPEAKER_R: hey
+SPEAKER_L: have.
+SPEAKER_R: these are the projects I've done with my professor. My professor can vouch for me, like that's how I was able to get in. Um So like if you can show like your recent projects and all your skills like I think that's more powerful for like industry rather than just like your degrees and background because
+SPEAKER_L: You
+SPEAKER_R: you don't
+SPEAKER_L: have a
+SPEAKER_R: learn anything
+SPEAKER_L: unicorn.
+SPEAKER_R: in. Yeah, you don't really learn anything in college, just kind of
+SPEAKER_L: I know.
+SPEAKER_R: there to figure out yourself.
+SPEAKER_L: I mean it's good to fuck like
+SPEAKER_R: Yeah and and
+SPEAKER_L: 24
+SPEAKER_R: if anything like
+SPEAKER_L: units.
+SPEAKER_R: if you can do what they
+SPEAKER_L: Thanks
+SPEAKER_R: need and your background like different,
+SPEAKER_L: it.
+SPEAKER_R: like that's even better.
+SPEAKER_L: Mhm. Yeah, I'm more diversity and more diverse opinions and everything and perspectives. I guess It's good if you ended up going to a PhD program at the same school that you went to undergrad are different. Yeah.
+SPEAKER_R: So I went to undergrad at Clemson University in south Carolina and then I decided
+SPEAKER_L: All
+SPEAKER_R: to work for
+SPEAKER_L: over
+SPEAKER_R: two years
+SPEAKER_L: the world.
+SPEAKER_R: at college in Atlanta because like I wasn't sure like he she is a big commitment
+SPEAKER_L: It's
+SPEAKER_R: and I yeah, I knew that like if I want to do the pc I wanted to do,
+SPEAKER_L: No,
+SPEAKER_R: I wouldn't
+SPEAKER_L: there
+SPEAKER_R: be able
+SPEAKER_L: were
+SPEAKER_R: to go
+SPEAKER_L: the
+SPEAKER_R: back
+SPEAKER_L: next
+SPEAKER_R: to the industry
+SPEAKER_L: level.
+SPEAKER_R: because like they like make you become uh faculty afterwards. Um And so I was like, you know like let me explore industry a little bit and to see if I like, like it or
+SPEAKER_L: Much.
+SPEAKER_R: not and it was fun but it's just too much like to bureaucratic
+SPEAKER_L: No,
+SPEAKER_R: like you said, like
+SPEAKER_L: it's
+SPEAKER_R: it's just
+SPEAKER_L: the
+SPEAKER_R: annoying
+SPEAKER_L: security.
+SPEAKER_R: And if I want to do something, it just takes a lot of time and like, yeah,
+SPEAKER_L: The
+SPEAKER_R: I did
+SPEAKER_L: university
+SPEAKER_R: not like
+SPEAKER_L: system can be like that too. As a professor doing research
+SPEAKER_R: there. Yeah, that's fair. But like, you still have like that freedom
+SPEAKER_L: boy.
+SPEAKER_R: that ties you down
+SPEAKER_L: No, the
+SPEAKER_R: bit.
+SPEAKER_L: creative freedom is the thing. Creative freedom. Like, like the I. R. B. Is basically just going to tell you like, hey this is unethical. That's really your only check. Other than that like you can do whatever you want. No one's telling you. We hired you thinking that you are going to do this kind of research. Like the fuck no one tells you that kind of thing. Yeah.
+SPEAKER_R: And it asked me to go into things that like as like with snacks and cars and luxury goods and stuff like that rather than just like coke products. Um So yeah, that
+SPEAKER_L: You have more options I guess.
+SPEAKER_R: more often. Um So yeah, so I, I did that for like two years
+SPEAKER_L: The home.
+SPEAKER_R: and then I dropped and then I got, I got to Duke where I am right now. Um
+SPEAKER_L: Mhm.
+SPEAKER_R: and yeah, it's been a good time so far.
+SPEAKER_L: This is like how small is due
+SPEAKER_R: What do you mean?
+SPEAKER_L: like size? Like student faculty? Is it more for your baseball?
+SPEAKER_R: Undergrad. Maybe 20,000 if that gives you a sense of size. Um
+SPEAKER_L: Do you know any of the philosophy faculty there? No?
+SPEAKER_R: Yeah, we only like, like, like, like if anything, it's mainly psych and marketing that work together. Yeah.
+SPEAKER_L: Yeah. I my boss works very closely with uh philosophy professor at Duke, and I'm always talking to him constantly. It's not
+SPEAKER_R: Duke is one of the place that you apply to. I would
+SPEAKER_L: I
+SPEAKER_R: say
+SPEAKER_L: got
+SPEAKER_R: it's one
+SPEAKER_L: physical
+SPEAKER_R: of the best like cost of living and quality of life. Like you're
+SPEAKER_L: 40.
+SPEAKER_R: just like, I mean like, I know it's not like the same
+SPEAKER_L: What
+SPEAKER_R: as L.
+SPEAKER_L: is it?
+SPEAKER_R: A. But it's like nice and like naturally,
+SPEAKER_L: Three?
+SPEAKER_R: I know it's green and it's so nice
+SPEAKER_L: that
+SPEAKER_R: for
+SPEAKER_L: was
+SPEAKER_R: your piece.
+SPEAKER_L: not green.
+SPEAKER_R: Yeah, it's so nice for your like your ph d to sort of like being
+SPEAKER_L: Well,
+SPEAKER_R: like a calm setting,
+SPEAKER_L: home.
+SPEAKER_R: rather like a hustle and bustle sort of place. Uh huh.
+SPEAKER_L: I'm gonna be like expensive. I'm going to be broke and it's gonna be like trafficking. So. Well,
+SPEAKER_R: like duke,
+SPEAKER_L: come here,
+SPEAKER_R: like,
+SPEAKER_L: I get it. I guess the L. A. Thing. I get it. I've done it so
+SPEAKER_R: Um and duke like matches like stipends of like from schools, like
+SPEAKER_L: big.
+SPEAKER_R: California. And so like
+SPEAKER_L: I think.
+SPEAKER_R: your stipend goes further here. And like I actually have savings from like
+SPEAKER_L: it's
+SPEAKER_R: PhD stipends,
+SPEAKER_L: revolutionary.
+SPEAKER_R: right? And it's like I'm in like a two bedroom two bath place and it's like nice. Yeah.
+SPEAKER_L: You're in a two bedroom, two bath place, all on your own.
+SPEAKER_R: Oh no, I have a roommate.
+SPEAKER_L: Okay. I was like,
+SPEAKER_R: But some people,
+SPEAKER_L: I
+SPEAKER_R: some
+SPEAKER_L: don't
+SPEAKER_R: people
+SPEAKER_L: want
+SPEAKER_R: actually
+SPEAKER_L: to
+SPEAKER_R: do have a two bedroom on their own and they used
+SPEAKER_L: all
+SPEAKER_R: as a guest bedroom and they pay
+SPEAKER_L: I
+SPEAKER_R: 800 per month. Mhm. Yeah.
+SPEAKER_L: I pay
+SPEAKER_R: So
+SPEAKER_L: 1100
+SPEAKER_R: like
+SPEAKER_L: a month for a room in a four bedroom house. Oh,
+SPEAKER_R: so like face and
+SPEAKER_L: course.
+SPEAKER_R: just like yeah, it's really
+SPEAKER_L: Thank
+SPEAKER_R: good here.
+SPEAKER_L: you.
+SPEAKER_R: Like your PG student, like you're not going to do anything like you're studying and working
+SPEAKER_L: I
+SPEAKER_R: and trying
+SPEAKER_L: know.
+SPEAKER_R: to take care of yourself. Yeah.
+SPEAKER_L: Yeah. I try to
+SPEAKER_R: Well
+SPEAKER_L: like they say, oh,
+SPEAKER_R: So yeah, just a plug.
+SPEAKER_L: people
+SPEAKER_R: If you if you're interested in applying to Duke, it's a good place.
+SPEAKER_L: object. Good to know. Well, oh,
+SPEAKER_R: Um but yeah, I gotta get to work, but I hope we met our 25 minute requirement. Um
+SPEAKER_L: Yeah.
+SPEAKER_R: All right. So wait, what do we do? Are you closing this window?
+SPEAKER_L: I don't know. Let me open this other time. Uh,
+SPEAKER_R: Don't close it.
+SPEAKER_L: Fine. Your music and track. Um, I don't see it, honey. I
+SPEAKER_R: I
+SPEAKER_L: don't
+SPEAKER_R: see at
+SPEAKER_L: know.
+SPEAKER_R: the bottom it says remember
+SPEAKER_L: Thank
+SPEAKER_R: once you have opened the
+SPEAKER_L: you.
+SPEAKER_R: chat video
+SPEAKER_L: Well,
+SPEAKER_R: chat window, Please keep it open the entire time. Don't close it until you are completely finished with your conversation.
+SPEAKER_L: so when your conversation is complete, please return to this browser to continue your participation. So we have to go back to the other page. Did you close it already? Yeah,
+SPEAKER_R: Wait the other page. I did not. I think I think we're supposed
+SPEAKER_L: get
+SPEAKER_R: to close
+SPEAKER_L: that.
+SPEAKER_R: our chat conversation first.
+SPEAKER_L: Close this time. Okay.
+SPEAKER_R: cool. Um, what is your name?
+SPEAKER_L: Amber,
+SPEAKER_R: Amber? You want to add me on linkedin? Why don't we keep touched? What's what's your last name?
+SPEAKER_L: Hawkins.
+SPEAKER_R: How do you spell that out?
+SPEAKER_L: H O P K I N S.
+SPEAKER_R: Amber Hopkins. Um, I guess I should type in the university chapman. You said
+SPEAKER_L: yeah. So yeah, chapman is fine. And then your name,
+SPEAKER_R: Danny, D. E. N. N. Y. And last name H. U. Y. N. H. Is your linked in profile you
+SPEAKER_L: fought
+SPEAKER_R: wearing?
+SPEAKER_L: off my gratitude. Higher. Oh, basic
+SPEAKER_R: This is gonna be this is going
+SPEAKER_L: thanks.
+SPEAKER_R: to be so funny for like the people who like the researchers watch this because it's just to to other researchers just talking about research. Um, so that'll be fun. Okay. Cool.
+SPEAKER_L: continuations.
+SPEAKER_R: Nice meeting you
+SPEAKER_L: I
+SPEAKER_R: Amber.
+SPEAKER_L: don't. Good
+SPEAKER_R: Um, Good luck with
+SPEAKER_L: luck.
+SPEAKER_R: everything. All right. Bye.

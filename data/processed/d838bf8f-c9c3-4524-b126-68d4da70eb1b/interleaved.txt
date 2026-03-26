@@ -1,0 +1,249 @@
+SPEAKER_L: Mhm. Yeah. Mhm. Yeah. Yeah. Okay mm. Yeah yeah. Mhm. Okay yeah. Hello?
+SPEAKER_R: Hello,
+SPEAKER_L: Hello?
+SPEAKER_R: how are you
+SPEAKER_L: Hi.
+SPEAKER_R: doing?
+SPEAKER_L: Good how are you? Mhm.
+SPEAKER_R: I am so sorry, I was trying to do it through my phone and I was having a bunch of technical difficulties, so I just started computer.
+SPEAKER_L: that's right
+SPEAKER_R: So my apologies for the way, So hello, I'm not entirely sure what to chat through here, but I just know we're supposed to chat here for about 25 minutes, so I guess we can start with basic things. My name is Matt, what's your name?
+SPEAKER_L: my name is Andrea
+SPEAKER_R: Yeah. Nice. Uh where you from? Andrea
+SPEAKER_L: I'm from michigan
+SPEAKER_R: michigan, Cool. I have a I have a friend that I work with who actually lives out in michigan. I worked remote, He's um
+SPEAKER_L: Yeah.
+SPEAKER_R: no, actually he just he just moved to Minnesota from michigan, he was from, oh goodness, what are some of the major cities in michigan again?
+SPEAKER_L: Um Those grand rapids there's Lansing ann arbor Detroit those are the main ones.
+SPEAKER_R: I'm pretty sure he was from Grand rapids,
+SPEAKER_L: Oh that's
+SPEAKER_R: I'm
+SPEAKER_L: where
+SPEAKER_R: pretty
+SPEAKER_L: I'm from
+SPEAKER_R: sure. Oh no, it's cool. Do you like it out there? Yeah.
+SPEAKER_L: Yeah it's yeah I probably could see myself living here for quite a while. I
+SPEAKER_R: Are you are
+SPEAKER_L: spent
+SPEAKER_R: you from
+SPEAKER_L: most
+SPEAKER_R: the
+SPEAKER_L: of my
+SPEAKER_R: area? Yeah.
+SPEAKER_L: I grew up in grand rapids um but I spend most of my weekends in northern michigan. There's quite a few nice lakes and condos and stuff up there that my family has.
+SPEAKER_R: nice. Yeah. That's cool, that's
+SPEAKER_L: What about you? Where are you from?
+SPEAKER_R: Um I am currently my, so my family, I uh my wife and my two kids were down here in southern California. So Orange County specifically um a little kind of small town called bria, which is funny small town I think means very different things in southern California because it's like you're still in the midst of like crazy hustle and bustle and like you know, lots of different like stuff everywhere. So I actually I grew up in a small actual small town in Kentucky. Um there's like you know 5000 people maybe. So really really tiny in like kind of the middle of nowhere. So that was more kind of small town. But here, even though we live in a small town it's kind of packed up against much different things. But yeah, so we're out here um they were actually we're thinking about making a transition up into northern California which I don't know if you know much about California all but northern and Southern are very different. It's it's almost like two different states where
+SPEAKER_L: That's what
+SPEAKER_R: northern
+SPEAKER_L: I heard.
+SPEAKER_R: yeah. Yeah it's pretty crazy. Northern California is like uh maybe maybe more similar to michigan you know there's parts that are a lot more spread out, a lot more kind of rural you know type of places even though they do have their kind of bigger places too. Whereas southern California, it's just it's very very different.
+SPEAKER_L: interesting. I was actually supposed to live in California
+SPEAKER_R: William.
+SPEAKER_L: in um in livermore for the summer
+SPEAKER_R: my goodness. Yeah a college buddy of mine actually was born and raised out in livermore, so I've been there once. Yeah.
+SPEAKER_L: well I was supposed to have my whole summer there so
+SPEAKER_R: Okay. That's really funny. What was afford?
+SPEAKER_L: um my boyfriend is a nuclear engineer and he
+SPEAKER_R: my
+SPEAKER_L: was
+SPEAKER_R: goodness.
+SPEAKER_L: going to work at the national lab in livermore and so that turned virtual so he's kind of working from them just from here in michigan. So yeah, I was just going to get like a trader joe's job or something this
+SPEAKER_R: Just
+SPEAKER_L: summer.
+SPEAKER_R: find something.
+SPEAKER_L: But yeah, so.
+SPEAKER_R: That's crazy. Cool. Was it like um was it a like covid type of thing that they just decided to go remote? Yeah,
+SPEAKER_L: Yeah, just because I mean I guess they decided in March may be the end of March um and still so much was just unknown, so they just decided I think they canceled nationally like all of the nuclear internships. So I mean it worked out that he can work from here. Um So that's kind of fun but
+SPEAKER_R: I bet that's nice. I mean was it was it like planning like a long term move? There was just for this little
+SPEAKER_L: it
+SPEAKER_R: position?
+SPEAKER_L: was really just for the summer. Um Pretty much just I guess may through august. Um So I guess it's a lot cheaper than we can just stay at home and like you can work and we can kind of do whatever pretty much every weekend we go up north and stay at the condo and you have vacation time, but it's nice that we can, you know, work from wherever and not really have a set schedule.
+SPEAKER_R: yeah, that is that is pretty nice. That's so he's, you said nuclear engineering, what does that even mean?
+SPEAKER_L: Um so what he focuses on currently is he does a lot of research and um so nuclear, I think nonproliferation, so uh kind of learning on how to stop um I guess nuclear information from getting into the wrong hands, but also stopping it and
+SPEAKER_R: All
+SPEAKER_L: learning how to stop explosions before they start. But then he also works a lot with nuclear energy. So
+SPEAKER_R: interesting.
+SPEAKER_L: when you have nuclear energy, you're going to have a byproduct of I guess nuclear waste. And so kind of learning how to Ethically deal with that kind of waste is kind of what he looks at two,
+SPEAKER_R: that's crazy.
+SPEAKER_L: of stuff that I don't understand, but
+SPEAKER_R: Sure, wow, it's so is that is that like I would assume that most of that I guess half would involve in government, government work? Yeah, so this is that kind of the road that he's taking is moving towards kind of government type of work with that?
+SPEAKER_L: Um not 100% sure yet. Um he's just finishing his master's and then considering doing
+SPEAKER_R: No wonder
+SPEAKER_L: depending
+SPEAKER_R: you. Ready?
+SPEAKER_L: on kind of what education looks like for the next years to perhaps.
+SPEAKER_R: Everything's up in there right now, so yeah.
+SPEAKER_L: what about you, what do you do
+SPEAKER_R: Come
+SPEAKER_L: for work?
+SPEAKER_R: yeah, so I um I work as what's called a quality assurance engineer um which is basically in the world of kind of text programming and development. So I so like my my role is is kind of niche. What um basically what I do is I work alongside of people who writes who program and write code for the company that I work for and so I work kind of on a team with them and so it's kind of confusing but I write code to check their code basically and
+SPEAKER_L: interesting,
+SPEAKER_R: so it's it's actually it's pretty fascinating at least to me, but it's uh there's ways to be able to um. Mhm. Okay, I'm trying to get the best to explain this. So the company worked for has an online platform and that's kind of the whole entire, you know, business, they run through uh through this online platform. And so the programmers that build that web platform um as they kind of are, you know, developing it and building it. Um they we have like like a I try to think about how to kind of speak not like super techie specific terms in a way that would be understandable mint, but it's basically like, you know, as they're building new stuff before it actually gets released out into kind of the world and on our platform, um we do a bunch of testing of it before it gets released. Um And so I'm involved in that testing process. And so we'll create like a, like a carbon copy of what the current actual live, whatever, you know, website is. And so we can test on like kind of like a fake one or like a copy. And so I will write code that creates what's called automated tests. And so basically it's it's a code that will um pretend to be a user, so it'll it'll, you know, it's a code that as it runs through, it'll open up a browser, it'll go to our website, it will click buttons, it will fill in forms, it will navigate around our website and um if it catches any errors then it will kind of, you know, log them and say oh there's an error here, oh this is working here, this is working here. And so I wrote this code that builds these tests and so these tests can kind of keep running, keep running, keep running. So as
+SPEAKER_L: interesting,
+SPEAKER_R: people who are actually building the actual product, you know, the platform as they're building it. If they write something that would somehow break a part of our platform or product, these tests that I write would catch that and say, oh wait a second, This thing you're trying to build here and you're trying to introduce is going to create a bunch of errors here here and here and so um super confusing if you're not actually in the industry, but that's like, so I I in that sense, I write code that checks their code,
+SPEAKER_L: No.
+SPEAKER_R: so
+SPEAKER_L: Yeah, that makes that makes sense to me cool,
+SPEAKER_R: so I I love it. I I am, I've kind of been um actually I didn't go to school for programming or anything like that, I was kind of like a I remember taking an internship after college just for a couple of months and kind of got the extra programming, This is really interesting and then kind of did some self learning, self teaching and it turned from kind of a hobby into like, oh, I think I want to think when I find a job in this And so um so I I love it. It's like to me, every, every day I sit down at my computer, I have ever lost. So
+SPEAKER_L: that's great. So you can do that all virtually, Are you working from home?
+SPEAKER_R: yeah, so I I've been um remote for the last like 2.5 years, so even before Covid, which is just, I mean like I've, you know, I've done office jobs all before that and then moved to this remote job and I would never go back, you know, if if I had the choice because it's just, I think part of it is my personality to like, you know, when I can sit down and kind of a quiet house, which with Covid, you know, and everyone being home is not so quiet, but before that when I can sit down kind of a quiet house, you know, put on my music and I can just sit down and focus, like do my work, I have a blast, like I have so much fun and obviously the flexibility to of, you know, with, with little kids around, you know, if I need, oh you need to run a day care to give them, you know, this or that or I need to pick up groceries or something, I kind of have the flexibility to be able to uh flex my schedule around, which is really nice, so
+SPEAKER_L: That is great,
+SPEAKER_R: yeah, it's been it's been really, really good for our family, kind of overall, so I love
+SPEAKER_L: interesting,
+SPEAKER_R: it,
+SPEAKER_L: Good.
+SPEAKER_R: yeah, what about you, what kind of work do you do, or do you do work?
+SPEAKER_L: so I just finished my Masters in nutrition um and I was I was in massachusetts for my um for that, so I kind of am back in michigan for good now um but I still have a dietetic internship to finish before I can actually become a registered dietitian Um and so I'll be starting that at the end of September and that's like a 10 months program, It's kind of just like a medical residency where you're learning and applying all of your skills that you've learned in uh you know education and actually putting in the practice in like a hospital setting.
+SPEAKER_R: wow. Yeah, my my wife was actually, she's very interested in kind of that field in general, and she, she almost got a degree, and as I think it was a nutritionist, I don't know what the dream do is called, but she was looking into that, remember back in college. Um, so she's, she's always been really interested in that kind of stuff, but that, that's awesome. We, I mean, I guess it's kind of the cliche of like the, you know, southern California, like no vegan this, you know, like all these different whatever, but, but we, we can, we can appreciate the way, like, we can appreciate the significance of that field and just really like how much of a difference you can make when you sit down with people and work them through, you know, like I'm kind of talking to the choir here because this is what you are passionate about, but, but it just is so fascinating the way that, you know, oftentimes the idea of Eastern and Western medicine and how sometimes Western medicine can feel like it's putting a band aid on things, whereas more sustainable long term type of life changes, which oftentimes include diet and once you kind of take in really can do magic and transform a lot of different ways of people's entire life, you know, how they feel
+SPEAKER_L: That's
+SPEAKER_R: like
+SPEAKER_L: it,
+SPEAKER_R: their body and yeah.
+SPEAKER_L: yeah, that's what I love about it, I also love that, it's not an exact science and that you just really take into account you know, everything about the person when you meet them, not just you know, what's your end goal, it's also what's your lifestyle like because
+SPEAKER_R: that
+SPEAKER_L: you know, some some nutrition stuff, you know, can't be applied to everyone. So I love the individuality that goes along with that too.
+SPEAKER_R: that's cool. What made you wanna like dive into it? Get a masters kind of go the whole route. Mhm.
+SPEAKER_L: I kind of started in high school,
+SPEAKER_R: options.
+SPEAKER_L: I was a competitive swimmer and my coach was really honest, you know, like put good in, you'll get good out and so he was really, you know, stop eating those chips before practice because that's not going to help you out and um that kind of thing. So I really liked going further into
+SPEAKER_R: so
+SPEAKER_L: it in high school and learning more than, and then I got my bachelors in health and fitness. Um I don't really know if I wanted to go more and be like an athletic trainer or a personal trainer or go nutrition. I don't really know what route I wanted to go into. Uh and then kind of settled my senior year of undergrad um thinking like, okay, I really want to go into nutrition's. Then I chose a master's program that would um you know, really specialize and focus on nutrition, so that's kind of why or how I decided to go through that route. So I do have a special interest specifically in sports nutrition. Um but I think long term career wise, I'm going to focus on uh pediatric, clinical hospital nutrition. So, working with kids.
+SPEAKER_R: that's awesome. Yeah, that's, I can, I can definitely appreciate that sitting here next to my three year old and then we have, we have a actually our our daughter Chloe, she's about to be a year Um on the 16th, so she's just about to hit the one year mark. Yeah so we're you know we're in the crazy world in fact just just earlier today I was um because I like yeah the world of food is so interesting but I definitely have like an an emotional my wife are actually very different but I have a very kind of emotional relationship with food where to me when I think about even like fond memories growing up and stuff, it usually involves some sort of like you know you know my dad taking me out to like RBS or something like that you know and and so there's there's kind of this connection of me connecting positive emotions and even connection with people through food um and certain types of food and so so for my for my son from my three year old you know, a lot of times like on a weekend, um I'll take him with me at the grocery store because it's just easier, so my wife doesn't have struggled to kids and you know, we kind of divide and conquer a little bit and so I take it to the grocery store and I'm okay buddy, you know, if you're, if you're really good we can get a little tree after in a very strong whatever and so then he'll be really good and then, you know, the whole time he was like, I'm being good, do you get a treat? Like I'm doing good? You know, like he'll do the whole thing and um and then afterwards, you know, we'll swing by Mcdonald's, he loves happy meals, you know, like chicken nuggets and some milk, like he can literally list off the entire like all of the items in the happier. He's like, you know, we're going to Mcdonald's and I'm going to get a milk and I'm gonna get fries and chicken nuggets. Like you just kind of listen off. It's really cute, but it's just funny because even earlier today I was looking up, I was like, you know, because my wife and I want to have these conversations, like it's really cool and we want, we want to build these connection points with our kids. It's like that at the same time, like fries all the time and you know, you know, it's like just like these sort of things like, like how do we, how do we even now, even at a young age, how do we begin to instill in them the understanding that like, you know, getting a scoop of ice cream, like that's great. It's fun. But you know, but how do we instill in them the understanding of what it means to really like what you're saying, Like I understand, you know what, what what you're taking is what you'll get out and kind of this process of prioritizing and understand the significance of healthy eating and how it really affects. I mean I can only tell a three year old how it can affect his body, you know what he puts his mind, I can't see those sort of things, but about how do we actually begin to just say like, hey, you know, getting getting a special treat at Mcdonald's is fine, but where does that play into the overall kind of map of how they understand food in general and I
+SPEAKER_L: it
+SPEAKER_R: don't
+SPEAKER_L: can
+SPEAKER_R: know.
+SPEAKER_L: be tough,
+SPEAKER_R: So yeah, yeah.
+SPEAKER_L: it can be really tough to balance all of that. I mean, I don't have kids, but we learn all the time in our in all of our classes to not necessarily associate food with being a prize, but that's the easiest thing to do. And so you can't and you can't tell someone not to do that because it's so tough, like what else is
+SPEAKER_R: it's
+SPEAKER_L: there?
+SPEAKER_R: kind of built in, yeah.
+SPEAKER_L: You can't you can't keep giving them toys or, you know, other stuff like that, but that's kind of hard to, well, what we learn is putting, you know, what you actually learn and then actually applying into people's everyday lives. It's, that's probably one of the toughest, toughest parts. Mhm.
+SPEAKER_R: totally. What made you want to go specifically down the road, like pediatrics and kind of focusing more on the kids?
+SPEAKER_L: Um in Massachusetts, I worked at like a long-term care hospital and um with people who have been in the hospital from anywhere from 1 to 2 years to like 30 years and um working with that population was great and it was very consistent, and the same people consistently had the same issues and they were eating this thing every day. I really, it's not that I didn't like it, but I want and like those people were great, but I kind of wanted a population. Um that was changing. And so working in a hospital where people's maximum stays or maybe a week to two weeks um and so like, the people are constantly changing, You have Um there's a lot of new calculations in nutrition and everyone needs different things, so I think it's just be more fun with a higher turnover rate. Um and I think kids are at a wonderful age where you can have a lot of fun with them um and I'm sure, I mean 60 year olds are fun too, but
+SPEAKER_R: true.
+SPEAKER_L: you know, they're jokes get old after a while. I think
+SPEAKER_R: All
+SPEAKER_L: that kids are tons of fun. I taught swimming lessons for a really long time and I loved getting to know the kids and it was it was like hilarious. Kids are so funny. So
+SPEAKER_R: totally.
+SPEAKER_L: I mean, I think working with them would be just my ideal. Uh you know, we're setting having
+SPEAKER_R: that's cool.
+SPEAKER_L: having a bunch of small co workers. Mhm.
+SPEAKER_R: Yeah.
+SPEAKER_L: Mhm.
+SPEAKER_R: And and did you say that that was work that would be done in like a hospital type of setting? So
+SPEAKER_L: that
+SPEAKER_R: how
+SPEAKER_L: would be,
+SPEAKER_R: does that, Because I guess I always assumed that something like a nutritionist would be done out of like a private practice, like, you know, someone goes specifically to like a doctor's office type of thing as opposed to being in a hospital where it feels more emergency types scenario like that has that play out?
+SPEAKER_L: so um it's kind of something that is definitely the outpatient where you'd go and go to like a specific nutritionists office by them by themselves, but in the hospital setting um like say some like a 10 year old comes in cancer. And they're going to be at the hospital for a week and they're going to start going to all these tests and they have to be there and um what not. So they have a special diet that they're going to need specifically for cancer uh and for that condition. So we're going to tell the cooks you know this is what this person has to eat. And so then we also monitor how much water they take in and then their electrolytes and like you know basics protein fat and carbs. So all those things are specific For cancer for this 10 year old male for example. And then you have on the other side say someone's going in and getting a liver transplant for some reason or some other I don't know Hi Some other issues. They have type one diabetes if they are born diabetic. And so they're going to be staying in the hospital for You know four or 5 days. And so that person needs immediately. They can't just get the random what everyone gets in the hospital. So they'll get like a specialized um nutrition plan or um if someone breaks their leg they'd get something slightly different than um just someone else. So depending on how long their stays are there going to be getting different food in um Just different proportions and others and then um there's also the situation for if their digestive tract isn't working correctly or they're having surgery stomach or something along the small intestines. Um There's called feeding tubes.
+SPEAKER_R: What?
+SPEAKER_L: And so you literally put like a little um input area or like you go through like near the belly button and you go directly into the stomach. Um Or you can go um like through your nose and then like through like the nasal, through the throat, directly into the stomach. So you kind of bypassed the esophagus and you have like nutrition bags there, I don't know maybe about this big and it has like all of the food in it and it's a liquid form. And so all of those things are made by nestle makes them um I don't know all the different like food and beverage companies, they all have different formulations of different like protein carb, water fat and so it takes a lot of different calculations. Um So someone gets hooked up to a feeding tube and then it's just it just goes for them so that they're not actually eating it through
+SPEAKER_R: What?
+SPEAKER_L: their mouths. And so that's kind of more of the calculations that we do for people. Um And so that's actually pretty common for younger kids when they go into surgery and especially if they have something um that prevents them from actually ingesting food. We do a lot of calculations for that.
+SPEAKER_R: wow. Yeah, I always assumed nutritionists are kind of the route of, of being a nutritionist always meant more on the kind of coaching, like sitting down with people looking at their lifestyle doing like the food diary kind of, you know, kind of, you know, seeing people on a regular basis over the course of somewhat of a long time as opposed to what you're talking about, which is more like uh like in the hospital, very niche situations and like more turnover type. That's really fascinating. I had no idea that this like that it could even branch out that way. That's
+SPEAKER_L: Yeah and I actually
+SPEAKER_R: crazy.
+SPEAKER_L: I didn't have any idea about a lot of that either. Um and I actually prefer because I I really thought that I was going to be doing more coaching and that the same what what you just described meeting with people and I have actually done that a few times already and I don't mind doing that. They would be definitely more like on the side if I were to do kind of a private practice type thing, but I kind of like the consistency of being able to go to a hospital and helping kids um that way um and then maybe do the coaching type stuff on the side because that is fun. I do think
+SPEAKER_R: No.
+SPEAKER_L: it's fun to work with people and then help them either lose weight or manage a condition or something like that, I think it's fun to.
+SPEAKER_R: Yeah. Have you had a chance yet to actually, because I know you said you you were able to work with a demographic that a little bit older um in your past experience, have you had a chance to actually spend time working with kids in the hospital texas area?
+SPEAKER_L: not yet actually. Um at least not with anything nutrition related, I've worked with kids kind of like I said for like swimming lessons and in preschools and um babysitting and stuff, but I've never done um any sort of clinical or education work yet, so that'll be super brand new and I'm hoping I like it because my whole internship is based
+SPEAKER_R: that
+SPEAKER_L: on
+SPEAKER_R: way.
+SPEAKER_L: the kids, so yeah, I hope it
+SPEAKER_R: I
+SPEAKER_L: goes off.
+SPEAKER_R: man, I feel like I'm not, I'm honestly I'm not like hospitals and medical related things kind of freaked me out in general, but but part of me would be so like, I feel like I would, my heart would just break. Like watching these kids come in because I mean it's not that it's like like of course anyone that's in a scenario like that where it's some sort of like a medical crisis to some degree, like that's sad period. But then also, you know, seeing someone really young coming in for, you know, something like uh you know, uh important surgery that, you know, really needs to go right or cancer or something like that. Like, man, I don't, I don't know if I could come up, I'll be really hard to kind of watch that on a regular basis, I feel like, but you're tough.
+SPEAKER_L: And I've um in my masters, we took a nutrition counseling class and um just from the personal experience of my instructor, she was telling me well I guess she was telling the class but she she tried to work in pediatrics and she couldn't because she just couldn't like you're supposed to just it becomes customary and you get used to people coming in for that type of thing. But she said she just couldn't and she kept in like imagining like her sister in that situation or her brother and I just can't I can't get around it. And so that was really tough for her. So I know we'll be taught you know, some coping techniques for that thing. But I also think we're gonna be seeing so many people that we just need to remember that this isn't you know, this isn't our family member that's in that um.
+SPEAKER_R: totally. Did you find
+SPEAKER_L: And you
+SPEAKER_R: something?
+SPEAKER_L: also get to see, go ahead. Mhm.
+SPEAKER_R: go for it.
+SPEAKER_L: Uh I also like it because you get to see, especially with these one week, two weeks days you get to see the person progress so fast and it improved their condition which I think will be the bright side of it.
+SPEAKER_R: Yeah, that would be cool watching that improvement. Did you feel like it was, it was hard to see with your time with people in kind of older stage of life was like, did you ever feel like, oh man, this feels like a heavy job or this feels like a kind of heavy environment to the end, or was it not like that for you?
+SPEAKER_L: I mean I was there part time and so I mean I wasn't there every day but I did get used to like make friends with quite a few of the residents that were there. Um but sometimes it just feels I mean it is kind of sad when someone passes or like some someone who's there for 30 years and they I mean they're not doing any better and they can't leave but like sometimes family just doesn't visit as often. So you kind of feel bad for those types of people. There's there weren't a lot of happy endings I guess when you're working with an older population you know you just see the same people every day and
+SPEAKER_R: Was that part
+SPEAKER_L: their
+SPEAKER_R: of
+SPEAKER_L: life.
+SPEAKER_R: what made you want to transition to pediatrics or kind of more of that? Yeah. Yeah, that makes sense. It will be happy. Yeah, that's cool. What, what to go potentially down a controversial route. What do you think about the whole, like through your studies um, like they like Specific diets have, I guess fad diets really is what they are like the Keto, the whole 30, the paleo. Like all of these different things. Are you like, hey, these are really great. You're like, uh, you know, it's better to stick to the tried and true. Like what's, what's kind of your take on on
+SPEAKER_L: So
+SPEAKER_R: all those?
+SPEAKER_L: um I guess I
+SPEAKER_R: Well?
+SPEAKER_L: don't like any diets and most dieticians don't um
+SPEAKER_R: Okay,
+SPEAKER_L: Because when you look at all these diets and you hear tons of stories of all this amazing weight loss people had with them um a lot of times people gain it all back because like for whole 30, you have what is it like 30 rules or something that you can't You know, stray from and so people do it for a month. Typace people do whole 30 for a month and it's I mean sure I mean there's some things in there that are fine
+SPEAKER_R: What?
+SPEAKER_L: but you're also cutting out major food groups and there's a lot of restriction and so when you restrict so heavily um you end up cutting a lot of calories that way, so it's not necessarily what you are eating into, that you're not eating a whole bunch because of all these strict rules. And so when people go back to their normal eating, they gain all this weight back because they restricted so much that they ended up binging on All this ice cream and cake and pie and all these things that they were telling themselves they couldn't eat for those 30 days. Um
+SPEAKER_R: Mhm.
+SPEAKER_L: And so I think ultimately the best
+SPEAKER_R: What?
+SPEAKER_L: diet is one that, you know, you can maintain for the rest of your life. Um And I would tell someone if they're thinking about going keto,
+SPEAKER_R: Hey.
+SPEAKER_L: it's like, well, do you think you could do this for the rest of your life? Do you think you could really realistically cut out eating bread and pasta and sugar for the rest of your life? Because you can't I wouldn't recommend you doing this and
+SPEAKER_R: totally.
+SPEAKER_L: that. And so the reason why most people lose a lot of weight is because they're cutting out these major food groups and you're just not you're not eating them anymore. And so then you you want to eat them because normally they cut out the things that people end up really loving and It ends up being a cycle of, well I lost £30 with this one, but then as soon as I started and as soon as I dropped the diet, I gained £50 because I ate all those bad foods again. Mhm. So I guess when I tell people the secret
+SPEAKER_R: No.
+SPEAKER_L: to a diet or a secret to losing weight, I would say focus not on what you can eat, but what you should be eating more of. Because when you eat more like whole grains and fruits and vegetables and fiber and um you know, whole foods, so just whole fruits and things like that, you're naturally not going to have enough room for the foods that are high in calories, like chips and ice cream and pizza, not they have to cut them out, but if you make more of your plate vegetables, you're going to have less of your plate available for those uh lesser healthy foods.
+SPEAKER_R: Yeah. That makes a
+SPEAKER_L: So
+SPEAKER_R: lot of
+SPEAKER_L: that's
+SPEAKER_R: sense.
+SPEAKER_L: kind of yeah, that's kind of what I tell people as like the ideal diet is one where you're not actually dieting, it's what, you know what you can maintain long term and not get annoyed and you hate yourself for for doing.
+SPEAKER_R: Yeah. That that make, that honestly makes a lot of sense. And I, so I did like um gosh, this is probably 2.5 years ago now. Um I did a keto diet, I did it for about three months and I lost about £30. Um and and I was like and so so it was just really fascinating because I think it was for me it was really um it felt incredibly accomplishing because it was like, man, I think the biggest thing that I walked away from that experience with was like, hey this is really awesome that I lost weight, a significant amount in like a pretty quick time frame. But most of all what I really appreciate about this was I now feel confident that I have the ability and the power and the control to be able to make decisions that will affect the outcome because before it was just like, oh man, like, you know, I've kind of tried this, I've kind of tried that, but like nothing really seems to be working, like I still kind of stuck like all this sort of stuff and so then try and hedo and seeing this, I think I just felt like, I think the most significant thing was I'm like, oh I can like I can do this, like I can actually make decisions, like they can actually equal beat, like, you know, like there really is this kind of, you know, um uh that there really is this kind of a true nature to that process. And so um so true to to most people's experience with dieting in a sort of ways I gained some of it, all of it back again, some of it back and so so then it cut coming up with like, okay, so my my journey is not done, like you know, there's more I'd like to lose, there's more of kind of a repositioning that I want to do with with eating fitness, like kind of the whole world. Um And so that I found this guy on a mike Matthews, I don't know if you've heard that name at all, but he was like um he's kind of in the world of uh fitness and a little bit of nutrition. Um He's written a couple uh somewhat popular books, but that was kind of his whole thing is he was like, hey, when it comes down to it, the process of um like he's kind of like a numbers guy or like a date a guy I guess. He's like, like you know, losing weight is actually not um it's not complicated. It's just hard for some people like, you know, losing weight really or like wait, whether it's weight management, weight loss, maintaining building muscle, whatever it is, kind of whatever you're trying to do really just comes down to some basic scientific things like energy out versus energy and calls the energy balance, um energy offices energy in um you know what, what your macros are doing, what you're trying to do? Obviously he's he's very much into kind of value building and so he'll talk about a lot of different things along those lines. And so, so I really kind of started to pick up from him, some of these some of these some of these things and started to say okay, I started kind of learning a lot through him as well too. And so there are moments that I will um the moments that would be like, oh, this is frustrating. Like I really want to see myself further along in my journey or whatever it is. And, and so I'll be like, maybe I should just do keto and maybe I should just, you know, because I want to see the results. I want to actually get to the end destination in some ways at the same time. Like I've, I've really enjoyed because what I've seen, I've seen me and my wife have conversations about this all the time, but I've seen a process of actually more than just seeing the scale, you know, have some sort of momentum or you know, for forward motion, watching myself begin to build thoughts and habits and things around how I manage myself, I guess, in my world. And so I'm like, I'm I'm in the world of programming, so I like numbers, I like systems like whatever. And so what we'll do now and what I've kind of built is uh like a process of uh like, you know, every day stepping on the scale. Um you know, it goes into an app on my phone. Um and then that that I have like this big spreadsheet where I will track,
+SPEAKER_L: I bet,
+SPEAKER_R: Yeah, well I'll track every single day I'll track um like what what sort of exercising I did that day oftentimes my wife and I like to go in really long walks, so I'll kind of extras, you know what I did for the day? I'll try and track, I'm usually like 60 december, 70% of time I can do it, but I'll track every single day what taking in like what kind of food, track my food every day. Um, and then I'll track my weight every day. And so kind of looking at these metrics and having this big spreadsheet where I'm kind of, you know, daily putting them in. It's just been really cool to say, okay. Like, you know, I can very clearly see days or a week where I was just kind of threw caution to the wind and like what I wanted and whatever. Like, you know, there's just some clear data that then I see downward trends. I see moving in a direction I don't want to, but days where I'm tracking my food, I'm actually watching like, hey, I'm budgeting certain meals, like okay, if I can just eat a sandwich in this for lunch, that gives me a little bit more of my energy and for the data calories, whatever for dinner time and often times I know I can get snacky at night, so as you know, as long as I'm not eating heavy at this part and kind of can do that sort of strategy and math, um I can actually watch as that turns into something. And so it's so it's so it's cool because I feel like um in my mind, what I'm really wanting more than just like a certain weight is I'm wanting, I'm wanting a lifestyle that can support uh consistency over the long term, I guess, you know what you're saying made me think about that, so, so
+SPEAKER_L: Well
+SPEAKER_R: I don't know.
+SPEAKER_L: you're
+SPEAKER_R: So I
+SPEAKER_L: definitely sounds like you're on the right track, that's
+SPEAKER_R: and I
+SPEAKER_L: good.
+SPEAKER_R: like it, it's still, still a little battle sometimes because it's like, you know, I just love the sweet things and I love the, you know, processing sometimes. I'm like, you know, it's just just how my little heart works sometimes, but at the same time, you know, it's uh I feel like I've learned a lot, I've learned a lot of stuff kind of over there over the process, but a lot of, a lot of it I think has made me push down the path, like you're saying of like, you know, building, building a lifestyle that you can just run with the rest of your life and if it's not that then it will just end up biting you or yo yoing or whatever it is and um yeah, so all that to say, I think it's pretty cool what you're doing and yeah, that world is really significant, I think for people.
+SPEAKER_L: Um What kind of outdoor stuff do you guys do in California? Because that was kind of my yeah my main want to be in California for the summer, I feel like there's so much to do and outdoorsy stuff out there. Do you partake in all that or?
+SPEAKER_R: I mean it really depends on where you are and what you like southern California. Honestly, it's kind of hard to get outdoorsy stuff like that. I mean they have it for sure. Um but this is kind of, some of the conversations my wife and I have had around, like what? Um like, like some of the reasons why we would want to make a move to northern California has posted like in southern California because uh, some of the outdoorsy things are there? Uh huh Training how to describe it best. It can seem as if you feel manufactured. Like there's, there's, it's kind of like the pros and cons um like there's, there's definitely, you know, kind of suburbs everywhere you go in here in southern California. And so there's, there's access to like, like anything you can think of absolutely anything you think they have down here, like, you know, like you can go within like two or three miles and find the best sushi place in the world. Like you can find the best mexican food. You can find like the really nice cinema that has just a cinema. That's weird, the best movie theater that has like you know the reclining seats and they bring you food to you like that, you can order while you're watching in the movie whatever. Like they have all these different things, you know best shopping you can think of. Um and like within an hour you can get to mountains, you can get to beach, you can get ocean like there's just kind of a lot of things um but it doesn't necessarily have some of the more natural feel of like um uh and I remember like in Kentucky like white water rafting or um doing like lake stuff. Um Northern
+SPEAKER_L: Mhm.
+SPEAKER_R: California, there's a city out there called Redding that we're interested in and they have like you know 15 minute drive from the city of Reading. They have like this beautiful called Whiskeytown Lake, its like this lake set amongst like pine tree covered mountains, you know, it's like you would never find that in southern California just wouldn't, you know? And so so it depends on what kind of outdoorsy things that you want if you're like, if you're looking for um like they have parks, they have, you know, all sorts of stuff. So for us when we want to get out and do stuff, we typically will just kind of walk through our neighborhood so we'll spend like an hour outside. It's also helpful with little kids because they, you know, sometimes at home that can feel hard to manage at times. So putting them in a stroller where they're strapped in. Like they can't really go anywhere. It's kind of nice. So we'll just like, we'll just take our time and take a long walk. It's nice to my wife and I have a chance to kind of connect and talk about our day and like just kind of like spend time together and the kids aren't, you know, crawling all over us and pulling hair and were crying and all this stuff, but that's what we'll do, we'll get outside, we'll do that. And I'm not much of a runner. My dad was a huge runner, but not gonna do it. So that's kind of our way of getting outside, trying to exercise, trying to be outside and um do that sort of thing, but Yeah, Yeah, well all right,
+SPEAKER_L: Well I think we passed our 25 minutes.
+SPEAKER_R: it's like the same thing. I'm not entirely sure, I honestly I'm not entirely sure what to do next. I was assuming that it would just cut off at some point After
+SPEAKER_L: I think we
+SPEAKER_R: 25
+SPEAKER_L: just
+SPEAKER_R: minutes,
+SPEAKER_L: go back to the
+SPEAKER_R: do
+SPEAKER_L: original page.
+SPEAKER_R: we? Is there like an end session button anywhere? I don't know. No.
+SPEAKER_L: I think we just close the tab. Yeah.
+SPEAKER_R: Mhm. I didn't say that specifically. Did you read that?
+SPEAKER_L: Yeah just as return to that browser tab to continue the participation.
+SPEAKER_R: Oh, nice. Okay, cool. So, well I'm totally blanking on your name. I know we gave names the beginning. What, what was your name again?
+SPEAKER_L: It's Andrea
+SPEAKER_R: Andrew? And what was your boyfriend's there?
+SPEAKER_L: His his name's
+SPEAKER_R: Bye
+SPEAKER_L: Flynn.
+SPEAKER_R: Flynn. Cool. Well, Andrew is really is really great chatting. I was, I feel like sometimes with these things you have no idea who you're talking to, but I
+SPEAKER_L: Yeah. I had
+SPEAKER_R: liked traveling
+SPEAKER_L: time getting
+SPEAKER_R: is fun.
+SPEAKER_L: to know you too.
+SPEAKER_R: Yeah. So best of luck with your masters and and moving into nutrition. I think that's awesome. I think it's really cool. So
+SPEAKER_L: Thank you. And good luck to you as well in California and
+SPEAKER_R: what?
+SPEAKER_L: maybe a possible move. Yeah. Mhm.
+SPEAKER_R: awesome.
+SPEAKER_L: All right.
+SPEAKER_R: We'll have one for
+SPEAKER_L: Bye.
+SPEAKER_R: their
+SPEAKER_L: You do.

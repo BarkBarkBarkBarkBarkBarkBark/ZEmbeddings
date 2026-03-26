@@ -1,0 +1,213 @@
+SPEAKER_L: Mhm. Yeah. Yeah. Mm. Yeah. Yeah. Oh. Mhm.
+SPEAKER_R: mm. Mhm. Hello. It was
+SPEAKER_L: Now how much are you? Okay
+SPEAKER_R: All right.
+SPEAKER_L: what's your name?
+SPEAKER_R: Um My name's Hector.
+SPEAKER_L: My
+SPEAKER_R: I'm serious.
+SPEAKER_L: name, my name is dan, so
+SPEAKER_R: That's me.
+SPEAKER_L: are you uh generally located?
+SPEAKER_R: I'm located right now in new york. Yeah.
+SPEAKER_L: Okay, uh metropolitan area or? Okay, cool, I'm located in columbus Georgia, yeah. Quite quite a ways away from you.
+SPEAKER_R: How is that over there?
+SPEAKER_L: Uh huh. Uh And actually beautiful lot today, I live across the street from an enormous park, so we're kind of excited to be able to get out today.
+SPEAKER_R: Uh That sounds nice. It's a nice day I'm here to I live outside like a small park but I generally don't go out much nowadays.
+SPEAKER_L: yeah, I can definitely feel that. Um So I am a I'm a college professor in music. Um
+SPEAKER_R: wow.
+SPEAKER_L: and so I have actually yeah I have a lot of friends that live in new york city, so I actually go up there quite often to usually once or twice a year to come spend five days four or five days and hit the jazz clubs and play and get inspired and things like that.
+SPEAKER_R: Oh wow. Like we're in new york to usually go yeah
+SPEAKER_L: So
+SPEAKER_R: I'm bored.
+SPEAKER_L: my friends typically either live in Harlem area or in Brooklyn um and then most of the time spent closer to like the village, so places like Smalls, Jazz club med's row, uh 55 bars, stuff like that.
+SPEAKER_R: It sounds real nice. Uh huh. Um Well I used to be a web developer but now I'm a health care worker. I'm a I'm a home health care worker. Yeah
+SPEAKER_L: What are
+SPEAKER_R: it's
+SPEAKER_L: you saying? I'm staying safe, I hope.
+SPEAKER_R: Yeah I'm saying steve as far as I can tell I'm doing all right.
+SPEAKER_L: but um grateful for people like you you work with most elderly people are Mhm. Okay. Mhm. Oh
+SPEAKER_R: Um
+SPEAKER_L: cool.
+SPEAKER_R: I mean like there's not really much to say about it I suppose like um I just do my job really. Yeah.
+SPEAKER_L: so I'm actually this is kind of uh ironic, I just in the past like three weeks started going through
+SPEAKER_R: What?
+SPEAKER_L: a bunch of like curriculums for web development, particularly javascript and stuff like that. Well what kind of what kind of led you away from what development?
+SPEAKER_R: Yeah. Um I had a bad experience with an employer and I was, I was mostly trying to find myself and healthcare was something I was interested in like as well as web development and I just like sort of geared towards that and I stumbled upon a job that I currently have now, but I still really enjoy web development. I do it on the side, not not as a, as a way to earn income, but just for myself because I find it fun. Yeah.
+SPEAKER_L: What do you what do you develop them?
+SPEAKER_R: Um javascript mostly like I've used python and C sharp in the past, but I'm mostly just use javascript. No, Js.
+SPEAKER_L: Okay, so back and stuff. Really cool. Yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: I'm like super new to it. I mean when I was I have my my PhD so I spent way too much time in school
+SPEAKER_R: Griffin.
+SPEAKER_L: and when things were like, particularly dark in school, it's like, I mean, let's be real like there are only like five jobs in my field in here, maybe most like nationwide. So I got really, really lucky, but one that would get down on me, I would kind of, yeah, did my tone of um
+SPEAKER_R: But
+SPEAKER_L: computer science stuff, but for some reason it never really stuck for me. I think just because I was so anxious about eventually trying to earn a living in the field that was actually in, you know? Yeah.
+SPEAKER_R: How do you feel about how do you feel about your feel now like now it is? Mm hmm. Yeah.
+SPEAKER_L: With so with current events
+SPEAKER_R: Well,
+SPEAKER_L: definitely less optimistic I think. You know, I mean, we'll see how things pan out for fall, but we've been, you know, we switched online classes completely for the rest of the semester. And um there's definitely a lot less uh satisfaction from students and faculty and then most institutions, you know, I was job searching this year. Most institutions have gone to a hiring freeze and things like that. And a lot of them are talking about, you know, like spending freezes, budget freezes too. So I feel like post secondary education is probably going to kind of stagnant for a little bit. Um that kind of sucks. And I'm always kind of worried about, it's like most colleges, despite the fact that they have these enormous budgets and endowments that kind of like each individual departments, kind of like on a shoestring budget. So I always worry about like an enrollment has any kind of significant kind of changed. Then we might be in for a kind of a rough time. And then I definitely changed the ethos of the job too. It's like my job was kind of switch from being like, provide the best experience to my students as possible to like, all right, how can you market yourself? So more people will apply to under this school? And I'm not really, that's not really my uh
+SPEAKER_R: Yeah.
+SPEAKER_L: it's not why I got into what I can tell, you know? Yeah.
+SPEAKER_R: Yeah. I mean uh I don't really know uh I don't really know what to say to that. It sounds like a really rough time. Um but in terms of web development, are you doing it like as a as a backup or do you do you enjoy it or?
+SPEAKER_L: I definitely enjoy it. It's more for a
+SPEAKER_R: hmm.
+SPEAKER_L: couple like projects and ideas that I would just like to express myself through, you know, like kind of get that, I don't know, like I don't really like music as a career, especially in education. It's like, it is a passion of mine. So it's like I'm kind of doing my hobby and my passion as career already, but that also leads to you not really having many outside interests. Like, you know, I only have really one other hobby other than, you know, what I do for work. And I think this is kind of a development is a little bit more of a productive way to kind of develop, you know myself, if that makes sense? Yeah. And
+SPEAKER_R: Good.
+SPEAKER_L: there's also, I mean also any of the ideas that I have are kind of like focus towards music and you know my other hobby which is cycling and things like that, so it's kind of a way to kind of bring this together and stay engaged and you know if you know, god forbid
+SPEAKER_R: Yeah.
+SPEAKER_L: that what's called the entire like education, secondary or postsecondary education like
+SPEAKER_R: What?
+SPEAKER_L: world collapses in on itself and you know, maybe I'll have a head start in, you know, having a way to pivot to something new, but I'm not really counting on it, it's not like I have a timeline or anything like that.
+SPEAKER_R: Okay. Um in terms of programming, I'd be really interested like to see your style, like especially with you having a music background, I feel like everyone has their own methodology when when they come to programming and just be really interested in seeing like have you program.
+SPEAKER_L: So I have um
+SPEAKER_R: wow.
+SPEAKER_L: my three closest friends are all in tech. Um one of them works for um he's a senior developer at Apple and then there's a senior developer for his following company. And they always none of them were in the arts, although they kind of like really appreciate and enjoy the arts a lot and they always assume that people that, I mean this might be restricted to musicians, but I would assume people in the arts would from different angles. Music is like it's very almost athletic or it's a lot of just drilling and doing a lot of repetition and things like that. So I I feel like I transferred a lot of that. What's the persistence to my learning process. So I don't particularly feel like I approach things that creatively, but I definitely and what resonates like what learning resources resonate best with me are the ones that are like very detail oriented, very like all right, here is a concept and now you're going to practice this concept multiple different times and
+SPEAKER_R: No.
+SPEAKER_L: then you move on to like maybe a problem solving section. Whereas if it's more like here's the concept and now problem solved where you kind of get your learning through, I
+SPEAKER_R: All
+SPEAKER_L: don't wanna say struggling but kind of that was always like definitely frustrates me a lot more than having an in depth understanding of what I'm doing first and then moving to a problem
+SPEAKER_R: It
+SPEAKER_L: solving things. That makes sense.
+SPEAKER_R: makes sense,
+SPEAKER_L: Yeah, it's
+SPEAKER_R: like,
+SPEAKER_L: still very, very new. So like I don't know if I can even express myself with language like accurately.
+SPEAKER_R: Uh huh. What do you mean?
+SPEAKER_L: Yeah. Just in terms of, you know, like uh explaining just my experience with coding and things like that, you know?
+SPEAKER_R: Mhm. Okay. I mean like um with me, I find like the reverse to be true, Like I I really enjoyed um struggling through um my classes because um I started out taking like I went to college for electrical engineering, so um computer science was just um sort of a subset of the skills that I needed in order to graduate. And so um I didn't really think much of programming when I was in college. Um And like I really struggled in my very first class. I didn't I didn't understand anything. Uh like I would I would get right down the middle as a, as a score and so like um I took the time to just like try and understand what I was trying to wrap my head around. I struggled a lot on my own. Um I took my own time to try and understand what it is that was being taught in lessons and in labs and uh like eventually it all started clicking after after just like all right, punching my way through like the material and that's what really helps me whenever, whenever. There's something that I want to learn in terms of programming, Like I really just throw myself at first and try to understand it and eventually it just clicks um that that kind of approach I don't think is um time efficient but it really it really keeps things fresh for me and I really enjoy it.
+SPEAKER_L: Yeah. Yeah. Like for instance, um one of the curriculums I'm going through, you know, it was just, it's like the project as a to do list and basic functional buttons and text entry, you know, stuff like that And where I get kind of my most satisfaction when they present a concept. And then essentially you're supposed to apply that concept to several
+SPEAKER_R: What?
+SPEAKER_L: different functions of the code and you can go through, I can go through the resource and go step by step and
+SPEAKER_R: Probably.
+SPEAKER_L: apply that to each function of what I'm writing. But I get the most satisfaction from when I do the first maybe example or I learned the concept and then I just go and I don't go through the material. I just try to figure the rest
+SPEAKER_R: What?
+SPEAKER_L: of the applications out itself, if that makes sense. And yeah, that's, that's always really rewarding for me. Um I'm not much of a like for instance, um what was I was really struggling with something lately actually may still haven't pulled up. Mm Yeah.
+SPEAKER_R: Mhm.
+SPEAKER_L: Yeah, it was just something simple. Like just they had a couple example loops of four loops that you're supposed to change to wild loops and that was, I can't exactly remember why I found it so frustrating, but I remember just like that was the end of my rope for the evening one time. Um just because I didn't feel like there were because I didn't, I wasn't able to look at any examples of wild loops in the material, they just kind of presented like all right, this is what a wild does. And then they give you some pseudo code of like this house constructed and that's, you know, that's it. And then the problems that they have of converting four loops to wild loops didn't have many of the, as it didn't obviously, or I didn't at first seemed to me like it had all the aspects for all the information I needed and that was a struggle until I kind of went to a couple different resources and research that concept more, if that makes sense. Yeah.
+SPEAKER_R: Yeah. Um What what sort of material are you using to help you along? Mhm.
+SPEAKER_L: so the,
+SPEAKER_R: No.
+SPEAKER_L: the main kind of pathway that I started on was called the Odin project. I don't know if you're familiar with that.
+SPEAKER_R: I have. Um is that with python primarily?
+SPEAKER_L: Uh it started off as a ruby on rails curriculum and then they released kind of a javascript in no Js um
+SPEAKER_R: Yeah. Okay.
+SPEAKER_L: path, I don't know, maybe a year or two ago. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: and then most of the resources they have are like, you know, Mozilla developers, developers, network job script. I'm so things like that. And then I've also been following along with uh huh
+SPEAKER_R: Okay.
+SPEAKER_L: So it's a very like thorough,
+SPEAKER_R: Quickly.
+SPEAKER_L: basic javascript resource called just watching code, just one guy and videos and examples. And that's really clicked with me for the fundamentalist. Just because it's um you get into a lot more of why things work rather than just here's the concept, you know, I like understand why a lot and I get to kind of get the vibe of, it's like my music study where I've always studied with like one person, you know and that's kind of like the just the vibe I get from that resource to. I really enjoyed that one. That's that's something I when I got frustrated I it was just researching other resources like alright where can I learn more about this concept? And that one came up pretty often. I read it. Mhm.
+SPEAKER_R: Some pretty cool. Um He said it was called just watching code. Yeah.
+SPEAKER_L: watching code. Yeah.
+SPEAKER_R: Yeah. It sounds cool. Like I'll check it out
+SPEAKER_L: Yeah, I mean it's it's very rudimentary um but
+SPEAKER_R: because.
+SPEAKER_L: it's been really rewarding for me like you know just even understanding stuff like objects and properties and methods um
+SPEAKER_R: Excuse
+SPEAKER_L: that weren't
+SPEAKER_R: me.
+SPEAKER_L: introduced yet and the other resources but you were seeing but some of the examples would have that
+SPEAKER_R: No.
+SPEAKER_L: those concepts within them it's like well no I just don't pay attention to that. You know you don't need to know anything about. That's like well I kind of do want to know about because if I like one thing when I was going through like all right I'm trying to understand this. Let me go through like the d bugger and just like step through every what's going on. Um The cycle we're stepping through this and I can see what's going on but I haven't learned about it yet and that's kind of frustrating that um I don't really like I can see how it's working but I don't really know how to explain it to myself. And I'm also really
+SPEAKER_R: Yeah.
+SPEAKER_L: it's also really helpful for me to um like look at examples or look at code and then like I'll just create another copy of it and then just comment through it and just like describe every line. That's always really helpful for me. It's kind of like one of those music brute force skills or it's like just do this over and over and over again and like just really dig into it and then I'll feel a lot more comfortable with it if that makes sense. Yeah.
+SPEAKER_R: Yeah. I really like the approach you say. It
+SPEAKER_L: Look,
+SPEAKER_R: sounds really sounds really cool.
+SPEAKER_L: I appreciate that about a lot. Um So what do you do outside of your career
+SPEAKER_R: Hi.
+SPEAKER_L: and coding and things like that? Any other hobbies?
+SPEAKER_R: Um I like to read, I liked a game and I like to play trivia. Um Like recently my friends have taken to like watching a movie a week. That's that's pretty fun. Yeah. Yeah.
+SPEAKER_L: particular movies like are they? I'm not a big movie guy, but I can appreciate the concept of like movies is cultural products and like and you know what I mean? Like is there any particular appreciation or is it just like what's my
+SPEAKER_R: it's
+SPEAKER_L: goal?
+SPEAKER_R: it's mostly just everybody picks out a movie for a weekend. Um It's mostly um for for entertainment, it's not it's not like anything hard to swallow. It's just, hey, this is a cool movie I watched some time ago. Um Let's all watch it together or uh this is this is a movie that I've been meaning to watch and and it seems interesting. Do do you all want to watch it? Sure why not like uh this week we're gonna watch on Shawshank Redemption? Yeah.
+SPEAKER_L: that means like good movies I mean? Not to say like, you know what I mean? But like there's some right, there's a high level of interest, if that makes sense. Yeah, I think my
+SPEAKER_R: We want to be
+SPEAKER_L: I just
+SPEAKER_R: with.
+SPEAKER_L: have like a set time limit that I can sometimes like dedicate to a certain task and that's kind of like around an hour. So that makes it kind of frustrating for me to watch watch movies sometimes. Um I think my body is just so used to like sitting in a practice room for like one out of 60 minutes or 55 minutes and then have to go do something else. So it's like my internal clock after 60 minutes. Like all right, I'm gonna go do something else. Uh huh.
+SPEAKER_R: So you don't really watch movies much?
+SPEAKER_L: No, not really. Um
+SPEAKER_R: All right.
+SPEAKER_L: If I if it's any kind of media it's um any kind of serial
+SPEAKER_R: You
+SPEAKER_L: television,
+SPEAKER_R: did
+SPEAKER_L: things like that. Uh Yeah, that probably also cements that that nature of like all right, just consume this one thing, wow.
+SPEAKER_R: huh.
+SPEAKER_L: I do. So I'm a I really
+SPEAKER_R: So,
+SPEAKER_L: enjoy bike racing and cycling a lot and you know, actually a lot of my family of physicians and they were very adamant about like doubt ride your bike outside for a while, just not necessarily because of your own public safety, but just the fact that you don't want to get into an accident and just be that one guy that like we get all the time. It worked at work where we have to fix the guy that like rep resentful because he was doing some like ultra marathon something and you know that takes up other resources. So I've been riding indoors on like a a smart bike trainer, which is really cool and surprisingly enjoyable, so if I do anything longer, like that's one situation where I'm kind of fixed in one position for longer than an hour sometimes. So I have taken up a couple of like movies, I did watch through quite a few, like the the marvel's Avenger series that way stuff, I would never have been able to probably sit down and watch on my own or sit down and watch them like a theater or like on a couch or something like that, but since I'm already kind of in one position already it was kind of uh they're actually really enjoyable. Yeah.
+SPEAKER_R: Mhm. Mhm. Um What
+SPEAKER_L: Bottom.
+SPEAKER_R: have you watched so far? Mhm. Mhm.
+SPEAKER_L: I think I covered almost all of them in release order, but maybe there's a I just I think I looked up a list of just which Avengers movies do you need to watch, ticket through the entire like, you know, to get the understanding of the actual franchise and be able to watch the Avengers movies. I think that I got into that because what, that was Endgames lot, was that the last one?
+SPEAKER_R: It was the last big one, but they released the spiderman will be a bit after.
+SPEAKER_L: Yeah, I've seen the most recent Spider Man one. I think it was around kind of felt like that the gravity to to watch them when in game came out because it's just such a cultural phenomenon, you know, it's like so much content was being created about that. So I felt like well if I am gonna be riding inside maybe I should just learn to to understand what this is about. It's there, that was a big fan. Yeah.
+SPEAKER_R: Mhm,
+SPEAKER_L: Uh huh
+SPEAKER_R: mm hmm. All right. Have you ever played trivia? Mhm.
+SPEAKER_L: I used to while
+SPEAKER_R: What?
+SPEAKER_L: I was on like my my schools like trivia, I don't know what we like quiz bowl team, Um Like the one with the folks that went on public access television, our local PBS station. Um Yeah, I actually really miss that. But are the columbus Georgia like bar trivia scene isn't really that happening? And yeah, when I was in my college town so it was a little bit easier to do as an activity. Yeah,
+SPEAKER_R: Yeah,
+SPEAKER_L: so I kind of what I do it, I do miss it every time I have other friends that tell
+SPEAKER_R: Thanks.
+SPEAKER_L: me about their kind of like our trivia or like nerds who drink, or geeks who drink whatever
+SPEAKER_R: What?
+SPEAKER_L: it is, that kind of stuff. Um Activities I get pretty nostalgic. Are
+SPEAKER_R: they're
+SPEAKER_L: you?
+SPEAKER_R: like, yeah, I'm sorry.
+SPEAKER_L: Oh go ahead.
+SPEAKER_R: Uh nowadays they're like um since people don't, well at least in, in the city, I don't know about other states um uh since there are as many people going out to bars, there are a lot of teleconferencing sort of events for trivia, like on facebook and on zoom if, if that's something you're interested in and geeks who drink, actually do a collaboration with a, with a phone app, if there's something you're interested in as well.
+SPEAKER_L: Okay. Is it is that well as the geeks who drink one like social base? Like are you are you able to communicate with other people on a team or?
+SPEAKER_R: Unfortunately. No, like it's, it's an, it's an individual sort of game and and it's just on your phone at last like 13 questions and it's sort of like HQ if you've played that, it's just like back and forth, they give you some material and then they'll ask you a question and then they'll ask you for an input and then back and forth for for 13 questions. Yeah.
+SPEAKER_L: I always, have you done that while, I'm assuming you have, since we've all been inside for 16, 60 days now. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: Are there
+SPEAKER_R: What?
+SPEAKER_L: any of the zoom ones with the social media ones? Like there's also a team based or?
+SPEAKER_R: Um Some are like I've seen some on twitch that our team based like um you'll you'll either have a team formed up or you can play by yourself if you want to and and you submit your answers to a google doc uh together as a team. Yeah.
+SPEAKER_L: that makes sense. I was kind of wondering like maybe you could have
+SPEAKER_R: Stop.
+SPEAKER_L: a team discord channel where you can like,
+SPEAKER_R: No.
+SPEAKER_L: discuss and then have maybe like a an open discord channel for like so many answers or like, you know, team or like having a team representative, one person in that channel or something like that. Not going to be pretty interesting.
+SPEAKER_R: It sounds plausible and I've been really interested to see something like that.
+SPEAKER_L: Do you uh do any, like, I mean, obviously before we were like shut in. Uh did you do any music
+SPEAKER_R: Now.
+SPEAKER_L: or arts or anything like that? Did you? Not necessarily as a participant, but it's like a having consumer.
+SPEAKER_R: mm. Not really, no. I took a music course in school. Um but that's pretty much the extent to my exposure to music and the arts. Um uh I don't I didn't really go to concerts much, like I haven't haven't really been to a concert in my entire life. I went to a free concert once for Shaggy, but other than that I haven't really been to the concert. I really liked plays though. I didn't go to many places, but before all this I went to a off broadway play about a a Syrian refugee that that was trying to um find her own place in the world.
+SPEAKER_L: Do you do you remember the title of that?
+SPEAKER_R: Mhm. Um I don't sorry? Um I think it was called The Strip. It might have been called The Strip. Yeah.
+SPEAKER_L: the college that I teach at his, you know, small liberal arts college, so um I interact like you know we're not just uh self sufficient music program, it's like we're under the umbrella of a fine arts program. So I interact with um the theater and the jars people a lot.
+SPEAKER_R: No.
+SPEAKER_L: And theatre has been solution that like I have a friend of mine actually in new york. Um is it the curator for the National Jazz Museum? Um He is very passionate about Shakespeare and about theater in general and he always talks about the parallels between that and music, especially jazz and it's just been something that I can definitely see, but I've never had the drive to really pursue. And then I get really somewhat embarrassed about when I talk to my colleagues in theater about it because there they just, I think seem a lot more willing to go and experience. For instance, like music more than I am willing or go out and experience like theater and that's something I really without kind of like recommendations. I always feel kind of uh below water trying to, to figure out what I appreciate or what I like. Yeah.
+SPEAKER_R: I would just say go for anything that seems interesting.
+SPEAKER_L: Yeah. Yeah. I really wish there was, that's kind of what I miss about being closer to it. Well, Atlanta is actually not that far away, usually play in Atlanta almost every weekend, but it's like a 4.5 away or so. And that's actually about the community. Some of my friends from Brooklyn make the
+SPEAKER_R: What
+SPEAKER_L: play, that play in Manhattan. Yeah. Or like if they're out in queens or whatever. Um so I guess it's not really that I really have no excuse, that should be, should be going up to Atlanta more often to, to do stuff like that.
+SPEAKER_R: I don't think it's a shit. It's more of if you want to do it there's no requirement to do it or not it's really all up to you.
+SPEAKER_L: Yeah, I think my perspective is that um if I have an interest in it, I don't really have any excuse to not at least try to develop or like try to experience it to see if that interest is genuine or not, you know what I mean? I shouldn't make excuses, like, oh, it's so far away, like I just don't go there, it's just, it's so inconvenient, so far away, it's like, well,
+SPEAKER_R: all
+SPEAKER_L: it's really not that inconvenient and it's really only one evening's worth of your time and a little bit of costs just to drive up there and back. It's really, it might be really worth it. It is something that you end up being really passionate about. Mhm
+SPEAKER_R: Mhm.
+SPEAKER_L: Well, I think we're at a 25 minute fish timeline. It's like we're there's no time around here, but I think it was about to wrestle.
+SPEAKER_R: it's okay. Um Yeah I think we passed 25 minutes like it's been at least close to 30 minutes.
+SPEAKER_L: Yeah, but this is really pleasant experience. Uh
+SPEAKER_R: Yeah.
+SPEAKER_L: huh. Mhm. I hope you stay sane and healthy and
+SPEAKER_R: I
+SPEAKER_L: all that black
+SPEAKER_R: don't know if you said sane or safe. Yeah.
+SPEAKER_L: I know. I I got I have my days of being all star crazy stuff in china. Yeah. Uh huh.
+SPEAKER_R: hope you say sane and safe.
+SPEAKER_L: All right. It was a pleasure meeting you.
+SPEAKER_R: Yeah. Likewise take
+SPEAKER_L: All
+SPEAKER_R: care.
+SPEAKER_L: right. Take care.

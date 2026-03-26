@@ -1,0 +1,170 @@
+SPEAKER_L: Yeah. What? Yeah. Yeah. Okay. Right. Hey how's it going?
+SPEAKER_R: I'm doing good. There we go. Because I was waiting for a bit um It took me a bit to connect. Sorry.
+SPEAKER_L: Oh that's okay. I just nowadays don't expect people to show up because it's happened a few times but
+SPEAKER_R: it happened
+SPEAKER_L: what?
+SPEAKER_R: to me as well happen three times so far. Ah
+SPEAKER_L: Okay. It
+SPEAKER_R: Yeah.
+SPEAKER_L: happened.
+SPEAKER_R: What region are you from or at?
+SPEAKER_L: Um I'm in colorado right now. Where are you from?
+SPEAKER_R: I'm all the way in the east coast of Virginia.
+SPEAKER_L: Very nice. How are things over there?
+SPEAKER_R: Um College wise, it's a mess. It's like, I think you're in college too, are you in college? And
+SPEAKER_L: No I live in a college town but I'm past college now
+SPEAKER_R: so what was your major?
+SPEAKER_L: computer science.
+SPEAKER_R: Really? Okay. Wait, which concentration?
+SPEAKER_L: Um We don't pick any concentrations, it was just general but like software
+SPEAKER_R: Okay. Okay. So that's actually pretty cool. Your CS major? Imagine I. T. Major and a double major I. T. And music performance or pedagogy.
+SPEAKER_L: Oh very different, very different. Yeah.
+SPEAKER_R: Yeah, but still I. T. And CS. Huh? So what Cody languages did you work on? A colorado?
+SPEAKER_L: Um So I was in school until junior year and then I had to stop for health problems, so my coding is very rusty. Um I think my sms we did a lot of C. Plus plus um And I just kind of started up again and I'm trying to learn python which so far no compared to C. And C. Plus plus, but have you ever done coding or?
+SPEAKER_R: Yeah. Actually already. So was the last semester. So let's spring semester we worked on html and parts of python. Whereas in the summer there I took a class entirely dedicated to python. So I have python now. But this semester I'm taking java. Which is a pain in my ass. I hate java. Yes
+SPEAKER_L: I liked it but it's also been several years since I've used it.
+SPEAKER_R: I see. Yeah because it's like the reason why I hate it is it because it is difficult. But the reason why is because like since is online and R. G. T. A. So uh at school I go to GM. You. It's a really well known school. The engineering department divulging it. It's really one of the east coast throughout the country. So that's why it's really difficult to pass. And the G. T. A. S. Are almost everyone, the department's foreign. They're all from china, you know china Korea or India, the big retek people or the big three tech countries. So they all know their stuff. But the problem is is because it's the reason I bring that up is because it's covid right now they're all back over there so they hold office hours at like the strangest times like one or two a.m. Some of them or it's like 11 p.m. Maybe for lucky 10 p.m. But it's like really early for them or really late.
+SPEAKER_L: Yeah that's unfortunate because I wouldn't want them to be up at odd hours just to hold office hours. But at the same time if they're working for a school in the US it might be a little easier to just go buy us times instead of having them at one in the morning. Us times.
+SPEAKER_R: but I can't understand because I know for I think the korean G. T. A. We have I forgot her name but I think like what is it like when it when she because she holds office I was like one a.m. Or two. I am. I think that's like 12 or like three p.m. For her. I don't know which one it is but I know that's kind of like daylight hours for her whereas for us it's like dead middle of night and like I understand at the same time it's like we're only going off lectures. Also your camera turned off it kind of died.
+SPEAKER_L: my camera turned off
+SPEAKER_R: Yeah because it's
+SPEAKER_L: I
+SPEAKER_R: just like,
+SPEAKER_L: don't know it takes six. I see it on mine.
+SPEAKER_R: oh that's fine, that's fine. But it's like how to put it. Um it's, I understand why they do it, but like at the same time we really need help because like almost all of us, especially like the best analogy I can bring up to describe how all of us are feeling right now in the CS department is we feel like, you know, I feel like you've ever seen a photo of a dog with its own leash in his mouth and just walking itself. That's how I feel like
+SPEAKER_L: and when I was going it was all we were holding
+SPEAKER_R: drink.
+SPEAKER_L: each other's leash is trying to keep each other up. It was rough stuff.
+SPEAKER_R: I mean during the semester it was easier. Like went before covid, it was like to put it, it was like yeah, much more easier because the difference is like, now we have a ton of questions but he can only answer so much because you know, no one really goes to his office hours because everyone in his classes in America, I'm pretty sure. And like that and also like just in general, again, he can't answer most questions. The presentation he had like the recorded ones, they're not really good in a sense because if he was able to release, because I know every siesta in the CS department, they record every lecture at least the big classes like C plus plus, java python. The rest, they record every lecture in person and they always have an archive. That's why if he released like multiple archive recordings of, you know, the lectures, people asking questions, whatever, we'd be much better off because it's like just Henry the power point and maybe adding some stuff. You know, like 10% of what we would get if it was in person because all of us asked a ton of questions. And the lab especially like the lab people, the GTs, they were I miss them so much at first I hated them because I was like oh my God this is a pain in my ass. But I miss them. Their God. Sounds like a
+SPEAKER_L: I don't know the to is really I would have failed many projects if it weren't for T. A. S. Because I don't, yeah
+SPEAKER_R: How's
+SPEAKER_L: go ahead
+SPEAKER_R: it going? Uh
+SPEAKER_L: and
+SPEAKER_R: Like
+SPEAKER_L: that. Yeah
+SPEAKER_R: I don't mean roughly sorry but like the G.
+SPEAKER_L: you're
+SPEAKER_R: T.
+SPEAKER_L: good.
+SPEAKER_R: A. S. And the T. V. S. Like yeah they were really like I would have failed multiple projects without them because like they were they weren't leaned so some of them aren't leaning. I know some of them are like really stuck up but even the ones are stuck up, they'll help you. That's you know, they will help you to the point where it's borderline violated the honor code. You I think you have that to the honor code. Yes. That's why I love. They help you a lot and they don't just help me give you the answer to help you understand it. And they can give you some example code you read off of that because that's the most important thing. Example code. But like it's example call that led to the assignment. Not in general because we have a ton of example code, but it's like different modules and you think different systems like scanners or whatever or like we're working right now on double parallel and double arrays on java. And you don't have a single example code for that because that's our assignment this week. That's doing sunday. All we have is like what is it? It's just single arrays. That's the only example code we have in the textbook to it doesn't really the textbooks meant to be supplemented with lectures and in person, not just the textbook itself.
+SPEAKER_L: Yeah I've I've had a few professors like that. They
+SPEAKER_R: And
+SPEAKER_L: don't provide any material for you to learn from. They expect you to just code and then magically come upon answers or something. But I mean I'm sure you stack overflow a decent bit or
+SPEAKER_R: so
+SPEAKER_L: have you not really used it much?
+SPEAKER_R: No, because so the honor code at GMU it's scary. It's actually obnoxiously scary. So I use stack overflow and sometimes like other sites that get hub or other form sites just reference. But like I have to be really careful because so the way our system, so I think it's the same thing for your place but are places like uh it's notorious and the East Coast were being really strict. Um So for each chapter, like let's say, we're like, what is it started out with Java? I think, you know what textbook I'm talking about that the basic one. Um If we're, so let's say we're starting with that one and our assignment or are reading for that week along with the assignment is everything up until chapter six. And like for example, chapter six is just a raise. Introduction of a raise if we go beyond that. Like if we even like try to add parallel raised by accident or even if we use another method that's not in the text book at all, we get on our coded we can fill the class,
+SPEAKER_L: That makes no sense to me whatsoever.
+SPEAKER_R: it's retarded. Honestly
+SPEAKER_L: We we
+SPEAKER_R: I don't like using that word, it's just retarded,
+SPEAKER_L: yeah we do not have anything that strict. Um ours is more about um copying from other students which was a big problem honestly. Um And like in one class specifically the teacher wouldn't answer any questions. The tas were they had their mouth sewn shut by this professor. They weren't allowed to do anything. But man, if you aren't even allowed to add anything that's not in the textbook, how are you expected to learn?
+SPEAKER_R: So it makes sense if it was in person because in person the T. A. S. Or the G. T. A. S. Those you know the gods sense they would help us. The problem is is now we have a textbook and a really shitty lecture every week that's recorded like I don't even know what it was recorded, that's the problem. So um it's just useless in a sense it doesn't help us at all. That's that's what I really hate. So like um most of us are on the borderline of honor code violation because we have we have no choice but to google at this point and use other examples because even then um yeah so if we go ahead in the textbook we can pretty much if you don't use a method that's covered in that chapter
+SPEAKER_L: Time.
+SPEAKER_R: of the week and previous we get on our coded and if you use more advanced methods to that's covered later on in the book, like if its chapter 11 or whatever like using double a raise or whatever. Even modules if you if you haven't covered modules and you use modules you can get a zero on the assignment even though it is perfectly fine because you have to they want to keep the playing field even which I guess makes sense. But only in person if it's online they should just remove that.
+SPEAKER_L: Yeah. Well that sounds rough. I'm really happy that I'm not in school right now. I think everybody is having problems with it. It's definitely
+SPEAKER_R: Isn't
+SPEAKER_L: not ideal.
+SPEAKER_R: it's a nightmare. Yeah because like I compared to like the last I. T. Class like in the spring, even though it was html wasn't that hard in parts of python. I I spent significantly less time than I am now. Like for example, now I spend like what at the dedicate like friday saturday and sunday just decoding and I can Not practicing for like three are two hours maybe at most for three hours. And we're practicing and try to balance that with coding. And compared to last semester in the spring semester, it was like what? I could spend like two hours, not even an hour spent any time outside the lab because lab was two hours every week and we would get the assignment done right then and there because they would
+SPEAKER_L: man.
+SPEAKER_R: help us.
+SPEAKER_L: That's amazing. I wish I ever had that. Mhm.
+SPEAKER_R: Yeah, because it's kinda like a double edged sword. It's really like our engineering department really funded. We have a ton of companies like Lockheed martin Micro and the big ones around here, they found us like they just throw money at us and say do whatever you want with it. But when it's online they don't really care because the person they really do. But online that's a problem. Like, you know, all these different, it makes sense because they're not really, they don't live in America. They all live there. All visitors not visited there on these work visas because I know they're all from different countries. Almost everyone is from a different country. They're not I think there's only like three or four white professors that's it. Everyone else china India. And it makes sense because they really know their stuff but type lecture hours to mess or you know office officers.
+SPEAKER_L: But yeah, I mean if even if there's like a 12 hour difference, I feel like they could find some time. That's not ridiculous for one of the parties. Although I assume all these people have gotten other jobs going back home so maybe they can't. But man,
+SPEAKER_R: And
+SPEAKER_L: Yeah, sticky situation.
+SPEAKER_R: yeah, no one really, no one really likes it right now because everyone's suffering, it's really bad. And like mhm. If they were in America would be fine just because the time would line up but since they're not almost everyone isn't. So that's where like it's it's a mess I understand getting them from over there specifically because you know those countries are really well known especially the tech industry but online is different but yeah for music it's ok because it's online anyway like it works luckily I'm not in like I feel bad for the dance majors. There's really screwed over. Oh my god
+SPEAKER_L: Oh yeah. Where are they supposed to go? They can't really practice anywhere if they're in an apartment.
+SPEAKER_R: because like they have to have like a really big space. It's that's how I feel bad for them. Um That's pretty much like music wise it's find a lot of competitions were cancer. A lot of festivals are supposed to attend in the summer were cancelled so that's why I was like whatever but like it's not that bad compared to like I. T. And the dance department. But for you then are you planning you're planning to go back to school or you were in school?
+SPEAKER_L: Yeah. No. So I got to my junior year and I had to leave in 2016. I had ankle problems and was using a wheelchair and I started having risk problems and I couldn't use a computer anymore and you can't do computer science in that kind of situation. So I had to quit and I've gotten a lot better like I can use a computer now as you can tell. So I'm trying to teach myself to code again and remember, but I don't want to go back to school until I can do it without a wheelchair because I went my last year in school in a wheelchair and in colorado when it snows and you're trying to like scoot across campus, it sucked so much. It was it was awful. So um honestly I'm hoping in like the next five years I'll get back. Um Yeah, it's kind of just a crapshoot though. But that is the end goal just to get back and get finished, get a software job that
+SPEAKER_R: well definitely that's that's a really good goal. That definitely makes sense. But like yeah I can imagine that when it's not especially those ice and in a wheelchair to that's like the biggest problem you could ever have.
+SPEAKER_L: Yeah, I was very few. It's cold. But yeah, not ideal. I don't really want to even try to finish school right now despite the wheelchair stuff because if I'm doing it all online and then I graduate but I still can't drive to a job, no workplace because I can't drive right now. I'm what's the point
+SPEAKER_R: I think.
+SPEAKER_L: of graduating and racking up all that debt if I can't secure a job immediately after. So I'm going to go back as soon as I know I can work at a regular job like eight hours a day but until then like I'm not going to rack up any fees.
+SPEAKER_R: Yeah I can yeah I can definitely see that beginning that becoming a problem. And even though right now it makes sense because a lot of I. T. Companies like I know for example Lockheed martin and Micro and even like the mid and lower to your I. T. Companies they're mostly online workplaces now. So like pretty much like you work from your home they have everything supplied but then I don't know how long they're going to keep that up. They're probably gonna keep it up for a long time because anyway they actually found it's more efficient because you know, instead of like wasting electricity in their own facility, they can save a lot of costs. But it also depends on what your position is. But I don't know that's going to keep up. But like
+SPEAKER_L: I
+SPEAKER_R: yeah, it's
+SPEAKER_L: don't
+SPEAKER_R: always
+SPEAKER_L: know
+SPEAKER_R: good
+SPEAKER_L: either.
+SPEAKER_R: to have that. Like it's always good to prepare just in case because anyway, I think you have to go in person with the interview anyway and that's going to be like, they're not gonna like that which sucks. And I'm really not
+SPEAKER_L: No
+SPEAKER_R: gonna like
+SPEAKER_L: like my last semester I went to a job fair on campus and talked to a few people and one person was really interested. They wanted to schedule me for an interview. They're like can you drive 3.5 hours to the city and then it will be a five hour long interview and then you can go back. I'm like well I don't really know if anyone wants to drive me that far and then hang out for like eight hours of the day just waiting for me to interview. So and I mean everyone I talked to was like that. So even just the interview and you're right. Like I don't know how long remote positions are going to last. Like if they decide you can't be remote any longer, you have to come into the office. Okay. Well no
+SPEAKER_R: great.
+SPEAKER_L: job then. I guess so. Yeah,
+SPEAKER_R: I understand. But like with your ankle thing, So then, was it, was it something related like the tendons of the bone?
+SPEAKER_L: his tendons. So it was tendonitis is what it got diagnosed as. But then it was like all my tendons around one ankle and then it was the other ankle to eventually. And that's really not normal for
+SPEAKER_R: based
+SPEAKER_L: just
+SPEAKER_R: on
+SPEAKER_L: tendonitis.
+SPEAKER_R: United. That's something else. Yeah.
+SPEAKER_L: And
+SPEAKER_R: Because I'm really yeah, it's gone.
+SPEAKER_L: Um man. And it's been like five years since that started and then it spread to both wrists, which is weird also. And then I have like migraines and I pain which I've never really thought about eye pain before. And so I went to like a dozen specialists to try and figure out what it was. And no one ever gave me an answer. Every doctor's like, who knows? Just put ice on it. Take ibuprofen. Like that's
+SPEAKER_R: Thanks.
+SPEAKER_L: going to get me out of the wheelchair for sure. But yeah, we never figured it out. And at this point I think it's just a pain condition and there's nothing structurally wrong with my tendons and it's just like the nerves are sending pain signals because they're confused.
+SPEAKER_R: I mean, so I don't exactly know because like, I'm really well experienced with like 10 and nine is physical therapy because like, so I have a condition, I think you might have it too, judging by the length of your hands. It's called hyper mobile ethics Danlos syndrome.
+SPEAKER_L: Taylor Daniels.
+SPEAKER_R: You have long fingers. You heard of that? Right? Hyper mobile especially.
+SPEAKER_L: Mm I'm not hyper mobile at all. Like if you can tell that's pretty normal.
+SPEAKER_R: okay. Okay. Because one of the, one of the symptoms is like, ma, what is it longer than normal fingers? And especially arms because my arms are like 1.71 point eight and the normal 1.5 or six. So
+SPEAKER_L: Dude,
+SPEAKER_R: that's
+SPEAKER_L: I
+SPEAKER_R: why.
+SPEAKER_L: have I have like little t rex arms, I'd show you if I could, but they're they're not longer.
+SPEAKER_R: Okay, never mind. But I don't know that probably, I don't know. That's strange because like, I have that hyper mobile ethics standards so every joint can dislocate. I will and I can force it to. So when I was doing music, especially like going up to college, I got injured like four times because I was practicing like seven hours a day and
+SPEAKER_L: Judgment.
+SPEAKER_R: I got injured on my left wrist, my right wrist, my back and I forgot what other place, my my left shoulder right over here. It pretty much was I was a mess and it was inflamed tendons. But like what I had to do to circumvent that was I had to like what is it? I have to work out specifically just like the tendons. That special exercises. Because since I'm so flexible exercises don't work for me, they actually detriment most exercises I have to do like specialized, really focused, even stretches. I can't do yoga. I have to
+SPEAKER_L: I
+SPEAKER_R: do
+SPEAKER_L: bet
+SPEAKER_R: my
+SPEAKER_L: stretches
+SPEAKER_R: own.
+SPEAKER_L: would make it worse.
+SPEAKER_R: Yeah. So that's why I like I always have to like, like work at least my wrists once a day and like, more like multiple times now. What is it, like six times a week or five times. But generally to keep it up. And like, I haven't been able to do anything recent because I've been so busy with school, so already started get injured a bit. But like, maybe that was the case for you as well. Maybe you just have really sensitive tendons because I could be a case
+SPEAKER_L: I thought about that for a long time. Like I went to specialist, There's a thing called psoriatic arthritis which can affect tendons. And I looked at every disease, but I've also had every blood test and just the fact that like maybe I did have tendonitis in my ankles and then my brain just decided to go into pain mode and create pain other places, so maybe my ankles actually have a structural problem. But everything else I've mostly been able to take care of with like cognitive behavioral therapy, which it's really annoying because it's hard to do. And it's frustrating because you know, you can't just take a pill and make it go away. You have to do mental exercises and so it's
+SPEAKER_R: phones.
+SPEAKER_L: a really really stupid thing. But I like there's dan look for sure, I don't think I've got, I'm pretty sure I had the genetic test for it, I got the evidence. Yeah.
+SPEAKER_R: is that the idea? Was it a blood genetic test? It was a measurement.
+SPEAKER_L: Um I guess blood, what do you mean by measurement?
+SPEAKER_R: So actually, for fs Danlos helper mobile, that's the one that's um what is it? So also there is a lot of specialists don't really know what that is. Is because that's only been discovered recently. Because especially the work for people, like why are they quitting so early? You know, getting injured so early. And they figure out, oh, it's hypermobility and they find out some of them like Yes, sir and few of them have hyper mobile phones, Danlos syndrome and even fewer have the highest degree and I have the highest degree possible. So I fit every category. So they didn't do a blood test on me. They had to do measurements as a measure of my arm span compared to my height. They had to measure my finger span, my um the span of my hand, everything else my joints and collapses to take all that to account. And it's like measure how far I can go with my shoulders, all of that. And then they were like, oh you have the highest degree. I'm like, oh crap, that makes sense. So I can see that. But it's only been like focused on recently because the really new physical therapist, like our generation physical therapists, the our our age group they know about it because now the covering because it's a really big problem.
+SPEAKER_L: Yeah and um most doctors I talked to, they did test me for like the hypermobility. Um But they weren't familiar with any of
+SPEAKER_R: What?
+SPEAKER_L: the variants that aren't like hyper mobile because I know it is a kind of recent thing where you just um gosh it's not collagen or is it collagen? There's like three types of collagen in one type. If it's deformed it makes you hyper mobile. And the other type can just cause brittleness or pain issues. Um
+SPEAKER_R: I know you're talking about. I forget what it is. But it's like yeah, it's related to like structural integrity and elasticity. That's one of them is the one the one I have them. I don't know what I have a diagnosis somewhere I said which one? But the one that's in control of like keeping the joints in place because it's a mesh don't want to control places extremely loose. It's like pretty much like barely there.
+SPEAKER_L: Yeah, I think it might be talking out of my butt, but I feel like that's type three or something and then there's a type four where you're not hyper mobile at all but your tendons are still not normal. Um
+SPEAKER_R: Two.
+SPEAKER_L: And doctors, doctors that I've talked to, they don't really know anything about that so I kind of dropped it but.
+SPEAKER_R: Yeah. That's why I like when I when I started to physical therapy I from my wrist specifically I found a young warm. But somehow I found an old one from my body like my shoulders. And just in general because she was like she's 50 and she knows a lot about it somehow, and she's old. So that's why even she said a lot of like, almost everyone she knows her age. I didn't even know a lick about it. Whereas she she studied a lot of she studied recently, like, not study recently, uh, informs everything. Like, read all these scientific journals, textbooks and all that. But like, yeah, that was like one of the three collagen and I can kind of see it probably you have one of them, the tendons most likely strange.
+SPEAKER_L: Yeah, it's hard to tell. I don't know. I'm glad you're able to figure out what's going on because it I know a lot of people who have had problems for a long time, they just can't figure it out. And like I've heard of people with other sand loose and they go to doctors and doctors just don't they aren't aware of it. Which seems kind of weird to me because I feel like nowadays it's fairly common knowledge.
+SPEAKER_R: It's kind of like, there's four different tiers of thursday, three different tiers. The one I have is the more unknown tear. The tears that everyone knows are the classical and the cardiovascular, the cardiovascular is responsible people not living past 40 because that relates to your heart being smaller. And I'm technically on the borderline of being cardiovascular. But luckily I'm not because I have all the symptoms. I have long hands, everything else, but the ones I'm missing is the opposite. My joints supposed to be tight and my aorta or aortic roots and like that's supposed to be smaller and it's not. So that's why they thought I had it. But luckily I don't. But I think you all these different types of to get like, all these different, like, it was a mess. And even like my professor right now studying with like she has the same exact thing, hyper mobile. And I'm really lucky. But like also, what's the you said mental cognitive behavior.
+SPEAKER_L: cognitive behavioral therapy,
+SPEAKER_R: Yeah. How does that work for 10 months?
+SPEAKER_L: Um So it's uh like psychology method that was developed for just like psychological purposes, like anxiety and whatever. Where so in my instance, um
+SPEAKER_R: What?
+SPEAKER_L: I couldn't step on a hard floor, it would be so painful in my heels and the balls of my feet. Like I could not take off my shoes ever. So I just would take off my shoes stand on a hard floor and it would hurt. But I would tell my brain, you know what, these are fake pain signals, there's no structural damage, the neurons are firing, they're just like confused. So just train my brain that and say like this is safe, there's no damage. And after a like weeks and weeks of doing that, the pain would start to go away. So I just had to do that for like everything that hurt like using a keyboard, it would be like a nine out of 10 pain and tears streaming down my face and I'm like, this is fake, is that? And you know, it is, it was rough and it sounds pretty crazy and it's just unfortunate that not many people know about it because there's just millions of people with chronic pain who think there's something physically wrong with him and there's not, it's just the brain is misfiring.
+SPEAKER_R: Yeah. And not all that research has been like, not a lot of efforts have been focused on mental health recently. Only recently, they have before forget about it. Like, you know, we all know about those like they don't care about, they don't care about it before and now. Only the new generation cares, but not really the older one. But
+SPEAKER_L: No.
+SPEAKER_R: like yeah, luckily for me, like what is it? So it can work with it. The only way I was able to like um what is it other than other than physically working at the other way that helped me like circumvent the tenant is coming back again because I'm extremely prone to happening like me practicing all these hours and all these all their repertoire. I'm really prone to it. So the only way I stay away from that is I have to be really aware of my body is doing. Which takes a lot of mental energy so that, you know, like
+SPEAKER_L: it does.
+SPEAKER_R: because anything feels comfortable for me, even though right now I'm sitting kind of like in a weird position, it feels comfortable like, I don't know, I don't know how my legs are right now, but it feels comfortable because I can say positions are like really flexible woman can even, it looks weird. It works for me so that I have to be aware, like my spine most importantly as a stray, which it is that to be, oh my God, it's a mess. Especially when I'm playing too, plane is even worse. You have to be like my shoulder level. Does everything else? Fine, worry about this muscle, my back. It's a real pain to keep connection
+SPEAKER_L: Um What instrument do you play? Okay, so that's a little awkward, but it's not too heavy like a saxophone or anything.
+SPEAKER_R: older around it's actually much more difficult. So if I was a pianist would be much more easier because I'm just sitting my ass down on the bench and if I was like, uh, a saxophone, all I have is a vest that holds it in my hands, whereas the violin, I'm using my back muscles, my muscles underneath my armpit, I forgot they're called. But they're like the scapula, something I'm using my entire torso and ultimate legs is also have to use the fat in my body to transmit and resonate the sound and use my feet to ground myself and I have to walk at the same time. So I don't lock my knees. It's so much more tedious than what it actually looks like. It's it's really difficult. That's why like, professional wise or college wise, all people drop out because it gets difficult.
+SPEAKER_L: I honestly didn't know you had to walk and play violin at the same time.
+SPEAKER_R: Mhm So generally if you're a symphony player doesn't matter, but if you're a performance major, usually going to be like, you're going to be playing a chamber music or duets, solos, like a soloist. Yeah, you have to get used to walk in and play at the same time. So that's why I
+SPEAKER_L: all
+SPEAKER_R: like, we have to be really aware and like the challenges will have to is like during lessons in person even now she'd say, oh, you're playing this piece step on every like second or first be depending what is it? It's like box or if it's like Mendel's or whatever step on every beat, your like step on every beach, right? And it's really difficult to do that because generally to when you walk the walk with the beat, it's really difficult. But um, yeah, and then if he was a pianist to be much razor, that's why like violin, people say five hours a day. No, that's insane. Do like 3 to 4 because if he was a pianist makes sense. You just sit down and at most it's just this motion and everything is in the muscles over here. She's going side to side. Whereas, and even saxophone, you have the best you can sit down or you can stand up, it's fine for violin, you have all these different components. And yeah, pretty much like it's really difficult. So that's why it's expected like violent 3 to 4 piano, 5 to 6 or seven today. Yeah,
+SPEAKER_L: Have you tried any braces or anything like back braces or shoulder braces?
+SPEAKER_R: so my physical therapist told me no, because the problem is that how to put it, it's it's not going to really help me because I'm always used to every position. If my body wasn't naturally set. Like if every position didn't feel natural for me, then I could use it because then that that would eventually get like hardwired to me. But because every position feels natural, I can't do that. I have to be aware all the time on my shoulders. So yeah, that's that's like the major difference. That's why I only brace I used was like for my wrist and that's when I was injured. And also to another symptom of like hyper mobile Kristanna syndrome is like really thin or thinner arms than normal. Like it's insane even when I did shop. But my arms are still kind of thin and my wrists are really thin as well and my fingers are long, skinny. That's
+SPEAKER_L: I
+SPEAKER_R: weird.
+SPEAKER_L: do have really thin forearms, but my upper arms are not that at all. I don't know addressing.
+SPEAKER_R: Yeah, it's weird. But yeah. But yeah, it was really nice talking with you.
+SPEAKER_L: Yeah, you as well. Kind of had some weird things in common, learned a little bit though. But yeah, I hope your schooling goes good. Help us to rico is good.
+SPEAKER_R: Thanks you too. Bye bye.

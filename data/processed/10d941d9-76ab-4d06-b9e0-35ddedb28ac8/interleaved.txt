@@ -1,0 +1,253 @@
+SPEAKER_L: Yeah. Uh huh. Uh huh. Yeah. Yeah. Uh huh. Yeah. Yeah. Oh
+SPEAKER_R: Hey,
+SPEAKER_L: hello? Hello?
+SPEAKER_R: how are you?
+SPEAKER_L: Yeah. Good away man.
+SPEAKER_R: Good. I'm just
+SPEAKER_L: I'll become
+SPEAKER_R: now. The world
+SPEAKER_L: I can barely hear you while uh uh
+SPEAKER_R: Uh
+SPEAKER_L: huh.
+SPEAKER_R: Cycle changes.
+SPEAKER_L: Help engine.
+SPEAKER_R: Wait mm.
+SPEAKER_L: go. Yeah.
+SPEAKER_R: is this better?
+SPEAKER_L: Yeah I'm proud and I appreciate it man.
+SPEAKER_R: those are my the ones I usually use for my phone, so when I connect them to a computer they don't always work. Great.
+SPEAKER_L: Yeah we'll probably what it is is that when you have like your headphones on on right, it's just a microphone on your computer that is like the output for the for the sound, you know?
+SPEAKER_R: Could be, yep yep.
+SPEAKER_L: But we have it like here, you know, it's very close by your mouth so it's perfect.
+SPEAKER_R: Yeah it's right next to you. Cool, how you doing?
+SPEAKER_L: good man. Good man. What's your name though?
+SPEAKER_R: Jason
+SPEAKER_L: Jason? I'm Leonardo. Jason. Yeah.
+SPEAKER_R: to meet
+SPEAKER_L: You got
+SPEAKER_R: you,
+SPEAKER_L: a nice to meet you mine.
+SPEAKER_R: where you at?
+SPEAKER_L: I'm located in Delaware. What about you?
+SPEAKER_R: I'm in sacramento
+SPEAKER_L: College
+SPEAKER_R: California.
+SPEAKER_L: one year. Wonderful, wonderful responsible man
+SPEAKER_R: so
+SPEAKER_L: on election.
+SPEAKER_R: I was right when we got on I was just saying I started a timer so we know exactly how much time we need.
+SPEAKER_L: Not very.
+SPEAKER_R: Um Yeah no I I uh I like some things about about California a lot um Some things I don't like about California, I love the I mean the weather for the most part is pretty fantastic, although I really don't like really hot weather and it gets it gets you know I mean it got it was over 100 for multiple days this year for like multiple days in a row, like over a week in a row. So it's it gets hot in summer which I don't like. Um
+SPEAKER_L: What will
+SPEAKER_R: But we get pretty mild winters, I mean it's pretty comfortable. Um I love being outdoors, I love hunting, fishing, hiking, stuff like that. Which we have some opportunities for some of those things that are pretty good, but hunting isn't isn't great in California. Uh So like my dad lives in Wyoming and that's like a marvelous spot to go to live if you're if you're a hunter. Um So yeah it's not a place but it's expensive so.
+SPEAKER_L: So you make the weather is good cost of living is high hunting which is referring how we probably kind of difficult mostly probably because of governmental restrictions. Ah It gets pretty hot sometimes you know and that actually leads to trouble which comes as well to like nature, you know with all the what he called it the fires you know that that uh
+SPEAKER_R: yeah our fires this year were out of control. I mean there was over a month where we didn't want to go outside at all, not only because it was hot but it was it was so smoky that you could taste it like when you went out of the house, you can taste the smoke. Oh.
+SPEAKER_L: Like you are like you're like when you're grilling, you know and you you got the smoking. Yeah.
+SPEAKER_R: Oh it was, it was just it was horrible. So I did not enjoy that time this year. We actually, we went and visited my dad this summer briefly and went to Yellowstone. And
+SPEAKER_L: One.
+SPEAKER_R: of course the time that we went to Yellowstone, it was fully it was super smoky the whole time we went to the Grand Tetons and Yellowstone and there was smoke everywhere. I'm like, what the heck, I couldn't like get away, I couldn't get away from it. So yeah, it drove me crazy. Uh
+SPEAKER_L: That's awesome. So tell me more about yourself. What do you do for a living man?
+SPEAKER_R: I'm a I'm a software engineer, so I write, write software all day. Um
+SPEAKER_L: Yeah. Which company are you working with them?
+SPEAKER_R: uh cox automotive. So it's one part of cox automotive, which is a big, big company. They own Kelley Blue Book, an auto trader and all sorts of companies like that. I work in a place called dealer track. We managed car titles. So like when you buy a car from the bank and uh the bank holds the title, we actually hold it on behalf of the bank. So
+SPEAKER_L: Program.
+SPEAKER_R: Both physical and electronic titles. So we have to interface with, you know, 24 different DMVs electronically uh
+SPEAKER_L: Mhm.
+SPEAKER_R: multiple. I mean thousands of lenders in different manners. Yes. Been here for Next year or next month will be 18 years. So a long, long time to be working uh for a single company when you're in technology especially. But uh
+SPEAKER_L: huh.
+SPEAKER_R: they've been they've been pretty good to me and I've been working from home since the beginning of March and we'll be doing so through at least july so uh that's good and bad. I like I like the ability to work from home, you know, it's nice but I miss all my buddies and stuff and being able to do some of the social things that work of just like going out to lunch and stuff like that and just the casual conversations. So um yeah,
+SPEAKER_L: I understand that. You
+SPEAKER_R: that's
+SPEAKER_L: don't know
+SPEAKER_R: driven
+SPEAKER_L: what amendment
+SPEAKER_R: me a little bit crazy. What do you do?
+SPEAKER_L: me. Uh Well, I'm actually mostly into the currency market um I don't know if you heard about it. Probably have you know you're into what she called into coding, you know writing codes and absolute guy kind of stuff. So your mind is like very I would say like very visually but mathematically driven so only you might know about it you know the forex market, the largest market in the world super liquid. You know I don't know how I think it's like about like 60 times the size of the stock market
+SPEAKER_R: jeez.
+SPEAKER_L: wow. So it's like a lot of uh a lot of money is being moved around in that market you know and it's basically
+SPEAKER_R: I bet
+SPEAKER_L: we've got money you know like the euro against us order or the town against the U. S. Order and some you know. Oh
+SPEAKER_R: is that stuff pretty volatile? Like I don't know how much
+SPEAKER_L: no.
+SPEAKER_R: that stuff changes, you know, I mean, you see the stock market go up and down, but I never like, I have no idea when my money is worth less and you know, mhm
+SPEAKER_L: well
+SPEAKER_R: ruby,
+SPEAKER_L: there
+SPEAKER_R: so I have no idea.
+SPEAKER_L: there's like two values of it for the money here because the money here in the US. It's like related to production products that we have in here right? You know like overtime donor at the true value that he had like for example you're not that long ago like in the 19 Let's say 19 and 20s or something like that. Re compared to what you could do with a daughter. What what is it today? It's like the appreciation is like 80% of the values. Like people have an idea about it. What is crazy?
+SPEAKER_R: yeah. Yeah, it's pretty bad.
+SPEAKER_L: the thing which is when it comes to like the foreign market the value of the dollar. What it is is that the dollar is actually used mostly as a as a base currency you know to determine value of many things. Mostly because the U. S. Dollars, the only currency in the world that can be used to buy oil. Uh That's how real the money comes from. That's that's what gives like true value to the U. S. Dollar. You know? So people many, many people don't know that many people talk about that because they have a goal or what do you call it? A silver standard? So it's just paper. No it's not. It's like a oil standard. So certain other is that as well what it does is that uh is that the value? You know when when like right now the dollar is caring and depreciated in comparison to other currencies around the world. So you see like down like a dollar now like a euro is worth a like a lot more than just $1. Like the euro was around 1 10. But right now it's like almost at one A. So if you flip around if you say if you have euros into dollars, so it's better for example if you're working uh from spanish company in spain, you know, but you're looking less and they pay me in euros and when you do your exchange you're making a lot more than you are going to uh us offers, you know, same with the british pound. And I saw like historically about the british pound didn't join the euro because some certain you know things for one of them was that the british pounds has like this like kind of like royalty fell into it but that has like this filming of like a lot of like strong, it's very very strong. So it is one of the most valuable for instance, there are against the dollar, you know, it's like 1 30 right now again. And you know, it's just just like it's interesting because people think that that are super volatile but it can be, but it's not because while who is in this in this market losses just banks, the transaction with other banks overseas and companies apartment products and stuff in other in other countries. Like for example they say walmart usa wants to buy or needs to get some some dishes on the made in walmart china or something like that. Well we have to get the euros have to buy it again and again is transferred to US dollars
+SPEAKER_R: She's
+SPEAKER_L: and bank. So you know the all that cycle, you know, because the the US bottled them all those young to be able to buy it in the market in china. That means that again is in that in that moment in time it's been you know demanded like a lot of people want the end, you know, what does that not surprise? Decision. Well what it is super civilian is that it's going to be what more valuable because going to be less of it. You know, It's going to be more more demand for less supply of it, you know? So it's like basic economics play like a big role in this market. Uh I I used to I would say that it took me like a bell five years to understand it. Um
+SPEAKER_R: No, I bet.
+SPEAKER_L: I don't think you're thinking like about After those five years. I was like uh was like 64 months into like really start making money out of it.
+SPEAKER_R: First.
+SPEAKER_L: So yeah, It's not these people they have to see this idea. Yeah. I'm going to become a day trader. You know, make a lot of money and you know, you can blow a lot,
+SPEAKER_R: correct.
+SPEAKER_L: you know, bullshit. I mean just that is bullshit. It's not like that, you know? But he's
+SPEAKER_R: Yeah. I have like I have some buddies that do tons of day trading and it's funny to watch them because like one day they're like oh my gosh, I made $2000 today and the next day it's like oh my gosh, I lost $3000 today. But it's almost like a like a gambling addiction or
+SPEAKER_L: Normally
+SPEAKER_R: something, you know, it's like they're they're looking for that big hit even
+SPEAKER_L: no
+SPEAKER_R: though they're losing like as at least as much of the time as
+SPEAKER_L: name.
+SPEAKER_R: they're winning. Um And I mean for me, I know that I don't know enough about it to like think that I'm going to beat the rest of the professionals that do this for a living.
+SPEAKER_L: Yeah.
+SPEAKER_R: Um So I, you know, I have like my 41 K. And I put it in like really low cost, you know mutual funds that I'm like okay, I'm just gonna leave it there. I
+SPEAKER_L: The
+SPEAKER_R: don't I'm not looking for some huge payday, I just wanted to be safe and make me money over the
+SPEAKER_L: your
+SPEAKER_R: long term
+SPEAKER_L: point.
+SPEAKER_R: better than it would if I just put it in a savings account or something,
+SPEAKER_L: No.
+SPEAKER_R: you know? So
+SPEAKER_L: All right.
+SPEAKER_R: so yeah, that's one of those things to wear, like I don't doubt that it takes you five years to learn that because that's there's way too many variables even to be uh it's too much, so, you know,
+SPEAKER_L: You know what this is Like what I say for the type of mind that you have, you know like your mind we will be very good at it because when you're looking at a chart, you're looking at what they call like camels, camels, you know, and you can handle some, you know, some red, some are green and so on. Some dread are down. We're going up and son. But they have like this mathematical like it's like an ordinary no algorithm at the world. That represents a graph like an indicator. It represents an indicator that gives an idea of where the market is head at that moment. That's what the market is going to go after, you know? Uh huh.
+SPEAKER_R: but you're looking for patterns maybe over time that you can take advantage of that, you're like, okay, this is pretty consistent, you know?
+SPEAKER_L: Well, that's the thing about it too you know like like for example how can I explain it, you know when you go to a casino right? And your ticket you know and say you you're playing blackjack you know the longer you play the higher chances, the house they're going to take all your money right? But it's not gonna be like you play you lose your place because if you lose like three or four times in a row in blackjack you're bringing this is not working, let's get out of here right get out of there and just save yourself some money. But they know that so they're gonna make sure that it's like a way for you to kind of like win sometimes and you're like oh yeah
+SPEAKER_R: totally.
+SPEAKER_L: I've never like my name is you lose one, you went to, you lose one you into and so on and then just like last last last last last last and your brain is like I want to go back to a pattern when I was winning. You know I don't interesting you know how we behave when it comes to like money you know and that was like you were saying your friends that are like uh like gamblers you know uh for me was gambling for a moment in time as well gambling uh history and the stock market in any market, you know what I mean? Any time like investment that you're doing now so and I was looking for that to you But he you know like I want to you know buy it at zero and goes to 2000.
+SPEAKER_R: Right. Yeah, Yeah. It's hard to do.
+SPEAKER_L: it's not that hard, it's possible but you have to be lucky and you know what is the worst thing that could happen and
+SPEAKER_R: What?
+SPEAKER_L: you're like new a day trading and happens like the second day because anything I can do this for the rest of my life.
+SPEAKER_R: Right, you're like, look how good I am at this, I'm going to spend, I'm going to wage even more next time. Yeah.
+SPEAKER_L: that's what it is is like uh he just just fine because take the difference between that you know how to trade stocks as well because of the understanding of the charts indicators but I don't trade stocks, I don't like the stock market why people will live here. This guy is crazy because the stock market like it's mostly like a lot of like institutional investors and we said like as well as retail investors, you know like people that want to make more fun, right?
+SPEAKER_R: ridiculous
+SPEAKER_L: But
+SPEAKER_R: chunks of money.
+SPEAKER_L: but it's it's well it's like very I would feel like believe driven you know and what is the belief that you want to happen? The stock market two things to go up because it's like the only way that at the beginning people were able to trade, you know, you spy and let a girl and then selling song. Um so you want to buy sell myself people that all day that's how they won is possible. But at the same time what it is is that the forex market allows you to want to actually profit when things are going down and things are going up. Now options became very popular in the stock market because options allow you to, you know trading this in economics, you know. Uh But but it's still man, you just said for me like the forex market is is easier to understand because I have a way to trade. Like if I'm a bank people don't fucking said, well actually if you put it together like who has the most money in the market, the forex market, it's just the banks and I'm like basically like a limited money. You know you're just like this little party and you know that there's like Tanya is like me but we're like millions around the world doing the same thing, looking at the same charge, looking the same indicators going the same way, you know trading right? So the bank has a way to see what is going on in the market. Before they do anything. They can see and say okay look right now they say the Australian against the US dollar, 70% of the market are going along. Which means that people are used to buying right? What do you think the bank is going to do? They're gonna because then I start taking all the money for them because they can cover all the cells with all the violin is happening you know? Mhm.
+SPEAKER_R: Uh huh.
+SPEAKER_L: Slowly
+SPEAKER_R: That's crazy.
+SPEAKER_L: so yes. Come with me.
+SPEAKER_R: My it's funny to watch also just the psychology of stock market is like my dad had um you know he he had a stock option plan with his work and got a lot, he had a big chunk there and when we had one of the bigger crashes it like went way down
+SPEAKER_L: Whoa.
+SPEAKER_R: and he was like, oh I gotta I gotta sell and I'm like what are you talking about? You gotta sell. No, if you as soon as you sell when it's way low,
+SPEAKER_L: You
+SPEAKER_R: you've
+SPEAKER_L: look?
+SPEAKER_R: just locked yourself into losses. Like you just like it and it was low enough to where I'm like, dude, it can't really go lower, don't touch that. Like you're doing exactly what every buyer in the world like. Yes, that guy selling. And it's a it's like a psychological thing to where they think they're like saving themselves by getting out and I'm like no, no no that's literally the worst time, like go ahead and buy more right now if you want to, but don't sell right now. Yeah. It's really it's really funny though because I think there's a lot of people that they see that and they're like I got to get out, it's crashing and it goes against common sense. But it's like this emotional thing that they're like I gotta get out now. And it's funny because I think I think people are getting more educated as one, you know my dad is 65 um and you know he never took a finance class in high school even you know, he didn't have the internet to go to, you know, it was it was very different era. So um it's interesting to to talk about that because man, they just and it's like my buddies that are day trading, they're doing it by, oh wow. Uh Tesla is coming out with something new and I'm like yeah but it's like so overvalued, it's crazy so stop
+SPEAKER_L: banana.
+SPEAKER_R: it. Um
+SPEAKER_L: Yeah.
+SPEAKER_R: So there's a there's just a lot of emotional reaction instead of something that like solidly makes sense. And then you see people like what's his name? Berkshire Hathaway guy, Warren Buffett. Mhm.
+SPEAKER_L: I don't like
+SPEAKER_R: Who?
+SPEAKER_L: them.
+SPEAKER_R: Yeah, he's a douche. Um But a lot of how he makes money is buying things that have big dividends like last year, I forget what it was, he made something like I'm
+SPEAKER_L: Three people
+SPEAKER_R: just
+SPEAKER_L: didn't work in dividends. Yeah. He buys, how how do you live in stance? That's what he does.
+SPEAKER_R: yeah and and it's like oh my gosh, that makes so much sense and I mean you have to have the money to be able to get that kind of dividend, but it's, he's in things like coca cola, you know, safe things that are never going away, you know? Uh Yeah, I'm gonna go get a can of coke right after this, you know, I mean it's just like he doesn't, he's made a ton of money, but it's never been like gambles, you know, he's always making money the smart way and um and of course that's it's easier to make a lot when you have a lot. Uh but
+SPEAKER_L: yeah. It's a point that you have like A million dollars even, you know, 1% of a million, you know, a lot of money that you can make 1% in like two minutes, you know? So yeah. Uh
+SPEAKER_R: so it's pretty interesting. Well that's
+SPEAKER_L: You know,
+SPEAKER_R: that's that's cool. I don't think I've ever ever talked to anyone that does that, so that's that's pretty cool deal. How did you end up getting into that?
+SPEAKER_L: Well mostly because when I graduated, uh I went to school for business management, I got with it, you know, I I think I couldn't find my car like a good job at all. It was just wasn't back in 2011. The economy what's not the best shape but a moment in time. So I said whatever, I'm good at tutoring, I was a tutoring my whole four years of schooling here. So I sent out with this company and private company for tutoring and I was a tutor private tutor. I worked with like the wealthiest kids in the area, you know, because those are all the ones that were, you know, also looking to have like a private tutor come to your house and work with your kids. You know, I did that, I did it, I did it and I started liking and I start getting, you know some traction some students you know on and I kind of decided to to to just get too dark could survive from it. So they didn't worry about it. Um, then after a while I just started like looking into into, you know, to trade and I can't remember why, you know, But I just was like curious about it, you know? Because I always had that the stupid feeling that I was like google ultra smart which not uh but I used to believe that I was like this game is mine, I'm not I'm just like anybody else, so the things that I would look into the market and I was learning about it and then I got into forex and I learned about it and you try options, I try stock so I try them. Oh I tried like everything man you can think of. So uh with that set up after a while they decided to stick with forks, you know because it's tough. Probably makes more sense now like now with the information that I know today it makes more sense for me and I feel more comfortable trading the market than and your
+SPEAKER_R: That's
+SPEAKER_L: strength stuff. Yeah.
+SPEAKER_R: It's funny you talking about the first time I think in my life that I've ever even thought about the conversion of money from one way or another is in prolific and watching like paypal swapping from from pounds to dollars and I'm like, hey, it's worth more
+SPEAKER_L: That.
+SPEAKER_R: today and I I have no idea, you probably know a lot better what day to be trading or exchanging that, but for me, I'm like, I don't know, whatever it's at, I guess is what I'm going to exchange that. But it's funny, I've seen it go down and up just, you know, week to week, so.
+SPEAKER_L: Yeah. The thing I don't know what it's with paper on paper but it does just like they look at a rate for a few days. I don't know their policies policies in a specific, I'll have to really look into it. But what it is that they lock in a rate, they're probably looking a lower rate that is that is supposed to be for those days and at the same time they do take always a feed from it. What is like at 1%. That's what I notice that they always take one person So take 1% of water. I think you're doing the money you for like you or sent or whatever to take 1%. The only way they don't take money is when you receive it from like in our family to send you money or money. Like a friend of family, they take the fee from the money you send. So the family and friends don't get like everything is, you know, they discuss, you
+SPEAKER_R: very crazy.
+SPEAKER_L: know what they lived
+SPEAKER_R: They're
+SPEAKER_L: through
+SPEAKER_R: making,
+SPEAKER_L: money.
+SPEAKER_R: they're making good money, I'm sure that uh
+SPEAKER_L: It's
+SPEAKER_R: that's that's
+SPEAKER_L: like
+SPEAKER_R: pretty funny.
+SPEAKER_L: the more critical and like the prolific that you mentioned on the website. Oh £10. And are you going to cash out? Oh $13. Nice. But
+SPEAKER_R: great.
+SPEAKER_L: so yeah.
+SPEAKER_R: I'm probably uh until recently I was totally clueless as to what the exchange rate even was and now I'm like, oh, it's about this much money and I'm totally right, like it's it's funny just, just being on here a little bit of time, it's it's interesting, it's an easy way to make some extra cash for for christmas, and we, you know, I've gotten into disc golf as a hobby recently, and it's like, oh, I can buy a bunch of stuff and not have it, I have to worry about it, a budget or anything, you know, this is, this is just like spending money that's unbudgeted, so that's
+SPEAKER_L: I'm
+SPEAKER_R: what
+SPEAKER_L: for
+SPEAKER_R: I
+SPEAKER_L: myself
+SPEAKER_R: dig about.
+SPEAKER_L: if I go out like for example to like a restaurant or something or treat something like, you know, keep it probably prolific based money. That's it
+SPEAKER_R: There
+SPEAKER_L: more
+SPEAKER_R: you go,
+SPEAKER_L: relieving. Does it
+SPEAKER_R: it's funny, it's all that, it's all that extra money, I don't know if
+SPEAKER_L: speak
+SPEAKER_R: you've
+SPEAKER_L: to
+SPEAKER_R: checked
+SPEAKER_L: him?
+SPEAKER_R: it out, but D Scout is another cool place to make some extra cash,
+SPEAKER_L: You know,
+SPEAKER_R: I don't know if you've checked that one out, but
+SPEAKER_L: you know, I have a nice
+SPEAKER_R: it's
+SPEAKER_L: only happen
+SPEAKER_R: cool. What was that?
+SPEAKER_L: only have prolific for now. But tell me about the one you mentioned.
+SPEAKER_R: the Scout is cool, because it's it's like app based, they've got an app, I mean they do have a website but you do everything on the app but it will have you like do a user study on things or They'll do a one on one interview but it will be way more than prolific, it'll be like 45 minutes. Make $60 or Uh an hour makes 75 stuff like that. That's that's much it's it's really nice so you ought to check that one out.
+SPEAKER_L: What
+SPEAKER_R: It's
+SPEAKER_L: is
+SPEAKER_R: just
+SPEAKER_L: the name of you know
+SPEAKER_R: D.
+SPEAKER_L: about it right
+SPEAKER_R: D.
+SPEAKER_L: now?
+SPEAKER_R: Scout D. S. C. O. U. T. Um And I've I've me I've made Dude, I seriously have made like $900
+SPEAKER_L: The out
+SPEAKER_R: on it,
+SPEAKER_L: of you.
+SPEAKER_R: it's D. S. C. O. U. T. D. Scout all one word. Um
+SPEAKER_L: This coming right. It's
+SPEAKER_R: you go.
+SPEAKER_L: like
+SPEAKER_R: That's
+SPEAKER_L: like the square.
+SPEAKER_R: um it's yeah blue, yep, yep, that's it. And Mhm.
+SPEAKER_L: You know what this up for me in the same town. This has been a lot like for yourself like spending money. Uh I like this all that we're doing now. This is actually my fourth fall that I've done,
+SPEAKER_R: Mine too. It's
+SPEAKER_L: can
+SPEAKER_R: my
+SPEAKER_L: do
+SPEAKER_R: fourth,
+SPEAKER_L: six more.
+SPEAKER_R: They said they update to seven so that's good. So in this round this is the fourth one I've been assigned. The first three didn't show up the last the first three I did all showed up this round three narrow
+SPEAKER_L: What?
+SPEAKER_R: didn't show up and then
+SPEAKER_L: No.
+SPEAKER_R: you did, I'm like thank goodness because it's like jeez I'm just sitting there and it's like easy money, you're just sitting there doing nothing for like a dollar 50 but I'm like come on so I'm glad you showed up today. Um and they've all been like way easier than I expected, you know, you have no idea who's gonna be on the other side. I'm always like a little
+SPEAKER_L: People
+SPEAKER_R: nervous that it's gonna be like we're going to be like staring at each other, wondering
+SPEAKER_L: Move
+SPEAKER_R: what
+SPEAKER_L: to
+SPEAKER_R: we're
+SPEAKER_L: Britain
+SPEAKER_R: gonna be talking about, you
+SPEAKER_L: they
+SPEAKER_R: know? So
+SPEAKER_L: created.
+SPEAKER_R: I'm glad it's all been really easy, it's not like
+SPEAKER_L: Yeah. Yeah of course man, I really here talking to you bro.
+SPEAKER_R: so yeah, we're done. So
+SPEAKER_L: Good. But you know
+SPEAKER_R: Thanks.
+SPEAKER_L: what time? Right?
+SPEAKER_R: Check out Dieskau because it's seriously worth it. And uh
+SPEAKER_L: I appreciate it. Thanks for the tip.
+SPEAKER_R: Have a good one. I'll
+SPEAKER_L: Get
+SPEAKER_R: talk to you later
+SPEAKER_L: up
+SPEAKER_R: already,
+SPEAKER_L: man.

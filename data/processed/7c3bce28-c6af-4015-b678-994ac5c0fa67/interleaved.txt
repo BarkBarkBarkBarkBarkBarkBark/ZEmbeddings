@@ -1,0 +1,405 @@
+SPEAKER_L: I don't know. What do you think about it? Yeah. Before the attack. Uh huh. Mhm mhm
+SPEAKER_R: home
+SPEAKER_L: Hello? How are you?
+SPEAKER_R: Good. Can you hear me?
+SPEAKER_L: I can hear you. Yeah. Can you hear me?
+SPEAKER_R: Yes I can hear and you can see my camera.
+SPEAKER_L: I can yeah.
+SPEAKER_R: Okay my neck was good. All right perfect.
+SPEAKER_L: Right. All right, awesome.
+SPEAKER_R: Let me be playing there so that we don't forget. Okay 25 minutes. Yeah.
+SPEAKER_L: Okay, awesome. What's your name? Sam nice to meet you. I'm Grayson.
+SPEAKER_R: great great woman. Haven't heard of that name in a while.
+SPEAKER_L: Okay. That's good. That I'm unique I guess. Okay. Is this your, is this your first time doing this survey? We've done it before.
+SPEAKER_R: This is my 4th or 5th time.
+SPEAKER_L: Okay. Right. On the same with me. This is my, well this is my fifth time that someone showed up. There was twice where the other person didn't.
+SPEAKER_R: mm. Yeah. Um I'm glad that they started it up again. Uh this is I think the second trial
+SPEAKER_L: This is
+SPEAKER_R: do you use prolific or do you some turk?
+SPEAKER_L: yeah, I used both. But yeah, this was through prolific. Yeah. Yeah, this is yeah
+SPEAKER_R: um what time is it for you?
+SPEAKER_L: noon. Yeah California.
+SPEAKER_R: I'm in new york city so it's through.
+SPEAKER_L: Okay. In new york city. Nice. Have you lived there? Have you lived there your whole life or did you move there?
+SPEAKER_R: Uh I lived here my entire life. Was that my mother was yours?
+SPEAKER_L: Yeah, that was my phone. Yeah. Oh,
+SPEAKER_R: Um
+SPEAKER_L: okay.
+SPEAKER_R: Yes I um I was I was born in a borough called Bronx and it's known for a gangster. So I am an original gangster right
+SPEAKER_L: Okay.
+SPEAKER_R: part.
+SPEAKER_L: Born in the Bronx.
+SPEAKER_R: Yes I did I did I did live in California for about a year. I did six months in sacramento. I visited san Francisco and then I spent the remaining of the year. And hello? Mhm.
+SPEAKER_L: Yeah, I was, I was born in san Diego. So I am not an original gangster at all. The now I live a little closer to a little north of that. A little closer to L. A. Mm.
+SPEAKER_R: mm. Have you been to Mexico before?
+SPEAKER_L: I have yeah.
+SPEAKER_R: Do you just drive down
+SPEAKER_L: Yeah that's the easiest way but usually will they have parking places like we usually park before the border and just walk across it's much faster driving takes longer to get through the actual border.
+SPEAKER_R: Do you sure do show a passport and that's it.
+SPEAKER_L: Yeah you do now when I was young you didn't even have to but now you have to bring your passport.
+SPEAKER_R: he's american he's fine. You walk along walk along mm.
+SPEAKER_L: well they would let you before I think I don't know when they changed it but before they would let you just go with your driver's license or something and then they got they got more strict. So unfortunate.
+SPEAKER_R: I wonder if it's the same with Canada. I went to college right by Canada but I was never able to visit Niagara Falls. Mhm.
+SPEAKER_L: What did you study in college
+SPEAKER_R: Biology. Mhm. Yeah
+SPEAKER_L: I studied math
+SPEAKER_R: you're the second person in my life to study my
+SPEAKER_L: the second
+SPEAKER_R: did you?
+SPEAKER_L: person.
+SPEAKER_R: Yes. What did you was it wait wait is it applied? What's it called? What's the card? Mhm bible. Pure map I don't remember. Yeah
+SPEAKER_L: theoretical. Yeah.
+SPEAKER_R: what was?
+SPEAKER_L: Why it is more like applicable and theoretical is more theory. Yeah. Mhm.
+SPEAKER_R: wow.
+SPEAKER_L: Yeah
+SPEAKER_R: Oh my gosh you're a genius. Holy snap
+SPEAKER_L: I am not a genius at all.
+SPEAKER_R: but you're good at math. Right?
+SPEAKER_L: Um I'm better than I was before university that's for sure. I was very I don't know I guess I'm strange. I studied math and university because that was my worst subject in high school. I was a straight a student other than math, so I decided to take math in university and make it hard on myself.
+SPEAKER_R: That makes sense. Um Life isn't interesting if there's no challenge. Are you do you work with numbers now? Are you like an accountant
+SPEAKER_L: No I I coach american football in europe.
+SPEAKER_R: coach? Are you in europe right now? You're not in europe right now?
+SPEAKER_L: No I'm not in europe right now. Um This is the this is the off season. I come back and visit my mom during the holidays.
+SPEAKER_R: Why europe?
+SPEAKER_L: Um I just I like it there better. Um I played for I guess it was six years after university, I played in europe and when I decided to stop playing I wanted to get into coaching. So I ended up staying there because I just like the the lifestyle and the work life balance is much
+SPEAKER_R: What's
+SPEAKER_L: better for coaches there
+SPEAKER_R: the difference,
+SPEAKER_L: here there is no work life balance, you just work long hours for little pay for no reason.
+SPEAKER_R: how do they make it work if they're working less hours but they're getting paid more? I feel like you know.
+SPEAKER_L: Um It just, I think it just depends on what you value
+SPEAKER_R: No.
+SPEAKER_L: because I think football is not unless you're in the NFL here like football for like a college or something or a smaller school, it's not really, it's not really well valued. So they don't they don't want to pay a lot of, most of the coaching jobs when you start out here are more part time. That's why there's a lot of like high school teachers and stuff that also coach. It usually takes people here
+SPEAKER_R: Hi
+SPEAKER_L: a decade or more to get even a full time coaching job. Yeah,
+SPEAKER_R: A forward I lagged
+SPEAKER_L: full full time coaching job Usually takes a while most you do mostly you have to teach and coach at first
+SPEAKER_R: how do you need a teaching degree to become a coach here?
+SPEAKER_L: you don't need, but that's kind of the most popular one. Especially if you're coaching at a high school. It, yeah, Makes the most sense because then the hours match up because if you have a real job that you work until
+SPEAKER_R: What?
+SPEAKER_L: five and practices at three, it doesn't really work. But if you're teaching, you know, they'll never be practiced during your classes.
+SPEAKER_R: Mhm Okay, that makes sense. Well I can't believe it, you're the first coach I've ever spoken to,
+SPEAKER_L: Oh wow. Okay. So I am unique.
+SPEAKER_R: you're doesn't matter. Um You oh so do you have a house and do you have a do you have a house in europe or?
+SPEAKER_L: Yeah, I do. I have a have apartment in Serbia. Um, but when I'm coaching other places, like for example, this year before coronavirus hit, I was coaching in Poland. Usually if you're coaching in a different country, the team will pay for your housing and stuff.
+SPEAKER_R: well and how long do you coach for?
+SPEAKER_L: Um the season is usually around five months. So you're usually coaching seven or eight months of the year because you have to come a little bit before the season starts.
+SPEAKER_R: Mm Okay. Have you ever had to coach a team where you're like, these guys are not going to win even if I tried?
+SPEAKER_L: Oh yeah, that was my first, my first head coaching job. It was uh that there was no chance. They were not very
+SPEAKER_R: Oh my gosh.
+SPEAKER_L: it's not it's not necessarily that they weren't very good but they also they were mediocre talent wise and they didn't really show up to practice much and I was just like guys if you're not that good and you don't practice, I mean I don't really know what you're paying me for because this is not gonna work.
+SPEAKER_R: I smoke commitment at all. You guys got to that they end up winning.
+SPEAKER_L: No, they didn't, we went one in one in seven that year. Yeah. And they invited me back for a second year and I was like um no, no thanks, I got other I got other stuff to do with my life.
+SPEAKER_R: mm. Mhm. That's interesting.
+SPEAKER_L: Yeah, it's interesting to, a lot of them would say things like you just don't understand how hard it is to have a job and play or you don't understand how hard it is to go to school and play. And I was just like I went to university and played football. Like I, I do understand, I understand very well. I actually did that. It's like telling a doctor, you don't understand how hard medical school is. It's like, well actually they do. Oh yeah. But even though there's headaches, it's still worth it because I love to travel. So that's a big positive.
+SPEAKER_R: have you ever been to Slovakia before?
+SPEAKER_L: I have not been up to Slovakia. No.
+SPEAKER_R: It's my favorite european country? I've never traveled. I've never traveled to you before. But I do I do love the language trying to learn it.
+SPEAKER_L: Okay. Okay. I think Slovakia is very similar to Serbian. They're both Slavic languages.
+SPEAKER_R: Um Slav languages. Well, Slovak is similar to check because Czechoslovakia was a thing until 1993. Um
+SPEAKER_L: Yeah.
+SPEAKER_R: Yes, but there are some differences. It's kind of, well, I can't
+SPEAKER_L: What?
+SPEAKER_R: think of a synonymous like comparison, but yes, it's check is
+SPEAKER_L: What?
+SPEAKER_R: mark, Check is more close check this closer Slovak.
+SPEAKER_L: So,
+SPEAKER_R: But I love sort of like, oh my God, it's just
+SPEAKER_L: So,
+SPEAKER_R: there's just so romantic and it's like so nice.
+SPEAKER_L: huh. Patriot. Yeah,
+SPEAKER_R: Mhm,
+SPEAKER_L: because I like I spend most of my time in Serbia. Um, But I've coached I played once and coached twice in Poland. And so those languages are very similar. It's similar with check too. And some, which makes sense because they're right next to each other. Um
+SPEAKER_R: borders salak. Oh my gosh, it's just so I just I just dislike the fact that there's only six million Slovak, so you know, there is no real need to learn the language. There's only one university in Usa that teaches Slovak studies, which is in University of Pittsburgh, um which is kind of, you know, that's
+SPEAKER_L: But
+SPEAKER_R: that's that's that's the goal, you know? Yeah,
+SPEAKER_L: Well, maybe you would like Serbia to because there's only there's only seven million of them. So it's similar.
+SPEAKER_R: I mean,
+SPEAKER_L: Or maybe or maybe the real thing is Montenegrin, you need to go to Montenegro because there's only I think it's 500,000 of them.
+SPEAKER_R: Oh my gosh, um I think I've only met one person from Montenegro, but
+SPEAKER_L: But well, yeah. Well, most of my Serbian friends were born when it was the same country. So I guess I know a lot of people born in Montenegro.
+SPEAKER_R: I don't know.
+SPEAKER_L: Kind of depends how you count it.
+SPEAKER_R: Yeah. Um and then uh what's it? I'm blanking on the work, but I do I do love talking to a lot of european people. Um I sometimes I play different games, um
+SPEAKER_L: And
+SPEAKER_R: different mmorpg s and then I go on voice fats. And then I was talking to a guy from North Macedonia and he's like yeah it wasn't always North Macedonia and then he was speaking in greek and I'm like I love languages, it's my the way you feel about sport, that's the way that I feel about languages.
+SPEAKER_L: Yeah, languages are fascinating. Well, actually, North Macedonia was not always North Macedonia because they change that this year. I think it was It was Macedonia two years ago. Yeah.
+SPEAKER_R: about uh he was he was he was lecturing me on it, but you're you're a
+SPEAKER_L: Well basically what happened
+SPEAKER_R: hi.
+SPEAKER_L: was they want to be in the Eu Macedonia or I guess North Macedonia now. Um
+SPEAKER_R: respect the names.
+SPEAKER_L: But they have problems with Greece. Greece was throwing a hissy fit about some historical nonsense that Macedonia is not the real Macedonia. The historic Macedonia is different. And so that was kind of one of the conditions for Greece supporting there um potential entry into the Eu one of the conditions that Greece had was that they had to change the name. So they changed it from Macedonia to North Macedonia Which apparently it was good enough for the Greeks. I don't know. I'm not familiar with the history there. I don't know why the names such a big deal but I try not to be too judgmental because I'm american. So even if I study the history I don't really understand, I don't really feel it the same way they
+SPEAKER_R: And
+SPEAKER_L: do.
+SPEAKER_R: definitely um I did get more, I got I got more and I got more interested in uh different countries maybe two years ago when I started learning um someone uh so on a game that I used to play cauldron escape, there was a there was a player who was from Saudi Arabia and he was showing me his flag or whatever. Um and he's like oh do you do you recognize this flag? And I said no I don't know what that flag is. Um And so you know he said the while you're like a generic ignorant, arrogant american woman or like american um and that
+SPEAKER_L: little
+SPEAKER_R: kind
+SPEAKER_L: harsh.
+SPEAKER_R: of you know but it made it made sense. Um So I just decided to start
+SPEAKER_L: sort.
+SPEAKER_R: learning different flags and no I know every flag in the world.
+SPEAKER_L: No wow, that's impressive. There's a lot of flags. Almost 200. Right.
+SPEAKER_R: Uh What they uh yeah it's 100 and 97 or something but then there's some that aren't in the U. N. Yeah
+SPEAKER_L: Yeah that sounds about 190 something. Yeah
+SPEAKER_R: and
+SPEAKER_L: that sounds, and then depending on who you talk to, there's some countries that say their countries but they're not and they get a little complicated.
+SPEAKER_R: Auto, auto, auto. Yeah I have a I have like a community just just for posting for just posting flags. Um. Yeah it's it's a it's a passion of mine. So the study of flags flags is called vex theology. And uh there are people that can be um uh because I was just searching like words that are similar to the technology for in fact, there are people who are sexually attracted to flags that is not me. But that's just, that's just that's just something, you know, interesting.
+SPEAKER_L: Yeah. Sexual attraction is another thing I try my best to not be judgmental on. Um uh
+SPEAKER_R: Flags,
+SPEAKER_L: So
+SPEAKER_R: but there's a flag that you should look up right now.
+SPEAKER_L: what what is it?
+SPEAKER_R: It's an african or I guess it's an african territory. It's called Seychelles. So it's S E Y C H E L L E S.
+SPEAKER_L: Uh I've heard of the heard
+SPEAKER_R: Look
+SPEAKER_L: of
+SPEAKER_R: at
+SPEAKER_L: the
+SPEAKER_R: the flag.
+SPEAKER_L: think I've
+SPEAKER_R: Well, look at the flag, look at the flag.
+SPEAKER_L: island country. Right.
+SPEAKER_R: It's an island.
+SPEAKER_L: Yes I've heard of. Oh yes, it is very colorful.
+SPEAKER_R: Yes, it's beautiful. It's not as colorful as um Mauretania, Martinez, I
+SPEAKER_L: Court
+SPEAKER_R: forgot.
+SPEAKER_L: miller.
+SPEAKER_R: Yeah, Africa was the first continent that I learned all the country flags. There's a lot of green.
+SPEAKER_L: You got, you got me there. Africa is the, I mean my family's filipino. So I know a lot about asian countries. I've lived in europe lots. I know about european countries and from America. I after you get past you know if you get south of Egypt, I don't know a lot of african countries gets a lot harder. I mean I know Morocco is in Northern africa and that's about, that's about it,
+SPEAKER_R: I don't actually know geography. Um So I'm learning geography. If you if you google something like map uh flags of the world, you can see all of the flags. So you
+SPEAKER_L: her
+SPEAKER_R: see Russia and you see like Uzbekistan and turkmenistan and all these other countries. Um
+SPEAKER_L: Russia
+SPEAKER_R: So
+SPEAKER_L: is the easy one because it's so big.
+SPEAKER_R: definitely did you know that Australia is the same size as the United States?
+SPEAKER_L: I did not know that. I guess that makes sense because it is big. But I guess when you look at the map there so far away it's hard to compare.
+SPEAKER_R: Uh and the world is flat, so I'm just checking, interesting.
+SPEAKER_L: well if you look at a map it looks pretty flat. Oh wow.
+SPEAKER_R: It's hard not to be judgmental sometimes when you hear Yeah, different things.
+SPEAKER_L: it is hard. Yeah that sometimes you hear things that are so crazy, it's like I'll try and be nice, I'll try my best.
+SPEAKER_R: Okay, we have six minutes, we have six minutes left. Um hmm. How did you had um when did you start using prolific? Wait.
+SPEAKER_L: It must have been like three years ago I was doing um mturk because my first year actually until I was 14 when I first year playing in Serbia, I was really bored because the guys on the team, only the americans get paid, so the guys on the team have jobs, so all of our practices and stuff were at night and so I did nothing to do during the day, didn't have anything to do until eight at night, so I was really bored and I was looking for online jobs just mostly out of boredom. So I started there and then I heard about prolific a couple years later. But the one negative about prolific is I can't use it when I'm in europe, I can only use it when I'm in America.
+SPEAKER_R: I know my friend from Afghanistan tried using it, but the only reason why he couldn't use it is because um prolific accepts Paypal and Paypal doesn't work in uh you understand? I don't, I don't know, he's in Syria now, but he's in Afghan, I don't know. Um that's kind of interesting. But isn't the prolific headquarters is in the UK, so
+SPEAKER_L: I think they can use it in the UK, it's just for sure. And I've tried and I've messaged them to try and get it to work, but especially in Poland and Serbia specifically you can't use it, which is, they just say they don't support those countries, which makes no sense because I'm still american, whether I'm here or in europe, I still have paypal, but you know, you can't in those arguments.
+SPEAKER_R: B P N I think you need a VPN.
+SPEAKER_L: Yeah, I was wondering about that. I was, if I ever decide to stay the whole year in europe, I'll probably try that because I was just worried I get banned and then lose my chance to use it
+SPEAKER_R: No,
+SPEAKER_L: when
+SPEAKER_R: there
+SPEAKER_L: I
+SPEAKER_R: have,
+SPEAKER_L: hear.
+SPEAKER_R: yeah, there have been studies where they say please turn off for VPN if you have one on. So I suppose that you can probably use a VPN um do you know polish or serving with all?
+SPEAKER_L: Um my polish is terrible because I'm trying to learn Serbian, um polish and Serbian are similar but different, so it really confuses me I guess in my brain it's like english
+SPEAKER_R: All
+SPEAKER_L: and then everything else. So I'll just mix words and I gave up on polar because of that. I'd rather learn Serbian.
+SPEAKER_R: Um well, um I don't know how to pronounce the language and Philippines, it's what's that?
+SPEAKER_L: tagalog.
+SPEAKER_R: Yes to colleague Golic, do you know how to speak up?
+SPEAKER_L: Um Not really, I, I understand much better than I speak. Um,
+SPEAKER_R: Mhm,
+SPEAKER_L: I always blame my grandmother and my mother. They messed me up because my grandmother when I was a child, she spoke to me in Tagalog and then I answered in english. So I, when I'm there, I get along just fine. I have no problem understanding people, but I speak terribly because they didn't force me to practice as a kid and it was a little bit too. I was a sensitive now I realized I was stupid. But when I did go to the Philippines when I was young, the kids made fun of me because I sounded american when I spoke and so I didn't ever want to speak, which as an adult, I realized that's, that's dumb. Who cares if some stupid kids make fun of you. But as a kid, I was really sensitive about that. So I refused to learn to speak even though I could understand it was like a mental block for me, but that's also why I was terrible at spanish because Tagalog and spanish are similar but different, so I would mix them
+SPEAKER_R: Jack. And when I look at uh when I look at polish, I just, I just imagined scissors just like you know the medicines?
+SPEAKER_L: I have too many consonants in polish more
+SPEAKER_R: No,
+SPEAKER_L: than any language I've seen it, It's crazy.
+SPEAKER_R: I'm in the same situation as you because I'm hispanic and my grandmother, my paternal grandmother and my mother and I suppose my father, they would speak to me in spanish. Um I would speak more english to my mother because she was trying to learn um how to better listening skills in english. Um but now I'm, I'm doing this thing where I speak to my mother only in spanish and it is embarrassing because my pronunciation is garbage, but um
+SPEAKER_L: What
+SPEAKER_R: you have to be garbage first before you can be victoria's, so that's kind of how
+SPEAKER_L: anything?
+SPEAKER_R: I see it yes,
+SPEAKER_L: Yes.
+SPEAKER_R: or being a coach or football player.
+SPEAKER_L: Yeah, that's what frustrates me most most about Tagalog is when I say something, I hear it and I'm like yeah that's terrible and I know how it's supposed to sound, but like in my head I know how it's supposed to sound, but then when I'm speaking I'm like yeah that's not it, that wasn't close. Yeah, and and in the Philippines there's a problem of too many people speak english, so it never really forces you to learn because if you struggle a little bit when you try and speak they'll just talk to you in english to make it easy. You know when you when you buy an apartment in a small village in Serbia, you're forced to learn the basics quickly because you have no no other choice.
+SPEAKER_R: Um it's a similar situation in new york city where there are a lot of in my neighborhood, there are a lot of immigrants from spanish speaking countries. Uh and there are most of the sales representatives and anyone working, they do most likely know spanish. So someone
+SPEAKER_L: So
+SPEAKER_R: who is poor in english is struggling to speak english, they're just going to be spoken in spanish, so they're never really going to practice. It's the same thing with my paternal grandmother
+SPEAKER_L: what?
+SPEAKER_R: where she doesn't really know how to speak english even though she's been here for decades.
+SPEAKER_L: You
+SPEAKER_R: Um It's
+SPEAKER_L: know
+SPEAKER_R: interesting. It's really interesting. I don't know.
+SPEAKER_L: similar similar here. There are a lot of mexicans in southern California and a lot of times the parents never end up learning english, they could just get along with
+SPEAKER_R: Well.
+SPEAKER_L: spanish just fine. Uh huh.
+SPEAKER_R: Do you
+SPEAKER_L: Just
+SPEAKER_R: want to see my, you want to see my husband? Okay. Okay. Yeah. Great.
+SPEAKER_L: it
+SPEAKER_R: Great.
+SPEAKER_L: I was expecting a cat that was not
+SPEAKER_R: do you have a card?
+SPEAKER_L: no, I was just with the way you were reaching down, I was expecting a cat all
+SPEAKER_R: Now his, his cages beside the dress
+SPEAKER_L: mom.
+SPEAKER_R: here,
+SPEAKER_L: What a cute little guy. I have a bulldog but he's in Serbia sadly.
+SPEAKER_R: did you bring him from California?
+SPEAKER_L: No, he's from Serbia.
+SPEAKER_R: I speak to him in Serbian.
+SPEAKER_L: No, I speak to him in english and I joked because he's an english bulldog so he understands, yeah,
+SPEAKER_R: good. I kind of want to cheat.
+SPEAKER_L: you want to cheat.
+SPEAKER_R: I want to cheat. So would you would you say that you feel more isolated when you're in Serbia or in Poland because it's like the follow up questions you know?
+SPEAKER_L: Um No, not not at all there I would say probably even less because they're such friendly people, a lot friendlier than the average american. I would say.
+SPEAKER_R: But I thought you said because you work you work at night that like you
+SPEAKER_L: We
+SPEAKER_R: spend most of your most of your mornings or most of your day just being by yourself perhaps?
+SPEAKER_L: yeah, I mean kind of they in Serbia it's weird somehow they find time for their friends all times of days. So yeah, I'll usually go you know, to coffee or grab a beer with friends like three or four times a week. But yeah, that still leaves a lot of time to get bored. Thank you.
+SPEAKER_R: um I think I started doing prolific and well last year in october um it's
+SPEAKER_L: It
+SPEAKER_R: it's passive income but it's it's delicious in my opinion, it's pretty good.
+SPEAKER_L: yeah. Yeah, you can get I mean I just yeah, I don't know, I'm in a weird spot where football pays for like I don't know, 80-90% of what I need to live. So I I kind of rather than just get a job in a warehouse during the off season, I kind of just like finding random cool ways to make money on the internet because But yeah, money still matter. I still want to make money, but I'm almost make enough from football that I'd rather do something interesting than stack boxes at an amazon warehouse.
+SPEAKER_R: I would be fine stocking boxes in it, having time where if you weren't doing football what would you be doing, would it be another sport or would it be something completely different?
+SPEAKER_L: Um Well, the plan was to be a math teacher. Um and then I randomly got a message during my last semester of college from someone saying, hey, do you want to come play football in Serbia? And I thought, well yeah, I don't have anything planned because I graduated in after the fall semester. And so I was planning on, you know, maybe subbing in the spring and summer and then getting a teaching job in the fall. So I thought, oh yeah, I'll go play six months in Serbia and then move on with my life as a math teacher. And that six months is turned into six years so far. So, so much for that plan. Yeah.
+SPEAKER_R: do you still play football? Are you are you are you still are you still in love with the sport?
+SPEAKER_L: Yeah. I still love it as much as I ever did, in my opinion, the best sport, but I'm obviously very biased. Um, I'm, my main focus is coaching 100%,, but I'm willing to play here and there. Um, there was a team in Serbia that was going to play a friendly against a team in Croatia and I was going to play in just that one game, but coronavirus canceled that. Um, so I'm open to plain like single kind of friendly exhibition games here. Were there? Um, also I play for the Philippine national
+SPEAKER_R: That's cool.
+SPEAKER_L: team, but
+SPEAKER_R: You're
+SPEAKER_L: I mean they have a gym every
+SPEAKER_R: famous. What?
+SPEAKER_L: game. No, not at all. Famous american football is wildly
+SPEAKER_R: Good.
+SPEAKER_L: unpopular, not unpopular, but it's just not popular in the Philippines so I'll play for them. But they play one or two games a year on a normal year. So I'm just I'm retired in the sense that I don't play regularly, but I'm always open anytime I get a chance to play in a country I haven't played in before. I'll take it.
+SPEAKER_R: Uh But um so you you haven't played football since last year I suppose are
+SPEAKER_L: Yeah, last like june so it's been over a year. Yeah.
+SPEAKER_R: well that's are you going to become a math teacher now?
+SPEAKER_L: Yeah. I I suspect not. I think I've really, I really enjoyed coaching and I think I'll probably make a make a career out of that rather than, well mostly because I don't want to move back to America full time. I just think the lifestyle in europe is a little bit better. Not even a little bit. I think it's a lot better. Yeah, but it's just me. I mean my, I bought my apartment in Serbia, it cost me $15,000. Um I don't think you can buy a closet for $15,000 in America. So it'll be really hard for me to go back mentally. Hard for me to go back and pay american prices for everything. Mm hmm.
+SPEAKER_R: And there is also the american bulldog. So what could do, how could you abandon him? Her?
+SPEAKER_L: Well he's an english bulldog which
+SPEAKER_R: No english product,
+SPEAKER_L: I did
+SPEAKER_R: my mistake.
+SPEAKER_L: not know it was different until a couple months ago and I felt really silly but apparently they're different.
+SPEAKER_R: What's the difference? Bigger eyes,
+SPEAKER_L: They're just different breeds I guess the english bulldogs a little bit bigger. So apparently there are english french and american bulldogs
+SPEAKER_R: serving
+SPEAKER_L: fred.
+SPEAKER_R: bulldogs? I'm serpent serpent bulldogs. Is that a thing?
+SPEAKER_L: please. I don't think so. But french are the smallest and then english are the biggest and then american are kind of in the middle. Thank you.
+SPEAKER_R: Serpent rottweiler? What is this?
+SPEAKER_L: apparently a Serbian rottweiler. I don't know.
+SPEAKER_R: Who's taking care of him right now?
+SPEAKER_L: My
+SPEAKER_R: The
+SPEAKER_L: fiance,
+SPEAKER_R: did you, did you meet in a game? Is it the parent of one of your students?
+SPEAKER_L: No she played for the team I played for in 2018. Um She yeah she played for the women's team. Yeah I
+SPEAKER_R: How
+SPEAKER_L: don't
+SPEAKER_R: long
+SPEAKER_L: know it
+SPEAKER_R: up sir?
+SPEAKER_L: let's see. Trying to find a picture.
+SPEAKER_R: The doggy?
+SPEAKER_L: I don't know. I don't know if it's going to show good on my phone. Let me see if I could. That's him.
+SPEAKER_R: He's you'd
+SPEAKER_L: Yeah I always joke he looks just like his dad.
+SPEAKER_R: does he bark, does he bark of an accent? I'm just joking.
+SPEAKER_L: Right she parks every time we leave them alone it's crazy.
+SPEAKER_R: That's amazing.
+SPEAKER_L: you. He's a good boy. I think bulldogs are great because they're kind of that in between where they're active enough that you can enjoy taking them for walks and stuff but they're also sort of lazy so they don't that much attention. I think they're kind of a good mixture.
+SPEAKER_R: And bulldogs, they have breathing issues or is that the pugs, pugs or? Oh it's plugs
+SPEAKER_L: probably probably both bulldogs have yeah they have the small noses so they have breathing problems. Yeah
+SPEAKER_R: this
+SPEAKER_L: he snores like a crazy person but
+SPEAKER_R: uh do you have any videos online or maybe I could just search it up. Bulldogs tomorrow?
+SPEAKER_L: he he has an instagram.
+SPEAKER_R: Oh my gosh.
+SPEAKER_L: Um It's, let me see let me double check this. Right. Yeah it's bulldog underscore max. M. A. X. X.
+SPEAKER_R: Right. Right, so well okay, bulldog underscore
+SPEAKER_L: Mhm. Yeah underscore max M. A. X. X.
+SPEAKER_R: maximally maximilian maximilian girl. Oh he's huge. Okay, I'm following him. Oh my gosh. He looks like he plays football. Oh my
+SPEAKER_L: big
+SPEAKER_R: look
+SPEAKER_L: he's a big boy and that's the that picture you just looked at. That's the balcony of the of my apartment.
+SPEAKER_R: so you don't live in a closet into serving.
+SPEAKER_L: I don't thankfully
+SPEAKER_R: Did he get did he get a physical characteristics from you? Are you like a big guy? I can't tell. Oh my God,
+SPEAKER_L: it must be because
+SPEAKER_R: no,
+SPEAKER_L: every bulldog we see as much he has very wide shoulders compared to all the other bulldogs we see and so I'm not really sure how he ended up so big but he
+SPEAKER_R: I
+SPEAKER_L: did
+SPEAKER_R: can smell all
+SPEAKER_L: yeah that's him. Oh
+SPEAKER_R: His face is through screechy herrick. I'm more of a cow person but I can appreciate a good dog, you know?
+SPEAKER_L: I guess I'm the opposite way I'm more of a dog person but I like cats. I'm not one of those people that hates the other thing. Like I've mm I have certain cats that I'm very very fond of.
+SPEAKER_R: Oh my gosh. Which which is your favorite cat?
+SPEAKER_L: No I don't know different kinds of cats. I just mean actual cats that I know in real life. Yeah,
+SPEAKER_R: Siamese with the triangle face? Or there's a long hair, there's some main croons, which can be up to like
+SPEAKER_L: not
+SPEAKER_R: £30
+SPEAKER_L: the main, I know what a maine coons looks like just because my friend just got one
+SPEAKER_R: huge.
+SPEAKER_L: those
+SPEAKER_R: What's
+SPEAKER_L: are intent.
+SPEAKER_R: who do you like the furthest careless cuts
+SPEAKER_L: I don't they freak me out. They look so weird. But then again I really love bulldogs and I guess objectively bulldogs look
+SPEAKER_R: you?
+SPEAKER_L: weird too. But it's like the weird that I like. I don't know,
+SPEAKER_R: All right. I wonder if there's a cat that looks like a bulldog
+SPEAKER_L: there must be and I think there has to be a cat that looks like everything right?
+SPEAKER_R: Not like a bulldog, does it look quickly? Others A hairless cat.
+SPEAKER_L: You like hairless cats? Okay. Okay.
+SPEAKER_R: I suffer from allergies, but I mean Charles is pretty furry. But um no, I just I think
+SPEAKER_L: And
+SPEAKER_R: I think it's the contrary pain inside of me where it's like everyone hates it. So, I'm gonna love that shit out of you know how this
+SPEAKER_L: get
+SPEAKER_R: goes?
+SPEAKER_L: out. Yeah, that makes sense. That makes sense. But allergies I'm not allergic to any animals but I'm apparently allergic to europe. Which is annoying
+SPEAKER_R: It's
+SPEAKER_L: because
+SPEAKER_R: europe
+SPEAKER_L: I love you. I
+SPEAKER_R: our
+SPEAKER_L: only
+SPEAKER_R: soldiers.
+SPEAKER_L: have allergies in europe, I don't have allergies in Asia, I don't have allergies in America. I don't have allergies when I'm in europe.
+SPEAKER_R: I think
+SPEAKER_L: I don't
+SPEAKER_R: the
+SPEAKER_L: know
+SPEAKER_R: election,
+SPEAKER_L: what it is.
+SPEAKER_R: it could be the pollen that genetically modified trees and the flowers. And maybe even the foods. Are you allergic to any foods?
+SPEAKER_L: no, nothing that I know of.
+SPEAKER_R: I'm allergic to a lot of foods, but maybe maybe maybe it's different in europe.
+SPEAKER_L: Yeah, there has to be something that's different. It's I'm sure it's like a certain kind
+SPEAKER_R: For
+SPEAKER_L: of plant
+SPEAKER_R: month
+SPEAKER_L: that we
+SPEAKER_R: after
+SPEAKER_L: don't have In other places, but I
+SPEAKER_R: Tommy.
+SPEAKER_L: don't know which one I wish I did.
+SPEAKER_R: That's
+SPEAKER_L: But
+SPEAKER_R: amazing.
+SPEAKER_L: um kind of random fact, that's the coolest
+SPEAKER_R: I
+SPEAKER_L: part of
+SPEAKER_R: want
+SPEAKER_L: coronavirus for me is I realized that I've been wasting my money on allergy medications
+SPEAKER_R: so when
+SPEAKER_L: these last couple of years because wearing a mask outside just takes care of that. So that was a lucky discovery from coronavirus.
+SPEAKER_R: Right. In china because air pollution is so bad. They do they were masks and it's apparently really good. It's kind of it's crazy to think that that that is where we might head to with all the industrialization and stuff like that. But Okay. Well we've been talking for almost 40 minutes. Oh
+SPEAKER_L: we have a really
+SPEAKER_R: no, no.
+SPEAKER_L: great too.
+SPEAKER_R: Oh is it? Oh yeah.
+SPEAKER_L: 38
+SPEAKER_R: 40 minutes.
+SPEAKER_L: or something. Yeah.
+SPEAKER_R: Yeah. It is great to meet you. I do have to go. Um But it's great to see you Great Grace. Um
+SPEAKER_L: Yeah, it was great to see you too. I really enjoyed
+SPEAKER_R: All
+SPEAKER_L: our conversation.

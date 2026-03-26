@@ -1,0 +1,57 @@
+# ═══════════════════════════════════════════════════════════════════════
+# ZEmbeddings — Default Experiment Configuration
+# ═══════════════════════════════════════════════════════════════════════
+# This file mirrors the PARAMS dict in src/zembeddings/params.py.
+# Per-experiment overrides go in config/experiments/<name>.yaml.
+# Any key here will be deep-merged over the Python defaults.
+# ═══════════════════════════════════════════════════════════════════════
+
+model:
+  name: "text-embedding-3-small"
+  dimensions_full: 1536
+  dimensions_reduced: 256
+  max_tokens_per_input: 8192
+  batch_size: 2048
+
+window:
+  size: 10          # tokens per window
+  stride: 1         # tokens between successive windows
+  encoding: "cl100k_base"
+
+ema:
+  alpha: 0.3        # EMA decay — lower = longer memory
+
+boundary:
+  k_sigma: 2.0      # standard deviations for boundary flag
+  min_samples: 5     # warmup windows before detection activates
+
+kalman:
+  process_noise_scale: 1.0e-4
+  measurement_noise_scale: 1.0e-2
+  initial_covariance_scale: 1.0
+  innovation_threshold: 3.0   # Mahalanobis distance cutoff
+  mode: "scalar"              # "scalar" | "vector"
+
+semantic_cloud:
+  similarity_floor: 0.30     # cosine sim below this ≈ noise
+  cluster_threshold: 0.85    # above this → same cluster
+  return_threshold: 0.80     # similarity to past centroid → "return"
+
+derivatives:
+  method: "gradient"          # "gradient" | "diff"
+  edge_order: 2
+
+database:
+  enabled: false
+  host: "localhost"
+  port: 5432
+  dbname: "zembeddings"
+  user: "postgres"
+  password: ""
+
+paths:
+  data_raw: "data/raw"
+  data_synthetic: "data/synthetic"
+  data_processed: "data/processed"
+  results_metrics: "results/metrics"
+  results_reports: "results/reports"

@@ -1,0 +1,289 @@
+SPEAKER_L: Yeah. Uh huh. Mhm. Hey an actual person
+SPEAKER_R: How are you doing?
+SPEAKER_L: I'm doing
+SPEAKER_R: So
+SPEAKER_L: well.
+SPEAKER_R: why
+SPEAKER_L: How
+SPEAKER_R: am I
+SPEAKER_L: are
+SPEAKER_R: saying?
+SPEAKER_L: you? Oh
+SPEAKER_R: All right. Do you do you see yourself in a small screen in the corner?
+SPEAKER_L: I do, I do. And
+SPEAKER_R: I see
+SPEAKER_L: you?
+SPEAKER_R: you as a large I see you as a large screen and I see myself as a small screen. Is that the way
+SPEAKER_L: Same.
+SPEAKER_R: it's supposed to be?
+SPEAKER_L: I think
+SPEAKER_R: All
+SPEAKER_L: so.
+SPEAKER_R: right. Great. I'm gonna I have a an android
+SPEAKER_L: All
+SPEAKER_R: phone and I'm going to I'm going to set my timer and harry, what is your name,
+SPEAKER_L: My name is Jack and yours?
+SPEAKER_R: Jack? My name is Gina. It's
+SPEAKER_L: meet you Gina.
+SPEAKER_R: to meet you, Jack.
+SPEAKER_L: How
+SPEAKER_R: So
+SPEAKER_L: are you
+SPEAKER_R: how
+SPEAKER_L: today?
+SPEAKER_R: did you? I am okay. I'm in New Jersey. Where are you?
+SPEAKER_L: Rhode island.
+SPEAKER_R: Oh, nice. Alright. So at the very, so it's the same time for you as it is for me. So it's a little early. Yes,
+SPEAKER_L: it is.
+SPEAKER_R: so it's a little early.
+SPEAKER_L: So so I've tried
+SPEAKER_R: So
+SPEAKER_L: to do this thing like three Other times and every time it fails. Have you?
+SPEAKER_R: I actually have done this. This is like my 3rd time. But the last time I did it, that would
+SPEAKER_L: Whatever.
+SPEAKER_R: have been my fourth time and the person didn't show up.
+SPEAKER_L: So so the person showed up the last three times for you?
+SPEAKER_R: I did it twice before, I did it twice before and people showed up, but one other
+SPEAKER_L: What?
+SPEAKER_R: time I tried and the person didn't show up and that was a little disappointing. Um And uh yeah, it was all disappointing
+SPEAKER_L: Or
+SPEAKER_R: and this time
+SPEAKER_L: or
+SPEAKER_R: I guess the only thing that sucks is that it's nine in the morning and usually I don't know what your schedule is like, but for me, I kind of like waking up and having a little bit of a like a morning routine and I'm not used to like waking up and like talking to someone at nine in the morning, but it's like they gave me, they gave me the schedule and they're like, you know, be up at nine and be ready to talk to someone, so I'm like ok, I'll do it, no problem. Um So so this is good. Um
+SPEAKER_L: And you
+SPEAKER_R: So what do you usually do in the morning?
+SPEAKER_L: I'm up at five. I usually go for a bike ride around the city. Uh and then I uh started working a little bit and then I started working my regular job at 8:30 PM.
+SPEAKER_R: Oh my God, I'm not sound like a very impressive person actually. You go for a bike ride. What what city do you live in? You're in providence,
+SPEAKER_L: A city next to problems anyways.
+SPEAKER_R: right, and how long how far do you bike?
+SPEAKER_L: Uh to be like 5 10 mi. Not not too much, it depends on the day, like on the weekend I'll go for Like a 40 mile ride, but during the weekday I just go for a quick ride to clear my head.
+SPEAKER_R: Wow, that's really very enviable. I kind of I kind of envy because I think I'm a pretty, I think I'm a pretty sedentary person and I think that I need to get a little bit more physically active and you're gonna laugh. Uh For
+SPEAKER_L: Yeah,
+SPEAKER_R: me, I feel like listen if I can do A 15-20 minute walk a day,
+SPEAKER_L: you
+SPEAKER_R: That
+SPEAKER_L: mean
+SPEAKER_R: would be something and you doing 5-10 miles and then doing 40. Really really impressive Jack. Like
+SPEAKER_L: thanks.
+SPEAKER_R: that's really impressive. That's that's like really great.
+SPEAKER_L: I kind of have to it's not it's not because I want to uh because because otherwise I'll have back pain so I need to stay busy or my back hurt, so uh lights kind of forced me into this. Yeah.
+SPEAKER_R: Have you? Um I I had back surgery probably. It's you know, it's weird, I don't know what it is about me but I have a very bad memory when it comes to things that happened in my life. I know I had back surgery, but if you were to ask me like, what year did you have it?
+SPEAKER_L: I was
+SPEAKER_R: I couldn't tell you. I want to say like in the early 2000s I blew a disk. I blew I blew a disk and it's like the majority of the disc like stayed in place. But I think the contents of the disc went out into the column and started pressing, started pressing against a nerve. And I had like numbness in my leg and I had to go and get surgery to remove that. And did you ever have back surgery or you just had back pain?
+SPEAKER_L: no, just back pain. Uh uh it started with maybe two years ago, I started to do like desk job and uh you know we're doing Turkey and things like doing work like this. I sit way too much for way
+SPEAKER_R: you
+SPEAKER_L: too long.
+SPEAKER_R: were doing. And when you said you said you were doing like mturk, okay, go
+SPEAKER_L: Yeah.
+SPEAKER_R: on. I'm sorry, I need to interrupt.
+SPEAKER_L: No no I just, you know in this modern world in order to make money, I find myself sitting in front of a computer for way too long every day. So I got you know the only thing that seems to alleviate that is exercising and doing yoga and do yoga as much as I can. Uh Just gotta move around, I don't move around by the end of the day, I'm like in agony working in agony, like like ready to not do this anymore, that bad, so I just stay active,
+SPEAKER_R: Right. So now you said your first, your first job is at 5:30 and then your second job is at 8:30 or
+SPEAKER_L: I
+SPEAKER_R: no.
+SPEAKER_L: just have a data from 8:30-4. Um But I like to make more money so I'm always hustling so I'll do anything out of the south stuff on craigslist. I'll do work on amazon Mturk, I'll work on prolific. There's a few other websites, things like that. Anything to make a few extra bucks. Uh huh.
+SPEAKER_R: So let me can I can you explain to me how mturk work? How does mturk pay?
+SPEAKER_L: way worse than prolific. Um Yes. Yeah, I mean it's pretty hard I think to even get on now. They reject a lot of people when you apply. Um You kinda gotta get better with like coding. It's not not coding but you have to like install web extensions on your browser to kind of help enhance it because if you just work on the website straight face value, you're not going to make a lot of money, you're going to work really hard. Um But once you have the technology and the stuff in the browser that kind of searches through the task and picks the better paying to ask. So you can kind of you can roll through the requesters and see who makes shitty surveys and who makes well paying and you just focus on the well paying ones and It makes I don't know 5 to 10 a day. On a good day. Maybe 10.20. Uh you know maybe more than 20.
+SPEAKER_R: So, so in other words, a person like me who does? I don't really understand a lot. Even about what you said, I just have a computer. I just have like a computer and I know I know how to fill out a survey, but that's about it. The other stuff you were talking about, like whoa, right over my head, So
+SPEAKER_L: got it.
+SPEAKER_R: maybe enteric isn't for me?
+SPEAKER_L: No, I think, I mean if you're doing stuff like this, I think you should definitely be doing mturk. Um You should look up like Reddit is a good website. Reddit and the like you can look, you know, like google enter how to make money more efficiently, stuff like that and uh it'll explain everything I said probably a lot better than I just did.
+SPEAKER_R: No, wait, read it isn't Reddit sort of an information website.
+SPEAKER_L: Yeah. I mean it's kind of morphing into like you can do like instant message now on it too. I think it's going to be like an up and coming website. I mean at least as far as good information, that's the best website out there, I think. I mean in terms of a lot of different things.
+SPEAKER_R: But you're
+SPEAKER_L: No,
+SPEAKER_R: saying you can't make money on Reddit, You go to read it to find out information.
+SPEAKER_L: yes. You know like, you know anything you want to like, if you want to do something better, you just google it and then by tomorrow you'll probably be a little bit more efficient. Right,
+SPEAKER_R: I mean, I guess the thing is is that I really prefer to be paid via Paypal and I heard mturk pays differently.
+SPEAKER_L: to be uh I set up an automatic Are you still there? Okay.
+SPEAKER_R: I'm here to stay.
+SPEAKER_L: Yeah, everything's good.
+SPEAKER_R: All right. Go on.
+SPEAKER_L: I set up automatic payments goes right to my bank account every three days. Uh So it's this constant steady stream of like income.
+SPEAKER_R: No, that's fine. No, no, no. I'm totally okay with going to my bank account. I just heard the enter pays like via amazon or something and I don't I don't wanna
+SPEAKER_L: It's just amazon.
+SPEAKER_R: work.
+SPEAKER_L: Amazon owns everything. Right? So amazon now has a banking branch. So like for a minute it goes to like amazon's Intermediate. And then, I mean it's the transfers within a day. So I mean, I don't really know where it goes in that day before it hits my bank account.
+SPEAKER_R: All right. So, so long as you can so you can route it, you can route it to go to your bank.
+SPEAKER_L: it's automatic. Yeah. You can you can you can request like amazon gift cards and things like that or you can request cash. It's just an option.
+SPEAKER_R: Yeah. All right. I would definitely I would definitely want to route it. I would definitely want to route it to my bank account.
+SPEAKER_L: Yeah. And then every three days because you never know when a site might close down with your money in it. I mean it just happens.
+SPEAKER_R: Right. So you're saying prolific for you prolific has been better than mturk.
+SPEAKER_L: Yeah less work but the works easier and quicker and more suited towards me.
+SPEAKER_R: Right, Okay. All right. Um I've been trying to do um these um what are they called? Their like uh public no, these like research things where you you have to drive to like a facility but they'll make you drink seltzer and then like comment on whether you like the seltzer or they want you to smell cat litter and tell you how the cat litter cells. But then they give you cash or they give you like a Visa card. Unfortunately.
+SPEAKER_L: What?
+SPEAKER_R: Unfortunately it's not it's not that often, you know what I mean? So you have to like call and check in and see and where I live in New Jersey. There's not there's not that many of them where my sister lives. My sister lives in like North Jersey like near new york city. So there's a lot there's a lot more of them. And I live like in central Jersey like near the ocean. There's not there's not as much
+SPEAKER_L: What
+SPEAKER_R: going on
+SPEAKER_L: same here?
+SPEAKER_R: and uh you know what I mean? So um what is your what is your regular job? What do you do for me to for?
+SPEAKER_L: uh I work at the Department of Human Services I get people food stamps health insurance things like that.
+SPEAKER_R: Oh, that sounds really nice.
+SPEAKER_L: Uh Yeah it's been a long day. Um I've been in that kind of feel for about 10 years and this is a good relaxing desk job so I like it.
+SPEAKER_R: Well, I um I recently became disabled.
+SPEAKER_L: sorry to hear that.
+SPEAKER_R: I um I have bipolar disorder And to be honest, I would say like, since I was 14, every time I started a job, every time I started a job I would have these racing thoughts, overwhelming feelings of panic and dread and doom, anxiety, nightmares, feelings like I want to vomit. Um
+SPEAKER_L: you know
+SPEAKER_R: but obviously you need to make money, you need to pay your bills, right? So I would like put up with it and I would like handle it. And
+SPEAKER_L: What mm
+SPEAKER_R: I guess I got to the point where like, dude, I wasn't able,
+SPEAKER_L: What
+SPEAKER_R: like, I I would basically hold down a
+SPEAKER_L: I'll,
+SPEAKER_R: job for like, Maybe like two years and then I would like get I would get in a car accident because the the anxiety was like so terrible that I wouldn't be able that like, I wouldn't In other words, like I wouldn't be able to like keep it together.
+SPEAKER_L: All
+SPEAKER_R: And like, I would get in a car accident and then I'd end up going on like temporary disability and I get better and like, I get another job and then I threw my back out and again. So, in other words, it wasn't just it wasn't just like up here. It would end up like manifesting, it would end up like manifesting itself in my body.
+SPEAKER_L: so let's say maybe if you could work from home would that have like maybe you've been a little easier?
+SPEAKER_R: Well, wait a minute. Hello? Ada did you get your keys? All right. Well, what what happened? All right. Can I call, can I call you back in like
+SPEAKER_L: No.
+SPEAKER_R: 10 minutes? Let me call you right back. All right, bye. All right.
+SPEAKER_L: Yeah.
+SPEAKER_R: So, um So, you know what I'm thinking? I'm thinking now if I this is like my life goal, my life goal is if I can maybe work 10 to 15 hours a week under the table and get paid via Paypal or, and the idea is like not the anxious at work and not the anxious when I'm home. That would be like a major victory for me.
+SPEAKER_L: Are you going to collect social security at the same time? Be careful about under the under uh be careful about that you're getting under you know unreported income. They'll they'll screw you over bad they will take money back. You Um
+SPEAKER_R: I mean
+SPEAKER_L: you
+SPEAKER_R: to
+SPEAKER_L: can report
+SPEAKER_R: be honest
+SPEAKER_L: you
+SPEAKER_R: back,
+SPEAKER_L: can make up to
+SPEAKER_R: what?
+SPEAKER_L: without you can make up to $1,000 I believe and it shouldn't affect your
+SPEAKER_R: Well you eat, you want to know what happened?
+SPEAKER_L: water. Right.
+SPEAKER_R: I found a gig and the gig was, you froze, You know, you're okay now. Um, I did this thing where, uh, it was this thing where you would basically chat on a website With other people about anything gardening, how your day was and they would pay you $50 a week. So that's nothing That's $200 a month. And I contacted, I contacted disability and I said, listen, I'm doing like, so I'm trying to do on the up and up and I'm trying to be honest and do the right thing.
+SPEAKER_L: yep yep.
+SPEAKER_R: And immediately, immediately they sent me a letter saying we're going to review your file to see if you're still eligible. I mean, think about the anxiety and the dread. Like immediately they're like, well maybe maybe you don't qualify for disability anymore because you're earning $50 a month or $50 a week. So, I mean, it filled me with absolute terror.
+SPEAKER_L: Yeah. Do you have someone like a social worker that could kind of help you with them? Because I mean that agency is just terrible to deal with for anybody. Um
+SPEAKER_R: But I mean, but you can imagine like, you can get what I'm saying why,
+SPEAKER_L: Hollywood
+SPEAKER_R: Like, that would be absolutely terrifying. Like, I'm trying to do the right thing. I'm trying to follow the rules, and the way you thank me is by sending me a letter saying now you're going to review my file.
+SPEAKER_L: Yeah I mean I know every state is different but I know in Rhode Island there's an exception where you can make up to 1000, you
+SPEAKER_R: No,
+SPEAKER_L: know?
+SPEAKER_R: there is a New Jersey. No, dude, in in New Jersey, there's the same exact rule. And I, I was just thinking like, okay, so I'm doing the right thing, I'm telling you, I'm earning $200 a month, which is nothing, it's something like. And you want to
+SPEAKER_L: but
+SPEAKER_R: talk
+SPEAKER_L: they
+SPEAKER_R: about
+SPEAKER_L: are
+SPEAKER_R: the bare minimum,
+SPEAKER_L: But they are going to review it. So basically what happens, I mean I mean I don't think 200 a month would offset, but the worst case that I'm not a social security guy, I don't want to say the wrong thing. But I imagine the worst that could happen is they're going to take out a little bit of your check. But you know to make the amount that you know you make should be higher than the check. But the worst that could happen is maybe one month reduce a little bit of the benefit because you made more. But they
+SPEAKER_R: think
+SPEAKER_L: should
+SPEAKER_R: I just got scared. I think
+SPEAKER_L: I
+SPEAKER_R: I just got really, really scared.
+SPEAKER_L: would be that's a scary thing. We're going to review
+SPEAKER_R: I
+SPEAKER_L: your
+SPEAKER_R: felt,
+SPEAKER_L: check.
+SPEAKER_R: I felt very, I
+SPEAKER_L: What?
+SPEAKER_R: felt very triggered and I felt very threatened. So, so I met this, I met this woman, I met this woman and she runs this Ethiopian Dominican restaurant
+SPEAKER_L: Who?
+SPEAKER_R: And I was, I was in the Peace Corps like 20 years ago in
+SPEAKER_L: shoot
+SPEAKER_R: Ethiopia. So I'm very like attracted, I'm very attracted to like Ethiopian people and Ethiopian restaurants that I want to like practice the language even though like I barely remember the language anymore and we became friendly and I said, listen what if like once a week or twice a week I came by and I just helped you in the back and I just like cut the carrots, cut the onions. Like I measured out the french fries and she's like, well I would give you, I would give you some money and I said, well you, you give me what you think is fair. So I've been sort of going there and I give her a hug and I'm like, oh, do you need help today? And so I've been sort of doing that and it just makes me feel like I'm not useless and I'm not helpless and honestly Jack, I don't want to feel like my life is over, I don't want to feel like I'm doing nothing, you know what I mean? And but still I've been feeling a lot of anxiety even with that, even doing that, like just helping somebody. I feel a lot of anxiety and I called disability and they told me even if you're going to do something where you're working uh where you're working And doing like that $50 a week every month you have to send us a sheet of paper telling us how much you earned. And like every month I've gotta like report to them. So it's like a part time job. So it's it's just it's very stressful.
+SPEAKER_L: Yeah. I mean it's kind of it becomes self employment, right? I mean at some point you just have to keep a record of all that's coming in. I mean with food stamps, right? If you tell me you're making a little bit more money, I'm going to come, I'm gonna find out. You need to tell me how much like especially the self employed people, you can tell me it's only $25 that's on you. Right? I mean the records around you. But you need to keep a record because whether it's the Department of Human Services or whether it's the tax man, we want to know how much you made a month. I mean it's just how it goes. So I would just keep a written record. But I can imagine how that's very stressful. Mhm. That's gonna
+SPEAKER_R: So
+SPEAKER_L: be tough.
+SPEAKER_R: that's so basically you have like seven jobs and I have like I
+SPEAKER_L: I've
+SPEAKER_R: have
+SPEAKER_L: got
+SPEAKER_R: half a job.
+SPEAKER_L: I've got one job I've worked since I was about 10. I
+SPEAKER_R: Oh you froze
+SPEAKER_L: should have enough
+SPEAKER_R: froze.
+SPEAKER_L: money to stop working soon. Oh I
+SPEAKER_R: So wait,
+SPEAKER_L: don't know.
+SPEAKER_R: say this. So say this again. You you I said this is the last thing I heard was I have half a job and you have seven jobs and then you started talking but you froze
+SPEAKER_L: I got to I've got one job one day job and
+SPEAKER_R: which
+SPEAKER_L: then
+SPEAKER_R: is
+SPEAKER_L: I
+SPEAKER_R: the human services,
+SPEAKER_L: just. Yeah. Yeah. and uh I've been working since I was about 10 and I saved my money so I'm hoping to be done working about a year or two.
+SPEAKER_R: you want to be like, you want to retire in a year or two?
+SPEAKER_L: Well retire in the sense not working uh full time. 35 hours, something like 10, 15, 20 hours. A relative of mine just got diagnosed with a terminal illness. So it kind of makes
+SPEAKER_R: I'm
+SPEAKER_L: life
+SPEAKER_R: very sorry to hear that. What
+SPEAKER_L: hey
+SPEAKER_R: who
+SPEAKER_L: Larry.
+SPEAKER_R: can I may I ask, may I ask, is it a cousin?
+SPEAKER_L: No, no, it's it's an uncle that's an uncle and maybe it's not
+SPEAKER_R: What
+SPEAKER_L: terminal. But it could be, it just looks really
+SPEAKER_R: what
+SPEAKER_L: bad
+SPEAKER_R: is it
+SPEAKER_L: now.
+SPEAKER_R: cancer? I'm sorry. I'm sorry.
+SPEAKER_L: it happens is what it is. Um
+SPEAKER_R: How does this relate to your story?
+SPEAKER_L: Don't know Because you could get sick at any time. So why work? I spent my whole life work and like I said I've worked since I was 10. I spent a lot of my life working. So in the end I don't want to be looking back on a life full of work and not a life full of living
+SPEAKER_R: So what do you, what are your, what are some of your goals for yourself? What do you want to do? Like what does, what does your life look like?
+SPEAKER_L: Paying off my mortgage in the year two and then a lot of hype in a lot of traveling and then figuring out what I want to do with the rest of it.
+SPEAKER_R: That sounds great Dude, you cut out? I I don't see you.
+SPEAKER_L: Oh no I see you. Uh This has.
+SPEAKER_R: I see, you know what I see? I see a black screen and I see wet of like like a silhouette of a man that's like a an icon of a man that's not you did you did
+SPEAKER_L: I see.
+SPEAKER_R: you maybe like on something,
+SPEAKER_L: No I haven't touched it. I see myself. I see you. I'm good. I see myself very well. I'm pretty right. But so so what do we have two more minutes on this now? Well
+SPEAKER_R: yeah, basically 2.5 more minutes. I mean, I mean listen I have audio so I guess that's okay. I mean,
+SPEAKER_L: I can see you and I can see myself so I I think we're out.
+SPEAKER_R: I mean, I listen, I would, I would prefer to see you, but I mean I can still hear you, which is good. Um, but no, honestly, Jack, I think you're a very impressive. You're back. You're back. I mean, you're a very, you're a very impressive person.
+SPEAKER_L: Thank you.
+SPEAKER_R: I'm like, I'm really impressed by you. Can I tell you one of my major concerns is retirement?
+SPEAKER_L: Yeah I agree.
+SPEAKER_R: 1
+SPEAKER_L: I'm
+SPEAKER_R: 1
+SPEAKER_L: not
+SPEAKER_R: of my major
+SPEAKER_L: going on.
+SPEAKER_R: concerns. What
+SPEAKER_L: I agree. Yeah. A lot of people retire if you don't have a plan. Uh It doesn't work out. Well
+SPEAKER_R: I feel
+SPEAKER_L: I'm
+SPEAKER_R: like there's like a finite amount of money. You need a set amount of money to be able to live month to month. And then as time goes by, things get more expensive and you need to, and you don't know when you're gonna die right now? Obviously what if you live to 90 you need to have a certain amount of money side. So, I mean, have you considered have you considered that
+SPEAKER_L: I've got a good deal of money. Once I pay off my mortgage. It's just a matter of keeping my day job. My day job comes with health insurance, pension. I've already I already know how much I would get social security. It would already be enough to cover everything and then some So it would be more of a battle to make it to 62. And I'm always gonna work. I'm just not gonna work full time
+SPEAKER_R: the way
+SPEAKER_L: planet.
+SPEAKER_R: you're just not gonna work full time?
+SPEAKER_L: I don't like having to I'm up at five regardless, right? I'm gonna be up to five and I'm gonna work till eight. That's just me. But I'd rather work on what I want to do then have a boss, tell me what to do.
+SPEAKER_R: Right? And may I ask how old you are,
+SPEAKER_L: 33.
+SPEAKER_R: wow dude, you're like very, I'm very impressed. That's incredible. That's incredible.
+SPEAKER_L: I thank you.
+SPEAKER_R: That's really great. Um So I mean, I guess the situation I'm in is that I'm just going to try to put more money aside in my four oh one K. I'm going to try to set aside more money in my four oh one K every month and you know, I'm just going to try to hope for the best and hope that I've got enough money set aside and you know, work work that way and maybe I'll look into mturk, I'm going to keep doing prolific and you know, maybe there's something else that I can do under the table, but I I take your advice seriously about, you know, telling disability what's going on and I appreciate I appreciate the I appreciate the advice and it was wonderful talking to you. I
+SPEAKER_L: I really
+SPEAKER_R: think
+SPEAKER_L: enjoyed
+SPEAKER_R: we've
+SPEAKER_L: talking
+SPEAKER_R: been talking
+SPEAKER_L: to you.
+SPEAKER_R: for. Yeah. I mean honestly, I will tell you this of all the people I've spoken with this was by far the best conversation.
+SPEAKER_L: Okay, well, this was the only one and I'm glad I got to have it. I hope you have a great day.
+SPEAKER_R: So hopefully you can do this again and I don't understand. What am I supposed to do? Am I just supposed to close out?
+SPEAKER_L: Let's see. Um it's been more than 25 minutes. Right,
+SPEAKER_R: No, it has. But I don't know if I'm supposed to like keep this open or do I just X out?
+SPEAKER_L: well, let me go read the directions real quick. I don't it's probably gonna take me off the screen. I don't know. Uh Do not move on to the next page until you have opened the video channel. I do not know when you can comfort when the concert or is your council conference between interrupted return to this to have and continue. Okay, So it looks like you just go back to the first page. The page that would have the link that brought you. Here. You go back. You go
+SPEAKER_R: And
+SPEAKER_L: back
+SPEAKER_R: just
+SPEAKER_L: to
+SPEAKER_R: close
+SPEAKER_L: that.
+SPEAKER_R: out.
+SPEAKER_L: Yeah, it looks like it then just hit next and take it from there. Right?
+SPEAKER_R: Listen Jack, it was wonderful talking to you, enjoy the rest of your day.
+SPEAKER_L: You, too. It was great talking to you.

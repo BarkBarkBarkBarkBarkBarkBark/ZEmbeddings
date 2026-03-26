@@ -1,0 +1,260 @@
+SPEAKER_L: Yeah. Uh Okay. Yeah. Mhm. Yeah. Yeah. Mhm. Yeah. Yeah. Oh. Mhm. Yeah. Yeah. Yeah. Yeah. Yeah. Mhm. Yes. Mm, mm. Yeah. Good. Yeah. Sure. Okay. Uh huh. Okay. Uh huh. Yeah. Yeah. Yeah. Uh huh. Yeah. Yeah. Yeah. Uh huh. Oh, mm hmm. Yeah. Mm hmm. Yeah. Yeah. Mm, correct. Yeah. Yeah. Yeah. That would be grateful. Yeah. Yeah. Yeah. Yeah, wow angle. Uh huh. Cool. Yeah. Yeah. Yeah. What? Yeah, wow. Mhm. Mhm. Okay. No details. Uh huh. Mhm. Mhm. Oh,
+SPEAKER_R: Hello?
+SPEAKER_L: hey, how you doing?
+SPEAKER_R: Good, how are you?
+SPEAKER_L: not too bad. I think a little bit, little bit broken up, but I think it clears up after a little bit looks like you're in the car maybe.
+SPEAKER_R: I am
+SPEAKER_L: Hey there.
+SPEAKER_R: in a car right now but I'm
+SPEAKER_L: All
+SPEAKER_R: not driving
+SPEAKER_L: let's go, man. Where you from? All right on.
+SPEAKER_R: How about you?
+SPEAKER_L: I'm from new york.
+SPEAKER_R: Oh new york. Uh
+SPEAKER_L: upstate buffalo, wow, upstate new york and buffalo.
+SPEAKER_R: uh well um yeah, I live in new york, Delaware. It's it's in I guess it's like North Delaware. Uh How
+SPEAKER_L: What you got
+SPEAKER_R: how is the weather?
+SPEAKER_L: house a while? It was, it was all right last weekend. But this, this weekend I got pretty cold. So it's kind of because of all the lake effect, it gets cold real quick around here so that's that's why it's no so much. Yeah.
+SPEAKER_R: Oh yeah,
+SPEAKER_L: Yeah.
+SPEAKER_R: I always hear that it snows a lot in buffalo.
+SPEAKER_L: Yeah. Well it's funny you can kind of draw the line across buffalo in the southern part of buffalo
+SPEAKER_R: Dangerous.
+SPEAKER_L: because of the lake effect will get like six ft of snow and like the northern part will get like maybe a foot. That's crazy. I'm not from around here originally so it's the mountain snow that I'm I'm getting here is not uh it was a little odd to me, I'm originally from uh from Virginia so it is a little bit more temperate I guess you could say. Yeah
+SPEAKER_R: Uh
+SPEAKER_L: so we got we got planned for tonight. Looks like going somewhere.
+SPEAKER_R: uh Probably about my way home, uh I was visiting a relative, so uh yeah
+SPEAKER_L: Yeah
+SPEAKER_R: I guess I'm just going home. Uh What about you?
+SPEAKER_L: Uh I work at nights. Um so I'm just kind of hanging out right now so I go to work at 11 p.m. so um I got yeah I got a little coffee so
+SPEAKER_R: that's
+SPEAKER_L: we
+SPEAKER_R: good,
+SPEAKER_L: let me through the day. Okay. Yeah.
+SPEAKER_R: so
+SPEAKER_L: Well
+SPEAKER_R: you work the night shift
+SPEAKER_L: yeah I work um I
+SPEAKER_R: asking?
+SPEAKER_L: work for the military so you know terrorism never sleeps apparently. Yeah. But yeah it's all right. I work what do you do for a living?
+SPEAKER_R: alright right now I'm in between jobs. Uh I had a job until earlier this year then like it was a temp job and then it ended, so now I'm looking for another job
+SPEAKER_L: Okay. Right. On it. Is it because of covid and all that?
+SPEAKER_R: actually, it ended right before Covid, right before the whole covid thing started, so just sort of happened in and around the same time. Um But the whole covid things made it more made it more difficult to find a job change things a lot since then yeah.
+SPEAKER_L: Yeah I bet. I mean it's it's tough to find a job right now in this climate is just you know, if you're unless you're I guess doing government work you're subject to probably stay at home and and probably get laid off.
+SPEAKER_R: Can
+SPEAKER_L: So this
+SPEAKER_R: I eat?
+SPEAKER_L: honor man, what do you do what you do before before?
+SPEAKER_R: I was doing data entry. It was uh yeah I guess it was a pretty simple job. Is doing just data entry from a computer ah
+SPEAKER_L: Yeah
+SPEAKER_R: typing
+SPEAKER_L: that's correct spreadsheets and all that.
+SPEAKER_R: Yeah sort of like that. Um.
+SPEAKER_L: Well yeah I can see why they would probably be tough to To fight because you have to stay six ft apart. So you probably got a bunch of people in the building doing data entry. I could I could see why. It's probably tough to find it during during this whole covid stuff now. That's
+SPEAKER_R: that's what it did get pretty crowded. I remember before Covid it was pretty crowded. So yeah. I wonder how that place is running now.
+SPEAKER_L: Yeah it's probably probably uh not so well or uh maybe uh they got a lot of uh people working working from home you think?
+SPEAKER_R: Yeah maybe maybe they use that. Um Yeah I know a lot of places are doing uh work from home and using zoom
+SPEAKER_L: Oh yeah yeah well it seems pretty easy to do. So what are you doing? Just like a bunch of like sidekick stuff right now?
+SPEAKER_R: a little bit. Well right now I'm taking a course. I'm taking a course in um oracle uh programming. Ah It's like a program for databases. Um. Uh Yeah I'm trying to get a certification in that. That's that's what I'm doing. I hope I'm hoping if I get a certification oracle I'll find a better job.
+SPEAKER_L: all right. On how um how long does it take to finish that?
+SPEAKER_R: I think about six months.
+SPEAKER_L: Okay so a good time to be a good time to do it and that's now that everybody is at home.
+SPEAKER_R: Yeah that's that was the thing. Yeah but that would be a good time
+SPEAKER_L: Well so you get an oracle certification and then I guess um is it just a computer programming job or what would you do with the oracle certifications?
+SPEAKER_R: I think. I think the job would be um database administrator.
+SPEAKER_L: Mhm. So uh you like computers a lot? Uh
+SPEAKER_R: Yeah. Yeah like um programming and I was used to do it part time on my own before. Um I guess I was learning it for a while on my own and then I decided I wanted to you know get some certification
+SPEAKER_L: Well
+SPEAKER_R: in it so I could find a job in the field.
+SPEAKER_L: Do you uh do you already know anything like c plus plus or python?
+SPEAKER_R: Uh Well I know some javascript I think I was good at uh javascript. I didn't really I didn't spend much time with C. Or C. Plus plus or python.
+SPEAKER_L: yeah, I just I just know those are two other programming things. That's about the extent of what I what I know. Computer programming. My name's truck by the way. Yeah.
+SPEAKER_R: My name is Elias.
+SPEAKER_L: Last Nice, nice to meet you. How'd you, how'd
+SPEAKER_R: meet
+SPEAKER_L: you
+SPEAKER_R: you.
+SPEAKER_L: end up hearing about prolific?
+SPEAKER_R: Well I've been using the site for a few years I guess. I found it at one time. From the internet. Ah
+SPEAKER_L: Mhm.
+SPEAKER_R: Have you ever heard of the site? Amazon mechanical turk?
+SPEAKER_L: Yeah. Yeah, I did that a long, long long time ago I try to get back into it and uh they I guess I I don't know what the deal is but I can't get back into like my mechanical turk profile and I guess I made a new
+SPEAKER_R: really?
+SPEAKER_L: yeah, amazon thing, they're like well, hey, we already got enough people doing it, so be gone with you, so I'm on a wait list or something, so I'm.
+SPEAKER_R: Yeah, I think it might, I think I heard of that happened. I think they might make you wait a few few months to get approved or something like that.
+SPEAKER_L: Yeah, but I hear, I mean it's not too bad. Um Some of the uh the hits that you can do on those are kind of lucrative.
+SPEAKER_R: It is sometimes um I mean I like prolific more. It seems like prolific gives better hits in general.
+SPEAKER_L: Oh yeah. The surveys and stuff. Yeah. Um They also have this other site that I do called click worker, Have you, have you heard about that?
+SPEAKER_R: I think I heard of it. I never really tried it.
+SPEAKER_L: Um Yeah, so click worker is kind of is kind of like uh mm hmm. I guess it's kind of like amazon mechanical turk or or micro task or whatever it's called Micro workers. Um And that they just have to do different things to and they give you money for it. So like some of them that we got on now is like you have to take a picture of your kids and uh train ai and they make every now and then they'll have like surveys that you take and that's weird things like take a picture, take a couple pictures of cars going by. So I mean that's yes, it's kind of hit or miss on whether or not they're like well paying or just
+SPEAKER_R: Could
+SPEAKER_L: kind
+SPEAKER_R: be.
+SPEAKER_L: of weird. So one time they wanted you to like take a picture of your, of your if you have like a badge or something to like an employee badge and your social security card. And I'm like, well hold on there. Nice, nice try. Isis.
+SPEAKER_R: Yeah. I don't think, yeah, I know. My employers wouldn't want you to give like take pictures of your badge or your identification or give
+SPEAKER_L: I like
+SPEAKER_R: them to people.
+SPEAKER_L: yeah, good try there. Okay, move along, go ahead.
+SPEAKER_R: One sauce. I saw something about amazon one time or mechanical turk. Like Give us a copy of your college transcript for $5.
+SPEAKER_L: Hard, hard pass their their amazon but nice try right?
+SPEAKER_R: Yeah.
+SPEAKER_L: I guess you can make a
+SPEAKER_R: Thanks.
+SPEAKER_L: fake one.
+SPEAKER_R: Yeah. It makes me wonder if they're going to pretend they have a college, they're going to, somebody's gonna pretend lie and say they have a college education. What they don't with your transcript.
+SPEAKER_L: What I mean, I guess if it works. So are you are you married?
+SPEAKER_R: Okay. No, I'm still single.
+SPEAKER_L: No
+SPEAKER_R: How
+SPEAKER_L: kids.
+SPEAKER_R: about you? Uh no kids yet. Yeah, I'm still uh yeah, I'm still single. I guess I haven't, I haven't been um really dating. Yeah.
+SPEAKER_L: Yeah, I got well, I mean I I imagine the dating game right about now is a little crazy because dating at a distance probably is not very uh lucrative but.
+SPEAKER_R: I think what name? Yeah it would be more difficult.
+SPEAKER_L: Yeah. But yeah I got I'm married, I got two kids.
+SPEAKER_R: Oh that's nice.
+SPEAKER_L: Yeah five and 5 and three. They are, you're fine. Just very expensive, having kids is expensive,
+SPEAKER_R: Okay. Got to um
+SPEAKER_L: got to pay for daycare man, that's that's the most
+SPEAKER_R: daycare. Yeah, that's a
+SPEAKER_L: my holy crap if you want to, if you want to know how much it costs man, it costs a lot. Yeah you have two working parents, it's not cheap and veteran house for. Yeah.
+SPEAKER_R: Oh yeah I did yet. And now um the cost of daycare, it's going up. It pays pretty well for the people who work in daycare.
+SPEAKER_L: Yeah I think maybe like the managers and owners, but at least the ones that I go to, they just kind of a Maybe a little bit above minimum waste maybe like $10-12 an hour. Yeah. Yeah. I don't know, they try to keep the cost away from the parents who pay him I guess, But there's a there's a pretty high turnover for them because we always the the workers going in and out all the time and moving on to bigger and better things. So I would imagine they probably don't pay it as much to keep them there. Right. Yeah. Are you originally from Delaware?
+SPEAKER_R: Yeah. Um Yeah, I've always, I've always lived in Delaware actually, I've never um never lived in another state and and you're from Virginia?
+SPEAKER_L: Yeah. Originally from Virginia. Like the northern Virginia close to Washington D. C. Area? Yes.
+SPEAKER_R: Uh huh.
+SPEAKER_L: This area well on the expensive side to live there. But it's nice
+SPEAKER_R: Is
+SPEAKER_L: above.
+SPEAKER_R: that is that is that close to the beaches?
+SPEAKER_L: Yeah. Oh I mean you could get to Virginia beach from where I was living in about like three hours, 3.5 hours or so. Yeah. So I mean it's closer than other places but you know it's not so bad. So I don't know are you uh are you close to any beaches or anything like that I guess. Uh You probably kind of far away huh? In the new york?
+SPEAKER_R: No I guess not not. Let me think there's I guess, I mean I think And Atlantic City in New Jersey is not it's probably an hour or two away. Uh um And I guess
+SPEAKER_L: so.
+SPEAKER_R: there's beaches in Maryland I think that are probably at least within a few within 22 or three hours, some like that.
+SPEAKER_L: Yeah you uh you got to atlantic city very often?
+SPEAKER_R: No really, I've been there in a long time actually. Uh It seems it's a I think it's a nice looking place. Um I mean the hotels are nice but I'm not really interested in going to casinos, but a lot of fancy hotels.
+SPEAKER_L: Yeah. Well there's uh there's definitely a lot of casinos here in Niagara Falls. And so yeah, I don't really go to him that I worked at a casino as a as a bartender kind of as like a little little side gig thing, you know it's fun. And yeah the old old Betty's with their with their silver and gold hair, walking around, spinning their uh social security checks. Yeah.
+SPEAKER_R: a lot of, there's
+SPEAKER_L: of retirement.
+SPEAKER_R: a lot of retired people, yeah.
+SPEAKER_L: Yeah a lot of retirees, Have you ever been to Niagara Falls?
+SPEAKER_R: Um Niagara Falls, I don't I don't think I have. Is that is that almost in Canada?
+SPEAKER_L: Yeah so its borders Canada and uh us it's it's in Buffalo, in the Buffalo area. Mhm. It's kind of like a 111 shot. And you've experienced, they're all all, there is to see about that Niagara Falls. Yeah it's not like going the Grand Canyon where like you could probably make a week trip out of it. This is like you go there, you see that falls pretty awesome and then you go and do the maid of the mist which is a little boats that they have at the bottom of the falls and he puts around that gets you close to it, you're like oh cool. And then that's about it, that's the extent of your unless you want to go over the Canada side and they have all these tourists, these things that you can do it over there at the Canada side or if you want to go gamble. Of course. Yeah.
+SPEAKER_R: Um Well seen buffalo as a lot colder is a lot colder in the winter than Virginia. Right.
+SPEAKER_L: Yeah you say that it's like 09 months of winter here. So yeah it's I mean we still get we get a lot of a lot of snow and called here um But you know that's what you get for the price of living here, which not done costs a lot. Have you have you have you done one of these before? The?
+SPEAKER_R: Yeah, I've actually I've done a few of them now, I think this is this is my 4th 1. Yeah
+SPEAKER_L: is
+SPEAKER_R: because they they had him a few weeks ago, I did one bang now, I've done a few this uh this past two weeks
+SPEAKER_L: Yeah. Who did you talk to before?
+SPEAKER_R: I think I think all the variety of people, I think two of them were college students uh
+SPEAKER_L: Yeah.
+SPEAKER_R: when it one of them I think was working for a small business. Um Yeah, I guess it was a variety of people.
+SPEAKER_L: Yeah. This is uh my 2nd 1. Yeah. Yeah I the guy that I did uh I talked to a guy two days ago and he worked for a chemical company and was a chemical scientists or something, I don't know. Yeah.
+SPEAKER_R: really?
+SPEAKER_L: Yeah I showed off his cat a lot.
+SPEAKER_R: It's cat.
+SPEAKER_L: Yeah he had a cat and the cat would come in through the view all the time.
+SPEAKER_R: Mhm. Oh, that's funny.
+SPEAKER_L: Well he was a nice guy, we uh here's a nice guy. Have you uh you know I met anybody rude or anything like that?
+SPEAKER_R: No, I don't think any of them were rude. Uh Yeah I mean some people were more uh some people more shy than others but I don't think any of any of them been unpleasant.
+SPEAKER_L: Oh yeah it seems like probably most people would be uh fairly pleasant to talk to on this. I don't know, I kind of think the best of people before passing any judgment, especially if you're just
+SPEAKER_R: It's
+SPEAKER_L: doing like
+SPEAKER_R: good.
+SPEAKER_L: a 25 25 minutes or so conversation, it's hard to piss somebody off in 25 minutes, but I guess you could try. Mhm. How how old are you? Okay, so am I 35? Yeah.
+SPEAKER_R: age.
+SPEAKER_L: Yeah. Did you did you go to college? Yeah.
+SPEAKER_R: Yeah I did actually. Um Yeah I spent a lot of time in college. Um Uh huh. I kind of uh um a bachelors degree then. Um I got an M. B. A. Degree. Uh Yeah. Um How about you, did you go to college?
+SPEAKER_L: Yeah I went to I went to college and just got a bachelor's degree and communication studies so doesn't really help at all. Um No no it has not has not provided me with any meaningful uh waste of money.
+SPEAKER_R: Well um
+SPEAKER_L: Yeah and then I went I went to a school in Ohio marietta college so it's just yes a little school. Where did you go to school?
+SPEAKER_R: Uh University of Delaware. It's the uh
+SPEAKER_L: Oh
+SPEAKER_R: I guess it's the biggest school in Delaware. Um
+SPEAKER_L: yeah.
+SPEAKER_R: And I the thing is um we'll have to see me I guess my degrees probably haven't helped me that much getting a job to be honest. Uh I mean all right, I like the experience of going to college but um yeah it doesn't seem that so far it's been hard um to to get a job that like uses my degree or um or to get a to get a higher level job. Yeah.
+SPEAKER_L: Yeah. Did your N. B. A. I guess? Did you want to be uh owner of a business or something? What drove you to get an idea?
+SPEAKER_R: I guess at the time it was It's probably about 10 years ago I was interested in business. Um I guess I used to do more online selling on on say Ebay. Um I was interested in business and I guess I was having difficulty finding a job so I just decided to get another degree. That was probably the main reason I was just interested in business in general.
+SPEAKER_L: yeah well I mean I M. B. A. S. R. Seemed like there pretty helpful so.
+SPEAKER_R: Mhm. Yeah I think it helps a little. Um I do I mean it probably helps sometimes um just having a degree. I know just having a degree can uh impresses employers. Some employers. Okay.
+SPEAKER_L: wow.
+SPEAKER_R: Yeah.
+SPEAKER_L: I mean I was kind of thinking of getting an M.
+SPEAKER_R: Performance.
+SPEAKER_L: B. A. At some point but I'm I'm in the military right now working you know in the aviation field so I'm
+SPEAKER_R: I don't God
+SPEAKER_L: quite content with my uh I guess where my
+SPEAKER_R: damn.
+SPEAKER_L: my job prospects lie. So I wanted to yeah
+SPEAKER_R: I'm
+SPEAKER_L: I wanted
+SPEAKER_R: gonna stop
+SPEAKER_L: to be a pilot
+SPEAKER_R: there. Mhm.
+SPEAKER_L: Uh you run out of money quick trying to be a pilot unless you go through, yeah once you go through the military
+SPEAKER_R: Uh What's your job right now?
+SPEAKER_L: so I work as a sensor operator. So the drones that fly overseas and like Iraq Afghanistan, Syria and all that, that kind of spy on terrorists and all that. That's that's what I do. I just I'm the guy who had who uh I guess controls the what they call the pot the camera on the on the airplane to to spy on terrorists.
+SPEAKER_R: Oh, that sounds neat,
+SPEAKER_L: Yeah, that's cool. I I enjoy it. It's a lot a lot of time, it's kind of boring, but I mean it's in eloped by times of of I guess what you could would call excitement. So um
+SPEAKER_R: Isn't it?
+SPEAKER_L: things can kick off really quickly when there's guys on the ground that are that are getting shot at and you kind of have to support your guys on the ground so things things can get kicked off pretty quickly and then it uh definitely wakes you up. Uh huh. All right. Yeah.
+SPEAKER_R: Yeah, I mean it sounds like for that job, I wouldn't want to have too much excitement.
+SPEAKER_L: Yeah, that's true. I mean, you would probably prefer to uh just kind of have a low key day, so I would agree with that. But I'm kind of hoping one day to just kind of transition to the manned aircraft and you know, my my brother and my dad were both are both airline pilots and that's kind of what I wanted. Yeah, I wanted to do so, but I ran out of money so you only get so much money to spend before you run out. So maybe maybe one day. Right. Yeah.
+SPEAKER_R: All right,
+SPEAKER_L: Mm.
+SPEAKER_R: airline pilots that um is that um I guess uh I've been on a few flights, I guess the only I mean I just I'm thinking of some
+SPEAKER_L: All
+SPEAKER_R: video games, I've played Flight Simulator, video games, that's so I really know about flying.
+SPEAKER_L: Yeah. Well, you know, I believe it or not, Microsoft flight simulator is uh it's pretty uh pretty accurate. Um if if you know what you're doing, it's it's pretty accurate. You can stall playing just as you would you just don't get the feeling of actually not controlling everything. But um, you know, other than that like I I don't know like
+SPEAKER_R: It
+SPEAKER_L: ace combat simulators, any is all that representative of, you know, flying a a fighter jet.
+SPEAKER_R: Yeah, that's the types of ones I played like East Combat.
+SPEAKER_L: Yeah. Uh You you play a lot of games.
+SPEAKER_R: Uh Sometimes yeah, may have played a fair amount, not as much as I used to.
+SPEAKER_L: Yeah. What what games did you play in the past?
+SPEAKER_R: Um Well, I've been playing this game, I've been playing games on my three Ds. There's this game 00 Virtue's last reward or zero escape I think this name game
+SPEAKER_L: Yeah. Uh Yeah I don't have a three D. I play all of my games on my phone. Yeah, like Call of Duty Mobile, I'll play that every now and that's fine.
+SPEAKER_R: Oh. Oh that's right. There's a mobile version of that game do you? Is it how is it different from the pc or the console once?
+SPEAKER_L: Um I haven't played much of the actual console or pc but I I mean I've seen a couple of videos on Youtube of people playing the console and pc versions and I think like it it generally represents the pc and the console version pretty well. The maps are kind of the same. The controls though are kind of weird, like you got like one side is like you would control the look and this, you like go up and down left and right. So like you just have to control using the uh, like a deep hat on your, on your, on your phone, which is, yeah, it's a little cumbersome, but you get used to it. It's not, I mean it passes the time for me, so I don't really mind it. I'm not looking to uh, be a professional gamer that, that uh, Streams on Twitch and makes $1,000 every minute, you know?
+SPEAKER_R: Oh yeah. Yeah I don't think I'm gonna stream a
+SPEAKER_L: uh huh.
+SPEAKER_R: anything
+SPEAKER_L: Yeah. But Oh no, it's uh, definitely passes the time. So
+SPEAKER_R: that's
+SPEAKER_L: over like
+SPEAKER_R: good.
+SPEAKER_L: three. You said you've been on prolific for like like four or five years or whatever. How
+SPEAKER_R: years.
+SPEAKER_L: many, how many surveys do you think you've done? I'm just curious over.
+SPEAKER_R: Yeah. Let me think. Uh Maybe 500. I don't know if I could guess.
+SPEAKER_L: Okay, definitely, definitely some good scratch money. Yeah.
+SPEAKER_R: it is yeah when when they're available it is good.
+SPEAKER_L: Do you have that little, trying to think of what I would call it? The plug in that goes on your computer that will let you know when a prolific study comes up.
+SPEAKER_R: Yeah I've got that for for chrome. Yeah I use that.
+SPEAKER_L: Yeah, I feel like everybody has that now. So it's uh, so it's hard to even, you can get it if it pops up like the high paying ones that only have one slide, I'm like darn somebody got to a quicker than I did.
+SPEAKER_R: Yeah those ones are tough to get
+SPEAKER_L: Yeah, but I guess uh if you uh you got a fast computer or something to get them, I don't know, I don't understand how some people get to them so quick, but so it.
+SPEAKER_R: of them, yeah I do miss some of them. Sometimes you get lucky and you can get it and yeah
+SPEAKER_L: Yeah.
+SPEAKER_R: uh Few times I probably just kept clicking for them and for like 30 seconds and then I got it after 30 seconds of clicking. Uh
+SPEAKER_L: Yeah.
+SPEAKER_R: But uh yeah, a lot of times I miss it. If it has too few people, only three slots available probably won't get it.
+SPEAKER_L: Yeah. Hey, what what were you selling uh on Ebay when, when it you're talking about how he used to sell stuff on Ebay? What did you sell? Did you have like a store or something?
+SPEAKER_R: Uh I was just I was selling video games um Mostly yeah, like games I either bought from before or that I found in the flea markets, something like that.
+SPEAKER_L: okay. And that worked out pretty well, yeah, because uh I'm like trying to get rid of rid of some stuff and it's like it can be it can be challenging and
+SPEAKER_R: Yeah, I think
+SPEAKER_L: for
+SPEAKER_R: it's a good site for selling selling, you know if you've got video games lying around that you don't use anymore, you could sell them on Ebay and some of them, some some of the sometimes older games are worth more, depending on what they are.
+SPEAKER_L: like some old Nintendo games.
+SPEAKER_R: Yeah, there's a growing up in price a lot.
+SPEAKER_L: Yeah. Yeah, I miss the old Nintendo games. Yeah. Good time. Little nostalgic about them, you know? Mhm.
+SPEAKER_R: Yeah, me too.
+SPEAKER_L: But um well, I gotta get going, you think? Uh yeah, I got to get cleaning up around the house before I take off for work, but
+SPEAKER_R: Yeah, it looks, yeah,
+SPEAKER_L: Uh huh. But it was nice meeting. Huh?
+SPEAKER_R: it's nice to meet you too.
+SPEAKER_L: Yeah, good luck. And uh with your NBA?
+SPEAKER_R: Thank you and uh good luck with your job.
+SPEAKER_L: Thanks man, take care. Oh,
+SPEAKER_R: You too. Goodbye.

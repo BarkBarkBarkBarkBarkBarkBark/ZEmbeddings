@@ -1,0 +1,661 @@
+SPEAKER_R: I. Yeah.
+SPEAKER_L: how are you?
+SPEAKER_R: good. How are you? What's your name?
+SPEAKER_L: and see, what
+SPEAKER_R: Nancy?
+SPEAKER_L: about you,
+SPEAKER_R: My
+SPEAKER_L: antsy
+SPEAKER_R: name is steven nancy. Yeah.
+SPEAKER_L: Yeah, well this, do I guess I'll meet you online. Where
+SPEAKER_R: Yeah that's true.
+SPEAKER_L: are you located?
+SPEAKER_R: I'm in the san Jose uh
+SPEAKER_L: Mhm.
+SPEAKER_R: bay area in California and you know what
+SPEAKER_L: you're
+SPEAKER_R: that is?
+SPEAKER_L: so, that's great. Yes, I'm also from California, so
+SPEAKER_R: no way.
+SPEAKER_L: that's
+SPEAKER_R: Where are
+SPEAKER_L: so
+SPEAKER_R: you from?
+SPEAKER_L: yeah, yeah, so I live in the bay Area for six years and then I moved back to Sacramento, which is where I'm originally from, so like really? Yeah, it's kind of crazy because none of my friends are in san Jose so um
+SPEAKER_R: Yeah.
+SPEAKER_L: yeah. Small world. Yeah.
+SPEAKER_R: My sister actually went to a
+SPEAKER_L: What?
+SPEAKER_R: U. C. Davis so she's pretty familiar
+SPEAKER_L: That's
+SPEAKER_R: with that.
+SPEAKER_L: so close. Yeah. Yeah. Yeah, I would say like Davis is kind of like our home, you see, so yeah, since it's so close to sacramento.
+SPEAKER_R: All right. Are you still in
+SPEAKER_L: so
+SPEAKER_R: school?
+SPEAKER_L: what do you do? Um
+SPEAKER_R: Oh I'm actually,
+SPEAKER_L: No, I graduated uh go ahead. Yeah.
+SPEAKER_R: oh yes sorry uh I'm
+SPEAKER_L: No.
+SPEAKER_R: a software engineer. I actually work in Seattle but I'm back here just visiting family. Yeah.
+SPEAKER_L: Okay, so you you're so like you live in Seattle but you're just back temporarily or?
+SPEAKER_R: Yeah I'd say indefinitely because we're
+SPEAKER_L: And
+SPEAKER_R: all work from home indefinitely so it doesn't really matter where I'm working from so I'm trying to stay here as long as I can. Yeah.
+SPEAKER_L: that makes sense. Nice. Okay, cool, so you work in Seattle yours? Okay. Yeah. That's uh I was gonna say, I feel like yeah, like a lot of my friends also in san Jose are software engineers
+SPEAKER_R: So.
+SPEAKER_L: or right
+SPEAKER_R: yeah.
+SPEAKER_L: like in that in that same sector so I can I relate on a a pretty hard level. Yeah. Yeah. Yeah, I know I graduated a few years ago so uh but
+SPEAKER_R: but
+SPEAKER_L: I was there for work after, so it was kind of nice and then just you know, move back because I covid this well, so yeah.
+SPEAKER_R: So like do you usually like do you work in san Jose and then you went back because of the covid situation or?
+SPEAKER_L: Yeah, that's right, yeah.
+SPEAKER_R: cool.
+SPEAKER_L: So our company, right, we're like based
+SPEAKER_R: It's the,
+SPEAKER_L: like san
+SPEAKER_R: so
+SPEAKER_L: Francisco and then everyone who works at home, so that's where I am. Not that now. Yeah.
+SPEAKER_R: And what do you do?
+SPEAKER_L: Yeah. Um I'm a product designer, so um on a
+SPEAKER_R: Nice.
+SPEAKER_L: day to day
+SPEAKER_R: I think
+SPEAKER_L: basis I work very
+SPEAKER_R: I
+SPEAKER_L: closely with engineers, so that's yeah, so I would say I feel like it's weird.
+SPEAKER_R: It's
+SPEAKER_L: It's like you know, it's kind of interesting like I think 90%
+SPEAKER_R: at
+SPEAKER_L: of my
+SPEAKER_R: this
+SPEAKER_L: interactions
+SPEAKER_R: time,
+SPEAKER_L: are with engineers pretty much in our product manager. So yeah. So
+SPEAKER_R: Well that's really
+SPEAKER_L: it's been
+SPEAKER_R: I've like I've never met a product designer at work I guess maybe because I work on, I work on the Windows operating system, so I guess you don't really have a designer for that I guess because when you say product design, you're not talking like software are you? Or like what kind of product? Like is that something you can tell me?
+SPEAKER_L: Yeah. I know for sure. I guess like product design and sorry, I'm trying to like also piece together like someone who does like I guess right web design but beyond its like user experience I guess. I don't know if that's a better way to put it. Yeah. Right? So like not like I'm not like a like a physical product designer so I don't design like Fitbit or like the iphone for example. Yeah. So like you x I guess it's Yeah. Yeah.
+SPEAKER_R: How
+SPEAKER_L: So
+SPEAKER_R: do you like your work?
+SPEAKER_L: yeah, it's good. Yeah. I mean like definitely busy with my work from a like a clinical research company. And so it's kind of interesting, right? Because like it's covid season and obviously like our companies like super busy. A lot of our clients actually, they are doing covid cases, which is kind of cool because it's like, you know, they're not going to disclose your information to us. But since we're like um well like it's hub for the information, like obviously they have to disclose some information. So it's kind of interesting because like, you know, you kind of get their insights on like the vaccines, right? And everything. So I don't know. I think it's kind of a meat industry van. Um Yeah. How about, you know like what, like what else do you do?
+SPEAKER_R: Uh like outside of work? Uh Not much. It work keeps me pretty busy. I'm actually uh I'm trying to search for a new job, so uh I don't I don't know if your friends like to tell you about like tech interviews, but like it's like pretty intense and requires a lot of preparation for them, like a lot of the stuff they interview going on, it's like it's not related to your everyday job, so that's that's pretty much what I said most of my day with if I'm not working, I'm like
+SPEAKER_L: That's
+SPEAKER_R: trying to on new work. Yeah.
+SPEAKER_L: Oh wow. No kudos to you for doing. That's like pretty much are you looking mostly like since it's like work from home, are you still looking at companies that are like in the bay area or you're just like pretty much open um
+SPEAKER_R: I'm
+SPEAKER_L: to anywhere?
+SPEAKER_R: pretty, pretty open. Like I would prefer Bay Area just because you know, you can close your home, but like, I mean Seattle is pretty nice too, so I wouldn't mind finding a job there. Yeah.
+SPEAKER_L: Mhm. Yeah. How long did you live in Seattle for?
+SPEAKER_R: Uh three years. Yeah. Okay.
+SPEAKER_L: That's nice. Yeah. I had a few friends who into Seattle, it's pretty nice like going up there and I think the only thing was like, it rained a lot when we went. But I mean that's pretty that's like a given, right? So yeah, I don't know. It's it's really different from California, but that's nice. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Yeah. I know. I've heard about engineering interviews. Like they I heard they're pretty brutal like. Yeah, because yeah, it's my boyfriend's also an engineer. He actually got a new job right before Covid started and he was saying like, right, like right, good time. Like he was on boarding and then their company they were just like no word everyone's in a work from home. So right they've been doing that too. But I just felt kind of bad because I feel like his on boarding was cut short. But also like he was lucky and that that the like he had a couple of offers and one of the companies he was looking at they actually ended up like not doing well during Covid. So I think what he did he chose like the safe route but it was more like the stability versus like the excitement of a startup. So I think that was the trade off there. But yeah but
+SPEAKER_R: So like he he was definitely thinking about like, like covid before making a decision, like was he concerned? Like though the startup might like fail because economy might get bad. Yeah.
+SPEAKER_L: bit. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Right
+SPEAKER_R: Yeah.
+SPEAKER_L: because I think it was great that they had like right like all the benefits
+SPEAKER_R: that's
+SPEAKER_L: like um what is it like all the stock options
+SPEAKER_R: stuff
+SPEAKER_L: and
+SPEAKER_R: actually.
+SPEAKER_L: if the I. P. O. And they had estimated
+SPEAKER_R: And
+SPEAKER_L: to I. P. O. And like 2021
+SPEAKER_R: What?
+SPEAKER_L: which raises next year and now I think that's not going to happen. So I think. Yeah.
+SPEAKER_R: no. Okay, so
+SPEAKER_L: I know. So I was
+SPEAKER_R: like
+SPEAKER_L: like that's just so unfortunate. Yeah. Also
+SPEAKER_R: I guess we're fortunate
+SPEAKER_L: I don't know if it's
+SPEAKER_R: for
+SPEAKER_L: like
+SPEAKER_R: him.
+SPEAKER_L: it right?
+SPEAKER_R: ahead.
+SPEAKER_L: So I don't know if it's my internet but like I don't know if I. Yeah I don't see you anymore. I it
+SPEAKER_R: you
+SPEAKER_L: doesn't
+SPEAKER_R: don't
+SPEAKER_L: matter.
+SPEAKER_R: see
+SPEAKER_L: I
+SPEAKER_R: me?
+SPEAKER_L: just was like no or like I just
+SPEAKER_R: I can
+SPEAKER_L: see
+SPEAKER_R: still
+SPEAKER_L: like
+SPEAKER_R: hear. Okay.
+SPEAKER_L: just feel like my screen's black. I see you're like silhouette
+SPEAKER_R: So.
+SPEAKER_L: and then I see like like the headphone set. But that's it but it's weird. I don't
+SPEAKER_R: that's
+SPEAKER_L: know what
+SPEAKER_R: weird.
+SPEAKER_L: happened to me before too. Yeah but all good.
+SPEAKER_R: have
+SPEAKER_L: It could
+SPEAKER_R: you
+SPEAKER_L: be my
+SPEAKER_R: have
+SPEAKER_L: internet.
+SPEAKER_R: you done this study before? Mhm. Okay,
+SPEAKER_L: Yeah.
+SPEAKER_R: that's my first time doing it. Yeah.
+SPEAKER_L: I mean like what kind of led you to you know, give a study or like the interested in it?
+SPEAKER_R: uh so related to uh the reason I'm looking for a new job is uh one is I really don't like my current job, and so uh part of that is like I just wanna I wanted to make a little more money on the side to uh hopefully retire
+SPEAKER_L: I feel you.
+SPEAKER_R: earlier, like I think it's not gonna make that big a difference, but to me it feels like I'm doing something, so I was like yeah, do it, yeah. What about you watch
+SPEAKER_L: No, for
+SPEAKER_R: you as the
+SPEAKER_L: I would
+SPEAKER_R: same
+SPEAKER_L: say.
+SPEAKER_R: thing?
+SPEAKER_L: Yeah. Pretty much like my friend, she was
+SPEAKER_R: I
+SPEAKER_L: originally on prolific and she's like, hey, you should check this out. Like this is like a pretty cool site, right? And also, I feel like it fell
+SPEAKER_R: it's
+SPEAKER_L: in line with like my, like my sector of like clinical work because like a lot of this stuff I saw, I was like, oh, like kind of neat,
+SPEAKER_R: and
+SPEAKER_L: right? But I was
+SPEAKER_R: but
+SPEAKER_L: like, I was
+SPEAKER_R: I.
+SPEAKER_L: like, so apprehensive about doing this. Okay, so now you're back. That's so weird. Um I was like, so apprehensive because like, I really want to talk to a random person for like 30 minutes, right? Um Yeah, but it's been good. I think you're my fourth time doing this. And it's been like everyone's been like pretty nice, I mean like friendly and open and talkative, but I think it's Yeah, but same same thing is you trying to like you know in a little bit of money? I think Covid like really showed me that it was so easy for people to lose their jobs and just like you know like just not find jobs for a while. So I just want to try to like you said, get ahead and just you know, feel a little bit more stable um during this time.
+SPEAKER_R: Sam makes sense.
+SPEAKER_L: So yeah, I mean are you how are things like in san Jose like you're still, I feel like they're like openings are opening up a little bit more right? Like to hear about
+SPEAKER_R: I
+SPEAKER_L: your,
+SPEAKER_R: have no idea to be honest. I
+SPEAKER_L: have
+SPEAKER_R: like
+SPEAKER_L: you not gone out?
+SPEAKER_R: I don't leave the house at all.
+SPEAKER_L: Oh that's good. You're like so safe. Okay.
+SPEAKER_R: It's more that I don't like leaving the house in general is not necessarily uh situation I don't know about you but uh if I can stay home I'm staying home. Uh
+SPEAKER_L: I understand you how?
+SPEAKER_R: Yeah and like uh like I have asthma so like like past couple of months it's like the wild fire and I'm like there's no reason for me to leave the house at all so. Yeah.
+SPEAKER_L: That makes sense. Do you have a see your house spanish chance? I know that a lot of houses do not. So
+SPEAKER_R: So
+SPEAKER_L: I was curious just based on the air quality and since it's been really hot right?
+SPEAKER_R: we uh we do have a c but it broke like this summer
+SPEAKER_L: no,
+SPEAKER_R: and like
+SPEAKER_L: that's
+SPEAKER_R: my dad
+SPEAKER_L: so bad. Yeah.
+SPEAKER_R: I'm like living with my parents right now and my dad doesn't want to like you know hire
+SPEAKER_L: I
+SPEAKER_R: someone to come in and like exit. So
+SPEAKER_L: I feel you. Oh
+SPEAKER_R: we're just
+SPEAKER_L: no.
+SPEAKER_R: like dealing with Yeah. How about you? Do you guys have a
+SPEAKER_L: That's so bad. We yeah, we have a C here like so I'm also with my parents but I'm house sitting for my aunt and uncle just temporarily they
+SPEAKER_R: the
+SPEAKER_L: don't have a seat and Dude, it's a brutal and sacramento. Like it was like there was two weeks what? It was like 110° and I thought I was just going to die here. Like it's like, dude, I'm like it's
+SPEAKER_R: Wait,
+SPEAKER_L: so gross.
+SPEAKER_R: that's crazy.
+SPEAKER_L: but it was it's been okay. Yeah.
+SPEAKER_R: Yeah, because I thought like sacramento is really hot in general, right? Especially in the summer. Yeah. So it's kind of weird
+SPEAKER_L: It's pretty
+SPEAKER_R: that
+SPEAKER_L: bad.
+SPEAKER_R: like the house doesn't have, you see is like just a really old house or
+SPEAKER_L: It is, it's pretty old. Yeah. I just thought it was weird because I was like, I know a lot of Bay Area places didn't when I was living there like san Francisco, but I was like, dude, I don't yeah, I don't know how like I started this two weeks. It was
+SPEAKER_R: All
+SPEAKER_L: pretty bad, but it's a lot better now. It's still pretty hot. It's like, yeah, this week though. Um Yeah, but yeah, but I'm glad like anyways, the air quality is better so like at least you can go outside, right? If you have to.
+SPEAKER_R: Yeah. It's better.
+SPEAKER_L: Yeah. Yeah, that's pretty brutal. Yeah. Like my friend, she actually got Covid, she's the only
+SPEAKER_R: no.
+SPEAKER_L: person who I know, you know how like you hear about a lot of people saying they know people who got Covid, but I didn't know anyone who actually got Covid, like I would hear like acquaintances, but they're not
+SPEAKER_R: It
+SPEAKER_L: like friends. And then my friend got it. And I, to be honest, like as bad as it sounds, I'm not surprised because she would go out a lot like during that period, right? When like bars are open and um, restaurants, she would
+SPEAKER_R: cheap.
+SPEAKER_L: go and she was dating. And I was like, maybe you should just like not going to like virtual dating right? Like a lot of people are doing that. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: And she was like, no, she's like, we'll be okay. Like things
+SPEAKER_R: Media
+SPEAKER_L: are open for a reason. And then like two months later she got Covid, I don't know, maybe it wasn't related
+SPEAKER_R: man.
+SPEAKER_L: to that, but somehow
+SPEAKER_R: So
+SPEAKER_L: she got it and it's pretty bad. So yeah.
+SPEAKER_R: Oh, like like hers like condition was actually pretty bad. Yeah.
+SPEAKER_L: Like she was like quarantined and she had like a fever for like five days. Like, I think it was like
+SPEAKER_R: man.
+SPEAKER_L: over 100 degrees. I think. She like, but it's
+SPEAKER_R: it's
+SPEAKER_L: so weird because I think she tested asymptomatic twice. But the doctor said just to assume that she has Covid. So I guess so. She didn't, but it sounds like she matched all the symptoms
+SPEAKER_R: It's
+SPEAKER_L: and everything, so I don't know. Uh huh.
+SPEAKER_R: okay.
+SPEAKER_L: Yeah.
+SPEAKER_R: But she's, she's
+SPEAKER_L: So
+SPEAKER_R: all good now. Right,
+SPEAKER_L: she's good now. Yeah. But she's back, like
+SPEAKER_R: She's
+SPEAKER_L: out.
+SPEAKER_R: back to going
+SPEAKER_L: Like,
+SPEAKER_R: out just like
+SPEAKER_L: why
+SPEAKER_R: didn't
+SPEAKER_L: she
+SPEAKER_R: learn
+SPEAKER_L: was
+SPEAKER_R: her lesson
+SPEAKER_L: back out. Yeah. Yeah. She didn't like this weekend. She was she seeing another person and she's like, hey, this person invited me over for a board game night and I'm like, that sounds fun. And so she's like, can
+SPEAKER_R: and
+SPEAKER_L: you be like, my wing woman? I was like, no, because I don't know these people right? And was like, I would be nice to go out right and just hang out with some people. But it's like, there's like 10 people. I don't know these people, we don't know these people, there's going to be alcohol. And I was like, that's just like, probably kind of a recipe for disaster at least right now, right? Like maybe pre coated. That would be fun. But she's there right now tonight. And I'm like, I hope you're ok. So yeah.
+SPEAKER_R: Oh
+SPEAKER_L: Yeah. So yeah.
+SPEAKER_R: yeah
+SPEAKER_L: Do you know anyone who like covid directly
+SPEAKER_R: No
+SPEAKER_L: or just like,
+SPEAKER_R: I haven't
+SPEAKER_L: no.
+SPEAKER_R: talk to anyone who even knows someone who got Covid so. Yeah.
+SPEAKER_L: Oh, that's pretty good. Yeah. Yeah.
+SPEAKER_R: Yeah mostly
+SPEAKER_L: Yeah.
+SPEAKER_R: just the news right on the news it's like oh every day like thousands
+SPEAKER_L: That's what
+SPEAKER_R: of people
+SPEAKER_L: I know.
+SPEAKER_R: get and
+SPEAKER_L: I
+SPEAKER_R: I'm like
+SPEAKER_L: know. That's
+SPEAKER_R: who?
+SPEAKER_L: exactly what I can. I know that's what I was thinking. I was like, I feel like looking around, I don't know anyone except for my friend now that had covid actually. So I'm like, why are you getting covid from? Yeah, but still, I guess it's good to be safe and inside, you know?
+SPEAKER_R: Are you pretty paranoid about that? Like have you been going out or just staying staying at home as much as you can?
+SPEAKER_L: Um I think I feel like going out for something to get groceries and like going out on walks and stuff but the gym, definitely. No. Um But I wouldn't see him. Yeah paranoid but because I also live with my parents, I don't want to put them at risk, right? So it's like yeah so I was like if I could go I would but I was like I don't want to like put anyone at risk and I feel like after seeing my friend get covid I was like dude like that doesn't sound fun. And I was like I also don't want to like take time off work. Like I got Covid and then all my coworkers were like oh so you're sick
+SPEAKER_R: But yeah.
+SPEAKER_L: Yeah. So
+SPEAKER_R: Yeah not good.
+SPEAKER_L: yeah. What do you do when you're at home then? Like I guess besides job searching and working? Yeah.
+SPEAKER_R: I watch a lot of T. V. I used to I used to play
+SPEAKER_L: What?
+SPEAKER_R: board games like online with friends but uh since I've been studying I
+SPEAKER_L: that's fine
+SPEAKER_R: I've
+SPEAKER_L: here.
+SPEAKER_R: been kind of neglecting them. Yeah.
+SPEAKER_L: Yeah. Yeah.
+SPEAKER_R: What
+SPEAKER_L: What
+SPEAKER_R: about
+SPEAKER_L: T.
+SPEAKER_R: you 2?
+SPEAKER_L: V. Shows do you watch usually?
+SPEAKER_R: zero TV shows uh just I just finished the show on netflix called The Last Kingdom, have you heard of it?
+SPEAKER_L: Well I think it is it is it an asian is it asian show or no?
+SPEAKER_R: think I know what you're talking about and it's not the same show it's
+SPEAKER_L: Is it
+SPEAKER_R: like a
+SPEAKER_L: because my brother watched? Okay.
+SPEAKER_R: okay yeah uh it's like a british show about like middle ages like like like english people like fighting against like Vikings, that kind of thing. Yeah and it's like kind of game of Thrones, the kind of like that.
+SPEAKER_L: Oh I see. Yeah. Yeah I just looked it up. Okay so I was thinking because my brother was watching like I think actually chinese show so I was like wait what is? Okay.
+SPEAKER_R: I think I've seen that. I know yeah you do
+SPEAKER_L: interesting.
+SPEAKER_R: you watch a lot of tv yourself?
+SPEAKER_L: Um Not really. I don't know I feel like you know not not not as much recently just because like we're moving into a new house so like there's been a lot of like movement and and other just like life stuff. But I watched recently the social dilemma which I feel like everyone in the bay Area watch early in the tech industry and I
+SPEAKER_R: I
+SPEAKER_L: think that
+SPEAKER_R: have not
+SPEAKER_L: was
+SPEAKER_R: watched
+SPEAKER_L: pretty interesting. Yeah
+SPEAKER_R: Okay well what is it about? Yeah
+SPEAKER_L: it's like about like right. Um God I watched and I can't remember. It's sorry work stuff. Um It is kind of about like I guess.
+SPEAKER_R: but
+SPEAKER_L: Wait okay let me just make sure I'm thinking ready because like I feel like I talked about that so much of my friends so
+SPEAKER_R: that
+SPEAKER_L: it basically kind of um Mhm. Looks at the dangerous like the impacts of human like social networking and right.
+SPEAKER_R: it's
+SPEAKER_L: So especially like on tech companies like facebook
+SPEAKER_R: it's
+SPEAKER_L: and
+SPEAKER_R: been
+SPEAKER_L: linkedin and and I think twitter and their impact
+SPEAKER_R: it's
+SPEAKER_L: on late, you know privacy and humanity. So it's pretty interesting. It's a I would recommend it's pretty like
+SPEAKER_R: and
+SPEAKER_L: a really neat new documentary.
+SPEAKER_R: okay of course of course
+SPEAKER_L: Yeah. What are their shows do you watch besides the Lost Kingdom?
+SPEAKER_R: uh I just started watching New Girl, have you heard of that?
+SPEAKER_L: Oh I have
+SPEAKER_R: It's
+SPEAKER_L: heard
+SPEAKER_R: like a
+SPEAKER_L: of it. Yeah. Uh
+SPEAKER_R: like
+SPEAKER_L: I haven't
+SPEAKER_R: ended
+SPEAKER_L: seen it but
+SPEAKER_R: couple
+SPEAKER_L: I've heard
+SPEAKER_R: years
+SPEAKER_L: of
+SPEAKER_R: ago.
+SPEAKER_L: it yeah.
+SPEAKER_R: Yeah it's pretty funny
+SPEAKER_L: Okay. Yeah I think my some of my friends talked about. Okay I have to look into that. Okay. Any other recommendations are just
+SPEAKER_R: and recommendation. I mean what kind of shows are you
+SPEAKER_L: now?
+SPEAKER_R: in suits? You just don't watch enough tv
+SPEAKER_L: I'm
+SPEAKER_R: to have like a
+SPEAKER_L: pretty open
+SPEAKER_R: favorite type.
+SPEAKER_L: honestly. Yeah. I feel like a lot of my rex come from my friends. I just feel like I like like oh this looks interesting and click on it and then I'm like now I don't like it but I'm pretty open.
+SPEAKER_R: And
+SPEAKER_L: Like honestly two different genres.
+SPEAKER_R: okay. Uh my family is right now we're watching kim's convenience. Um
+SPEAKER_L: Okay.
+SPEAKER_R: which is like, it's a Canadian show about like a korean family that owns like a convenience store.
+SPEAKER_L: Oh that's interesting. Yeah. Okay. Is it like you like you guys like it's over?
+SPEAKER_R: Well, I actually, I watched the whole thing and then like my family saw me watching it and they're like, oh, that's hilarious. So we went back and we're watching it from the beginning now. Okay.
+SPEAKER_L: That's kind of nice. It's like now you know like everything that's going to happen. Okay. Yeah. I'll look into that. Sounds pretty interesting. Well
+SPEAKER_R: that's pretty
+SPEAKER_L: what
+SPEAKER_R: good.
+SPEAKER_L: are some of your favorite board games like when you used
+SPEAKER_R: games.
+SPEAKER_L: to play? Mhm.
+SPEAKER_R: really like social deception games. Like if you're like Avalon resistant Secret Hiller, that kind of thing. Okay. Have you played any of those? I just heard about that.
+SPEAKER_L: I think I've played Resistance, I've heard of the others but I haven't played them as much. I was
+SPEAKER_R: Two.
+SPEAKER_L: gonna say if you're ever in Berkeley before. Cool. But there was this really cool board game cafe um It was really cool like you would pay like $5 and you can stay there like however long you want and there was just like all these board games and you could just um like play and it was like super fun. Yeah so it's in Berkeley though, have you ever are there there?
+SPEAKER_R: I might have a lot of friends who went to Berkeley, so I have a lot of friends in that area. Yeah.
+SPEAKER_L: Yeah. Yeah I'm sure yes maybe a few of them they might know it it was
+SPEAKER_R: All
+SPEAKER_L: pretty popular so yeah
+SPEAKER_R: bet.
+SPEAKER_L: I just kind of so yeah. Okay that's this has been so since I played card games, I feel like you know since like March and even before then.
+SPEAKER_R: Oh yeah. Did you have a favorite game back when you could play games? Yeah.
+SPEAKER_L: There was
+SPEAKER_R: Well
+SPEAKER_L: this one like is it Catan? I'm trying to think so uh
+SPEAKER_R: settlers of
+SPEAKER_L: It
+SPEAKER_R: Catan.
+SPEAKER_L: was one where like you like everyone you could have like a big group and you were trying to I'm just I'm just going to look at time is cool. It resources
+SPEAKER_R: Catan
+SPEAKER_L: not
+SPEAKER_R: is like
+SPEAKER_L: Catan.
+SPEAKER_R: a, I don't think it's
+SPEAKER_L: It's
+SPEAKER_R: Qatar. He said a group. Okay.
+SPEAKER_L: Okay so like a group and it's like you're trying to fight big things. Like there's like a pandemic was actually what we played like maybe
+SPEAKER_R: Is
+SPEAKER_L: it's called
+SPEAKER_R: it
+SPEAKER_L: endemic.
+SPEAKER_R: is it called
+SPEAKER_L: Is that
+SPEAKER_R: pandemic?
+SPEAKER_L: what is that? She's
+SPEAKER_R: I've played pandemic before. Like it's like a cooperative
+SPEAKER_L: We
+SPEAKER_R: game
+SPEAKER_L: have
+SPEAKER_R: where
+SPEAKER_L: isn't
+SPEAKER_R: you're trying to prevent like
+SPEAKER_L: not?
+SPEAKER_R: the spread of disease.
+SPEAKER_L: Yes. That's it. That's it pandemic. Yeah. Okay. That would be like yeah that's it. Okay. I was like it's so fitting with covid.
+SPEAKER_R: So appropriate.
+SPEAKER_L: Um Yeah it really is. And you know that's what is crazy. I think that was the last four game we played like last summer. And then I was like dude like we never should have played it because now look what happened. Um Yeah,
+SPEAKER_R: it's all your fault.
+SPEAKER_L: it was pandemic. I remember. I know just but that was that was I think so for me. But it's like there's a lot of other like I think I sometimes like I really like not apple apples to apples just
+SPEAKER_R: Apple.
+SPEAKER_L: cause it's
+SPEAKER_R: Stop
+SPEAKER_L: like
+SPEAKER_R: us.
+SPEAKER_L: stupid. Yeah, because
+SPEAKER_R: Yeah.
+SPEAKER_L: I have a kind of stupid I feel like and it's like, I don't know like you see everyone's like sense of humor and come out and I feel like that's kind of a cool way to meet people who you don't meet so I can get to know you kind of way. It's kind of funny. Yeah.
+SPEAKER_R: Right. Right.
+SPEAKER_L: Yeah.
+SPEAKER_R: Do you do you also like cards against humanity or is that like too much for you?
+SPEAKER_L: that's actually, yeah, no, that would be on my list
+SPEAKER_R: that's the,
+SPEAKER_L: too. Yeah. Yeah.
+SPEAKER_R: Because like Apple, Apple like the
+SPEAKER_L: that's
+SPEAKER_R: team
+SPEAKER_L: three.
+SPEAKER_R: version
+SPEAKER_L: Yeah, exactly. It is. It's like art
+SPEAKER_R: but
+SPEAKER_L: cards against humanity was like, dude, it's so dark. And I was like, I just feel like I found out so much more about my friends like that. I was like, oh, wow, this is like what you're keeping, you know, do you have other favorites besides like uh the
+SPEAKER_R: well.
+SPEAKER_L: ones you listen, like Avalon and resistance or?
+SPEAKER_R: I really like Dominion. It's like a deck building game. Have you heard of that 1?
+SPEAKER_L: It sounds
+SPEAKER_R: No,
+SPEAKER_L: similar. I don't
+SPEAKER_R: no.
+SPEAKER_L: think I played it. Yeah,
+SPEAKER_R: Yeah, it's like apparently it's pretty popular but no one I meet like has
+SPEAKER_L: No.
+SPEAKER_R: heard of it before, so I guess it's not that popular but it has
+SPEAKER_L: that's
+SPEAKER_R: like
+SPEAKER_L: pretty funny.
+SPEAKER_R: it has has 13 expansions. So I'm assuming people
+SPEAKER_L: How
+SPEAKER_R: are buying this game if it's still going. Yeah.
+SPEAKER_L: If you're Exactly, that's okay. Let me just say, I'm like, this is so uh you said you play this online, just like with your, when you were less busy. Mhm.
+SPEAKER_R: Well I still I was still
+SPEAKER_L: Don't
+SPEAKER_R: playing
+SPEAKER_L: play
+SPEAKER_R: Dominion
+SPEAKER_L: them.
+SPEAKER_R: online, but like my friends got tired of it so they stopped playing. But like I still keep playing with like, like strangers online. But then I was like, oh man, I'm like I'm playing too much and like I wasn't studying so I like blocked it from my computer so I want to get distracted. It was really bad.
+SPEAKER_L: Yeah. Oh, no. So like after you get a new job, are you going to reward yourself by playing Dominion again? Is that like kind of, Okay?
+SPEAKER_R: Oh yeah, I'm probably not going to do work for like a month.
+SPEAKER_L: I don't
+SPEAKER_R: You
+SPEAKER_L: know.
+SPEAKER_R: get
+SPEAKER_L: Onboarding? Just feel like this is my onboarding? Yeah,
+SPEAKER_R: Especially with tech, like that kind of like, I think they know that things are difficult so they give you like quite a bit of buffer to do your work. So especially if you're like on boarding during covid without anyone to help you, like in the office, like I'm not mine taking my time.
+SPEAKER_L: Yeah. Yeah, no, I agree. I feel like things are more lax, not lax, but like, I just feel like things are a
+SPEAKER_R: But
+SPEAKER_L: little bit more lax and I'm just like, I also feel like when this pandemic started, like I didn't really know how to work from home. I feel like I was like doing a lot of miscellaneous things during work time, like checking my personal email or like cleaning that up and I was like an hour ago and was like why am I cleaning my email? I should be working. I don't know, it was really, it's kind of hard. I don't know if you feel like you've gotten better at separating work in life where there is still interwoven.
+SPEAKER_R: No, no, it's bad. Like I usually don't work like, you know, like just 9-5 is just like whenever I can, whenever I feel like Yeah.
+SPEAKER_L: Exactly. That's what, yeah. And then it's like if you want to work from like 8-10
+SPEAKER_R: It.
+SPEAKER_L: and you could do that too right? Like. Yeah. Right.
+SPEAKER_R: Uh huh.
+SPEAKER_L: Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Yeah. The
+SPEAKER_R: Yeah.
+SPEAKER_L: nice thing is I have to say like it's been nice to go grocery shopping when there's not that many people like because now that you can work from home right before you have to like go shopping before afterwards, which everyone is doing, but now it's like I can go at eight a.m. If I don't have a meeting and then I'll come back and I'm like oh there's like no line. It's like no people like let's coping I guess. Yeah. So yeah, that's
+SPEAKER_R: that's
+SPEAKER_L: the upside
+SPEAKER_R: yeah, that's
+SPEAKER_L: to that.
+SPEAKER_R: really nice. Yeah. Is your job usually like, like when you were in the office, was it like, did you have to be in the office at set times kind of thing? Or was it like kind of flexible?
+SPEAKER_L: Um yeah, that's a good yeah, I would see it was
+SPEAKER_R: It's
+SPEAKER_L: flex
+SPEAKER_R: what
+SPEAKER_L: but I was like I like being in there
+SPEAKER_R: I
+SPEAKER_L: just
+SPEAKER_R: just
+SPEAKER_L: like to
+SPEAKER_R: two.
+SPEAKER_L: kind of ground myself because I feel like I'm like a routine person so I like going like really late, let's say we have like because we have stand ups right every day um at 9 30. Yeah, and it's like if I go in and out and stand up day or if I guess
+SPEAKER_R: It's
+SPEAKER_L: we can't stand up like late,
+SPEAKER_R: but
+SPEAKER_L: I just felt like I threw everything up so I just rather go in early and just like have a day by day. Yeah. How
+SPEAKER_R: that
+SPEAKER_L: about
+SPEAKER_R: makes
+SPEAKER_L: you? Was
+SPEAKER_R: I
+SPEAKER_L: it like all over the place?
+SPEAKER_R: yeah, so like I generally like I do like routine, I think I operate better with routine, but sometimes I'm just like at night I'm like so depressed about work that I stay up watching tv
+SPEAKER_L: no.
+SPEAKER_R: and then like I wake up late and then I don't go to work so that really throws off my routine. So.
+SPEAKER_L: I feel it, right? And you just feel so shitty the next day? Yeah, I know, I feel you. Yeah. It's like I hope like once you like, right, you get a new job, like you like that better and then you can like, well I guess I don't have to go in the office anymore, but it's like, like it sets a good mindset, right? Yeah. Oh man.
+SPEAKER_R: Yeah.
+SPEAKER_L: Yeah,
+SPEAKER_R: I really want to
+SPEAKER_L: that's
+SPEAKER_R: get back to that place from like back to routine. It's
+SPEAKER_L: I hope you do too. I feel like it's nice to have like a something to like do or look forward to. So what kind of like, you know what kind of like engineer, Like I'm not too familiar with engineering but like right there is like I know this front engineers and back and I don't know if you like what type you specifically are or just any
+SPEAKER_R: I guess I would be considered a back end engineer. Like I don't do any of like
+SPEAKER_L: if.
+SPEAKER_R: like
+SPEAKER_L: Thank
+SPEAKER_R: nothing
+SPEAKER_L: you.
+SPEAKER_R: visual, I never touch any of that stuff. So
+SPEAKER_L: See
+SPEAKER_R: like
+SPEAKER_L: you. Okay.
+SPEAKER_R: since I work on like I work on the Windows operating system, so like, which is like the software that like other people software runs on kind of thing.
+SPEAKER_L: All
+SPEAKER_R: So like there's really yeah, I don't really know
+SPEAKER_L: Do you
+SPEAKER_R: how
+SPEAKER_L: work at Microsoft? Sorry. I'm like,
+SPEAKER_R: yeah. Yeah. Yeah. Okay.
+SPEAKER_L: I
+SPEAKER_R: My stuff.
+SPEAKER_L: look good. Okay. I was trying I was like, I don't want to ask him be like
+SPEAKER_R: no, that's
+SPEAKER_L: intruding.
+SPEAKER_R: not cool. I figured since I said Windows, you would probably know it's Microsoft
+SPEAKER_L: I know. The first
+SPEAKER_R: anyway.
+SPEAKER_L: time you said that I was like, I was like Seattle I was like, okay. Like yeah, I was thinking was the amazon or Microsoft or like,
+SPEAKER_R: it's like, what else
+SPEAKER_L: I
+SPEAKER_R: is there?
+SPEAKER_L: mean, I know Seattle has so much more about like, in terms of tech, those
+SPEAKER_R: But
+SPEAKER_L: are the
+SPEAKER_R: like
+SPEAKER_L: two big one.
+SPEAKER_R: yeah, the chances are one of those two.
+SPEAKER_L: All right. Okay. Well, I guess 50, I was 50%. Okay. Yeah. Cool. Yeah. Okay. Windows offer. Okay. But you don't like, you're trying to, would you consider working on linkedin because it's like now it's been acquired by Microsoft or you're still looking at Eddie come
+SPEAKER_R: yeah, I'm probably gonna apply if they start hiring again because I think they're kind of a hiring freeze. Uh
+SPEAKER_L: when they work? I don't know for engine. I can
+SPEAKER_R: All
+SPEAKER_L: ask. I know a few engineers who, because I used to work at Lincoln like back when I
+SPEAKER_R: no
+SPEAKER_L: was recruiting.
+SPEAKER_R: way.
+SPEAKER_L: Yeah. And some of the Microsoft, I was like, okay. Yeah. But I think they said that engineering should be hiring again. I think. I don't hear. Um Oh yeah. Let me see actually. Uh, yeah, because I know they're hiring for product designer. So I would say, well, I can't really, I would assume that maybe the whole delivery teams hiring, but uh they're making it
+SPEAKER_R: If
+SPEAKER_L: really hard to look for dogs. Actually lengthen.
+SPEAKER_R: that's
+SPEAKER_L: You would
+SPEAKER_R: the
+SPEAKER_L: think
+SPEAKER_R: whole point
+SPEAKER_L: so.
+SPEAKER_R: of I would say
+SPEAKER_L: Okay. I found it. Okay. Maybe
+SPEAKER_R: thank
+SPEAKER_L: I'm
+SPEAKER_R: you.
+SPEAKER_L: just not join us. I don't know. I don't like how they do it honestly, like I really can't tell. But I think if you
+SPEAKER_R: It
+SPEAKER_L: go just to like engineering dot linkedin dot com, it should direct you to the appropriate place. But when I do it takes me back to Lincoln and then I actually stopped look for an engineering job. I was like, I don't know how you do it, but that's Yeah.
+SPEAKER_R: like I've searched for before, I'm just like software engineer linkedin and like it just shows up um
+SPEAKER_L: she
+SPEAKER_R: Sometimes
+SPEAKER_L: wasn't really Okay.
+SPEAKER_R: like yeah, I've seen it before. It's just like sometimes they have listings but they're not actually hiring. I don't know why they would do that, but like sometimes they do that so. Yeah.
+SPEAKER_L: I know, that's such a, you know, I heard that like actually sometimes they they like
+SPEAKER_R: It
+SPEAKER_L: the product team, they're like testing for like they're like doing tests and so you'll see like fake jobs on there. And I didn't know that until I talked to one of the P. M. So I was like why do I say this job? And I said it's at Lincoln and the hiring managers
+SPEAKER_R: it's
+SPEAKER_L: like someone like right, like senior engineering manager and then you click on it and then nothing
+SPEAKER_R: It's
+SPEAKER_L: happens and they're like, oh we're doing tests, you should really take those tests off the actual interface,
+SPEAKER_R: It's
+SPEAKER_L: right? Because I was like I saw a product design one and I was really excited and they were like and then I asked someone like one of the design recruiters there and they're like what are you talking about? This is not on like our pipeline. So yeah, I was kind of weird. Yeah so that was like, maybe that could be something, I don't know. But yeah,
+SPEAKER_R: Makes sense.
+SPEAKER_L: yeah, I think
+SPEAKER_R: The
+SPEAKER_L: they are hiring actually. So
+SPEAKER_R: perfect.
+SPEAKER_L: I like, I see like stuff software engineer, I don't know.
+SPEAKER_R: that's
+SPEAKER_L: But
+SPEAKER_R: like
+SPEAKER_L: anyway,
+SPEAKER_R: way above my level way.
+SPEAKER_L: hey, maybe in a few years, Right? You can, yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: there are a lot of them are staff positions, senior stuff, so I don't know.
+SPEAKER_R: Like I think most tech companies right now they're like only hiring like senior level people
+SPEAKER_L: that
+SPEAKER_R: and like I'm
+SPEAKER_L: makes
+SPEAKER_R: not there
+SPEAKER_L: sense.
+SPEAKER_R: yet. So it's like a little tougher for me right now.
+SPEAKER_L: Are you,
+SPEAKER_R: I
+SPEAKER_L: yeah, are you like, are you like, like senior engineer? You're just like the software, regular
+SPEAKER_R: am
+SPEAKER_L: software.
+SPEAKER_R: I'm,
+SPEAKER_L: What? I don't even know how the
+SPEAKER_R: my
+SPEAKER_L: titles
+SPEAKER_R: official
+SPEAKER_L: work,
+SPEAKER_R: title is software engineer to which
+SPEAKER_L: like
+SPEAKER_R: is which is between
+SPEAKER_L: that's okay.
+SPEAKER_R: like a software engineer one, which is like like entry level and then senior is like, you know, experience. So I'm like in the middle, like, yeah, like I'm not
+SPEAKER_L: So you're like
+SPEAKER_R: anymore.
+SPEAKER_L: making your way
+SPEAKER_R: Yeah, I'm making my way.
+SPEAKER_L: Yeah. Nice. So you're like mid level I guess? I don't even know
+SPEAKER_R: middle
+SPEAKER_L: how they would.
+SPEAKER_R: level. Yeah.
+SPEAKER_L: That's so weird. Yeah, because like, oh, that's interesting cause I can design world. They don't, they just have like, you're like a junior designer or your mid level and the mid level, it can range between three acres of experience. And I was like, there's, but there's like, no, it doesn't classify you as like senior or anything, Like, it's just like this broad range of mid level, which I don't even know what supposed to mean, right? Like, Yeah,
+SPEAKER_R: So like do you guys have like promotions if like
+SPEAKER_L: I,
+SPEAKER_R: there's no like title to go up to kind of?
+SPEAKER_L: that's a good question. I don't know. Because the other designer, Yeah, that's a bad thing, right? I should know that the other designer and our team, he's pretty senior, but we both have the same title, which is product designer, but he's way more senior than I am. And I'm like, uh, I don't know. That's like, maybe like he's trying to pivot into like product management or engineering because I feel like he's interested in those fields, but I was like, I don't know, there's some weird discrepancy, so maybe I'll ask him one of these days. Yeah. Yeah. cool. Well, I think we are definitely past that 25 minutes or whatever more. Um Yeah.
+SPEAKER_R: All right. Well, it's really nice meeting you
+SPEAKER_L: Nice video to my first time meeting from, from
+SPEAKER_R: if
+SPEAKER_L: California actually, So it was, yeah. Nice. Yeah. Cool. Well, alright. Yeah. Have a good night and good luck with your job search.
+SPEAKER_R: Thanks. All right. Good night. Right.

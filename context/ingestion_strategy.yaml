@@ -1,0 +1,537 @@
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  ZEmbeddings — Ingestion Strategy
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#
+#  Machine-readable specification for ingesting the dyadic video-chat
+#  conversation corpus into the ZEmbeddings pgvector pipeline.
+#
+#  Dataset:  /Users/marco/Downloads/no_media
+#  Study:    COVID-era (Nov 2020) Prolific-recruited dyadic video chats
+#            via OpenTok/TokBox platform.
+#  Purpose:  Semantic trajectory analysis of naturalistic conversations
+#            using OpenAI text-embedding-3-small.
+#
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ──────────────────────────────────────────────────────────────────────────
+#  1. SOURCE DATA
+# ──────────────────────────────────────────────────────────────────────────
+
+source:
+  root_path: "/Users/marco/Downloads/no_media"
+  total_conversations: 1656
+  directory_format: "UUID"  # e.g. 0020a0c5-1658-4747-99c1-2839e736b481
+  study_period: "2020-11"
+  platform: "OpenTok/TokBox via Prolific"
+  participants_per_conversation: 2
+  audio_channels:
+    L: "speaker_0"     # left channel = first listed speaker
+    R: "speaker_1"     # right channel = second listed speaker
+
+# ──────────────────────────────────────────────────────────────────────────
+#  2. FILE INVENTORY (per conversation directory)
+# ──────────────────────────────────────────────────────────────────────────
+
+files_per_conversation:
+  metadata:
+    filename: "metadata.json"
+    format: "JSON"
+    purpose: "Session identity, speaker-channel mapping, timing"
+    key_fields:
+      - field: "speakers[].channel"
+        type: "string"
+        values: ["L", "R"]
+        description: "Audio channel assignment"
+      - field: "speakers[].user_id"
+        type: "string"
+        description: "Prolific participant ID"
+      - field: "speakers[].files[]"
+        type: "array"
+        description: "Video recording segments with timing offsets"
+      - field: "id"
+        type: "string"
+        description: "Conversation UUID (matches directory name)"
+      - field: "sessionId"
+        type: "string"
+        description: "OpenTok session identifier"
+      - field: "createdAt"
+        type: "integer"
+        description: "Unix epoch milliseconds"
+
+  survey:
+    filename: "survey.csv"
+    format: "CSV"
+    rows_per_file: 2  # one row per participant
+    purpose: "Psychometric, demographic, and conversation-quality measures"
+    key_columns:
+      identity:
+        - "user_id"
+        - "partner_id"
+        - "convo_id"
+        - "date"
+      affect:
+        - "pre_pa"      # pre-conversation positive affect
+        - "pre_na"      # pre-conversation negative affect
+        - "during_pa"   # during-conversation positive affect
+        - "during_na"   # during-conversation negative affect
+        - "post_pa"     # post-conversation positive affect
+        - "post_na"     # post-conversation negative affect
+        - "pre_arousal"
+        - "post_arousal"
+      personality_bfi15:
+        - "bfi15_e"     # extraversion
+        - "bfi15_a"     # agreeableness
+        - "bfi15_c"     # conscientiousness
+        - "bfi15_n"     # neuroticism
+        - "bfi15_o"     # openness
+      loneliness_ucla3:
+        - "loneliness_1"
+        - "loneliness_2"
+        - "loneliness_3"
+      shared_reality:
+        - "sr_1" # through sr_8
+      responsiveness:
+        - "res_1" # through res_3
+      empathy_iri:
+        - "iri_1" # through iri_7
+      social_skills_aq:
+        - "aq_1" # through aq_10
+      fear_negative_eval_bfne:
+        - "bfne_1" # through bfne_8
+      demographics:
+        - "sex"
+        - "politics"
+        - "race"
+        - "edu"
+        - "employment"
+      conversation_quality:
+        - "enjoy_1" # through enjoy_4
+        - "critical_positive"    # open text
+        - "critical_negative"    # open text
+        - "rest_of_day_open"     # open text
+      covid_isolation:
+        - "covid_isolated"
+        - "covid_lonely"
+
+  audio_video_features:
+    filename: "audio_video_features.csv"
+    format: "CSV"
+    rows_per_file: ~7900   # 2 rows/second (one per speaker), ~65 min
+    temporal_resolution: "1 second"
+    purpose: "Per-second multimodal behavioral features"
+    feature_groups:
+      acoustic:
+        - "f0"             # fundamental frequency
+        - "intensity"
+        - "jitter"
+        - "log_energy"
+        - "mfcc_0..mfcc_19"  # 20 Mel-frequency cepstral coefficients
+        - "shimmer"
+      spectral:
+        - "spectral_bandwidth"
+        - "spectral_centroid"
+        - "spectral_contrast"
+        - "spectral_flatness"
+        - "spectral_rolloff"
+      prosodic:
+        - "onset_strength"
+        - "poly_features_0..poly_features_1"
+      visual:
+        - "gaze_on"
+        - "nod_no"
+        - "nod_yes"
+        - "smile"
+      facial_emotion:
+        - "p_anger"
+        - "p_contempt"
+        - "p_disgust"
+        - "p_fear"
+        - "p_happy"
+        - "p_sadness"
+        - "p_surprise"
+      interaction:
+        - "is_speaking"    # boolean
+      timing:
+        - "timedelta"      # HH:MM:SS format
+
+  transcription:
+    directory: "transcription/"
+    files:
+      raw_asr:
+        filename: "transcribe_output.json"
+        format: "JSON (AWS Transcribe)"
+        purpose: "Word-level ASR output with confidence scores and timing"
+        key_fields:
+          - "results.items[].alternatives[].content"
+          - "results.items[].alternatives[].confidence"
+          - "results.items[].start_time"
+          - "results.items[].end_time"
+          - "results.items[].type"  # pronunciation | punctuation
+
+      transcript_audiophile:
+        filename: "transcript_audiophile.csv"
+        format: "CSV"
+        rows_per_file: ~1050
+        purpose: "Fine-grained turn segmentation preserving every micro-utterance"
+        description: >
+          Maximum temporal resolution. Every backchannel ('mhm', 'yeah'),
+          fragment, and overlap is a separate row. Best for studying
+          micro-level turn-taking dynamics but too fragmented for
+          semantic embedding.
+        columns:
+          - "turn_id"
+          - "speaker"       # user_id
+          - "start"         # seconds
+          - "stop"          # seconds
+          - "utterance"     # text
+          - "interval"      # gap from prior turn end
+          - "delta"         # utterance duration
+          - "questions"     # count of questions in utterance
+          - "end_question"  # ends with ?
+          - "overlap"       # boolean, overlaps with prior turn
+          - "n_words"       # word count
+
+      transcript_backbiter:
+        filename: "transcript_backbiter.csv"
+        format: "CSV"
+        rows_per_file: ~347
+        purpose: "Consolidated turns with backchannel annotations"
+        description: >
+          RECOMMENDED for embedding. Merges backchannels into the
+          primary speaker's turn, annotating them separately. Produces
+          clean, semantically coherent utterances while preserving
+          backchannel metadata. Approximately 3x compression vs
+          audiophile.
+        columns:
+          - "turn_id"
+          - "speaker"             # user_id
+          - "start"               # seconds
+          - "stop"                # seconds
+          - "utterance"           # main speaker text (backchannels removed)
+          - "backchannel"         # text of listener's backchannels during turn
+          - "backchannel_count"   # number of backchannels
+          - "backchannel_speaker" # who produced the backchannels
+          - "backchannel_start"   # first backchannel timestamp
+          - "backchannel_stop"    # last backchannel timestamp
+          - "interval"
+          - "delta"
+          - "questions"
+          - "end_question"
+          - "overlap"
+          - "n_words"
+
+      transcript_cliffhanger:
+        filename: "transcript_cliffhanger.csv"
+        format: "CSV"
+        rows_per_file: ~327
+        purpose: "Aggressively merged turns, largest semantic units"
+        description: >
+          Most aggressive consolidation. Merges overlapping speech
+          segments and can produce very long composite utterances.
+          Useful for high-level topic segmentation but may lose
+          important turn-boundary information.
+        columns:
+          - "turn_id"
+          - "speaker"
+          - "start"
+          - "stop"
+          - "utterance"
+          - "interval"
+          - "delta"
+          - "questions"
+          - "end_question"
+          - "overlap"
+          - "n_words"
+
+# ──────────────────────────────────────────────────────────────────────────
+#  3. INGESTION DECISIONS
+# ──────────────────────────────────────────────────────────────────────────
+
+ingestion:
+  # Which transcript variant to use for the embedding pipeline
+  primary_transcript: "backbiter"
+  rationale: >
+    The backbiter format consolidates backchannels into the primary
+    speaker's turn, producing semantically coherent utterances suitable
+    for embedding. The audiophile format is too fragmented (many 1-word
+    turns like 'mhm', 'yeah'). The cliffhanger format over-merges and
+    can produce unnaturally long composite utterances that blur speaker
+    boundaries. Backbiter preserves backchannel metadata as separate
+    columns for optional analysis.
+
+  # How to construct text for embedding
+  text_construction:
+    strategy: "per_speaker_turns"
+    description: >
+      Extract each speaker's turns from the backbiter transcript as
+      separate ordered sequences. Each speaker's semantic trajectory
+      is analyzed independently. This allows comparing the two
+      speakers' trajectories and studying convergence/divergence.
+    alternative_strategy: "interleaved"
+    alternative_description: >
+      Concatenate all turns chronologically regardless of speaker.
+      This captures the conversational flow as a single trajectory.
+      Both strategies should be supported.
+
+  # Speaker identification
+  speaker_mapping:
+    method: "metadata_crossref"
+    description: >
+      The speaker column in transcript CSVs uses the user_id from
+      metadata.json. Cross-reference with metadata.speakers[].channel
+      to determine L/R assignment and with survey.csv to attach
+      psychometric data.
+
+  # Validation checks before ingestion
+  validation:
+    - check: "metadata_exists"
+      description: "metadata.json must exist and be valid JSON"
+    - check: "transcript_exists"
+      description: "transcript_backbiter.csv must exist and have > 0 data rows"
+    - check: "two_speakers"
+      description: "Exactly 2 unique speaker IDs in transcript"
+    - check: "speakers_match_metadata"
+      description: "Speaker IDs in transcript match user_ids in metadata.json"
+    - check: "minimum_turns"
+      minimum: 10
+      description: "At least 10 turns total (filter out failed/very short conversations)"
+    - check: "minimum_words"
+      minimum: 50
+      description: "At least 50 words total across all turns"
+
+  # What to skip
+  exclusions:
+    - reason: "missing_transcript"
+      action: "log_warning_and_skip"
+    - reason: "single_speaker"
+      action: "log_warning_and_skip"
+    - reason: "below_minimum_turns"
+      action: "log_warning_and_skip"
+    - reason: "corrupt_metadata"
+      action: "log_error_and_skip"
+
+# ──────────────────────────────────────────────────────────────────────────
+#  4. DATABASE SCHEMA EXTENSIONS
+# ──────────────────────────────────────────────────────────────────────────
+
+schema_extensions:
+  conversations:
+    purpose: "One row per conversation (UUID directory)"
+    columns:
+      - name: "id"
+        type: "SERIAL PRIMARY KEY"
+      - name: "convo_uuid"
+        type: "TEXT UNIQUE NOT NULL"
+        description: "UUID directory name"
+      - name: "session_id"
+        type: "TEXT"
+        description: "OpenTok session ID from metadata"
+      - name: "created_at"
+        type: "TIMESTAMPTZ"
+        description: "Conversation timestamp from metadata.createdAt"
+      - name: "duration_seconds"
+        type: "DOUBLE PRECISION"
+        description: "Total conversation duration from last turn stop time"
+      - name: "n_turns"
+        type: "INTEGER"
+        description: "Total number of turns in backbiter transcript"
+      - name: "n_words"
+        type: "INTEGER"
+        description: "Total word count across all turns"
+      - name: "metadata"
+        type: "JSONB"
+        description: "Full metadata.json stored for reference"
+      - name: "ingested_at"
+        type: "TIMESTAMPTZ DEFAULT NOW()"
+
+  speakers:
+    purpose: "One row per speaker-in-conversation (2 per conversation)"
+    columns:
+      - name: "id"
+        type: "SERIAL PRIMARY KEY"
+      - name: "conversation_id"
+        type: "INTEGER REFERENCES conversations(id) ON DELETE CASCADE"
+      - name: "user_id"
+        type: "TEXT NOT NULL"
+        description: "Prolific participant ID"
+      - name: "channel"
+        type: "TEXT"
+        values: ["L", "R"]
+      - name: "n_turns"
+        type: "INTEGER"
+      - name: "n_words"
+        type: "INTEGER"
+      - name: "survey_data"
+        type: "JSONB"
+        description: "This speaker's full survey row as JSON"
+      - name: "demographics"
+        type: "JSONB"
+        description: "Extracted demographic fields for quick access"
+
+  turns:
+    purpose: "One row per turn from the backbiter transcript"
+    columns:
+      - name: "id"
+        type: "SERIAL PRIMARY KEY"
+      - name: "conversation_id"
+        type: "INTEGER REFERENCES conversations(id) ON DELETE CASCADE"
+      - name: "speaker_id"
+        type: "INTEGER REFERENCES speakers(id) ON DELETE CASCADE"
+      - name: "turn_index"
+        type: "INTEGER NOT NULL"
+      - name: "start_time"
+        type: "DOUBLE PRECISION"
+        description: "Turn start in seconds"
+      - name: "stop_time"
+        type: "DOUBLE PRECISION"
+        description: "Turn stop in seconds"
+      - name: "utterance"
+        type: "TEXT NOT NULL"
+        description: "Main speaker text"
+      - name: "backchannel"
+        type: "TEXT"
+        description: "Listener backchannel text during this turn"
+      - name: "backchannel_count"
+        type: "INTEGER DEFAULT 0"
+      - name: "n_words"
+        type: "INTEGER"
+      - name: "is_question"
+        type: "BOOLEAN DEFAULT FALSE"
+      - name: "has_overlap"
+        type: "BOOLEAN DEFAULT FALSE"
+
+  # The existing experiments table links to conversations
+  experiments_extension:
+    description: >
+      The existing experiments table gains an optional conversation_id
+      foreign key. When running the embedding pipeline on a real
+      conversation, the experiment row references which conversation
+      it analyzes.
+    new_columns:
+      - name: "conversation_id"
+        type: "INTEGER REFERENCES conversations(id)"
+      - name: "speaker_id"
+        type: "INTEGER REFERENCES speakers(id)"
+        description: "Which speaker's trajectory (NULL for interleaved)"
+      - name: "analysis_mode"
+        type: "TEXT"
+        values: ["per_speaker", "interleaved"]
+
+# ──────────────────────────────────────────────────────────────────────────
+#  5. TEXT POSTURING FOR EMBEDDING
+# ──────────────────────────────────────────────────────────────────────────
+
+embedding_posture:
+  per_speaker:
+    description: >
+      For each conversation, extract each speaker's turns in
+      chronological order. Concatenate utterances with newlines to
+      form a single text per speaker. Feed this text through the
+      existing tokenize → window → embed pipeline.
+    output_format: "One .txt file per speaker per conversation"
+    output_path_template: "data/processed/{convo_uuid}/{user_id}.txt"
+    naming: "{convo_uuid}_speaker_{L|R}"
+
+  interleaved:
+    description: >
+      Concatenate all turns chronologically with speaker labels.
+      Format: 'SPEAKER_L: utterance\nSPEAKER_R: utterance\n...'
+      This captures the full conversational flow.
+    output_format: "One .txt file per conversation"
+    output_path_template: "data/processed/{convo_uuid}/interleaved.txt"
+    naming: "{convo_uuid}_interleaved"
+
+  preprocessing:
+    - step: "strip_fillers"
+      description: "Optionally remove 'um', 'uh', 'like' filler words"
+      default_enabled: false
+      rationale: "Fillers may carry semantic signal in conversation analysis"
+    - step: "collapse_backchannels"
+      description: "Already handled by backbiter format selection"
+      default_enabled: true
+    - step: "minimum_utterance_filter"
+      minimum_words: 2
+      description: "Skip single-word turns ('yeah', 'okay') when building speaker text"
+      default_enabled: false
+      rationale: "Even short responses contribute to semantic trajectory"
+
+# ──────────────────────────────────────────────────────────────────────────
+#  6. PIPELINE INTEGRATION
+# ──────────────────────────────────────────────────────────────────────────
+
+pipeline:
+  batch_processing:
+    description: >
+      Process all 1656 conversations through the embedding pipeline.
+      Each conversation produces up to 3 experiment runs: speaker_L,
+      speaker_R, and interleaved.
+    max_experiments: 4968  # 1656 * 3
+    estimated_api_calls: >
+      Average ~3,450 tokens per speaker, ~8,650 interleaved per
+      conversation.  With window_size=10, stride=1 each window sends
+      10 tokens; two dimension calls (full + reduced) double the count.
+      Per-conversation API tokens: ~(3450 + 3250 + 8650) × 10 × 2
+      ≈ 307K.  Total: ~514M API tokens, ~251K API calls.
+    estimated_cost: >
+      text-embedding-3-small: $0.02/1M tokens.
+      Full corpus, all 3 modes:  514M tokens → ~$10.29.
+      1/10 sample (165 convos):  51M tokens  → ~$1.03.
+      Single mode (speaker only): ~$0.24 per 1/10 sample.
+      NOTE: local models (sentence-transformers) cost $0.
+    concurrency: 1  # sequential to respect rate limits
+    checkpoint_every: 50  # save progress every N conversations
+    resume_from_checkpoint: true
+
+  output_structure:
+    results_per_conversation:
+      - "results/metrics/{convo_uuid}_speaker_L.yaml"
+      - "results/metrics/{convo_uuid}_speaker_R.yaml"
+      - "results/metrics/{convo_uuid}_interleaved.yaml"
+      - "results/reports/{convo_uuid}_report.md"
+
+# ──────────────────────────────────────────────────────────────────────────
+#  7. IMPLEMENTATION PLAN
+# ──────────────────────────────────────────────────────────────────────────
+
+implementation:
+  step_1:
+    name: "Extend database schema"
+    file: "src/zembeddings/database.py"
+    description: >
+      Add conversations, speakers, and turns tables. Add
+      conversation_id, speaker_id, and analysis_mode columns to
+      experiments table.
+
+  step_2:
+    name: "Build ingestion module"
+    file: "src/zembeddings/ingest.py"
+    description: >
+      Create functions to parse each file type: parse_metadata(),
+      parse_backbiter_transcript(), parse_survey(), and the main
+      ingest_conversation() orchestrator. Include validation logic.
+
+  step_3:
+    name: "Create ingestion script"
+    file: "scripts/ingest_conversations.py"
+    description: >
+      CLI script that walks the no_media directory, validates each
+      conversation, and calls ingest_conversation(). Supports
+      --limit N for testing, --resume for checkpoint recovery,
+      and --dry-run for validation without database writes.
+
+  step_4:
+    name: "Posture text for embedding"
+    file: "scripts/posture_for_embedding.py"
+    description: >
+      Read ingested turns from the database (or directly from CSVs),
+      construct per-speaker and interleaved text files, and write
+      them to data/processed/. These files are the direct input to
+      run_pipeline().
+
+  step_5:
+    name: "Batch embed"
+    file: "scripts/batch_embed.py"
+    description: >
+      Walk data/processed/, run the embedding pipeline on each text
+      file, and store results in pgvector. Supports checkpointing
+      and resume.

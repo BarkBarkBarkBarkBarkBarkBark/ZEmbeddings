@@ -1,0 +1,208 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hi,
+SPEAKER_R: Hey, how are you?
+SPEAKER_L: Good, how are you?
+SPEAKER_R: Pretty good. My name is Lana, what's your name?
+SPEAKER_L: My name is Mash.
+SPEAKER_R: Cool. Nice to meet you wish. So what brings you to these interesting experiment?
+SPEAKER_L: Okay. Good question I guess. Um I don't know, this one was pretty interesting. Very unique. Haven't seen anything like it before. Um Yeah, I've done this one once before. What about you?
+SPEAKER_R: I've done this one once before but it was with a group at the beginning so I'm not sure exactly
+SPEAKER_L: Yeah.
+SPEAKER_R: what it's really just having a conversation. Right, Did I miss something for you? Okay, so okay, so I I've been with prolific, I've been doing mainly the surveys for God
+SPEAKER_L: Mhm.
+SPEAKER_R: about two or 3 years now. How did how did you hear about prolific?
+SPEAKER_L: I think this goes back to when I was like a freshman in college, which was like about six years ago, I just like randomly stumbled upon it and then I've been using it on and off again. But then like the past summer, I guess like because of the pandemic and everything, I just had more free time, so it's just like my soul spend more time on this
+SPEAKER_R: Absolutely. What what is your what are you studying?
+SPEAKER_L: and
+SPEAKER_R: What's your field of? Uh
+SPEAKER_L: Um well, I graduated from undergrad in 2018 with the bachelor's degree in chemistry, then I went to grad school for education and I'm currently a chemistry teacher in high school.
+SPEAKER_R: Oh very good. Oh my gosh, so are you teaching remotely or what what are you doing now? Oh
+SPEAKER_L: Yeah,
+SPEAKER_R: my
+SPEAKER_L: I'm teaching
+SPEAKER_R: that's
+SPEAKER_L: her ability.
+SPEAKER_R: kind of a challenge. It's like are you cooking things up in your kitchen or like how do you how do you do how do you function without uh you know, a classroom lab set up?
+SPEAKER_L: I mean, I'm definitely grateful that just because I'm more of a tech savvy person, I'm not having as much difficulty with it, but definitely like we're still like teachers are still allowed to go into like the physical school building, so on days or like I'm allowed to go in, I would record whatever videos I need to do for my kids for like lab assignments and then have them watch the videos and just analyze those.
+SPEAKER_R: Oh I see. So you don't you don't do it like um what not? It's a synchronous, they do it when they can and Okay. And then you're doing like, are you doing tests like through google docs or like what? Okay.
+SPEAKER_L: forms. Yeah.
+SPEAKER_R: Okay. And
+SPEAKER_L: Yeah.
+SPEAKER_R: how are you finding the kids are getting on? Are they are they is there a lot of uh you know fritter away or you know our grades dropping? Are they getting better? How's it going?
+SPEAKER_L: definitely like last year it was a disaster just because like it just came out of nowhere. We had no plan for any of this. So that was a big challenge. But like this school year it's a bit more like well maintained just because we could prepare, like we knew this was coming and like all this like new, like during the summer, all this like education software just like came out just for like teachers and school districts to use. And it's been like super helpful where like you're doing live classes with your kids and they're like following along on an app on their phone, answering questions and you can display them live everything. So it's not like
+SPEAKER_R: Bryant.
+SPEAKER_L: a really cool way to keep them engaged.
+SPEAKER_R: Okay. Can I ask what platform are you using? I've been an online teacher for like six years, but it's been mainly 1 to 1 in small groups for language, you know, language acquisitions, but not, you know, I haven't dealt with, you know, a whole classroom for a year with with grades and hell, that's a lot of responsibility. What what platform are you using?
+SPEAKER_L: So I used the standard like google classroom, like pretty much most schools I'm assuming use that. And then within that they have like the little video chat called google meet and then I'm presenting like my power point presentation to them. And then they're using this app called Pear Deck. Where at the beginning of class they like log on either clicking a link or like using like a six letter code. And then if I change the slide it changes the slide for them on their device. And then if there's like a multiple choice question on the screen, they answer it. And then you can see like how many percent thought it was. Choice, a how many thought it was? Choice be like all these other great engagement tools and everything.
+SPEAKER_R: nice. Okay. So it's, it's a, it sounds like the game show, you know, like family feud, like 40% of the audience said tomato. So, you know, with, with chemistry, I, You know, obviously you think of now, are you like nine through 12 or 10 through 12 or
+SPEAKER_L: It's
+SPEAKER_R: you doing?
+SPEAKER_L: a, it's a mix of nine through 12. Yeah.
+SPEAKER_R: Mhm. Um Yeah. Mhm. Have you just out of curiosity? I mean, this is not my business, but I'm just curious. Have you discovered anything about your students that you wouldn't have known before? Because in a way through email communication and instant messaging, they may feel more open to talk to you about things then they would otherwise,
+SPEAKER_L: Yeah, I would definitely say so just because like with in person learning, like the kids are in the classroom and they're working, but then when you're working from home, there's like a million things that can come up when you're at home. And like the kids do email me like, oh hey, like I have like some family related issue or something like that. Or like I had to like take care of my little sibling and stuff like that. Like these normal normally would not come up in a regular school year, but since they're at home, they do have to take on this responsibility. So they have been a bit more open about that I guess. Like, the downside would be just because like, I'm totally fine with them not having like their webcams on and everything. Like I'm not the kind of teacher that would want to enforce anything like that. But it has made it hard to like learn their individual personalities unless they're like typing into the chat while I'm teaching. So like if we were to ever go back to in person learning like in the next couple of months or something, if everything calms down, it would just be like, I had to relearn everybody because like, I don't have like a face to any of these names I've been seeing.
+SPEAKER_R: That's true, that's true. And, you know, students act differently when, you know, they're surrounded by their peers, uh you know, a lot differently. Do you find that the girls have have um are more engaged with the online learning than they might have been in class, or?
+SPEAKER_L: definitely.
+SPEAKER_R: I Yeah,
+SPEAKER_L: I could think of a few examples or like I've had like students last year girls that were like really, really quiet like they did the work bright kids and then like when we switched to online learning, they were like so active and chatty and it was just like I didn't know you were like this. Uh huh.
+SPEAKER_R: there was a great, you know, that reminds me of, I don't know if you've seen it, it's a it's a great movie and I think it was called searching and it's about this fellow, he's a widower, and he's got a teenage daughter who becomes kind of withdrawn and they've developed this relationship where it's much easier to talk to each other through text messages and, you know, memes and this kind of like fuzzy techno thing. Anyway, she goes missing and he has to find her. And what's fascinating about it is that I think the director used to work for google and
+SPEAKER_L: interesting.
+SPEAKER_R: they did the entire movie as webcam emails, instant messaging. There's no like kind of live action, you never actually see anybody except through a lens, through the lens of the, you know, the thing. And, and the guy, the guy said, oh yeah, you know, kind of shot it in my apartment and we used our iphones and I mean it's really fast if you can get a hold of it. It's, I really recommend it was just a fascinating
+SPEAKER_L: that sounds really
+SPEAKER_R: exercise. Yeah, because they do like these kind of, you know, let's let's meet in a google hangout or you know, or let's let's face time and you see the father, he's like, you know, all I really know about her is that she's online a lot, but I have no idea who she's talking to, what she's talking about. And you know, you find out she's much different than, you know, than he thought. So. So really, it's a really good film. Oh,
+SPEAKER_L: I feel like I've seen a few tv shows I think during the pandemic, like they made like those kind of episodes or it's just like the main characters are just like video chatting and everything. I thought I was like a creative way of like filming during a pandemic. Yeah.
+SPEAKER_R: exactly. So, um, how is your school district been about supporting you as a teacher and you know, how is it kind of like, well I'll figure it out, good luck, you know just standards or have they really been engaged? How have they, have they stepped up to help or what?
+SPEAKER_L: Well I've known this before, the pandemic. Like if I'm being honest, like the, I love the teaching aspect of the job, but like the whole politics of like working with the administration and all that is definitely like always been a roadblock and like I always feel like they generally don't give the support that we want and then when they do it's like for something we didn't ask for. Like, oh here's this additional program were like mandatory using this one instead of making your life a bit more inconvenient because we want this because it helps us out, even though it might make things a bit more difficult for you. Or like if they come into like asking for what do we need? It's like a little bit, we kind of figured out what we need at this point.
+SPEAKER_R: Yeah. Yeah. Yeah exactly, it's like too little too late, wow. You know, I'll tell you what, I have a background in um private education and teaching in private schools, but also teaching adults, business people, that kind of thing. You couldn't pay me all the money in the world to get into public schools. I mean like oh my God that the stuff that teachers are being asked to do and not even being asked, they're being told and expected and held accountable for doing that was never part of the job description. Never. It's I can't think of any teacher who said, you know the reason I got into teaching was because of you know core curriculum really into that. I just love that you know, I love me meeting these benchmarks and milestones. I mean it's really, really great. Are they has your, I don't know what state you're in but but has your state, I don't know, some states have like they're super uptight about, You know, everybody being on this, this or that level or as a chemistry teacher, are you kind of away from that because most chemistry beyond 9th grade is elective isn't it? Or is it, does your school have four years of science that's required or how many years?
+SPEAKER_L: So I'm located in new york city and luckily we have like the strongest teacher union. So like they provide a lot of support in that regard. And in regards to chemistry, I know like the way it operates in New york city is that like biology is like a mandatory class and you have to pass like the, we call it the regents exam, which is like the final exam for the kids. But in chemistry luckily it's not mandatory, it's optional. So like the kids in my class are
+SPEAKER_R: these
+SPEAKER_L: like
+SPEAKER_R: are
+SPEAKER_L: the kids.
+SPEAKER_R: high flyers. Yeah.
+SPEAKER_L: the kids who want to be here. So like I'm grateful for that. So
+SPEAKER_R: that's
+SPEAKER_L: in that
+SPEAKER_R: great.
+SPEAKER_L: regard like and I've also noticed with like administration like they're not science people so when they come to observe me or anything like that, it's not
+SPEAKER_R: Like
+SPEAKER_L: like they understand what's going on. Yeah.
+SPEAKER_R: right there like well they were they were writing things down and we're quiet so I guess they're learning fine. Oh I was gonna ask, oh by the way, if you have never, you've probably heard of this, but if you haven't go to NPR dot org and then search this american life and then search new york city, the rubber room.
+SPEAKER_L: I've heard of the rubber room before. Um is this like a specific podcast just like documenting what goes on there?
+SPEAKER_R: Well the, this american life is a weekly series that's been going on for a bazillion years on NPR it was one episode that covered the rubber room specifically and they profiled a couple of teachers who were stuck in it. It was fascinating. I, I couldn't believe this but I understand it still exists.
+SPEAKER_L: Yeah. Now it's virtual from what I understand. They're just
+SPEAKER_R: it's
+SPEAKER_L: in
+SPEAKER_R: french.
+SPEAKER_L: the rubber room at home. Yeah.
+SPEAKER_R: my God. Okay, where do I sign up?
+SPEAKER_L: I know right. Like even before the pandemic when I heard about the rubber room, which is like you go in there for eight hours and do nothing, sign me up.
+SPEAKER_R: Yeah, I know you can do it in the comfort of your own home. Okay, that's that's good. Yeah, it was, it was really strange. And then they had this other thing where recently they had an episode about it was kind of like a parallel thing. These musicians got the most coveted gig in new york, which was to be the pit orchestra for phantom of the opera. And they signed a contract that said quite clearly your job will go on until the show finishes its run. Okay.
+SPEAKER_L: Mhm.
+SPEAKER_R: So you have people who have been there for like phantom is the longest running show ever on Broadway. And so it went on for something like 32 years before the pandemic stopped it. And you had these people whose job it was was to come in. We're the same thing, sit the same place, play the same music exactly the same way night after night after night after night and two, you know, two shows on saturday or something like this and they just profiled all these musicians about, you know what what was that like to do this? A lot of them went a bit cuckoo uh huh
+SPEAKER_L: I can imagine just like, because I teach five classes, it's all the same content just doing it after like three periods in a row. It's just like, Oh man, like I want a new lesson right now. Like I I can't do this but
+SPEAKER_R: or
+SPEAKER_L: for 32 years that's like ridiculous.
+SPEAKER_R: I know, I know and they're like, yeah, I just and you know, some people would they would target, they would target each other as an outlet, you know what I mean? They make one other orchestra member into the villain. Somebody else would come in and he was so sick of it. And everybody that he would he would eat his dinner facing the wall, not talk to anybody. It was like for 30 years this is going on. And they're like we hate each other but nobody would quit because you know, you're an oboe player. What you know, what are your options in new york city? Good. So where do you enjoy the school that you work in? Do you like the like the, I don't know, the
+SPEAKER_L: Like
+SPEAKER_R: the
+SPEAKER_L: the
+SPEAKER_R: school
+SPEAKER_L: work environment.
+SPEAKER_R: culture. Yeah, the work environment, your other teachers, you know the, you know the, you know every school has its own feel.
+SPEAKER_L: Uh definitely like in my first year it was kind of rough just because it's like your first year and everything like that. And I'm like the type of person who like takes a while to warm up to people. So like by my second year is when like I started like finding my groove with like my coworkers and everything. We started getting along really well. And then like my job satisfaction, like went through the roof just like,
+SPEAKER_R: What?
+SPEAKER_L: it felt nice to come into Oregon, like have friends there versus like the first year and it was just like myself. So like, yeah, like I look at them as like some of my good friends now, which is great, like makes the job much more enjoyable.
+SPEAKER_R: Yeah. Yeah. You know the turnover rate but teachers leaving and coming and going I feel is one of the worst things for any school. Like even if you have crap teachers, it's better if they stay because
+SPEAKER_L: Whoa.
+SPEAKER_R: disruption and disorder kids are. So, I mean I'm thinking of my, my elementary school for example,
+SPEAKER_L: It's a
+SPEAKER_R: I don't know what they did or how they did it, but somehow that little school figured out, those teachers figured out how to care about each other and they, my God, one of them, I was in like her first grade class and
+SPEAKER_L: There's nothing.
+SPEAKER_R: That was her first
+SPEAKER_L: I
+SPEAKER_R: job
+SPEAKER_L: just know.
+SPEAKER_R: and she stayed there for 37 years. She loved it. And pretty much every other teacher who was there, nobody left this school. And it wasn't that it was like some fabulous,
+SPEAKER_L: Well,
+SPEAKER_R: prestigious, you know, it was just like a little neighborhood public school, nothing special about it at all. But those teachers
+SPEAKER_L: thanks.
+SPEAKER_R: man, they figured it out. And if you can get good teachers that care about you and you care about them man stay with stay, it's not worth it. You know what I mean? Like don't don't go for the money, don't because if if you've got a crap work environment, that's the that's the worst. It's the worst. God.
+SPEAKER_L: Yeah. All right. Yeah.
+SPEAKER_R: Uh So how is how is new york? You're in new york city right, Or? Okay,
+SPEAKER_L: Um
+SPEAKER_R: so
+SPEAKER_L: definitely
+SPEAKER_R: and Michael eyes.
+SPEAKER_L: like back in March, I was like, like there's a hospital near where I live and it just felt like a war zone just like looking at it and everything and it was just like very scary like we were on the hardest hit places, but like now it seems like it's the opposite now for the rest of the country feels like the hardest hit place and like, like we kind of have it together now, which is great, like you still have to go out with masks and everything, but it feels much more safe like when I went out in March and then like, just like making like a quick grocery run or something in the back of my mind, like the anxiety got, so I was like, oh no, this is it, like I finally got it, but like now like I'm so cautious about that anxiety has gone now, even going into the school building And seeing my coworkers and stuff like that. It feels like it's just a lot safer now. And like with like the news headline yesterday at the vaccine having like a 90% effectiveness. Right? It's great. And also I found out that like the governor like released like the tier list of like the phases for the potential vaccine teachers come right after healthcare
+SPEAKER_R: Well,
+SPEAKER_L: workers, which is great. Yeah.
+SPEAKER_R: Exactly. Absolutely. I that that is wonderful. I'm out in Arizona and our dear Governor Doug Ducey um rhymes with do she? You know, he really, really wants to be liked by our Orange Commander in chief. So he has always poo pooed. Obstructed, banned any kind of thing. He's in my crappy little town. The local sheriff said, oh I'm not going to enforce anything to do with having mass gatherings. Um I'm not going to enforce any mask mandates, I'm not going to do anything and neither are my sheriff's, my husband was in Safeway today and He's standing in line and there are four Fire department paramedics not wearing masks in the grocery store, all bunched up, breathing on each other, breathing on him. And finally my husband turned around he said, you know what? You ought to be ashamed of yourself, You should set a better example. There were the only ones in the dang store not wearing masks, Only one freaking paramedics dumb asses. I mean really just this is so stupid and that the people, they just like this is like super trump country. They he came into Bullhead City and you know had his crap rally which is going to be a super spreader event and sure enough, you know A week, 10 days later cases are going up and and these people are like so dumb, they think it's, they think a virus can understand I'm not afraid of, you don't violate my civil liberties. I am. It's like who or what exactly do you think you're talking to when you're saying such horseshit, it's an aerosol, it's a virus. Do you say the same thing when somebody is coughing and say they have the flu? No, you step away and you wish the hell they would cover their mouth or stay home? But no, it's just oh my God,
+SPEAKER_L: Yeah. It's it's just ridiculous how like this is like always been the case, but the pandemic is really like amplified how ridiculous people are.
+SPEAKER_R: I don't know how we got so stupid collectively. I really, I don't know what happened, when did this happen? I really want to know when when did adults start thinking that? That was some rational argument that, you know, I'm not afraid of a virus means that they won't contract it.
+SPEAKER_L: Yeah. That's the thing about this
+SPEAKER_R: I'm
+SPEAKER_L: like
+SPEAKER_R: not,
+SPEAKER_L: we like our in our own bubbles that will never ever fully understand how these people operate and how they think because they're so like separated from our like lives and point of views. It's crazy.
+SPEAKER_R: yeah, I can't get it. I mean I'm hearing people in the grocery store and they're like, you can tell that they're the Q. Anons
+SPEAKER_L: You see.
+SPEAKER_R: and you know, they mix in religion and you know, he's our savior.
+SPEAKER_L: Because
+SPEAKER_R: He's
+SPEAKER_L: damn
+SPEAKER_R: our savior
+SPEAKER_L: it.
+SPEAKER_R: worries, save our save our Children. Hashtag should they like? Okay, so sex trafficking of kids, pizza parlors, Hillary Clinton Epstein, who by the way, has been seen photographed with the first couple on numerous occasions over the years. Uh so he's the savior. So if he's the savior, why did he
+SPEAKER_L: Well
+SPEAKER_R: lose?
+SPEAKER_L: uh huh Well according to him, he hasn't lost yet. He still
+SPEAKER_R: Oh that's
+SPEAKER_L: thinks he's
+SPEAKER_R: that's
+SPEAKER_L: there.
+SPEAKER_R: true. Well that's true, that's true. I mean, oh my God, it's so crazy. My my husband used to work, we met when we were both living in a similar town over the state line called pahrump Nevada and he was working at a television station as their news anchor. But the people who own it are this couple that are like really big ass trump supporters and you know, and Don jr came to the parent nugget and they're like look selfie like and he looks like he's been tweaking for 72 hours straight. I mean like his eyes are like red and glassy was like, Oh my God, 2020, you know, just shit faced and he's giving this the speech and they're just like, oh my God, he's so wonderful. And the the wife of you know, so Nevada's community property. So she is an owner of this tv station. She gets on the company facebook page and does this whole spiel about uh the election was stolen. You know, the lib tardes the this that the other. And I'm like, yeah, okay, so the FCC actually has something to say about that. I mean, you're the only media outlet in this town. So for you to have a, you know, distinct political outlook that's a violation and you could lose your licence. So, I don't know, maybe I just might wait till biden gets in and drop a little letter. It's just like, like how did people get so dumb? Like they, but I was young. My mom would say, don't discuss religion, don't discuss politics, don't discuss race or sex, or how much money you make, leave all that out of it. She says, then you'll probably be pretty safe and you'll have friends keep that other stuff to yourself now, nobody keeps anything to themselves and it's just ratchet. I mean have you, have you come across any conflicts with like family or friends over the political divide or have you been lucky?
+SPEAKER_L: Not with family and friends, luckily, but this school year one of my students, it's like a trump supporter. Yeah.
+SPEAKER_R: Oh what? Yeah. The danger.
+SPEAKER_L: So like
+SPEAKER_R: This
+SPEAKER_L: that was
+SPEAKER_R: stupid
+SPEAKER_L: like a whole like
+SPEAKER_R: miller
+SPEAKER_L: phone
+SPEAKER_R: types
+SPEAKER_L: call home. Yeah. It's just like okay, like I don't understand your politics. You are allowed to have them like you can have
+SPEAKER_R: who?
+SPEAKER_L: your opinion but like don't bring that aggressive attitude into this classroom and like had to call off the parents and like the mom was like really understanding on my side and she was like, oh my God, I'm so sorry. like he does this all the time, His little sister is like a democrat and he bullies her. I'm just like, oh my goodness.
+SPEAKER_R: What what was he doing? I mean like how how political is chemistry, I mean.
+SPEAKER_L: It was like the first day of classes, like virtual classes and we were just doing like icebreaker activities and stuff like that. And then like he was just like, it was just like ice breakers are like what fun thing did you do over quarantine? And like he had response like oh I came out, I was like a trump supporter, I made people crime just like what is the need for this aggression right now.
+SPEAKER_R: wow. You will cry. Oh God. Oh my God. Well there have been some interesting cases about not so much kids expressing political viewpoints, but it's brought up this whole hitherto unforeseen issue of what to what degree is the child responsible for what goes on behind him or her? So for example, you have a kid there Getting on with their work, you know, they're on task and then you see mom or dad walking by behind them in their underpants or smoking a joint or God forbid naked or I don't know doing drugs or having a beer at 10:00 AM. And what's been happening is some districts like in Wisconsin, they were making the child responsible saying you need to control your environment and the parents are like, excuse me, I didn't give you permission to come into my house, you know, virtually you have no say. And I was like, but this is so silly because really okay virtual background or in fact, I can, I can get hold on for a second. Let's see. Yeah, This was a $10, A $10 Garment Rack from walmart
+SPEAKER_L: Oh that's so nice.
+SPEAKER_R: and $4 worth of poster board from the dollar tree. Now we have privacy, you know what I
+SPEAKER_L: that's
+SPEAKER_R: mean?
+SPEAKER_L: so great.
+SPEAKER_R: Like it's so easy. It's really, really easy. So uh huh I don't know it, that when I read these articles, I'm thinking why are people seeing the obvious solution,
+SPEAKER_L: Yeah. Or like
+SPEAKER_R: which
+SPEAKER_L: if
+SPEAKER_R: is
+SPEAKER_L: anything
+SPEAKER_R: you don't want to see naked dads but put a backdrop that's a
+SPEAKER_L: Or
+SPEAKER_R: before.
+SPEAKER_L: like even similar, just like lean against the wall or something or absolutely nothing is there? Yeah.
+SPEAKER_R: Yeah, yeah or just, you know, just move or put a mute or whatever, but how how have your kids been doing with the digital divide, have they all had access to high speed internet, have they, have they been okay?
+SPEAKER_L: Well in new york city like at the beginning of the pandemic in March there was like you can request like an ipad from the Department of Education so that puts them on that as equal footing. But and then I know like internet providers who are providing like a one month or two months of like free internet because of the pandemic. But like now it's just like people didn't think it would go on for this long and they can't hold those free promises. So like now it's like up to the kids or whatever and like if they need wifi they can come to school. But even then the school like I was never that good to begin with.
+SPEAKER_R: wow. Yeah, and it's getting colder.
+SPEAKER_L: Yeah. And like you have to keep the windows open for ventilation is ridiculous.
+SPEAKER_R: God. Oh my God. Yeah, there was there was uh there was a case where these these little girls were sitting outside uh
+SPEAKER_L: Yeah.
+SPEAKER_R: a Taco Bell because they could have free wifi because their parents couldn't afford it, I mean they just didn't have it and they were just, and they couldn't sit in the restaurant because they weren't paying customers
+SPEAKER_L: Cruz.
+SPEAKER_R: and they were very poor. And mom was like well just sit us out of the parking lot by Taco Bell and they, you know, they called cps on them and it was like, oh you're negligent mother. Well I'm sorry. The mother said, look I'll I will get uh you know, I'll be dragged to court for truancy if they don't attend, what am I going to do? I get to? I don't know like we're out here in Arizona. We've got about, I'd say a quarter of the state is on tribal land and the native americans in this area. Um
+SPEAKER_L: Okay.
+SPEAKER_R: You know, they're really in kind of a crap situation. I mean not only is covid hitting them, it astronomically disproportionately high rates, but they don't have the infrastructure. I mean a lot of the Nava Hos and Hopis we're talking about access to running water. You know, we're not even at, you know, where's your broadband, it's like and they're like, well, you know, don't, you know, just don't have school. So I'm at first I thought, okay, this will get sorted out in a
+SPEAKER_L: What?
+SPEAKER_R: few months. It's a huge destruction, it's a major pain and he asked, but you know, our dear leader has decided to just punt and you know, herd immunity, we'll just figure it out. And I
+SPEAKER_L: boy.
+SPEAKER_R: really, I really do worry, I think, I think we're going to have, I think there's going to be a very long term effect between the kids who have been lucky enough to live in an urban center with this access to technology and parents who can figure it out, you know what I mean and help them and the kids who were just, you know, just blown blown out into the into dust. And I really fear for the young kids because everybody knows he's really critical developmental stages for reading and um you know functional mathematics man, it's really hard to make up second grade, you know, I mean it's really hard and and not only not only are they missing the academic stuff but they're missing the the socialization with each other and of being in class and of following routines and of you know what I mean, that that really critical structure is so important and I'm starting to get worried. What do you think, What are your kids they must be, I mean your seniors must be freaking out about college and you know, S. A. T. S. And all that.
+SPEAKER_L: Yeah. I've had like my seniors like reach out to me for recommendations if I like their seniors now and I thought them previously and like they've told me like like S. A. T. S. Or whatever exams are like waved for the time being. So I guess that works in their favor. But like yeah it's like kind of hard to showcase your abilities to college if like your final years or just like remote. And it's like not really many experiences you can talk about in your essays.
+SPEAKER_R: Yeah, I've thought about that too. I mean you can't get that kind of Rhodes scholar. Well I was a civic leader and I was uh I was uh you know an oarsman or through the shot put er played lacrosse. The only thing I can think of is that they would have to do like
+SPEAKER_L: What
+SPEAKER_R: one
+SPEAKER_L: time?
+SPEAKER_R: hell of an independent study. I mean like show their research abilities or show some kind of civic leadership through online organization, you know what I mean? I started a facebook page and we raise money for you know whatever that it's it's like really like digital activism. Ah mm But
+SPEAKER_L: Yeah
+SPEAKER_R: there is no substitute for just getting in a room with somebody, you know what I mean? Or like leading a group or convincing a group. It's not the same to just moderate a facebook page and go That was a hostile
+SPEAKER_L: No.
+SPEAKER_R: remark, I'm going to block you. Well, do you know how long we have to be at this for? What was it like? 25 minutes or half
+SPEAKER_L: it's
+SPEAKER_R: an hour?
+SPEAKER_L: been I think 35 now. Yeah. Time flies.
+SPEAKER_R: all right. We are time for it. It was so nice talking to you.
+SPEAKER_L: You too.
+SPEAKER_R: Listen, really good luck to you. I mean, God bless you for hanging in there with the public schools. Ah And tell the kids to just nine bucks at walmart will give you a rolling rack and the dollar tree. Four bucks. And they they've got privacy. Well, good luck to you. And thank you so much for everything you're doing.
+SPEAKER_L: You too have
+SPEAKER_R: How worried
+SPEAKER_L: a good one.

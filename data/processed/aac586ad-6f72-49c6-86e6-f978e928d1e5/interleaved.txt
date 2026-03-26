@@ -1,0 +1,174 @@
+SPEAKER_L: Mhm. Yeah. Yeah. Yeah. Hello? Mhm. Hello? Right. Mhm. I don't know you know. Okay. Mhm. Hello?
+SPEAKER_R: Can you hear me?
+SPEAKER_L: Yeah I can hear you. All right.
+SPEAKER_R: All right, cool. How's it going?
+SPEAKER_L: Good. How about you?
+SPEAKER_R: Uh huh. I woke up this morning and I had dental work done. I'm just now getting coffee so it should be up from here.
+SPEAKER_L: Yeah. Yeah. Oh yeah I've heard I've heard that um less people have been having dental work since the COVID-19.
+SPEAKER_R: Yeah. I usually pushed back. I had an appointment I think in june and I had that push back because I was like, there's no way I don't want to go get covid. But now I'm just I mean yeah, I think they're being pretty safe about it. I think they've kind of had time you make the preparations that they need. At least. I hope so. I mean, well hopefully I don't die. What have you been up to you today? How's your day going?
+SPEAKER_L: Uh It's going okay. Um I'm taking and I'm taking online course um uh It's in uh Oracle database and uh the courses are at night so I'm gonna start the course in about two hours. Mhm.
+SPEAKER_R: Oracle database? Is that uh I'm taking web development but that has
+SPEAKER_L: All
+SPEAKER_R: not that is not related to anything that I've seen that I would have to go through. So is that a specific like just 18 specific
+SPEAKER_L: Wait
+SPEAKER_R: or what? What
+SPEAKER_L: I guess
+SPEAKER_R: is it?
+SPEAKER_L: have you heard of um sequel or SQL it's um it's I think it's some sort of program that uses sequel the sequel language. And um I guess it uses that uh to manage databases I guess where they stored data on stuff and a bunch of tables. And I guess use the there's a lot of programs that use the sequel language to uh manage databases and this is one of the most popular ones.
+SPEAKER_R: So SQL is sequel. I always thought that was squirrel for some reason and I'm glad that you're here correcting me, and I've never had to say it out loud, but Mhm.
+SPEAKER_L: I either hear people call it sequel or SQL yeah.
+SPEAKER_R: Do you work uh what do you, is this what you do for a living and you're just getting like more knowledge to go deeper into it, or are you trying to pivot into a new career Or is this just
+SPEAKER_L: I'm trying
+SPEAKER_R: one
+SPEAKER_L: to find a new job um in that yeah. Right now I'm out of work right now, I'm looking for work. So yeah, I was taking the course because I wanted it to um find a job in that field.
+SPEAKER_R: and that just like in keeping up databases? That's the field.
+SPEAKER_L: I think that is database administrator, that's that's what I read, the main job that uses it. Mhm.
+SPEAKER_R: All right. I've there's so many jobs available in technology and I just kind of started going with web development because my friends sent me uh something that just like this web page to show you like the ins and outs of the beginnings of programming. It was really fun. But I don't think I'm going to stay in web development, but I feel like all those skills like html CSS javascript, they're going to be useful for thinking down the line, but I just like javascript such a hard way to train my brain to think about things. Just the way computers interact in general
+SPEAKER_L: But
+SPEAKER_R: is a little bit to get my head around.
+SPEAKER_L: Yeah. It is complicated. Uh So is the is the main thing you're learning javascript?
+SPEAKER_R: Um Well, I was I'm taking is it you did me or you did me? It's a I'm taking a web development course on there, and then I've gotten to, I guess an intermediate javascript project and I felt like I didn't really have the information from what she had given me because it's such a comprehensive course. I decided to take a break and I'm doing like a whole deep dive into javascript, just so I can kind of understand that from the ground up, and not just for the project, so right now, yes,
+SPEAKER_L: huh.
+SPEAKER_R: focusing on job this group.
+SPEAKER_L: I see, I spent some time trying to learn javascript on my all um before uh I used to I tried to use it with the program Grease monkey, I don't know if you've heard of that program.
+SPEAKER_R: Um I think I have uh some mturk apps through Grease monkey. Yeah,
+SPEAKER_L: Yeah,
+SPEAKER_R: yeah.
+SPEAKER_L: that I was trying to make scripts with that with javascript.
+SPEAKER_R: How'd that go?
+SPEAKER_L: Uh Okay. I mean I made a few um uh I mean I learned I think I got better at understanding other people's scripts and I made a few, but I never I didn't use it a whole lot, I didn't end up using it a whole lot. Um
+SPEAKER_R: What were you trying to make the scripts for?
+SPEAKER_L: I guess sort of like the other things they have on Grease monkey for mechanical turk, like you know press this button and you'll click this button when you when you press this button on your keyboard or stuff like that, that makes the surveys go faster.
+SPEAKER_R: Yeah. Yeah, I don't really uh mturk hasn't been paying off as much recently, but I did get stacks, which is a free version of I think something that people pay for, which is like a
+SPEAKER_L: really?
+SPEAKER_R: it's an auto hit grabber and that has made it a lot, like definitely doubly as lucrative as it was, but it's strictly because I couldn't, like I asked the guy on one of the mturk forums, I told him that someone had told me about the script they were selling and he was a total ass about it. He was like, yeah, we can talk about it later. And then he just never responded to me. I was like, okay, I guess I'll just Get the Free one. But
+SPEAKER_L: yeah, I don't use mechanical turk as much as I used to I guess. Um Yeah, it's it's hard to make that good uh Money per hour on that site. Yeah.
+SPEAKER_R: have you tried user testing?
+SPEAKER_L: No, I I don't I don't think so. Is that on, is that on mturk?
+SPEAKER_R: No, it's just user testing dot com every time Is at least $10. And you're just basically they want you to walk through websites. So Lemma graphics, you would just Do what they tell you and kind of read it aloud and they're wanting to see how people interact with their websites and just usability I guess. And some some are 30, some are 90 like you can make decent money after that.
+SPEAKER_L: Oh okay. I'll try to remember that they're testing. Yeah.
+SPEAKER_R: Yeah. Some girl on another one of these that I was doing told me about it and it's actually it's been pretty good money.
+SPEAKER_L: So you're using that a lot lately?
+SPEAKER_R: Yeah. And prolific is better than mturk I've found and I guess
+SPEAKER_L: that I
+SPEAKER_R: as
+SPEAKER_L: do it.
+SPEAKER_R: many people use it either. I don't, I can't tell why it's better.
+SPEAKER_L: Mm Yeah, I think it seems like would prolific, they have verified the people who give the surveys more, so I think the people who signed up on prolific don't try to either, they don't try to give surveys that pay really low or they have to be verified. So if they're giving surveys that are broken, it gets um fixed really quickly.
+SPEAKER_R: Yeah it does. I've noticed that there was one that was like broken the beginning of it and I wrote them an email and they just like fixed it within like 10 minutes. So I think they have a really good system, but I don't understand why mturk can't get it together. I guess. They just don't care, basis has no real reason to care about anything except his empire of deliveries table delivered from him today. So I can't good about it. But
+SPEAKER_L: Yeah, I think that's as the very big
+SPEAKER_R: you know, have
+SPEAKER_L: paper
+SPEAKER_R: you dealt with tendinitis at all? I don't know. I guess you probably use your computer a lot. You're programming.
+SPEAKER_L: mm uh Well I've had I've had issues with finger pain and hand pain before.
+SPEAKER_R: How long does it take that to go away? I just recently started having it and I'm pretty sure it was just like a combination of using like programming, doing stuff during the day and then guitar and push ups, but it's just like not really going away. Yeah.
+SPEAKER_L: Uh Yeah. Um I'm not sure. It didn't really never really went away for me. Uh And
+SPEAKER_R: That's not helpful. That doesn't sound part. Did you get an economic keyboard or anything?
+SPEAKER_L: Yeah I have I have a Microsoft natural keyboard that I think that helps. Some I try not to it's some keyboards cause more pain, want to use them so I try not to use it too long if it starts making me feel more pain when I use it. Uh And um I mean there's I guess there's information you can read on that. Um I think exercise helps um And uh maybe trying not to use the computer too much throughout the day that that's more difficult I guess trying taking some time off the computer sometimes. But I admit I I've yeah I didn't really find this solution to that.
+SPEAKER_R: I'm going to try one of those vertical mouse is I think. Right,
+SPEAKER_L: I think those help some. I have one that's sort of like that.
+SPEAKER_R: what do you have? Which one do you have? I was looking at uh different ones over the weekend,
+SPEAKER_L: I'm not sure that the brand is uh you see like this one
+SPEAKER_R: so you do like hold it? Yeah, that's a vertical. How is it to get used to?
+SPEAKER_L: Wasn't too hard to get used to it. I mean I've had it for about four years. Uh Yeah, I got used to it after a little bit. It has um this is probably the lower budget one. Uh It has these two side buttons which sometimes I accidentally click. Um but you can change the settings on it and stuff, or there's other programs that let you change the settings on it. Um Yeah, I think it works uh works pretty well.
+SPEAKER_R: Yeah, I just don't want so I have to get surgery and like five years. That would shitty mostly because I don't know if how it afford it, but hopefully by then we'll have some sort of health care that's better than a couple.
+SPEAKER_L: Mhm. Yeah. I used to have you heard of speech recognition software? Bird?
+SPEAKER_R: Uh Yeah, I've heard of it. I don't. Is that are you making money that way? Thank
+SPEAKER_L: no,
+SPEAKER_R: you.
+SPEAKER_L: I used that sometimes instead of typing are used to use it more. Actually stopped using it because then it started making my voice feel worse. So actually I used to use that more instead of typing but then it started making my voice feel worse. So uh I'm not sure much I like it because it does it can wear down your voice after a while so
+SPEAKER_R: But it's accurate.
+SPEAKER_L: and yeah it can be pretty accurate actually. Like Dragon naturally speaking. I think that's the most popular one. Um There's Windows speech recognition is okay That I think that's the free one. But yeah I think it's pretty accurate.
+SPEAKER_R: Yeah, I don't think I've tried that, but I don't know how that would work with programming.
+SPEAKER_L: Yeah it might be it's probably harder to use for programming and I think if you use it for stuff that's really repetitive I think it's more likely to strain your voice over time if you have to use it a lot for really repetitive commands. Mhm. All right.
+SPEAKER_R: I don't know. I just think that he don't I've been trying to lay off it for about a little over a month and I decided to just get a brace for try that for like a week and see if that kind of toast and I got a desk. I wasn't using a desk. So I think my posture is generally pretty crappy to, I just probably a lot of things that need to change like the better keyboard, better mouths because I'm using like a laptop. So I have no art, like risk support or anything and just like bend pumped over on my couch. Probably not the best.
+SPEAKER_L: Yeah I think yeah couch is not not as comfortable and the laptop keyboard yeah I don't think it's not as comfortable as a some of the other keyboards ev mhm.
+SPEAKER_R: I think one thing that I was kind of concerned about when I was looking at like the mouse and the keyboard is compatibility with Catalina, but I guess I'll figure that out. Just I saw that a lot. We're not compatible and you had to get 3rd party software right? Hopefully in the next couple of months, the mouse that I'm looking at will have either a patch or some new software for it
+SPEAKER_L: Uh What is Catalina?
+SPEAKER_R: is the newest uh, Mac. Os. Yeah. I kind of wish I had never gotten a mac even though I love the laptop. I really do. I have an unnatural love for it. But it's just it's really annoying. I already have to get a new, like a USB port converter because they got rid of USB for some reason and it's just see. So I just don't understand Apple's logic other than just like try to make as much money as they can on everything.
+SPEAKER_L: Uh I hear that about Apple computers. I mean I hear people say they run better and they like them more but then also they're expensive and they there's a lot of stuff they don't work with.
+SPEAKER_R: Yeah, the compatibility issues I think are pretty big. But Uh huh.
+SPEAKER_L: Okay.
+SPEAKER_R: I'm hoping to build a desktop soon so I won't have to worry about that. And I can just use my laptop for like, yeah, other things, fun things I guess just games or something. Probably not games, but maybe it'll be worthless when I get a desktop. I don't know.
+SPEAKER_L: Uh Yeah. Oh yeah enough. Um thinking about that the the pain computer use pain. I know there's some books on it, probably the books they have on it. Probably whatever books that are on the subject they're probably going to be more helpful than most doctors and I don't know a lot of doctors if you bring it up they don't they don't seem to know much about it or care that much about it that's my impression
+SPEAKER_R: I found that with a lot of things surprisingly when I go to the doctor like I have this weird little bruise or something on my leg that I've had for, I think three years and I told the doctor about it and he was just like, I don't know does it hurt? I'm like, no, it's like, well I guess we'll just keep watching. And I'm like, yes, I am watching it. But I'd like to like, am I dying? Is this gonna was my leg to get cut off in the next three years? Just it baffles me sometimes how little doctors know and how much we pay them. Just like I need you to either, no, a lot or not make so much money you need about here. Oh
+SPEAKER_L: were really
+SPEAKER_R: yeah.
+SPEAKER_L: expensive. Mhm.
+SPEAKER_R: book would probably be better because it would probably be written by someone who had a bear interest in the subject and not such a comprehensive knowledge. I think it's just repetitive stress though and I don't know I guess I'll have to learn how to strengthen the muscles. I think I was doing like More push ups and I don't have great formats. Like I broke my collarbone when I was 18 so I have some sort of weird funky right arm and I think I just I'm not strong enough to do the things that I was trying to do all at once but I'll figure it out hopefully or I'll just get a robot arm
+SPEAKER_L: robot
+SPEAKER_R: and that
+SPEAKER_L: are
+SPEAKER_R: will too also expensive I guess. But maybe they have a armed program where they want people to sign up to test out the robotics.
+SPEAKER_L: this
+SPEAKER_R: I have to
+SPEAKER_L: is
+SPEAKER_R: look through that. Maybe I'll do that anyways. Yeah. Would you replace any of your body parts with robotics?
+SPEAKER_L: I don't think right now but I guess if yes if
+SPEAKER_R: This
+SPEAKER_L: they
+SPEAKER_R: technology
+SPEAKER_L: got
+SPEAKER_R: is not advanced.
+SPEAKER_L: yeah we got more advanced and maybe if one of if my body parts started having enough problems maybe I'll think of that. I would think of it. It got to the point where everything was more advanced.
+SPEAKER_R: Would you live forever if you could replace everything with robotics? Right.
+SPEAKER_L: yeah I don't know how that would work. I've seen that in movies. Uh
+SPEAKER_R: Yeah. Look let's not, I'm not going to be able to tell you how that works. So let's just pretend that it does work. That's been disbelief. Yeah.
+SPEAKER_L: I would try it at least for a while. Mhm mm. Mhm.
+SPEAKER_R: Yeah. I don't know what kind of society we're going to have in the future. It would be nice in a good society but I don't know where we're going right now. Mhm.
+SPEAKER_L: could be bad. People could misuse. That definitely mm.
+SPEAKER_R: just elected donald trump. Well hopefully not twice but once is enough to tell me that society needs a little work before I want to live in it forever. Do you live in the north? Yeah.
+SPEAKER_L: Uh I live on the east Coast.
+SPEAKER_R: Yeah. I'm in D. C.
+SPEAKER_L: I'm living in Delaware.
+SPEAKER_R: Delaware. I know nothing about Delaware. I don't think I've even met anyone from Delaware. What do you guys do this?
+SPEAKER_L: it's a yeah it's a small state. Uh it's next it's close to Maryland pennsylvania, New Jersey. Um Well I guess you know I think it's a probably a normal state and that's my feeling is probably like an average place. Uh um There's there's not doesn't seem like there's there's not that so many people, I mean it's getting more populated, it's gotten a lot more populated the past few decades, but it's close to pennsylvania and New Jersey and Maryland. So doesn't seem like there's so much going on in Delaware, but you can always um drive to another state nearby.
+SPEAKER_R: is it like nice nature areas or?
+SPEAKER_L: I think so. Yeah it does. Well in uh in southern Delaware there's Rehoboth Beach, that's a popular place that I hear a lot of people from Washington D. C. Go there in the summer. Um Then I mean they do have some parks, they did you have a fair amount of parks and hiking trails. I think it has some good areas to uh is it?
+SPEAKER_R: Yeah because I'm just just thinking about Delaware, I don't even know what kind of industry you guys have or I assume it's a liberal state because it's Northeast but that's pretty much all I would assume about it other than maybe lots of nice wooded areas. They don't even know why I would think that.
+SPEAKER_L: Why now in Delaware? I know, let me think, oh well, a lot of the banks have their headquarters in Delaware I think because there was there's some there's some old uh tax law about Delaware not having corporate taxes, some corporate tax law that made the banks want to put their headquarters in Delaware. Uh
+SPEAKER_R: Yeah. That's interesting.
+SPEAKER_L: And what else? Well, oh, it has a lot of the chemical industry companies like Dupont have their headquarters in Delaware. I think some of them are starting to move now, but it had a lot of companies in the chemical industry, Probably the biggest one is Dupont.
+SPEAKER_R: Mhm. two part does not have a good
+SPEAKER_L: it's
+SPEAKER_R: reputation. Do they have a lot of chemical plants there or just the headquarters?
+SPEAKER_L: They do have plans, I think they've moved a lot of them in the past 10 to 20 years because they've Dupont's been sort of splitting off, they've been selling parts of their company off and um they've been sort of they had a they've been sort of moving relocating places and I think they had a merger with Dow Chemical and um yeah they were relocating some of their places. But yeah, there's a lot of chemical companies that are still in Delaware, so if somebody wants to work in that, you know in that industry, Delaware is a good place to be. Yeah.
+SPEAKER_R: That's interesting. Wonder what the soils like. Like are these chemical plants? Where are they located? Are they? Is there a definite, is it a far away from the suburbs or? Uh huh. Near
+SPEAKER_L: Yes,
+SPEAKER_R: places where people live
+SPEAKER_L: I think there's not that far away from where people live. Yeah, I did hear that used to be, there were pollution issues in the past in Wilmington, Delaware which is where a lot of them were. Yeah, there has been some controversy about chemical chemicals and stuff. I know there's a lot of lot more rules now than there used to be. They have to follow a lot of, a lot more rules than they used to. But yeah I know the um in the past there was a lot there was more controversy about that.
+SPEAKER_R: like soil pollution or air pollution or just all pollution?
+SPEAKER_L: I think yeah all kinds I think. Yeah.
+SPEAKER_R: That's crazy to think back when these companies started, it was kind of like the Wild West and they didn't have to worry about affecting people's health because I think I read a story about a guy that's a Uh huh. I don't I think he was a corporate lawyer, but he went up against Dupont because they were, some of their workers were getting cancer and it was a huge uh lawsuit that he won, I think one of the largest environmental lawsuits in the country. But that's how I remember do point or that's all. I always think of them. Cancer. Yeah.
+SPEAKER_L: Yeah. Yeah I have heard I have heard some of those stories I guess uh it's come out more recently. I didn't yeah I guess growing up I didn't realize how didn't hear as much of that stuff until uh until later. Yeah. Okay. Thank you.
+SPEAKER_R: Yeah, I didn't
+SPEAKER_L: Well
+SPEAKER_R: either. And I think it was from like the teflon they put in pans to probably just like eating the cancer teflon when I was a kid because I don't think any of our parents knew about it. Because
+SPEAKER_L: Oh teflon. Yeah that yeah
+SPEAKER_R: there's something.
+SPEAKER_L: it's a thing with teflon, I've heard that you're not you have to be careful not to eat it too much or not to scrape off of it when if you use it. Yeah. Yeah. Well I guess with metals I guess with aluminum or steel or steel pans I guess it's a lot savor. Mhm I think.
+SPEAKER_R: You get for now. I don't know. I feel like everything's trying to kill us. Yeah.
+SPEAKER_L: The universe is trying to kill us.
+SPEAKER_R: Yeah. But doing a very poor job of it. It's just a very lazy murder of the race.
+SPEAKER_L: Yet it is. That's sure it's like it's lazy but doesn't really care if we live or die, but it's also too lazy to really try most of the time. Yeah.
+SPEAKER_R: I mean, I wish they would put some effort in. Just well, thanks for wishy washy. Yeah. All right. Well, um, I think our time is up,
+SPEAKER_L: Oh yeah. It looks like time's up.
+SPEAKER_R: but it was awesome to talk to you. Uh, Thanks
+SPEAKER_L: to
+SPEAKER_R: for
+SPEAKER_L: start.
+SPEAKER_R: having
+SPEAKER_L: Me
+SPEAKER_R: me
+SPEAKER_L: too.
+SPEAKER_R: and everything.
+SPEAKER_L: You're welcome
+SPEAKER_R: Have a good Damon. Or after
+SPEAKER_L: speaking
+SPEAKER_R: your night.
+SPEAKER_L: and
+SPEAKER_R: Night? Yeah, afternoon.
+SPEAKER_L: afternoon.
+SPEAKER_R: I don't know. You have a good one.
+SPEAKER_L: You too.
+SPEAKER_R: Bye.

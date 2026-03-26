@@ -1,0 +1,352 @@
+SPEAKER_L: Mhm. Yeah. Yeah mm. What? Mhm. Okay. Yeah. Mhm. Okay, how's
+SPEAKER_R: Hi.
+SPEAKER_L: it going?
+SPEAKER_R: Good. How are you?
+SPEAKER_L: Good
+SPEAKER_R: What's your name?
+SPEAKER_L: Michelle and your
+SPEAKER_R: Cat
+SPEAKER_L: yeah, nice to meet you
+SPEAKER_R: this drinking too. Where are you from?
+SPEAKER_L: boston actually.
+SPEAKER_R: Oh wow, that's cool. What's it like in boston?
+SPEAKER_L: Um It's actually just moved here so it's not too bad, it's all overcast today but uh not winter yet so I'm cool with it. How about you? Where are you calling from?
+SPEAKER_R: uh Southern California. Yeah.
+SPEAKER_L: I'm so jealous. Nice.
+SPEAKER_R: We never have like any seasons really. It's like 65-75° where I live the whole year
+SPEAKER_L: my
+SPEAKER_R: record.
+SPEAKER_L: gosh. Yeah I actually used to live in like the South Bay area and I miss it so much. I mean I know like southern California is even warmer but so uh awesome
+SPEAKER_R: Why did
+SPEAKER_L: and
+SPEAKER_R: you move to boston?
+SPEAKER_L: my partner has a job here so you know it's just um
+SPEAKER_R: Mhm.
+SPEAKER_L: I moved from ST louis so I was just kind of like it. Welcome change. Yeah.
+SPEAKER_R: that's cool. What does your partner do? Okay.
+SPEAKER_L: he works in like university admissions so um
+SPEAKER_R: huh,
+SPEAKER_L: if I mean he he likes it but like the university he got to here is like a step up. It was kind of like a of course we'll move type thing so. Okay.
+SPEAKER_R: let's go.
+SPEAKER_L: But
+SPEAKER_R: I'm
+SPEAKER_L: um yeah, how about how about you? And what do you, what do you do? Nice.
+SPEAKER_R: Yeah.
+SPEAKER_L: Okay. Hence the background. That makes total sense. Yeah. I like it. Uh What were great
+SPEAKER_R: Middle
+SPEAKER_L: to have you?
+SPEAKER_R: School. So 6 78. It
+SPEAKER_L: gosh. Yes. That must really tricky. I admire your patients already. Yeah.
+SPEAKER_R: is what they're so fun. They're just so much more open than high school students to, I don't know, to learning and to the world. Just in general
+SPEAKER_L: Do
+SPEAKER_R: for
+SPEAKER_L: you
+SPEAKER_R: the,
+SPEAKER_L: have like a certain subject you teach?
+SPEAKER_R: yeah, I teach language arts and social studies. Mhm.
+SPEAKER_L: Sorry, I didn't mean to cut you off. What were you going
+SPEAKER_R: no,
+SPEAKER_L: to
+SPEAKER_R: no,
+SPEAKER_L: say?
+SPEAKER_R: I don't even remember. So tired. I worked. Uh So um, what do you do?
+SPEAKER_L: I work for a startup and they build um like we build custom machine learning models to read um like
+SPEAKER_R: Uh huh.
+SPEAKER_L: customer service data. So like all the surveys that you fill out every time you like buy something online or um other creepy stuff like that I guess. But um it's like fully remote jobs so that's been interesting but um going pretty well. So
+SPEAKER_R: that's cool. How long have you been doing that?
+SPEAKER_L: um I've been at this company for three years but fully remote like since the beginning of this year. So it's yeah, lots
+SPEAKER_R: Do
+SPEAKER_L: of computer time but that's
+SPEAKER_R: you like
+SPEAKER_L: it.
+SPEAKER_R: that working remotely?
+SPEAKER_L: I kind of miss having an office just because like you know the interpersonal stuff is just like easier and I don't know there's a lot of time that can be saved just talking to someone and instead of even like video calls or chat like you can't get the whole context sometimes. So. But um Yeah how so
+SPEAKER_R: it's
+SPEAKER_L: how has remote we're been for you to you?
+SPEAKER_R: hard, it's hard.
+SPEAKER_L: These are you 100% remote? Oh my gosh, wow.
+SPEAKER_R: Yeah, they don't, yeah, they're not letting anyone back in the classroom yet here, so it's really hard on the kids there,
+SPEAKER_L: It.
+SPEAKER_R: they're struggling because a lot of them don't have parents who can help them. Mm
+SPEAKER_L: Well
+SPEAKER_R: so
+SPEAKER_L: and I mean if a wifi problem happens to jews.
+SPEAKER_R: they don't know how to fix it, you know, I have like 10 year olds who are trying to get on the computer by themselves because their parents are at work, so. Mhm.
+SPEAKER_L: jeez. Yeah
+SPEAKER_R: Yeah.
+SPEAKER_L: like are they because you said earlier they're like pretty eager to learn. So I guess they're like pretty attentive. So.
+SPEAKER_R: yeah, I think they're, yeah, they're pretty attentive, they're open to changing their mind about things and I live, I love that about them. You can really influence them in a positive way.
+SPEAKER_L: Yeah. That's awesome. Uh
+SPEAKER_R: Yeah.
+SPEAKER_L: Go ahead. Right.
+SPEAKER_R: Oh no, go ahead. Good and
+SPEAKER_L: No I was going to say uh So you said literally language art, language arts and social studies like um
+SPEAKER_R: mm
+SPEAKER_L: What like what are you guys studying right now? Those are like my favorite subjects like man, maybe I should go back to school, but yeah.
+SPEAKER_R: well language arts is usually the same, like read a story, we're doing characters and setting and stuff like that. Um Social studies, my sixth graders are doing ancient civilizations.
+SPEAKER_L: So fun.
+SPEAKER_R: 7/7 grade is middle ages and eighth grade is U. S. History. Yeah.
+SPEAKER_L: nice.
+SPEAKER_R: Yeah.
+SPEAKER_L: Mhm. So
+SPEAKER_R: So
+SPEAKER_L: like oh go
+SPEAKER_R: I'm
+SPEAKER_L: ahead. No.
+SPEAKER_R: do you like the do you like social studies or? Mhm.
+SPEAKER_L: yeah, that's
+SPEAKER_R: Most
+SPEAKER_L: actually
+SPEAKER_R: people,
+SPEAKER_L: my degrees are in political science and somehow I like wound up in tech. But um that's so that's really interesting though. Like do with like us history, do you guys like have to talk about like current politics or can you like kind of avoid it? And
+SPEAKER_R: Um We do kind of talk about some things, but it's very, I have to be careful what I say, that some of your parents are a little intense.
+SPEAKER_L: Yeah, I can't even imagine. Okay, well it's like hard because it it's really affecting everybody, like I think more than any previous like elections or anything like that and then plus cove is like oh my gosh, even
+SPEAKER_R: Hello?
+SPEAKER_L: like for kids, I don't know how, how you avoid it.
+SPEAKER_R: it's really, it's really difficult. I just I try not to give any opinions about anything, but and it's funny you see how divided the kids are based on what their parents believe and so trying to get them think for yourselves and then make a decision. Mhm. Mhm.
+SPEAKER_L: wow.
+SPEAKER_R: Which is really difficult. But do you have
+SPEAKER_L: meditating.
+SPEAKER_R: any kids?
+SPEAKER_L: No, I just have an £80
+SPEAKER_R: Do
+SPEAKER_L: for a child.
+SPEAKER_R: you? Oh I
+SPEAKER_L: Yeah,
+SPEAKER_R: love dogs
+SPEAKER_L: she's yeah
+SPEAKER_R: person.
+SPEAKER_L: she's a half um shepherd, half rottweiler, so she's a mess. I'm actually surprised that she hasn't like tried to force her way into the room right now. But um no just uh just her. So how about
+SPEAKER_R: What's
+SPEAKER_L: you?
+SPEAKER_R: your name? Yeah I have one kid and one dog like ticket mm
+SPEAKER_L: her
+SPEAKER_R: That's
+SPEAKER_L: name's
+SPEAKER_R: good. Oh
+SPEAKER_L: How how old are your kids?
+SPEAKER_R: five yeah
+SPEAKER_L: the
+SPEAKER_R: I'm
+SPEAKER_L: funny
+SPEAKER_R: home schooling him too. Yeah
+SPEAKER_L: oh my gosh,
+SPEAKER_R: it's crazy.
+SPEAKER_L: And then you have time for this to chase. You must be like working like non stop.
+SPEAKER_R: I I work a lot I work a lot but and I have my dogs like a 30 only 30 £35.
+SPEAKER_L: No.
+SPEAKER_R: She's a mix to black lab and pharaoh hound. Yeah.
+SPEAKER_L: cool, she's probably really interesting looking. Yeah, go ahead.
+SPEAKER_R: Is your dog a rescue or? Mhm.
+SPEAKER_L: yeah, she like kind of like um she was kind of an accident litter and like they definitely were not in like the conditions to be like taking care of dogs.
+SPEAKER_R: Thank you.
+SPEAKER_L: So yeah, she's like not a rescue in the traditional sense, but like She definitely has a while, she's spoiled rotten so she 100% has like a better home with us, but yeah.
+SPEAKER_R: good,
+SPEAKER_L: Right. Uh She's kind of a diva
+SPEAKER_R: £80. She must be huge. Yes.
+SPEAKER_L: Yeah, yeah, she's um she knows how big she is too like so she kind of gets her way. Um But yeah.
+SPEAKER_R: uh does your partner like dogs too? Mhm.
+SPEAKER_L: he does know so. But yeah, so do you have any like plans for the weekend, are you gonna gonna go out and do something or?
+SPEAKER_R: just probably work, I have to clean my house.
+SPEAKER_L: Yeah, I understand because yeah, like once you finally have a three minute, it's like all the other stuff, you know, you can finally
+SPEAKER_R: what about you? Mhm,
+SPEAKER_L: Probably something around the same thing um because we just moved in so there's like you know all the junk from unpacking and Yeah,
+SPEAKER_R: Mhm
+SPEAKER_L: I mean really mundane stuff, grocery shopping. Uh
+SPEAKER_R: Yeah.
+SPEAKER_L: Probably taking the dog for a walk like. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: So. Yeah, but it was interesting like moving from ST louis to boston because like they like it's a good thing but they take codes and much more seriously here. Um Because the midwest like I mean half of them
+SPEAKER_R: everything,
+SPEAKER_L: don't even believe it's real. So like uh that was refreshing but there's not a whole lot to do because it's very locked down. So um Yeah, I don't know. Well it's like we'll probably just like drive around and look at things but we can't actually go do anything.
+SPEAKER_R: that's true. So they didn't take it seriously in ST louis,
+SPEAKER_L: I don't know. Yeah. No um there's still people that refuse to wear masks um for like anything. Um Like some restaurants are not socially distant, like it's like super basic stuff, it's like shocking, but it's just um yeah, it's just like I think there's just a lot of people who are susceptible to or
+SPEAKER_R: believe
+SPEAKER_L: they have they yeah, they have they I guess the privilege of being able to believe what they want, whether or not it's true and so they go with whatever the easiest route is and um I guess for a lot of people that is just not wearing a mask. Yeah
+SPEAKER_R: wow, that's
+SPEAKER_L: it's a little, yeah, but I mean and I guess it's not really in their defense, but there hasn't been like the explosion of cases like there have been on each coast. So like that also contributes because um it's a lot easier to act like it's not a real thing if it doesn't immediately affect you in a lot of ways, so. Yeah.
+SPEAKER_R: wow,
+SPEAKER_L: Uh huh.
+SPEAKER_R: I didn't, are there like a lot of trump supporters, like hardcore trump supporters? They, or they just don't Mhm.
+SPEAKER_L: It's well ST louis itself it will be a good city in like 10 years. Um It's just gotten like kind of dangerous but like yes on top of that the state is pretty um
+SPEAKER_R: Mhm,
+SPEAKER_L: pretty pro trump. Um And I mean but I think that whole block of the midwest just kind of like that too. Um But
+SPEAKER_R: mm hmm.
+SPEAKER_L: I mean it's also a population that you know, it doesn't have a lot of exposure to other types of people and the types of thinking or you know, so I mean it's hard to defend it but like.
+SPEAKER_R: Yeah, they're just, yeah,
+SPEAKER_L: huh. Yeah.
+SPEAKER_R: that's just their life and they don't know any different. Yeah.
+SPEAKER_L: Yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: so it's just interesting. Yeah
+SPEAKER_R: hmm.
+SPEAKER_L: it's refreshing
+SPEAKER_R: On
+SPEAKER_L: being here
+SPEAKER_R: the
+SPEAKER_L: like
+SPEAKER_R: coast,
+SPEAKER_L: in boston. Yeah.
+SPEAKER_R: I can't imagine like I've lived in California all my life, I can't imagine living somewhere else. And like my sister moved to texas and like a rural area because her husband got a job there, she's like these people are crazy like they don't wear mess there just like everywhere. And I uh it's so different but yeah. So how Oh go ahead.
+SPEAKER_L: no I was just agree
+SPEAKER_R: Yes. How long do you think you'll stay in boston? Oh.
+SPEAKER_L: you know at least like 3-5 years um Just like the job for my partner seems like a really good fit. Um And I love it here already like a meaningful I've been here actually, I haven't even been here a week but I already love it. Um
+SPEAKER_R: Mhm.
+SPEAKER_L: And I can like work wherever um for my job. So yeah, I mean at least as long as he likes his and then if I might switch to a job here to, I don't know. But yeah,
+SPEAKER_R: mm.
+SPEAKER_L: we'll see. No no definitive timeline
+SPEAKER_R: So
+SPEAKER_L: at this point. So.
+SPEAKER_R: did you move into a house or an apartment? Yeah
+SPEAKER_L: yeah, no just an apartment. It's just as expensive as like California. It's like um
+SPEAKER_R: and
+SPEAKER_L: It's interesting though, it's very compact where like everything, I didn't realize that like google maps kind of like a just um when
+SPEAKER_R: Yeah.
+SPEAKER_L: you're using it, so like it's super zoomed in when we're trying to go anywhere. So it seems like everything is really far away, but it's not, it's just like zoomed in
+SPEAKER_R: I
+SPEAKER_L: so that's
+SPEAKER_R: don't get
+SPEAKER_L: been
+SPEAKER_R: it.
+SPEAKER_L: interesting. But um yeah, I like it here so far.
+SPEAKER_R: that's good. Are there places to walk your dog or they're like dog parks or just regular parks? You can walk your dog? Mm.
+SPEAKER_L: I don't know. We yeah, we're still finding that out, but uh there's like the Charles river has a bunch of trails but um
+SPEAKER_R: that's
+SPEAKER_L: go up and down so that that's the only thing I know of so far but DVD so.
+SPEAKER_R: That sounds really fun. That's awesome. Yeah.
+SPEAKER_L: Um Yeah. How about how much you got a little? So like do you, sorry going back to, do you have a son or a daughter? No, I said does he like, I mean do you guys get to like go out and like take the dog? And is it like are you in a neighborhood or like more urban or?
+SPEAKER_R: we're gonna like ventura is like an hour north of L. A. And it's a beach community so we can walk around. But everyone here take wears masks even when they're walking their dog. So it's very different. So yeah we can walk our dog. I don't take them to the park because there are a bunch of people but we walk around the neighborhood, we have a backyard but we can't really go anywhere. He was excited when you got to ride in the car the other day. Yeah. Yeah
+SPEAKER_L: Pictures.
+SPEAKER_R: but it's a lot it's hard for them to stay inside. Not go anywhere for so long. I mean yeah even to the store he's like can I go to the store to and I'm like no no you can't. I just
+SPEAKER_L: that's
+SPEAKER_R: hope uh
+SPEAKER_L: I can't even imagine because. Oh yeah. And like what do you do?
+SPEAKER_R: it's a lot and you can see it in their, even the kids I teach like you can see the effect it's having on, it's having on them, so
+SPEAKER_L: Like uh like how like uh they're more like restless or there's kind
+SPEAKER_R: they're
+SPEAKER_L: of down.
+SPEAKER_R: more restless. Oh yeah, a lot of depression, like a lot of kids, they just, they missed that social interaction and you know, some of them have really hard family lives and they're stuck at home with their family and there's no escape for them, so they're just, yeah, and there's nothing I can do to change that for them, I can't, you know, I can't make it better and at least when they were at school they had 78 hours away from that situation. Yeah.
+SPEAKER_L: Oh my
+SPEAKER_R: Yes,
+SPEAKER_L: gosh.
+SPEAKER_R: I feel so bad for that. I just, I wish I could just fix it, but yeah, but no, no. Um do you want kids? Mhm.
+SPEAKER_L: I'm not sure. I don't, I think so right now. Um but I'm not like against it just not really ready for that yet. Um
+SPEAKER_R: mm.
+SPEAKER_L: I don't know we'll see like one of us kind of um like the type of admissions that my partner does international so like he travels a lot and a lot of times I get to go with him like during normal times so it's kind of not really conducive to our lifestyle right now either but yeah.
+SPEAKER_R: would you do with your dog and your dog stay? Mm
+SPEAKER_L: she um
+SPEAKER_R: Mhm,
+SPEAKER_L: well like when we lived in Missouri like she just was with family so she loved it. Like my Mom has a farm
+SPEAKER_R: Mhm
+SPEAKER_L: and she was like happier than you know she was with with us. But um now I'm not sure, I mean one is we're in a more expensive place, I'm not sure how often I'll go. Um But to like she'll probably be kindled and um you know somewhere where it's like lots of like free running, you know, play time all the time. So
+SPEAKER_R: that's
+SPEAKER_L: but
+SPEAKER_R: cool. Where was your favorite place that you got to go? Mhm.
+SPEAKER_L: it's not really like the places themselves, but like how much it it's like chat like sounds really
+SPEAKER_R: Yeah.
+SPEAKER_L: dumb, but like how much it like changed my view of everything because like um there's just some places that I've gone where it's like I had these like preconceived, you know, thoughts about like how um like
+SPEAKER_R: mm.
+SPEAKER_L: Central Asia would look like. So I went to Uzbekistan two years ago and I, you know, all I knew about the stands was born at and so I just thought this will be interesting, like lots of you know browse and like awkward situations and um it was not like that at all and um the people were just like really fascinating and it's part of um
+SPEAKER_R: mm
+SPEAKER_L: well because you guys are studying ancient civilizations, it was part of um the Ottoman Empire at one point, so part of like the Silk Road and that was really cool because there's still stuff like structures around from that and um the people are kind of like a mixture of like nomadic cultures and korean and Russian and I had never seen anyone that like fit that description in my life, so I just was kind of like staring at people the whole time, just like fascinated, the food was awesome. Um But like I had never been to a country that I hadn't been open to like westerners before um and
+SPEAKER_R: mm.
+SPEAKER_L: like the year, two years ago I think is when they start allowing americans to go there. And so it was just interesting because people were still like friendly and like naive and not, you know, it was like not a place where they like knew how to take advantage of tourists or anything like that where you see in like some other places that are really experienced with like tourists and selling you know like stuff and all that so um
+SPEAKER_R: Mhm,
+SPEAKER_L: but yeah that was cool. Mhm.
+SPEAKER_R: that's cool. So does your partner mostly go to asian countries when? Mhm,
+SPEAKER_L: that's his specialty but like he uh like with this new job he's looking for um
+SPEAKER_R: Mhm,
+SPEAKER_L: like more diversified markets, so more like uh like places in africa that aren't as common. Um Central
+SPEAKER_R: Yeah.
+SPEAKER_L: Central asia um or like certain provinces of china that aren't as represented, you know that aren't like part of the mega cities there um
+SPEAKER_R: mm.
+SPEAKER_L: And eastern europe. So
+SPEAKER_R: that's really cool. Mhm
+SPEAKER_L: he likes it. Uh
+SPEAKER_R: I would think so fine. And does he try to recruit students or? Okay,
+SPEAKER_L: Yeah.
+SPEAKER_R: Mhm
+SPEAKER_L: Yeah, so he because universities want the most diverse full of students possible. And so yeah they get he gets to like help help one students that don't have as much access to american schools, but to like help the university, you know, diversify some,
+SPEAKER_R: so
+SPEAKER_L: it's
+SPEAKER_R: that's really
+SPEAKER_L: interesting.
+SPEAKER_R: cool, does he offer scholarships to them because I can't imagine? Okay, wow, that is so cool, does he speak multiple languages or just Yeah and
+SPEAKER_L: he, I'm jealous. He can pick, pick stuff up like that. So he speaks like, I think he speaks like sex. So yeah, like I can barely speak english at the time. So like, yeah, but
+SPEAKER_R: what does he speak, which one does he speak?
+SPEAKER_L: um hi french italian Russian. Um
+SPEAKER_R: mm,
+SPEAKER_L: he understood stan's mandarin and can like read it, but he's not that good at it. And then um, Turkish.
+SPEAKER_R: Mhm, wow, he's he must be super smart, wow, that's incredible,
+SPEAKER_L: but pants
+SPEAKER_R: have you ever wanted to learn one of those languages or?
+SPEAKER_L: Oh yeah, no, I would love to, I just, I don't have that. Like it's not as easy for me. Um, so it's like funny when Covid started and we were all kind of like stuck at home. He's like, I want to learn Russian and he learned it and I was still on like level one where I'm like, yeah, I can't even get the alphabet right like you know because it's uh yeah it's interesting. But yeah he picked stuff up really fast.
+SPEAKER_R: wow, good for him, I'm so jealous, he gets to travel to all those places, that's amazing,
+SPEAKER_L: Yeah. Yeah me too. I mean sometimes I get to go but yeah he's kind of he's kind of some pretty awesome places. So but do
+SPEAKER_R: I
+SPEAKER_L: you do you like to travel?
+SPEAKER_R: love to travel when I have the money and there's no virus, but
+SPEAKER_L: Yeah. Same here. Yeah. Yeah.
+SPEAKER_R: but like I I've gone to europe, I'm gonna like Italy and England and stuff, but I'd really like to go to Asia, like I'd love to, but I'm not going to travel anytime soon, so
+SPEAKER_L: Yeah. Well I hope you do get to Asia soon because it is a fascinating place. It's like overwhelming but depending on the city but like totally worth it. Plus you have like less flying time from L. A. Than boston.
+SPEAKER_R: that's true.
+SPEAKER_L: So yeah. But um
+SPEAKER_R: Have you
+SPEAKER_L: we're
+SPEAKER_R: been to other countries in Asia? No,
+SPEAKER_L: I've I've
+SPEAKER_R: thank
+SPEAKER_L: been to a
+SPEAKER_R: you,
+SPEAKER_L: few but um I don't know there's still a time that I would like to visit to.
+SPEAKER_R: Let me, yeah. Mhm.
+SPEAKER_L: would you like to go?
+SPEAKER_R: I'd like to go to china in Japan for sure. Yeah, those are, who had really just because there's so much history like I love, I love that. Um yeah, those are the two weeks ago. Um the most, what about you? Where would you like to go that you haven't been? Mhm
+SPEAKER_L: All right, there's there's a lot like a laundry list. Um We had thought about trying to plan like a trip to Mongolia. Um Which I think would be really cool just because like um I just don't know anything about that place like you know genghis khan that's it. So like I would really like
+SPEAKER_R: Shit.
+SPEAKER_L: a different impression of. But um but um I've been to um Seoul Korea but I'd like to see other places in Korea. Um And then um and the Philippines I'm a little intimidated because it's so crowded. Um And like sticky hot. But like I'd like to see at least like Manila and maybe like a couple of islands if I can ever get there. Yeah. Right.
+SPEAKER_R: So amazing to get to travel. Do you think you will travel in a couple of years to anywhere or? Mhm.
+SPEAKER_L: Yeah I'd love to as soon as we can and and like yeah like we were talking about like and we have money you know because
+SPEAKER_R: Money,
+SPEAKER_L: like he can go it's paid for for him for his job but like I've got to still pay for all my stuff so um T. V. D. On that one. Uh Yeah I'd love to love to go and I also think like it's safer in some other places than it is in the US at least based on my experience in ST louis. So I feel like I'm not even as worried about covid
+SPEAKER_R: No,
+SPEAKER_L: depending on the
+SPEAKER_R: I'd
+SPEAKER_L: country.
+SPEAKER_R: be more worried flying out of somewhere here and
+SPEAKER_L: for
+SPEAKER_R: then go into another country. I don't even know a lot of them don't even want us to come.
+SPEAKER_L: Yeah. Well yeah that's the thing. I don't even think we like could if I wanted to like
+SPEAKER_R: Act
+SPEAKER_L: half of half of
+SPEAKER_R: it's
+SPEAKER_L: the world right now but
+SPEAKER_R: so bad. That's
+SPEAKER_L: here.
+SPEAKER_R: what have you ever been to africa? Oh
+SPEAKER_L: Yeah.
+SPEAKER_R: you have where it's cool
+SPEAKER_L: um
+SPEAKER_R: sorry I would love to travel more
+SPEAKER_L: No no it's okay um Morocco. Um South africa uh Botswana and Mozambique and they were very different from each other but um Pretty interesting. Uh huh.
+SPEAKER_R: wow. Well I hope you get to travel soon.
+SPEAKER_L: Yeah in Youtube. Yeah it's I don't know hopefully this I don't know if it will be fixed in another year, but hopefully it's like
+SPEAKER_R: Alice.
+SPEAKER_L: slightly back to normal and we can like get back to normal lives and take fun vacations and do fun stuff again.
+SPEAKER_R: I know right that
+SPEAKER_L: Oh
+SPEAKER_R: other countries will let us come and visit them but I
+SPEAKER_L: kidding.
+SPEAKER_R: don't know. Yeah.
+SPEAKER_L: I guess so. I'm a little confused on This survey because I know like we're supposed to talk for 25 minutes and then go back or something. Right? Oh
+SPEAKER_R: you just close this tab and go back to the tab uh
+SPEAKER_L: no.
+SPEAKER_R: the original page and then at the bottom there's an arrow click on that. It will take you to the survey. Mhm.
+SPEAKER_L: Okay. Um
+SPEAKER_R: Mhm.
+SPEAKER_L: Well, cool.
+SPEAKER_R: It
+SPEAKER_L: It was really good talking with you.
+SPEAKER_R: was talking to you too. Bye
+SPEAKER_L: Have a good weekend.
+SPEAKER_R: you too bye.

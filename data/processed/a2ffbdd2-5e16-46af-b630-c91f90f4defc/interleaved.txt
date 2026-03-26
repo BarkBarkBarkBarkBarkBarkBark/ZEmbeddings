@@ -1,0 +1,421 @@
+SPEAKER_R: Hello? Hi, can you hear me? I can't hear you. Hold on. Yes I do. Hi,
+SPEAKER_L: Hello. How
+SPEAKER_R: I'm
+SPEAKER_L: are you?
+SPEAKER_R: doing good. Hi, what's your name? I'm Caroline.
+SPEAKER_L: I'm Amber, nice to meet
+SPEAKER_R: Hi Amber,
+SPEAKER_L: you. Where
+SPEAKER_R: you too.
+SPEAKER_L: are you? Where are you based?
+SPEAKER_R: I'm in new york city. Where are you?
+SPEAKER_L: I am in Orange County. In California.
+SPEAKER_R: All right? Oh, that's so fun. Okay.
+SPEAKER_L: What do you do in new york?
+SPEAKER_R: I live here. I just moved here actually last year in august um I came here to live with my husband because we've been like trying to decide back and forth wherever Tuesday in europe or come to the U. S. And I mean we settled for new york. So
+SPEAKER_L: Are you happy?
+SPEAKER_R: yeah, very much like obviously, you know like this summer was imagined to go very differently.
+SPEAKER_L: Of course. Yeah.
+SPEAKER_R: but it is what it is and I still feel we're trying to make the best of it. So yeah. How are you doing? What are you doing?
+SPEAKER_L: I'm good. I I went I was initially from Hawaii and then I moved to California for college. So I graduated in May of 2019. And
+SPEAKER_R: congratulations.
+SPEAKER_L: now I thank you. Well that was a while ago. Thank you.
+SPEAKER_R: So
+SPEAKER_L: And then um now I'm just working. Yeah I stay in California and I work here. Um
+SPEAKER_R: you like
+SPEAKER_L: and
+SPEAKER_R: it?
+SPEAKER_L: work is online. Yeah I like it. I think that um California is strange with coronavirus at least because people don't really care around here. And um that's weird. But um other than that I like getting any live a block away from the beach. So it's hard to be upset. It's really
+SPEAKER_R: that's all
+SPEAKER_L: to
+SPEAKER_R: the
+SPEAKER_L: just
+SPEAKER_R: whole
+SPEAKER_L: walk, go to the sand and
+SPEAKER_R: I
+SPEAKER_L: go to the water.
+SPEAKER_R: feel you. Yeah, totally.
+SPEAKER_L: It
+SPEAKER_R: How are people at the beach behaving actually like do you see people out there? Is it like a public beach? Do they have mosque?
+SPEAKER_L: is a public beach. No, they don't. Especially because where I am specifically in California is O. C. N. O. C. Is very conservative and not very
+SPEAKER_R: no
+SPEAKER_L: uh I don't know. They just pretend like it's not a problem here and they don't really listen, they do their own thing. So
+SPEAKER_R: that's more frustrating.
+SPEAKER_L: it is frustrating because I just want to be close to the ocean but the attitude is annoying. So.
+SPEAKER_R: No, absolutely, I feel you like I don't have the ocean, but we live one block away from the river from the east River. Um so we have this gorgeous riverwalk and in the beginning um people in new york at least we're kind of like in the beginning, I mean like in around like March people were just not taking it that seriously yet and I was kind of like encountering the same issue where you know it was so packed because people were like oh you know like we're
+SPEAKER_L: I
+SPEAKER_R: just
+SPEAKER_L: don't
+SPEAKER_R: going to
+SPEAKER_L: have
+SPEAKER_R: hang
+SPEAKER_L: work,
+SPEAKER_R: out with
+SPEAKER_L: I'm free.
+SPEAKER_R: everybody. Uh and it was just it was really rough because I was kind of like already very nervous about that and seeing people just out there with no mask just like gathering together was really strange so but now at least everybody is kind of like really you know holding
+SPEAKER_L: and
+SPEAKER_R: holding on
+SPEAKER_L: in
+SPEAKER_R: to them.
+SPEAKER_L: good places in good places in the United States, like people are listening. Um But I have a few friends in new york two and they ended up actually getting it because there was like 20% of the population in New york I think at one point that I have it or God
+SPEAKER_R: it's
+SPEAKER_L: had gotten
+SPEAKER_R: ridiculous.
+SPEAKER_L: it or something crazy. Yeah. Well I mean it's so like everything is so packed all the time and so a few of my friends in new york got it and um
+SPEAKER_R: are they okay
+SPEAKER_L: yeah, yeah, they're totally fine.
+SPEAKER_R: often.
+SPEAKER_L: They didn't even have symptoms, they just like they just lost their sense of smell for a few days, all of them. Yeah, it was totally fine. And yeah, now they they left in new york and went back to Hawaii because I didn't have work, so I just went back to Hawaii to be with my family
+SPEAKER_R: So
+SPEAKER_L: and um they were back there and they just said new york was crazy when it
+SPEAKER_R: no.
+SPEAKER_L: started. Yeah,
+SPEAKER_R: it was, it really was and like honestly like I feel for
+SPEAKER_L: thank
+SPEAKER_R: me that's like one of the
+SPEAKER_L: you.
+SPEAKER_R: scary part is that you can be asymptomatic right? And I'm just I mean I don't know yet, we like I haven't gone and got like an antibody test yet because also for me it's sort of like I don't want to be overthinking it too much but I also feel even if I get tested um it could be a false positive,
+SPEAKER_L: Well
+SPEAKER_R: it could be a false negative like the tests
+SPEAKER_L: of
+SPEAKER_R: are just
+SPEAKER_L: course.
+SPEAKER_R: not as refined just yet. Um so it's kind of like I don't know if I should get tested and
+SPEAKER_L: I
+SPEAKER_R: you know.
+SPEAKER_L: know, I know it's strange. My friend signed up to get a test here in California and she didn't show up to the test, like she missed it or something, something happened I forget and she's got a positive result back in her lab. She didn't even go
+SPEAKER_R: Real. Oh my God.
+SPEAKER_L: hey
+SPEAKER_R: That's scary like
+SPEAKER_L: I
+SPEAKER_R: that's
+SPEAKER_L: think
+SPEAKER_R: what I mean like.
+SPEAKER_L: I know I'm like but also I think it's just like I've been trying to because now that I'm back in California, I've been trying to get a test so that I can go into my work because I work at a lab so I want to be able to go in and have a c and have multiple monitors and be able to do more work than I can on my small laptop. And
+SPEAKER_R: Of course. Yeah.
+SPEAKER_L: uh I want to get a test so I can be sure because I don't interact with anyone. I don't go out like I don't we're going to walk on the beach maybe and or my mask. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: but I couldn't even make an appointment. So I think it's, most of the mess up is the sheer volume of testing that's going on. Everything is, there's just no appointments available. I've been checking for the past two weeks every day, several times
+SPEAKER_R: That's crazy
+SPEAKER_L: So
+SPEAKER_R: actually
+SPEAKER_L: yeah, it's, it's crazy. And so
+SPEAKER_R: And
+SPEAKER_L: I think,
+SPEAKER_R: it's Yeah.
+SPEAKER_L: I think margin of error is just much bigger with that kind of volume of testing.
+SPEAKER_R: No obviously and also because you know like I feel the problem was like I'm not on like the newest update when it comes to that but like I remember that there was this discourse that the tests are not necessarily reliable because there is no kind of like prefixed set of um I don't know companies or industries that would have made those tests with like CDC guidelines but that there is like so much competition in around the production of those test kits as well that you know it's just occurred and it's like hard to distinguish and it's hard also if you go to like uh I don't know, it just like a walk in city MD or something like that. It's hard to know which test kit they're using from which brand or something to really understand whether it's reliable or not.
+SPEAKER_L: And I mean one of the cons of the United States is that, I mean, I guess it's made a lot of people a lot of money, but there's like whole like globalization, capitalization, consumerism type thing. When something like this happens
+SPEAKER_R: I'm walking.
+SPEAKER_L: because we're a capitalist economy and everything is provided on production,
+SPEAKER_R: What do you
+SPEAKER_L: quantity
+SPEAKER_R: think?
+SPEAKER_L: and money making. Then what happens is what matters is the quantity of results that companies can get out to make money. What doesn't matter is the accurate, the accuracy of those tests, the quality of those tests and that kind of thing. And the government I think at the beginning of Covid did release a financial incentive for companies to produce tests. So I'm not sure how the C. D. C. Monitored that or intervened. I have really no idea and I mean it's just impossible to keep track of there's no like unified healthcare
+SPEAKER_R: No.
+SPEAKER_L: kind of initiative in the United States and that's kind of the results
+SPEAKER_R: Which
+SPEAKER_L: one.
+SPEAKER_R: you know like that's like my biggest pet peeve here was like living here and just like sort of like having come to the States and you know, knowing all of that in advance because you know, I come from Europe and for us like Universal healthcare, it's just like that's just the comment that's just like what I'm used to. Um And coming here like even just like in the beginning of the year when I just went to all of like my annual checkups and things like that, you know, like I just like was already so annoyed in a way that I still had to deal with so much paperwork around that because what I'm used to is I have my insurance card, I go to the doctor's office, I presented my insurance card, they scan it, I have my doctor's visit, I woke out maybe I have like a prescription for something. So you know, just I get that. But other than that I'm done like nothing, no paperwork,
+SPEAKER_L: I know.
+SPEAKER_R: I don't have to find anything, I don't have to pay for anything. You know, it's just,
+SPEAKER_L: I know.
+SPEAKER_R: it's just it's and then I come here and suddenly I have all of that paperwork and I have all of those bills and like even months after a doctor's visit,
+SPEAKER_L: Months
+SPEAKER_R: I felt
+SPEAKER_L: after months
+SPEAKER_R: get
+SPEAKER_L: after. I know.
+SPEAKER_R: and
+SPEAKER_L: I
+SPEAKER_R: I'm
+SPEAKER_L: know
+SPEAKER_R: just like what is going on? So
+SPEAKER_L: I know.
+SPEAKER_R: that was like strange. But of course, you know with the virus and hitting, I was really nervous because I just didn't understand how this is going to work and I'm just, you know, I don't know like I still, I just, I just feel this in general this entire year is just so freaking chaotic but also interesting with everything that's going on like starting with covid 19 and going on with like now the 2020 Black Lives Matter movement and everything. Like I feel politically it's so charged and there is this high demand that's always been there for certain like reform and changes and
+SPEAKER_L: of
+SPEAKER_R: everything. But I feel
+SPEAKER_L: course
+SPEAKER_R: it's just like it's peaking this year and it's just so crazy how everything
+SPEAKER_L: lot of people
+SPEAKER_R: everything is sort of just like coming to this level of, you know, like you just can't turn away from it. You cannot.
+SPEAKER_L: I know I mean it eventually gets there no matter what if there's a boiling point for everything and that's what's happening right now and we'll see what happens. I really have no idea. I mean, this is a huge election here and um I really don't know what's going to happen, I mean, I
+SPEAKER_R: I know
+SPEAKER_L: I don't know, it's
+SPEAKER_R: I'm
+SPEAKER_L: gonna be,
+SPEAKER_R: with you on
+SPEAKER_L: I
+SPEAKER_R: that, I'm working
+SPEAKER_L: think
+SPEAKER_R: on
+SPEAKER_L: that
+SPEAKER_R: that. I lost it.
+SPEAKER_L: I don't know, the United States is so strange because it's so it's like almost not even real life, like this is the president that we have and this is our reality and it somehow doesn't affect our lives, but it does every day, and it's like this thing and it's uh it's a celebrity thing, it's not even like uh is it a good person that's leading the country? It's a popularity contest and it's contentious. Everybody hates each other for these ideologies that at the end of the day, like we all really care about the same stuff like being healthy
+SPEAKER_R: brian
+SPEAKER_L: and wanting a successful economy, I mean nobody who doesn't want that, so
+SPEAKER_R: and then right and then it's like where it becomes so confusing that it's so polarized you know like it's again like for me this is also like sort of a conversation that I have a lot of course as well with like my friends around like the whole like two party system that is going on in the US and how strange that also is for me because I come you know like I'm
+SPEAKER_L: the
+SPEAKER_R: polish
+SPEAKER_L: cops.
+SPEAKER_R: but I also lived in Germany for a long time and I studied in the U. K. And it's just sort of like I'm very much used to just have like a multi party system where you have multiple
+SPEAKER_L: good call.
+SPEAKER_R: parties and yes you always have like the two big ones kind of like, but there's also still a very significant amount of other parties that have, you know, voting rights in the parliament and things like that. So it's been just like, it's been strange for me to figure
+SPEAKER_L: it's
+SPEAKER_R: out
+SPEAKER_L: everywhere.
+SPEAKER_R: how the democracy works in the US because
+SPEAKER_L: It's
+SPEAKER_R: it appeared so undemocratic, you know, like I've
+SPEAKER_L: I mean at the end of the day it's not because it's not really up to us at the end of the day the I mean yeah, basically you can create a situation where it's democratic and capitalist. Okay. That's how the United States started. And
+SPEAKER_R: I
+SPEAKER_L: then
+SPEAKER_R: have.
+SPEAKER_L: even even marks like predicted this, what happens after enough time with that kind of thing is a broad economy that objectifies human life and puts money over everything and a corrupt government that does the same. And so really what's happening in the government is the only people that have say is not the masses is not the people that have their different. Okay
+SPEAKER_R: Oh
+SPEAKER_L: I'll be a diverse beliefs but still equally represented in the system. What's happening is it's so strange and it's like this
+SPEAKER_R: All right.
+SPEAKER_L: kind of repetitive lee patriarchal, male
+SPEAKER_R: or
+SPEAKER_L: oriented
+SPEAKER_R: I'll
+SPEAKER_L: white
+SPEAKER_R: hurry. Yeah.
+SPEAKER_L: based thing where everybody's in with each other and they all know each other, anybody that has a lot of money, whether it be the president, the people that have the most money in the country and our politicians are the most in bed with each other. Like they are the ones that know each other. So it's not about what we think or what we feel and this kind of bipartisan system, even though we do have other parties, you have the Green Party, we have these other like little things, but at the end of the day, like Mhm about to them is quote unquote a waste of a vote. I mean that's like how it's said all the time, even though I feel like my beliefs would probably align more closely with someone from the Green Party, you know, I would appreciate essay and that kind of thing. And at the end of the day, it doesn't matter, it's just it's just it's this contentious bipartisan system that creates a divide within the whole entire country to spark contention, distressed and confusion and the kind of language that they use in politics isn't the kind of language that's accessible to the majority of the country. So
+SPEAKER_R: not at all.
+SPEAKER_L: it's made to be confusing, it's made to be uttering, it's made to be provocative in terms of fighting
+SPEAKER_R: but
+SPEAKER_L: and
+SPEAKER_R: also like eliminating and fear inflicting like this is, you know, like the current, this is what the current government really like feeds on is the fear of the people. And it's ridiculous because again like yes, of course. I mean, okay my point is always that it doesn't have to be in one extreme or the other. Like we're not saying that okay, we're a capitalist country and now it needs to shift into communism. Like nobody ever says that it's not one or the other. It's kind of like finding a balance where you know, the kind of like the foundational ideas of this country are still being you know, updated in that sense and are still being you know made accessible to everybody. And it's just something where it won't work. If people just don't understand and if people are just afraid and scared, then this will
+SPEAKER_L: And
+SPEAKER_R: work.
+SPEAKER_L: I think that a lot of the it's so strange because basically to keep the United States I guess it makes sense. But so it's not strange but to keep the United States
+SPEAKER_R: No.
+SPEAKER_L: kind of, we are democratic, not in the party sense, but in the kind of we are the people, we are independent, We are like capitalists, like we are proud, like that kind of stuff has been going on forever. And communism
+SPEAKER_R: What?
+SPEAKER_L: has always been shamed, not only in the government, but historically, like for decades it's always like, oh, you're communists. Like it's like this whole entire thing that's like this bubble evil massive heard and it's tied to like all this like crazy
+SPEAKER_R: Before
+SPEAKER_L: kind of like
+SPEAKER_R: suppressed.
+SPEAKER_L: paraphernalia and propaganda and all this stuff. We're at the end of the day, it's just a set of ideas. It's a set of ideas. It's not, it's, I mean, I mean in the United States, communism has always been tied to very corrupt evil people and that's just how they've made it. And this country though financially success. I mean, I don't even know, I mean we're trillions of dollars in debt, but somehow, I guess we're financially successful. I really don't know, I don't know anything about the economy. I cannot speak to how we stack up against other countries, but no matter what. At the end of the day, us being a capitalist and consumerist society is not only perpetuating slave labor, which used to be in the United States of like people that were native to the land or people that we used as slaves, but now it's just being offshored. It's the same thing. It's just happening in another country now and it's still american companies and also just the absolute destruction of the environment. So what do we care about, like as a society, I guess we really do just care about money and keeping our lifestyle is exactly the same. And I wouldn't be surprised if that's really what everybody wants, if everybody just wants to for everything to stay the same all the time, but everybody's so everybody in this country or I guess Americanism like being
+SPEAKER_R: What
+SPEAKER_L: a United States
+SPEAKER_R: is
+SPEAKER_L: citizen,
+SPEAKER_R: it?
+SPEAKER_L: being an american is being like pro capitalism, pro business, like pro, all of these things and that's what took root in are the beginning of the country was wanting this free economy and wanting this like absolute freedom to just like expand infinitely. But at the end of the day, that's the, that's not the cost of human lives and the environment and there has to be regulation on that. There
+SPEAKER_R: 100%.
+SPEAKER_L: has to be so,
+SPEAKER_R: There has to be a regulation. And also like I for me it's just like for me it's more than
+SPEAKER_L: what?
+SPEAKER_R: that there has to be regulations. It's just like if you really want to continue expanding the economy and continue
+SPEAKER_L: It
+SPEAKER_R: to sort of like providing this opportunity the
+SPEAKER_L: has to be
+SPEAKER_R: opportunity.
+SPEAKER_L: sustainable.
+SPEAKER_R: Exactly. It just needs to be because otherwise if you're just gonna wreck the planet is not gonna be any you know ground for growth anymore. It's just like I just don't get that. Like if you if you try to speak their language and if you try to kind of like come with those arguments and being like okay all right. Like if you if you're not interested for you know the environment for just the nature sake then just be egoistic like be selfish and just think
+SPEAKER_L: Like
+SPEAKER_R: about
+SPEAKER_L: at the end of the day,
+SPEAKER_R: yourself.
+SPEAKER_L: like the, the things that you do to the world come back to you. I mean, that's just, that's like basic. So
+SPEAKER_R: And it's just like only because we're in such a like in that sense it's like luxurious position that we don't necessarily feel the consequences of like climate change and everything and all of the destruction just like firsthand although we do because if we're being honest we already do feel those consequences but we're just like a little bit better equipped into you know just like
+SPEAKER_L: Like,
+SPEAKER_R: dealing with them and therefore ignoring
+SPEAKER_L: this game.
+SPEAKER_R: them. You know like we just have a little bit more of that advancement going on. Um But it's just a matter of time until it's gonna catch
+SPEAKER_L: Looking.
+SPEAKER_R: up and I just don't understand how first of all you like people still can't say like oh no it's not a problem. We're just not going to care and second how there is even such a thing as a denier, like how
+SPEAKER_L: I know.
+SPEAKER_R: can how, how
+SPEAKER_L: It's american. It's it's it's, I'm telling you it comes from this conglomerate bipartisan system in the country that leads this whole entire country and the money is
+SPEAKER_R: Well
+SPEAKER_L: in the hands of the destroyers, whether it be in the meat industry, in the oil industry, their industry, all these industries that are having the biggest impact on the environment are the industries that have the biggest say in what goes on in american politics from, from, from suggesting what the right diet is to perpetuate meat and dairy to causing as much confusion as possible. The way to get nothing done
+SPEAKER_R: the company,
+SPEAKER_L: socially is to cause confusion. How did George Floyd die? We don't really know if it was the police or not. Like causing that kind of confusion is what makes people polarize because then there's two sides provoking
+SPEAKER_R: it
+SPEAKER_L: confusion means there's two sides to
+SPEAKER_R: all
+SPEAKER_L: be seen
+SPEAKER_R: looks
+SPEAKER_L: when there
+SPEAKER_R: matter,
+SPEAKER_L: shouldn't be. Yeah, exactly. So it's, it's, it's the goal for there to be confusion and Since the beginning, whatever the motivation comes from and I think the government has had a huge party in this and I think, and I think it's also the Democratic Party. I think that no matter what party it is, it's all fake, it's all the same. The money is coming from the same places we
+SPEAKER_R: ever
+SPEAKER_L: are in 2020. We have fucking computers as phones that fit into our back pocket and we're still relying on oil and gasoline. No,
+SPEAKER_R: mhm I know,
+SPEAKER_L: that makes no sense. It's
+SPEAKER_R: I know,
+SPEAKER_L: been like how long like hundreds and hundreds of years since we first started being into coal and all
+SPEAKER_R: what,
+SPEAKER_L: this combustion destroying shit like this. There's no way like that's all about who has the roots and that and there's so much generational kind of huge money and wealth and that type of thing. Like texas, tycoons like these oil Frackers like it's insane the kind of wealth that's in there and it's never, it's not going to go away until it's like turned over on its belly and honestly like do I trust like democratic party to do that, who I consider to be more liberal on the face of it? Like honestly, no, it's because the United States government is so corrupt at the end of the day, it's not about interest for the community or the planet or our future generations or whatever its interest for mm status and popularity and
+SPEAKER_R: Funny,
+SPEAKER_L: uh money materialism and uh being selfish like being american is the existence as an american is
+SPEAKER_R: It
+SPEAKER_L: just so selfish.
+SPEAKER_R: is, in a way, it absolutely is and it's like, it is, it's saddening that this is ultimately where it comes down to, but you know, like I do feel, I do still kind of like feel and hope and believe that, you know, it could be better. I'm just like, I'm just like, I'm at this point where I'm like, I'm trying so, so hard, so hard to not like point fingers anymore because it's like it's obviously not leading anywhere and especially if you have conversations with people that have differing views and differing opinions. It's very hard then I feel it has reached a point where even like, here in like, my my social circles, I had um Like I have two friends who actually back in 2016 voted for Trump and it's always been very, very, very hard for me to kind of like, except that especially being a recent immigrant
+SPEAKER_L: We'll be back
+SPEAKER_R: and
+SPEAKER_L: in the door.
+SPEAKER_R: sort of like, you know, being the target
+SPEAKER_L: They
+SPEAKER_R: group of
+SPEAKER_L: don't see that. Yeah. They don't.
+SPEAKER_R: and then they say to me like, you know, like it's just hard because like, if I have those conversations and I'm like, okay, so do you think it's ok what he's saying? Like, do you think that it's okay that he's taking rights away from from immigrants and everybody? Like, like I am an immigrant, like how do you feel if you would have prevented me from coming here and being part of, you know,
+SPEAKER_L: He kicks me out or he makes me leave.
+SPEAKER_R: he
+SPEAKER_L: Like
+SPEAKER_R: stopped me
+SPEAKER_L: your
+SPEAKER_R: and
+SPEAKER_L: political
+SPEAKER_R: he said,
+SPEAKER_L: choices affect your personal life. Like I
+SPEAKER_R: what?
+SPEAKER_L: am here, I am your friend. And it's
+SPEAKER_R: I'm standing
+SPEAKER_L: for some
+SPEAKER_R: in
+SPEAKER_L: reason
+SPEAKER_R: front of you.
+SPEAKER_L: it's like dissociated. It's like this is so far away and extract and this is so out of our own control that like it's so powerless in the sense that like you're voting for this thing and you really have no idea what's going to come from it. There's not like there's no transparency
+SPEAKER_R: Yeah. But also
+SPEAKER_L: and
+SPEAKER_R: like, you know,
+SPEAKER_L: there's no like realization. Yeah.
+SPEAKER_R: Yeah, it was just disappointing as well to see how and don't get me wrong, like I'm on the same page with when it comes to the Democrats actually as you are, because I just like, I just feel let down and really disappointed by them. So the 2016 elections were from the beginning on, we're kind of like a lost game for me because like whether it's clinton or it's trump, it would have been like,
+SPEAKER_L: Bad.
+SPEAKER_R: it should show to be honest. But
+SPEAKER_L: And same now though. I mean, I'm not a big fan
+SPEAKER_R: I
+SPEAKER_L: of
+SPEAKER_R: don't
+SPEAKER_L: fighting.
+SPEAKER_R: like, God,
+SPEAKER_L: It's
+SPEAKER_R: I'm like, honestly, I
+SPEAKER_L: that
+SPEAKER_R: mean, I'm
+SPEAKER_L: we're such a joke.
+SPEAKER_R: it's
+SPEAKER_L: We honestly
+SPEAKER_R: just how
+SPEAKER_L: like so bad. I know. So
+SPEAKER_R: is that even possible?
+SPEAKER_L: bad
+SPEAKER_R: And I'm just like, I don't, I don't know. Anyway. So it's just like, you know, it's just like the same thing with yeah, the same thing with like
+SPEAKER_L: with
+SPEAKER_R: biden
+SPEAKER_L: the height.
+SPEAKER_R: now. And it's just like, I I don't believe that any good will really come out of it. It's still going to be better of course, than trump. Um, but at the same time, Does it really even matter who is going to be voted in? Because like, the,
+SPEAKER_L: look at that.
+SPEAKER_R: what is it, the electoral college here, right? Which ultimately
+SPEAKER_L: Thank
+SPEAKER_R: has
+SPEAKER_L: you.
+SPEAKER_R: the last say. That's something in 2016 that I was so confused by again, when it comes to sort of like the understanding of what is a democracy, you know, what, what does it mean? It's actually like, it's supposed to be like power
+SPEAKER_L: My
+SPEAKER_R: to the
+SPEAKER_L: profit.
+SPEAKER_R: people and things like that. But then in the end, you know,
+SPEAKER_L: Actually,
+SPEAKER_R: like the votes did not reflect the ultimate Canada and things like that. And it's just like this all something where it's just like why and why isn't there much more grassroots organizations and grassroots, you know, movements happening to really change that. And,
+SPEAKER_L: I know.
+SPEAKER_R: you know, my husband always tries to kind of like take a little bit that mediating role in these conversations where he then tries to explain to me or kind of like advocates for like, no, there is movement happening, but it's like, just like really hard and everything. And it's come to a point though where I'm struggling to really believe
+SPEAKER_L: I
+SPEAKER_R: that. But
+SPEAKER_L: yeah, I really don't know. And
+SPEAKER_R: do
+SPEAKER_L: I,
+SPEAKER_R: you think it's dangerous for like actual, like grassroots, um, like
+SPEAKER_L: Yeah,
+SPEAKER_R: grassroots groups to
+SPEAKER_L: I think it's, I
+SPEAKER_R: have?
+SPEAKER_L: think it's physically dangerous. I think that when like there's so much power behind the scenes that we don't know about that. I think dissenting opinions are having, having a mhm. Uh an opinion that goes against the motives and desires of those that possess the wealth and power at least in America, not probably the whole world. Um it's physically dangerous. I think that if you get enough attention, can you speak out enough as an activist, you're
+SPEAKER_R: Here we come.
+SPEAKER_L: in physical danger if not from from those organizations that have the power from people that rally so hard for these crazy beliefs that are like greatly like being like, I mean I was protesting here for Blm here and where I live in Newport Beach, which is like super conservative, I was trump flags everywhere. Like it's very crazy. It's very, it's like, it's really like a different reality out here from Hawaii, Hawaii is super liberal, very pro environment, very sweet, very loving, very kind and here is just like completely different and I like being close to the ocean so I deal with it, but it's very frustrating and someone just drove a car through the crowd that we were protesting it. So if it's not, if you're not physically in danger, if you have enough of a voice and you're not physically endangered by the people that you're speaking out against, then you're physically endangered by the people, by the people of the community around you that support
+SPEAKER_R: It's
+SPEAKER_L: the people, you're going again just because it's so polarized just because people feel so strongly the way they do about these things. And it's I mean isn't there like more to life than being so upset about this kind of thing? Like like politics, I mean I think that being so upset about Republican or democrat when it really makes no difference, What the fuck goes on in the country, there's so much more to life, like
+SPEAKER_R: But
+SPEAKER_L: caring about things that matter, like fighting for things that matter. I mean, but what matters to everyone I guess is different. I mean to me it's like the planet and like the quality and like things that seem like important for the progress of humanity.
+SPEAKER_R: One
+SPEAKER_L: But um
+SPEAKER_R: would think everybody would agree.
+SPEAKER_L: Yeah one would but yeah, it's pretty, Yeah, it's crazy. I mean the 4th of July here was mm I just have never seen anything like it. It felt like there were there were more trump flags here than I've ever seen in previous years.
+SPEAKER_R: Why?
+SPEAKER_L: This year, of all years, this year of all years, so, so, so much tension, there's just so much tension right now, it's becoming more polarized right now. I think this
+SPEAKER_R: No.
+SPEAKER_L: is as much as like people in my life, my personal life has been heated about republican democrat type situations right now. Um I think that right now is the most kind of conflict I've seen between
+SPEAKER_R: Now.
+SPEAKER_L: political affiliation ever ever in my life, in my life families.
+SPEAKER_R: Well yeah. Well the question is then what can we do because again like I feel I have reached personally a point where I am done with finger pointing, I am done with being like oh they did that and they said that and then they did this and you know like I just want to understand what an individual can actually do to sort of like spark change and you know advocate for sustainability on all levels on all levels.
+SPEAKER_L: I know it's a voice over social media and and being a, the thing that has power in this country is money, so I I just don't support financially, I do my best unless I literally have to to support companies that I believe in there and that's what speaks the most in this country. And there's one of you, there's one of your voices, but there are hundreds if not thousands of dollars that you spend every month and where that goes is important and what you say and people in your personal circle that say things that aren't okay, you know, expressing your opinion or not and not uh like canceling them I guess the cancel culture thing, like not canceling them, like not saying like I'm not talking to you anymore because of these beliefs but actively engaging in explaining your position and like trying to get them to see something differently because their beliefs who they are is the result of their upbringing. The things that they've experienced, the opinions that they've been exposed to. So everybody has their reason, everybody has reasons for the things that they do and every single person would probably think that they're a good
+SPEAKER_R: no.
+SPEAKER_L: person. So the combination of those two things, even if it's so crazy to us, they think they're
+SPEAKER_R: What?
+SPEAKER_L: doing the best that they can and even though it's not good to anybody else and there's the rare few like trump that's just bad and I would I would be really surprised
+SPEAKER_R: I
+SPEAKER_L: if he sat down and was like I'm a good person, I'm genuinely a good kind person, I would be shocked.
+SPEAKER_R: don't think so that he thinks that I'm pretty sure
+SPEAKER_L: huh.
+SPEAKER_R: he does, I'm pretty sure he thinks that he's doing the best for himself and seeing that he's being cheered on by others. He really generally probably thinks that
+SPEAKER_L: It's like he's doing a good job,
+SPEAKER_R: I'm
+SPEAKER_L: I'm
+SPEAKER_R: doing
+SPEAKER_L: great.
+SPEAKER_R: a good thing because other people because other people like that like what I'm doing and they agree and it's
+SPEAKER_L: It's
+SPEAKER_R: just like, oh okay, you know, so yeah, but like I feel, you know what,
+SPEAKER_L: crazy.
+SPEAKER_R: I feel like you're, it's like yes outspoken, the thing of being outspoken, like that's always a factor, but to really put on pressure, I think the financial issue, like the financial pressure is going to be the one that speaks the loudest like unfortunately, but if that is what needs to be done and that is what needs to be done and I guess like the burden there or the like the threshold there is kind of like doing your research and you know, skipping away from convenience and being like not just going to the store and just buying something quickly because you just need it right now and it's convenient to do that. But actually doing that research like which brands are behind certain other brands, you know like it's
+SPEAKER_L: being a smart consumer is the biggest thing that you can do in the country because most, most like if you go to, I don't know what really common grocery stores there are in new york, but if you go to something like a whole foods, of course, I mean it's it's owned now by Jeff Bezos, even though it started as a good company now, it's owned by amazon and and but if you go to like just your typical grocery store that would have like just very like simple brands like uh Maria pasta or like Lay's chips or like these companies like those really big companies are the issues really big meat meat producers like Tyson, like all of these like meat companies, those are the things to avoid like shopping or shopping at mom and pop shops, like the small companies, especially right now that needs support. And these things are the things that make a difference because how many times just for it's so much easier to just go to the convenience store CVS and just go grab something really quick. But CVS is fine. The things, the companies that aren't fine and the companies that matter are the companies that really support individuals and like intelligently source their products and that would be something like, I don't even know like a mom and pop like here we have a mother's grocery series
+SPEAKER_R: What about
+SPEAKER_L: that is like,
+SPEAKER_R: what
+SPEAKER_L: you know, sustainable and so on. And even
+SPEAKER_R: now?
+SPEAKER_L: though it's more expensive, like at the end of the day, like it makes you, it makes you consume even less if it's more expensive. So I mean it's,
+SPEAKER_R: it
+SPEAKER_L: it's shocking at first, but then it's better for everybody in the long run. So
+SPEAKER_R: makes
+SPEAKER_L: even
+SPEAKER_R: you just be
+SPEAKER_L: yourself.
+SPEAKER_R: a little bit more aware and also more appreciative of what you have and things like that and it's like I feel you like I feel the manufacturer again it's just like so big because how can you for example tell a family like a low income family too, you know shop somewhere where it's much more expensive like it's really hard.
+SPEAKER_L: it's
+SPEAKER_R: It's really
+SPEAKER_L: super hard.
+SPEAKER_R: hard. Especially now with like unemployment rates and everything and it's just yeah, it's a long way. So I feel it's a long way. But
+SPEAKER_L: All we can do is take a day by day and as
+SPEAKER_R: they commit.
+SPEAKER_L: younger, younger people come in politics, it will get better and better with time.
+SPEAKER_R: no.
+SPEAKER_L: And then there will be a new wave and it's, it's the process. It's, it's like cyclic thing and it's a process. And I just hope that the planet makes it up
+SPEAKER_R: I'm worried I'm just like that's my biggest concern for the environment, that's you know
+SPEAKER_L: Yeah. You know, I have to go.
+SPEAKER_R: that's
+SPEAKER_L: It
+SPEAKER_R: fine.
+SPEAKER_L: was so
+SPEAKER_R: I'm
+SPEAKER_L: lovely talking to you.
+SPEAKER_R: so pleasantly surprised this was like come on.
+SPEAKER_L: My last one. I did this a second. This is my second time doing it and lost. It was very nice
+SPEAKER_R: no.
+SPEAKER_L: to people are nice in general, which is always like, I'm like, that's nice.
+SPEAKER_R: it's good, it's good and especially today I've been having kind of like that bit of a dark day where it's just like politics so
+SPEAKER_L: I know.
+SPEAKER_R: it
+SPEAKER_L: I'm
+SPEAKER_R: was
+SPEAKER_L: glad.
+SPEAKER_R: actually really nice. Thank you so much. Alright.
+SPEAKER_L: It was so nice to meet you.
+SPEAKER_R: You
+SPEAKER_L: Good luck in new york,
+SPEAKER_R: you as well. Thank
+SPEAKER_L: bye.
+SPEAKER_R: you so much. Take care. Bye.

@@ -1,0 +1,260 @@
+SPEAKER_L: How about you know Alexa turn on the light? Do it.
+SPEAKER_R: Hello.
+SPEAKER_L: Hi.
+SPEAKER_R: Okay, how are you?
+SPEAKER_L: Good. How are you?
+SPEAKER_R: I'm doing okay. I'm Adriana High.
+SPEAKER_L: Hi, my name is Natalie
+SPEAKER_R: It's good to meet you.
+SPEAKER_L: You too?
+SPEAKER_R: What time
+SPEAKER_L: What?
+SPEAKER_R: is it where you're at?
+SPEAKER_L: That's 10 AM.
+SPEAKER_R: Yeah, me too. Excellent. So you're in the US a ticket? Yeah.
+SPEAKER_L: you are too one
+SPEAKER_R: Yeah, I'm in boston here. Well, what are you doing? Okay.
+SPEAKER_L: So I'm not working right now. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: I'm just kind of freelancing right now.
+SPEAKER_R: Oh cool. Yeah. It to be like that in the pandemic. Yeah. Okay. I'm a student and but I also nanny this kid and watch him do his online school thrilling.
+SPEAKER_L: Oh, that's cool.
+SPEAKER_R: It's money. Yeah.
+SPEAKER_L: Right.
+SPEAKER_R: Uh huh. What kind of freelance stuff do you do like this? Mhm.
+SPEAKER_L: Just whatever comes my way.
+SPEAKER_R: Yeah. Supercar. What did you do otherwise?
+SPEAKER_L: Sorry what?
+SPEAKER_R: What did you do before or otherwise?
+SPEAKER_L: Um I was working as a buyer um pretty boring office job.
+SPEAKER_R: What does that mean? A fire?
+SPEAKER_L: Um basically I would do the purchasing for this company um purchasing all their supplies, different things.
+SPEAKER_R: Right. Yeah. Sounds like my nightmare. I hate shopping. Yeah. I mostly work with kids and various capacities.
+SPEAKER_L: that's cool.
+SPEAKER_R: I want
+SPEAKER_L: I
+SPEAKER_R: to
+SPEAKER_L: like
+SPEAKER_R: be a teacher.
+SPEAKER_L: your,
+SPEAKER_R: Yeah. They're really sweet. Do you have any kids?
+SPEAKER_L: no, I don't. Um Hopefully within maybe two years. So a kid.
+SPEAKER_R: That soon. Yeah, I'd like to have kids too. Uh How many would you want? Oh,
+SPEAKER_L: maybe two.
+SPEAKER_R: mm. Yeah. Do you have siblings?
+SPEAKER_L: No, I was an only child
+SPEAKER_R: Me too?
+SPEAKER_L: Berlin.
+SPEAKER_R: I always hated that.
+SPEAKER_L: Yeah, I always wanted like a brother, sister.
+SPEAKER_R: Me too. Yeah. So I would never want to have just one kid.
+SPEAKER_L: Yeah, I don't want them to go through that.
+SPEAKER_R: No, absolutely not. No. I was wanted her older brother. Yes. No, when they go on to have three kids though, but maybe that's over ambitious. I don't know. Mhm wow. It's super rainy here today and I'm upset about it because it blows all of my plans. I hate that you can't do anything inside anymore.
+SPEAKER_L: Yeah, it's kind of rainy here too.
+SPEAKER_R: Yeah. Sounds like the east Coast in october. Do
+SPEAKER_L: Yeah, I'm in
+SPEAKER_R: you think
+SPEAKER_L: health
+SPEAKER_R: people
+SPEAKER_L: Carolina.
+SPEAKER_R: are? What's that?
+SPEAKER_L: I was in north Carolina
+SPEAKER_R: Oh God, she would you? I don't
+SPEAKER_L: people.
+SPEAKER_R: know that. I've never actually been to north Carolina. I don't think so. She was very still. So mm. Do you think people are actually going to celebrate Halloween this year?
+SPEAKER_L: I don't know. I kind of hope so. Um I want people to come trick or treating at my house, I just moved to the house so
+SPEAKER_R: Oh wow. That's
+SPEAKER_L: you want
+SPEAKER_R: very exciting.
+SPEAKER_L: to do that?
+SPEAKER_R: Yeah. Yeah. Yeah. I think it's cute. I've seen some people with decorations up, so hopefully I do. So there's a bunch of trucks outside. Um, I keep saying this like posts on the internet about people making like big tubes to put candy in
+SPEAKER_L: Oh yeah. Yeah, I see
+SPEAKER_R: to shoot
+SPEAKER_L: that.
+SPEAKER_R: people. I think that'd be really cute. Or make one of those machines where it like ticks off a bunch of different things. You know, the dominoes hit the lever or whatever it is
+SPEAKER_L: That's a lot
+SPEAKER_R: because everything
+SPEAKER_L: of work.
+SPEAKER_R: that would be fun. I always wanted to make one of those. It's mm Did you dress up as something a lot as a kid? I feel like a lot of people have one costume that was their go to.
+SPEAKER_L: I was like a which a lot of the time and I didn't really change from that, I don't know why I picked that.
+SPEAKER_R: I was a witch a couple of times. I was her mining for like five years from harry potter, which I guess is also a witch a different way. Yeah.
+SPEAKER_L: What?
+SPEAKER_R: Yeah. I feel like all my friends were always the same thing. But now I see kids when I had different costume every year. I don't know. Mm hmm. How long have you lived in your house?
+SPEAKER_L: Um we moved in like two months ago, so
+SPEAKER_R: That's
+SPEAKER_L: not
+SPEAKER_R: very exciting.
+SPEAKER_L: too long.
+SPEAKER_R: Wow. Congratulations. It
+SPEAKER_L: Thank
+SPEAKER_R: must have been weird
+SPEAKER_L: you.
+SPEAKER_R: in the middle of everything going on. Yeah. Um that's very exciting. I'd like to hopefully move soon. I live in a student apartment, so I'd like to have a living room.
+SPEAKER_L: Yeah, I've been there.
+SPEAKER_R: Yeah, it's not the most glamorous time, but that's okay. How? Uh Mhm. Have you lived in north Carolina? Always? Yeah.
+SPEAKER_L: What about you?
+SPEAKER_R: And I'm from California. Yeah, I used to live in Ohio for a while then, but now I'm here. Okay. Yeah. Okay. I'm glad to not be in Ohio anymore. It was too cold. Mhm. I can't do it. I was there when there was the polar vortex. Did
+SPEAKER_L: and
+SPEAKER_R: you hear about that?
+SPEAKER_L: I think I remember something like that
+SPEAKER_R: It was wild. You could throw a pot of boiling water out of the window and it froze before it hit the ground.
+SPEAKER_L: thing,
+SPEAKER_R: It was pretty cool. Yeah. Mhm. Do you do a lot of stuff on prolific?
+SPEAKER_L: I'm not really only get like five or so a day, so it's not
+SPEAKER_R: there's not that many
+SPEAKER_L: are
+SPEAKER_R: you know, I feel like a lot of them are. I feel like most of the ones that I see are from american companies, universities, I don't understand why they pay in pounds. So
+SPEAKER_L: I guess the company itself is based over there. Maybe.
+SPEAKER_R: I guess and maybe people there get more british ones, they might be looking for americans specifically.
+SPEAKER_L: True.
+SPEAKER_R: That would make sense. Mhm. Yeah. Mhm. Okay. There's a lot of weird online jobs out there this summer. I was working for this chinese app. Were you tutor kids in english? It was very strange. I never had the same kid twice, so it would just be like half an hour, Try to teach this five year old in China a little bit of English and see what happens. Very strange.
+SPEAKER_L: It seems like it would be hard.
+SPEAKER_R: It was and the company turned out to be kind of a scam um and fuck me over but so I love you. Yeah, they just had a lot of weird policies. It made it difficult to actually get paid. Um I
+SPEAKER_L: And
+SPEAKER_R: do like
+SPEAKER_L: or
+SPEAKER_R: to to know is what I wanna do is teach.
+SPEAKER_L: go ahead. Shit.
+SPEAKER_R: Yeah. He's here. Yes. Are you married? You said you just moved into a house, you
+SPEAKER_L: I'm engaged,
+SPEAKER_R: guys?
+SPEAKER_L: I'm getting married
+SPEAKER_R: thanks.
+SPEAKER_L: in March.
+SPEAKER_R: Congratulations.
+SPEAKER_L: Thank you.
+SPEAKER_R: Oh that's so exciting. Have you found a dress?
+SPEAKER_L: Yeah, I have a dress and we have our venue set up
+SPEAKER_R: Yeah. That's
+SPEAKER_L: so.
+SPEAKER_R: very exciting. I hope it goes well. I went to a zoom wedding this summer like the move
+SPEAKER_L: Yeah. That seems kind of odd.
+SPEAKER_R: it really was but I guess it's cheaper.
+SPEAKER_L: True.
+SPEAKER_R: So hard to hurt the judge. Yeah. We got zoom bombed though. Really bad said.
+SPEAKER_L: Like random people coming in,
+SPEAKER_R: Yeah, saying horrible things, saying horrible things about the bride. I don't think they actually knew were saying the N. Word. Calling her a whore. It was horrible. Mhm.
+SPEAKER_L: would be bad.
+SPEAKER_R: Yeah. The danger of zoom. That's the only time it's happened to me though. I don't get it. Mm hmm. Mhm. Okay. Do you have to do a lot?
+SPEAKER_L: Oh you're frozen. I can't hear anything. Hello? Okay, you're back.
+SPEAKER_R: Oh good. Yeah it does that. I think all of the students on the block trying to zoom all at once is never
+SPEAKER_L: I
+SPEAKER_R: the move.
+SPEAKER_L: want a doctor.
+SPEAKER_R: Uh Yeah you have to spend a lot of time zooming now too. Yeah.
+SPEAKER_L: Um Not really. I've actually never used to zoom itself abuse like the other platforms.
+SPEAKER_R: Mm. I see. Well I have to say I envy you there. I'm so sick of it. I can't look at a computer screen any longer. Mhm.
+SPEAKER_L: Yeah, I can't imagine being in school and having to do that. Mm
+SPEAKER_R: it sucks but I'm just trying to get out, get the degree almost done. So
+SPEAKER_L: What's your degree in?
+SPEAKER_R: linguistics in spanish. I want to be a language teacher. Yeah. So I just gotta get credentialed and then be on my way. Do you speak any other languages?
+SPEAKER_L: No, I wish I did.
+SPEAKER_R: It's never too late. Yeah.
+SPEAKER_L: Yeah, I know. I just don't know I would ever use it.
+SPEAKER_R: Yeah. Good. Mhm. What would you want to speak?
+SPEAKER_L: How is spanish?
+SPEAKER_R: Yeah. That's the most useful in this country. Okay. Yeah. Three shirts. Mhm. I like many languages. My father's family is mexican saris books, man. Mm hmm. Two. I don't understand how people can learn. So I was not trafficking here even myself. Yeah. I understand how people learn the languages with different alphabets or character systems that seem so hard. I can do something with the same alphabet. How do you know how to pronounce anything?
+SPEAKER_L: Yeah. I guess you also
+SPEAKER_R: Me?
+SPEAKER_L: learn each letter first.
+SPEAKER_R: Yeah. Yeah. Well in the characters All of the 1800s. Mhm. I have a friend who studies mandarin and she was telling me how it matters what order you draw each of the lines in the characters. Like you have to write it in a specific way. You can't just do it however you want, which that's
+SPEAKER_L: What?
+SPEAKER_R: too much detail for me. I could not do that.
+SPEAKER_L: One of my friends was taking a class for Arabic but he said it was too hard and she dropped,
+SPEAKER_R: Mhm. Hey, yeah, I thought it would take an Arabic. Mhm. I don't really see myself wanting to travel to as many Arabic speaking places as say spanish speaking places, you know? Mhm. It doesn't seem as useful. Mhm. Yeah, there's been so many more
+SPEAKER_L: Over
+SPEAKER_R: silent constantly around here. Have you gotten the same thing,
+SPEAKER_L: more what
+SPEAKER_R: sirens and helicopters and everything?
+SPEAKER_L: I haven't noticed but I kind of lived close to an airport so we have
+SPEAKER_R: I
+SPEAKER_L: a lot of
+SPEAKER_R: see.
+SPEAKER_L: planes coming
+SPEAKER_R: Yeah, there's so many more. I feel like every day I hear at least five or 6 helicopters go by. It's mornings
+SPEAKER_L: well becoming sketchy is going on.
+SPEAKER_R: I guess. I think it's just okay. I mean there's some hospitals over there. So sometimes I like to go on the roof of my building and I can see them landing on the hospital, which is cool. But so some of them are that, but still I've seen a bunch of military planes and we're not near a base or military helicopters rather.
+SPEAKER_L: interesting.
+SPEAKER_R: Okay. Mhm. Maybe somebody important schooling. Born, wow. Yeah. Someone was telling me though that there are studies showing that after protests and after social unrest, there's always an increase in emergencies and helicopters and 911 calls for anything, even ambulances and fire trucks and stuff
+SPEAKER_L: asylum
+SPEAKER_R: I guess. Yeah, chaotic time to be alive. Yeah.
+SPEAKER_L: definitely a weird time
+SPEAKER_R: Yeah. Mhm. Mhm. I just think there's a vaccine.
+SPEAKER_L: care.
+SPEAKER_R: I want to be able to go to a bargain.
+SPEAKER_L: Yeah I'm tired of staying at home all the time.
+SPEAKER_R: Yeah. Did everything shut down totally north Carolina? How is it like there?
+SPEAKER_L: Um for a while everything was basically shut down but now things have sort of went back um like our movie theaters just opened a few weeks ago.
+SPEAKER_R: Mhm. Yes we have. I don't think the movie theaters are open normally, but you can rent tomorrow. I have a friend who's trying to organize people to rent a movie theater and watch a movie with just a private group. She said it's $10 a head, but I don't understand how to watch a movie With a bunch of Strangers. But if I want to rent it out they're only going to church with $10. Sounds like a hoax. Mhm.
+SPEAKER_L: Yeah I think a lot of them are showing like old movies since you know we've been making new ones.
+SPEAKER_R: I guess that would help make it cheaper. Mhm. That makes sense you. Mhm. Mhm. Do they allow indoors
+SPEAKER_L: No.
+SPEAKER_R: where you're at
+SPEAKER_L: Uh huh. Yeah they do. I think
+SPEAKER_R: huge?
+SPEAKER_L: it's like half capacity.
+SPEAKER_R: Yeah. Yeah, they're allowing
+SPEAKER_L: No
+SPEAKER_R: it here
+SPEAKER_L: you
+SPEAKER_R: too.
+SPEAKER_L: don't.
+SPEAKER_R: Even though our cases are going up again. I don't know.
+SPEAKER_L: I
+SPEAKER_R: Makes
+SPEAKER_L: think
+SPEAKER_R: me
+SPEAKER_L: guard
+SPEAKER_R: no.
+SPEAKER_L: aren't you?
+SPEAKER_R: Right, they are everywhere. The teachers
+SPEAKER_L: Okay. I just
+SPEAKER_R: being in
+SPEAKER_L: found
+SPEAKER_R: here. Right.
+SPEAKER_L: my on uncle have it now and now it's like
+SPEAKER_R: my gosh.
+SPEAKER_L: it was really close to home now.
+SPEAKER_R: Yeah, I'm sorry.
+SPEAKER_L: Yeah, I'm sure it will be. Okay.
+SPEAKER_R: I hope
+SPEAKER_L: So
+SPEAKER_R: so.
+SPEAKER_L: weird.
+SPEAKER_R: Yeah. It's still scary though to have the thing everyone is talking about. Yeah, mm. Mhm. Yeah the teachers union here is about to go on strike though so hopefully that goes well helps curb things and we'll see. It's interesting to kind of see what it's like through the kid that I watch because they have like outdoor school sometimes or they go sit in the field in a big circle, I just go watch them but it's interesting to see how they're making do with Yeah.
+SPEAKER_L: they're like as a little kid, it would be really weird just to have all this change.
+SPEAKER_R: Yeah, absolutely. He's pretty good about it though. He's always yelling at his friends to put their mask over their nose. Mhm. Let me see. Mhm. Mhm. It's the stuff yeah, I can't enough work from home and have your kids be schooling from home all at the same time.
+SPEAKER_L: Yeah, that would be a
+SPEAKER_R: It
+SPEAKER_L: lot
+SPEAKER_R: is not. Mhm. But it could also be nice if you get spent all the time.
+SPEAKER_L: Two.
+SPEAKER_R: Mm. Mhm. Yeah, I would like to I think it could be kind of nice now. I'm thinking about it to actually have. I know it's it's a good time to be near family so that could be drink mm that's what it is. Mhm. Yeah.
+SPEAKER_L: Do you do any other online work?
+SPEAKER_R: Yeah, I worked for this grading company where teachers outsource their grading to undergrads on the internet.
+SPEAKER_L: No.
+SPEAKER_R: Uh huh. Which it was kind of weird. Um It feels messed up because most of the kids have latino names and so it feels like a pattern like you know their teachers specifically are not as invested or they're not as well funded. Yeah,
+SPEAKER_L: huh.
+SPEAKER_R: bad being a part of it, but also I want them to get feedback. Mhm. And um it's called the Great Network. If you want to check it out, it's not bad.
+SPEAKER_L: Right. Is it good for undergrads or
+SPEAKER_R: I don't think so.
+SPEAKER_L: so they're not
+SPEAKER_R: Um that's how I found it, I found it through a school website but they asked me or they sent out like a demographic survey to see how old people were and where they were from, what have you and it had the option for all kinds of different levels of education or what you do or it's you know if your student or not. So I don't know if you do have to, they want to go, mm. Yeah sometimes
+SPEAKER_L: And that?
+SPEAKER_R: though they're from their grade, middle and high school papers, they have to grade. And some of them I mean sometimes you'll see a kid and like they don't know the difference between a. V. And the w like your teacher needs to know this. Not some girl on the internet. Like that's oils. Mm Yeah. I thought about trying one of the other chinese sl apps. There's a bunch of there's a whole market for them. Apparently it's quite the thing in china to learn english from strangers on the internet. Right? I don't know. I don't want to be on zoom more. Mhm So it's something I feel like my eyes are going to be messed up from staring at a screen so much.
+SPEAKER_L: we'll meet your child's blue light glasses.
+SPEAKER_R: I have someone just broken them. Oops. I think I just have to find the screw though. They didn't seem to kind of work, but they're not the good ones. I just got him a target. Maybe it's just a placebo. Mhm, mm hmm.
+SPEAKER_L: Mm.
+SPEAKER_R: Have you ever troubled?
+SPEAKER_L: No, I feel like I should, since I'm always staring at my screen.
+SPEAKER_R: Yeah, No, I think I need to start standing up and they start putting my computer on my dress or something so that I can not just be sitting in weird positions.
+SPEAKER_L: I thought about that too.
+SPEAKER_R: Yeah, I was thinking about it and I'm standing in class, like we'll all make a crazy person. Mm I keep seeing how people are saying they're never going to have snow days anymore because whenever it snows you could just zoom that's evil. Like why bother? It seems like it would be harder to one day do online than to just not at school.
+SPEAKER_L: 33
+SPEAKER_R: Mhm Yeah, can you know, have to see how the school year goes. Mhm, Mhm, Mhm. Yeah, they all start, all the schools here are starting to make face kids in like the kid I'm in, he goes in next week on Tuesdays, Mondays, Tuesdays and every other Wednesday then the other half of his cross does Thursdays Fridays and everything Bronstein and that just seems worse. Some of my classes are hybrid where you can go online and you can go in person, but those are always worse than what's just online because when you're watching a video feed of someone teaching in the classroom with a mask on and you can't see the other students as bizarre. I can only imagine how about that would be if your kid.
+SPEAKER_L: Yeah, I don't know what I would be doing,
+SPEAKER_R: I couldn't, I wouldn't pay attention. I get why he doesn't.
+SPEAKER_L: man.
+SPEAKER_R: Mhm, mm. Mhm. Yeah. Well, I hope it's over soon. Okay. Well, I think that's been our, it's 25 minutes that we're supposed to 25 minutes. Okay. Well, I gotta go because I have crossed him, but congratulations on your wedding. Good luck with it.
+SPEAKER_L: thank you for your time,
+SPEAKER_R: bye.

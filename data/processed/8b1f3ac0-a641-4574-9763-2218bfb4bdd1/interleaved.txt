@@ -1,0 +1,438 @@
+SPEAKER_R: Hello.
+SPEAKER_L: Hello?
+SPEAKER_R: How do
+SPEAKER_L: What?
+SPEAKER_R: you?
+SPEAKER_L: Good, how are you?
+SPEAKER_R: Pretty good, thanks.
+SPEAKER_L: Good. Well this is odd, isn't it? Talking to them too?
+SPEAKER_R: have you done this study before?
+SPEAKER_L: I have done it once before. Yeah, a
+SPEAKER_R: The
+SPEAKER_L: long time ago with a couple of months ago so.
+SPEAKER_R: Okay. Yeah, I did one yesterday, so that
+SPEAKER_L: have
+SPEAKER_R: would
+SPEAKER_L: fun.
+SPEAKER_R: be personal. Yeah.
+SPEAKER_L: Good. Was it fun?
+SPEAKER_R: Yeah, it was nice. The person I talked to was very nice.
+SPEAKER_L: Yeah, I had the same experience. It was very nice and I liked her enormously. So that's fun. Raymond. Well
+SPEAKER_R: I think.
+SPEAKER_L: what should we talk about?
+SPEAKER_R: Mhm. I don't know. Mm.
+SPEAKER_L: Well tell me about you. What do you what do you do? Are you are you a student? Are you working? What are you doing?
+SPEAKER_R: Yes, I am a student. I'm not doing much during the summer. I was planning on hopefully finding an internship but of course about defensive happening. So I've been trying to keep myself busy doing online classes and things. What about you?
+SPEAKER_L: Well I am, I'm a professor so I actually have the same problem because I helped. Right, So I have I've been going online too, so I've been teaching my classes online. I only had one this summer, but yeah, that's the kind of the same thing, right? Getting ready to, I don't know what we're doing in the fall, Are we teaching online? Are we teaching in person? What are we doing?
+SPEAKER_R: And
+SPEAKER_L: I don't know nobody, No.
+SPEAKER_R: my,
+SPEAKER_L: No one knows.
+SPEAKER_R: my school has yet to really announce anything either. So same boat.
+SPEAKER_L: school, my school could just continually announces like we might go online, but we don't have to go online, but we might, but thank you for your flexibility, you
+SPEAKER_R: Yeah, it's the same
+SPEAKER_L: know?
+SPEAKER_R: with me. Oh,
+SPEAKER_L: So, and
+SPEAKER_R: I
+SPEAKER_L: I'm in
+SPEAKER_R: dont
+SPEAKER_L: florida.
+SPEAKER_R: ballroom.
+SPEAKER_L: So our numbers are high. So we'll just see how this goes. Yeah, we'll see when we have this go. So, what are you studying?
+SPEAKER_R: I study psychology actually. Um
+SPEAKER_L: that's very fun.
+SPEAKER_R: yes, it's very fun. I really enjoy it. And I also minor in gender studies, so. Yes.
+SPEAKER_L: Good. Well, part of my PhD was in gender studies, so, yeah, I
+SPEAKER_R: Yeah.
+SPEAKER_L: know that world very, very well. Great. What do you do with that?
+SPEAKER_R: I am still sort of trying to figure it out. Like I definitely want to do something in sort of at least a diversity and inclusion realm, whatever that. Maybe
+SPEAKER_L: That's
+SPEAKER_R: if I try to do that in psychology or in the business world, I don't really know yet. Something like that.
+SPEAKER_L: Yeah. No, that's okay. You can figure that out. You don't have to figure that out in college. You're on the life. You're fine. That's what I tell my students all the time. You don't have to figure it out right now. Just
+SPEAKER_R: Thanks
+SPEAKER_L: have to figure out. Just figure out the next step. That's what we got to do.
+SPEAKER_R: for real.
+SPEAKER_L: Like I'm going to get up and go to class. That's all you have to figure out. Please love of God, let's do that.
+SPEAKER_R: Yes, I still struggle with that. But yeah, I went into my senior year so it's definitely on my mind.
+SPEAKER_L: yeah, yeah, yeah. Well, no, that's okay. You'll be all right. Just remember this. This is a universal truth. And I tell my students all the time, your first job will be terrible. It's a point. It's okay. It's fine.
+SPEAKER_R: Learning experience.
+SPEAKER_L: Well, you get your first job, you learn something out of it, you go to the next job, you learn something out of it. It's fine. You're okay. You don't have to have it all figured out. Don't you don't have to get your perfect job the first time out, it's great if you do,
+SPEAKER_R: Yeah, that would be awesome.
+SPEAKER_L: I don't know anybody who did that. So like all of my acquaintances, friends, I just can't imagine you've got to figure it out, you're fine, you're doing great.
+SPEAKER_R: Thank you.
+SPEAKER_L: I actually have a student who is I teach theater and so I kind of a student who's a double major in psychology and theater who is going into uh fine arts therapy, that's your point.
+SPEAKER_R: That's really fascinating. I'm sure that'll be a cool
+SPEAKER_L: Actually
+SPEAKER_R: field.
+SPEAKER_L: actually and I had another I had another, I've had multiple students who have done the double major in theatre in psychology and um my other one is actually currently getting into trying to get his M. F. A. And acting. So you know psychology is going to go out the window and he started to walk on his craft, you know what I mean
+SPEAKER_R: For sure. Although
+SPEAKER_L: that far?
+SPEAKER_R: I felt that I think psychology is helpful for like anyone like just in general, understanding people like that
+SPEAKER_L: initiated
+SPEAKER_R: will help you no matter what
+SPEAKER_L: then
+SPEAKER_R: you do.
+SPEAKER_L: actually. Exactly, yeah. No it's great. Absolutely.
+SPEAKER_R: Yeah. And it does sort of go hand in hand with acting. Probably. Yeah, I didn't really think about that before. You got to understand.
+SPEAKER_L: Well it does it does work really well. Yeah, there's a there's some really interesting dramas, therapy um people out there and and thoughts that really haven't you know become popular shall we say. But they're really bad into things so much more. There's some good work happening with veterans coming back from the war and dealing E. T. S. G. And through with drama therapy so.
+SPEAKER_R: I don't know. Yeah, I hadn't heard about that in my classes before. I'm sure that's a fairly
+SPEAKER_L: Well
+SPEAKER_R: new thing.
+SPEAKER_L: you know Adam driver who's the Star Wars actor? He's got a huge organization that does that like that was that's like his yeah
+SPEAKER_R: Yeah.
+SPEAKER_L: he's like all about that's really interesting.
+SPEAKER_R: That is interesting.
+SPEAKER_L: Oh okay so that he's odd looking human but he's a really good after that. He's a really good actor. So
+SPEAKER_R: Yes, I agree. Yes.
+SPEAKER_L: apparently he found I'm of course quoting like you know from memory here so who knows what they're telling you the truth. But I think what I read was that because you know he's a veteran and he was dealing with some ptsd himself and found theater and acting that way. So that's how
+SPEAKER_R: I didn't
+SPEAKER_L: we
+SPEAKER_R: know
+SPEAKER_L: got
+SPEAKER_R: his story.
+SPEAKER_L: all red. Yeah.
+SPEAKER_R: I'm glad you found that.
+SPEAKER_L: Yeah, I mean it's great. Right. Yeah, it's really interesting and you know, he's helping other vets, so that's cool.
+SPEAKER_R: Yes. Anything to do that is a good cause
+SPEAKER_L: Yeah. Yeah. So what do you do for fun?
+SPEAKER_R: for fun. Well, I've been watching a lot of tv really? Um well, well, the class I'm taking right now through course Sarah, it's called The Science of Happiness. I've been doing that. I've been
+SPEAKER_L: No, no,
+SPEAKER_R: that.
+SPEAKER_L: no,
+SPEAKER_R: Yeah, it's completely free. So I've just been doing it when I feel like it's been really nice. I highly recommend it.
+SPEAKER_L: I'll have to take it. I've seen it and thought about it and I haven't done it.
+SPEAKER_R: Yeah, the professor is awesome. So she explains everything really well.
+SPEAKER_L: Okay, Okay. I've taken a few coursera classes. I'll have to get, I'll have to
+SPEAKER_R: Face
+SPEAKER_L: Put that one on my list.
+SPEAKER_R: Yeah, that was, it's very low stress. So it's a good time. What
+SPEAKER_L: that's
+SPEAKER_R: about you
+SPEAKER_L: good.
+SPEAKER_R: you've been doing during these weird
+SPEAKER_L: Yeah, it's weird, right? Like I think a lot of tv it's amazing how much video consume in
+SPEAKER_R: Restudied long, prolific.
+SPEAKER_L: I um let's see, I've been going outside a lot more so
+SPEAKER_R: That's great.
+SPEAKER_L: going outside for a run and getting outside for, you know, just in fact, just to sit on the porch, like just to be outside and see other people. Like I think I've gotten to the point where I need to see other students because I don't go or go out, you know, um you know, I get a Starbucks once a day from the drive through, you know, fully masked
+SPEAKER_R: I
+SPEAKER_L: nothing else. So you know, it's like you just need to kind of get out of the house a little bit more. You know what I mean?
+SPEAKER_R: definitely, yeah, I've been trying to do that too.
+SPEAKER_L: Hard. It's really hard.
+SPEAKER_R: Four.
+SPEAKER_L: It
+SPEAKER_R: It is
+SPEAKER_L: sort of feels like everything shut down in a way that like you don't, you like all your connections shut down to, although I've also been in way more contact with all my friends like from college, but you know, we've been zooming and it's you know, great. We get to see each other way more than we used to. So kind of fun.
+SPEAKER_R: That's awesome. Yeah. Uh
+SPEAKER_L: I do miss, I did miss, I usually go up for a couple weeks to see my best friend and do some research and some writing and things
+SPEAKER_R: Oh, that's a
+SPEAKER_L: that Georgia I didn't get to because you know quarantine. So
+SPEAKER_R: I've had so many plans, but I've just been gone because of its so annoying.
+SPEAKER_L: yeah well we're starting to talk about we're we we just said yesterday maybe we should just go maybe we should just get an Airbnb and just like scrub the place down and just do it because we've both been quarantining and we don't have it so you know
+SPEAKER_R: Yeah, I think, yeah, one person can't hurt if you know that they don't have
+SPEAKER_L: then
+SPEAKER_R: it.
+SPEAKER_L: you know and you know we're going to go right back to our houses and just stay there so it's not like we're going to spread it anywhere if we did. Mhm And I really don't know how I would get that. But anyway so you so you're going back to school are you going back onto campus or do you,
+SPEAKER_R: Um So they're still being very vague about that. I mean like one or two classes that have like over 300 people and it's so obviously that class is not happening, but I'm also in a, Like I'm doing my university writing requirement, not only has about 20 people, so I might be going to that class. I'm not really sure yet. They still haven't said anything. Yeah.
+SPEAKER_L: We're doing a thing we're doing
+SPEAKER_R: What?
+SPEAKER_L: a thing for classes where it wouldn't work for 300 obviously, but like 20, what we do is we have two groups and so 10 people would be in the room and 10 people are on Zoom. So you're teaching like you're something you're online and sometimes you're not online, it just
+SPEAKER_R: I
+SPEAKER_L: depends.
+SPEAKER_R: think that's a good balance. Yeah. That seems
+SPEAKER_L: Well,
+SPEAKER_R: like not your solution.
+SPEAKER_L: yeah, so we'll see how that works because you know, when you're wearing a mask in the classroom, I don't know if it's going to be the same. You might,
+SPEAKER_R: I doubt it.
+SPEAKER_L: I think that problem. So I'm thinking um I might do something a little different, I might do it, I might do like a separate one where they can actually see my face and they can hear me more clearly because I'm afraid, I'm afraid, especially in the theater, they're just not going to hear it or it's gonna be unclear or
+SPEAKER_R: Yeah, but drama classes,
+SPEAKER_L: damage.
+SPEAKER_R: that's that's going to be a weird one. Yeah, I don't know.
+SPEAKER_L: Well, fortunately so I so I this semester we don't have, we have an acting class in the Stagecraft class. Both of those are very hands on. I
+SPEAKER_R: And
+SPEAKER_L: have an advanced prop making class, which is also very hands on, but a little more independent, so I don't, it's not quite the same. Um and the others are all writing and reading and thinking two, because I think I'll be okay interactions, stage design
+SPEAKER_R: it was,
+SPEAKER_L: and dramatic writing. So I think I can, I think I can manage those. Those are going to be, I think mostly online, so oh,
+SPEAKER_R: don't see having any issues though.
+SPEAKER_L: we're gonna be fine. I just need to not get the corona, so you
+SPEAKER_R: That is important.
+SPEAKER_L: want to get to, that's
+SPEAKER_R: What, what
+SPEAKER_L: what
+SPEAKER_R: did you say you're in again?
+SPEAKER_L: I'm sorry, what
+SPEAKER_R: Which state
+SPEAKER_L: I mean, florida,
+SPEAKER_R: florida? Okay. I missed it before. Yeah. Yeah,
+SPEAKER_L: I think florida,
+SPEAKER_R: I'm
+SPEAKER_L: I don't
+SPEAKER_R: in
+SPEAKER_L: know.
+SPEAKER_R: California, so I'm also sort of in a bad, but
+SPEAKER_L: so you're
+SPEAKER_R: I'm
+SPEAKER_L: innocent,
+SPEAKER_R: in, so it's better up here than down in, so cal,
+SPEAKER_L: Yeah. Well, yeah, I, yeah, no, I'm in the hotbed of the world, I believe
+SPEAKER_R: you
+SPEAKER_L: it's
+SPEAKER_R: know,
+SPEAKER_L: very fun,
+SPEAKER_R: fine,
+SPEAKER_L: very fun. So
+SPEAKER_R: this
+SPEAKER_L: fun.
+SPEAKER_R: women
+SPEAKER_L: Yeah. At any point, I just know we're going to get shut down, like there's we are getting to the moment now. We're like, yes,
+SPEAKER_R: at least they're going to get, hopefully
+SPEAKER_L: I think they're going to get there. I think they're going to get there. I mean we're just
+SPEAKER_R: there's a lot of strange people in your legislation, Huh?
+SPEAKER_L: Yeah. Well, my governor isn't it actually? I'm surprised I didn't vote for him um before this, he actually did some really nice things, some
+SPEAKER_R: that's
+SPEAKER_L: reaching
+SPEAKER_R: great.
+SPEAKER_L: across bipartisan work, you know, it was great, but now this is like way above his pay grade and he's but he's terrible. Really, really bad.
+SPEAKER_R: So,
+SPEAKER_L: So um yeah, so that hasn't worked out great for him and apparently he was supposed to be a presidential contender. Got it. What? Someone you can look
+SPEAKER_R: Anymore.
+SPEAKER_L: right? No, no, he's bungled this one really badly, so. Yeah.
+SPEAKER_R: Well, he's not alone. Lots of governors are messing up.
+SPEAKER_L: Well, I mean you don't need when you when you elect a governor, you don't think to yourself, can they handle a worldwide pandemic?
+SPEAKER_R: It's
+SPEAKER_L: You
+SPEAKER_R: absolutely
+SPEAKER_L: don't really about that? Like that's silliness. So
+SPEAKER_R: I well people think about it now at least.
+SPEAKER_L: no killing right? Like totally. Absolutely Can this person actually lead us through, you know, the terrible crisis? I don't know. I think the answer is mostly know for people who go into politics, but we'll see.
+SPEAKER_R: Yeah, I would have to agree with.
+SPEAKER_L: Very little. They're a special animals are the ones who actually wanted to be actually wanted to be president when I was little. Very little. And somewhere
+SPEAKER_R: But
+SPEAKER_L: along the line I just lost that.
+SPEAKER_R: yeah it seems like a soulless job. Honestly, I couldn't handle it
+SPEAKER_L: Yeah, I don't well I wanted to do it because I wanted to make change. Right? I wanted to do
+SPEAKER_R: so
+SPEAKER_L: something.
+SPEAKER_R: hard.
+SPEAKER_L: I don't actually do anything.
+SPEAKER_R: No, not at all
+SPEAKER_L: So that got lost in college
+SPEAKER_R: early.
+SPEAKER_L: when I decided to be a theater person instead.
+SPEAKER_R: that's a great option.
+SPEAKER_L: What I wanted to do what I was supposed to do anyway. So it's fine. It's fine. Mhm. Exactly what I was supposed to do. So,
+SPEAKER_R: our five.
+SPEAKER_L: So the coronavirus numbers aren't bad where you are.
+SPEAKER_R: Yeah like my particular town I go to UC Davis um and it's very it's like 50% college students. So everyone here is like very educated mostly doing what they're supposed to do. So the numbers have been pretty down where we're at. So a lot of stuff has been open. I've been like masking it up and like going and getting takeout, not actually staying in the restaurants even though that's open because that's just too risky. But it's been nice like at least there's been some sense of like normal see a little bit
+SPEAKER_L: Yeah. Yeah, that's good. Yeah, I think.
+SPEAKER_R: in the Bay Area at first, but I think our area was really good about shutting down like when it first started. So it's been way better now we're
+SPEAKER_L: Right. And here in florida, when we did shut down, we didn't really shut down like, but there were just a lot of people who were like, this is a hope is and just running around like mad, you know, chickens with their heads cut off and
+SPEAKER_R: man.
+SPEAKER_L: not missing love. And my um my my subdivision has, I don't know if they do this in California. This is a very specific florida thing that we have like community amenities. And so like you have uh you have a bunch of houses, but then they have like pools and playgrounds and things that are all community
+SPEAKER_R: that's nice.
+SPEAKER_L: owned. And so but the great controversy has been when with the pool open because home I do that I want my pool. And you know everybody's like it doesn't spread to the water. No your name, your face. Which is the virus spreader is above the water.
+SPEAKER_R: I
+SPEAKER_L: That would
+SPEAKER_R: know.
+SPEAKER_L: be the problem. All right.
+SPEAKER_R: hmm.
+SPEAKER_L: Oh florida.
+SPEAKER_R: Yeah,
+SPEAKER_L: Oh yeah.
+SPEAKER_R: it's a fun place.
+SPEAKER_L: Well I've gone past the pool a couple of times and there's no social distancing. There's no math, nobody's doing anything.
+SPEAKER_R: What a disaster.
+SPEAKER_L: Well I'm not using the pool.
+SPEAKER_R: Smart.
+SPEAKER_L: There is a
+SPEAKER_R: Very smart.
+SPEAKER_L: I'm gonna be using a pool. That will be madness. Madness. But
+SPEAKER_R: it is.
+SPEAKER_L: we have
+SPEAKER_R: You know.
+SPEAKER_L: in our community has been doing um well they started doing it and then they had to stop it because people were being terrible. They were having food trucks come to our neighborhood and they were part and so there would be like, you know like a couple of times a week you could go and you know
+SPEAKER_R: that's nice.
+SPEAKER_L: I know my food truck, which is kind of but then then people started bringing lawn chairs and then it became a large outdoor picnic.
+SPEAKER_R: what are they doing?
+SPEAKER_L: And then you have to go, no, stop, stop, stop. Okay.
+SPEAKER_R: I would be so madly
+SPEAKER_L: there's just so much crazy in florida. There's so
+SPEAKER_R: and there
+SPEAKER_L: much
+SPEAKER_R: is,
+SPEAKER_L: it's actually going down now. So I think like when the numbers were really low, everybody was going like, well, I don't know anybody really. It's fine.
+SPEAKER_R: yeah, it's
+SPEAKER_L: And then and then, you know, people start dropping like flies and then they go, Mhm
+SPEAKER_R: mm hmm. Maybe I should
+SPEAKER_L: Maybe
+SPEAKER_R: think about
+SPEAKER_L: I
+SPEAKER_R: my
+SPEAKER_L: still
+SPEAKER_R: actions.
+SPEAKER_L: do something about this. Huh? Well anyway, passing
+SPEAKER_R: Yeah, it's just a bummer that we couldn't just do it earlier. Like every other country and then we
+SPEAKER_L: night.
+SPEAKER_R: couldn't be actually out of this. I know probably, I don't know, we're such a huge country. It's a little different for us,
+SPEAKER_L: But
+SPEAKER_R: but like uh some
+SPEAKER_L: well,
+SPEAKER_R: of the people,
+SPEAKER_L: I love I have several countries that I love because I live I've lived overseas a number of times and I'm
+SPEAKER_R: that's so cool
+SPEAKER_L: like, I look at look at like the Netherlands and I look at the Czech Republic and you know, I look at them and just go, you're
+SPEAKER_R: All
+SPEAKER_L: doing well, I
+SPEAKER_R: yeah I want to go there
+SPEAKER_L: want to go get coaching and go
+SPEAKER_R: it's
+SPEAKER_L: to there. I cannot because we can't novel now because the world has shut us down because we're idiots.
+SPEAKER_R: because
+SPEAKER_L: That
+SPEAKER_R: we're done it's what we deserve.
+SPEAKER_L: Yeah. Right now we actually deserve that. But it's like having a group project, you know, this very well and we're the ones who are doing the work, right? And then there's one kid who can't
+SPEAKER_R: but
+SPEAKER_L: do the work.
+SPEAKER_R: to follow directions
+SPEAKER_L: Always one, there's always
+SPEAKER_R: uh huh and it's like I get it at the same time like these people have been disenfranchised like and want to go against the system that doesn't help them and I totally understand that sentiment, it's just a bummer that we can't sort of reach an understanding you know I just I
+SPEAKER_L: Right. Right. That we can't have a logical conversation about how about we lessen our chance of getting this by wearing a piece of cloth across our
+SPEAKER_R: because
+SPEAKER_L: faith. Right? That seems like a very reasonable thing to say.
+SPEAKER_R: yeah I would think
+SPEAKER_L: Well, I probably wonder too. I wonder because I know that the regional initial studies where it helps you not to spread it and now we're getting studies that say wearing that also helps you not to get it
+SPEAKER_R: Oh that's good, I didn't hear that
+SPEAKER_L: But one well yeah like there was a recent study, I don't know, I don't remember where it came out of it. It was published I believe in the Lancet which is you know high quality medical Journal that it's 65% lowers your own risk by 65%.
+SPEAKER_R: Honey
+SPEAKER_L: Which is very nice. Indeed. I will take that odd. I was
+SPEAKER_R: helps.
+SPEAKER_L: I actually I actually made masks before they said it. I made homemade mass from the family.
+SPEAKER_R: head
+SPEAKER_L: The problem
+SPEAKER_R: of the game
+SPEAKER_L: is I was looking at Asia and I was going huh their coronavirus numbers are very low and they have a mask culture. I will wear that and that.
+SPEAKER_R: very smart, yep I wish we handled it like Korea they did so well they didn't even have to shut down because
+SPEAKER_L: I
+SPEAKER_R: everyone
+SPEAKER_L: know.
+SPEAKER_R: just you know other people there it's crazy
+SPEAKER_L: I'm obsessed with Korea because I'm obsessed with korean television. So
+SPEAKER_R: mm I watched all that. Yeah
+SPEAKER_L: I got to do that. So amazing. I'm going back for you. Yes. What do you want? Like what are you, what are your favorites?
+SPEAKER_R: well the last one, I watch a lot of cheesy romance from them but
+SPEAKER_L: What else is there korean television? Everything is this.
+SPEAKER_R: I
+SPEAKER_L: She well
+SPEAKER_R: didn't know if you watch a more sophisticated television
+SPEAKER_L: he is
+SPEAKER_R: or something
+SPEAKER_L: not
+SPEAKER_R: the last
+SPEAKER_L: included
+SPEAKER_R: four,
+SPEAKER_L: telling him
+SPEAKER_R: I was like, what's wrong with secretary kim? I don't know if you heard of that one,
+SPEAKER_L: I haven't
+SPEAKER_R: I really
+SPEAKER_L: seen
+SPEAKER_R: enjoyed
+SPEAKER_L: her.
+SPEAKER_R: it. The acting is fun.
+SPEAKER_L: It's everything about korean romances and dramas is fun. Like it's so
+SPEAKER_R: I agree.
+SPEAKER_L: it's so much fun. Have you seen My Love from Another Star?
+SPEAKER_R: I haven't. Is that honor to me like netflix
+SPEAKER_L: that's
+SPEAKER_R: or
+SPEAKER_L: like
+SPEAKER_R: room?
+SPEAKER_L: The Quintessential one.
+SPEAKER_R: Good
+SPEAKER_L: It's
+SPEAKER_R: to know.
+SPEAKER_L: Good, It's Good.
+SPEAKER_R: What's it called again?
+SPEAKER_L: That
+SPEAKER_R: Let's
+SPEAKER_L: my
+SPEAKER_R: see
+SPEAKER_L: Love from Another Star,
+SPEAKER_R: My
+SPEAKER_L: it
+SPEAKER_R: love.
+SPEAKER_L: sometimes has sometimes has different, it'll kind of be, sometimes they'll be english translations that are variations of that, but that's the one I just got the DVD for my birthday because
+SPEAKER_R: and naive.
+SPEAKER_L: and to own it forever according to my husband. So it's really good. It is extraordinarily good.
+SPEAKER_R: goods and I will definitely check it out. Thanks for the rec.
+SPEAKER_L: I got started in korean television because at one point you lose suggested that I might want to watch Vampire prosecutor with.
+SPEAKER_R: I've heard about
+SPEAKER_L: it's so ridiculous. It is the most ridiculous piece of television I've ever seen in my life and I was obsessed. Like
+SPEAKER_R: it's
+SPEAKER_L: so
+SPEAKER_R: so fun. Yeah,
+SPEAKER_L: so I mean like there's several things you have to get over, like vampires in Korea are different. Like they have different rules, they can go up in the sun that's
+SPEAKER_R: I'm
+SPEAKER_L: fine fine of they can drink uh like their blood requirements are different. Like they can have, it's all very confusing. Um Then they can just but so basically what this guy does is he goes and he will find a murder victim and if he tastes the blood he can tell you what happened and then he investigate it that way
+SPEAKER_R: that's
+SPEAKER_L: and it's compact,
+SPEAKER_R: kind of time,
+SPEAKER_L: right? So um also a prosecutor in Korea is like the person who prosecutes the case but also investigates it. So like it's and
+SPEAKER_R: sounds like a lot of work.
+SPEAKER_L: it was like a lot of work but also it's really, I don't know anyway. I would that's that then it was just a slippery slope from there. And then next thing you know
+SPEAKER_R: I love
+SPEAKER_L: you're watching
+SPEAKER_R: it. I love it so much,
+SPEAKER_L: I love korean intelligence so much and then of course I know I want to go to Korea which now I can't do because
+SPEAKER_R: yep. Of course not. And their food
+SPEAKER_L: My miracle.
+SPEAKER_R: to amazing uh korean barbecue, delicious.
+SPEAKER_L: Oh right. I have
+SPEAKER_R: No,
+SPEAKER_L: we have a place close to the house called bon chon. I don't know if you have they don't you know it's
+SPEAKER_R: I don't,
+SPEAKER_L: franchise but I'm not sure. Um It's a korean fried chicken restaurant. Yeah.
+SPEAKER_R: Yeah, I've seen in the shows that they're fried chicken is kind of big thing.
+SPEAKER_L: literally it's crazy delicious. I know that sounds like I write I watch T. V. A lot and I would I would see them eating chicken and go well that must why is it so delicious? We have I live in the south. I know a project
+SPEAKER_R: fried chicken,
+SPEAKER_L: uh it's like fried chicken. It is not there is actually more delicious,
+SPEAKER_R: wow, I did not know that
+SPEAKER_L: extraordinary. So, so like, you know how if you get like, if you get Kentucky fried chicken and you put it in your fridge the next day, it's kind of gross.
+SPEAKER_R: its board. Yeah,
+SPEAKER_L: Not delicious anymore. Korean fried chicken stays crispy, no matter how long you leave it in the fridge, I don't know, it's magic. I think it's vampires.
+SPEAKER_R: perhaps I
+SPEAKER_L: I mean
+SPEAKER_R: think
+SPEAKER_L: the
+SPEAKER_R: it's
+SPEAKER_L: parts
+SPEAKER_R: about,
+SPEAKER_L: are different, so I don't know. So we'll get, we'll get korean fried chicken every once in a while, just for fun.
+SPEAKER_R: yeah, that's awesome. If there's a place in florida what
+SPEAKER_L: so good.
+SPEAKER_R: good on?
+SPEAKER_L: So good. So then, you know, then there's the danger of, you know when you're watching a korean television show and then you go, oh, hey, they just got some korean fried chicken. Maybe I should pick up the float.
+SPEAKER_R: Oh man, that's dangerous.
+SPEAKER_L: Right, dangerous. Came to play. Oh, it's really good though. It is very
+SPEAKER_R: I like
+SPEAKER_L: good.
+SPEAKER_R: it, jealous. I wish we had a place.
+SPEAKER_L: Yeah, no, and I've lived in places far from korean food and I'm glad not to have to do that anymore. Yeah.
+SPEAKER_R: At least you have that. If you can't live in Korea, have that.
+SPEAKER_L: Yeah. Yeah. Live in Korea. At least you're going to have something, yep. Well it looks like we are at 25 minutes.
+SPEAKER_R: Yeah, we did it. It's been a little pleasure.
+SPEAKER_L: Well what a pleasure as well. I hope you have a wonderful school year. I
+SPEAKER_R: thank
+SPEAKER_L: hope
+SPEAKER_R: you.
+SPEAKER_L: you don't get the coronavirus. You're doing everything right. So my
+SPEAKER_R: they
+SPEAKER_L: love
+SPEAKER_R: say
+SPEAKER_L: from Another Star, you watch it
+SPEAKER_R: I will definitely check it out. Thank you for that.
+SPEAKER_L: really good. It's really good. You'll love it.
+SPEAKER_R: Hopefully
+SPEAKER_L: What to you?
+SPEAKER_R: you
+SPEAKER_L: Why?

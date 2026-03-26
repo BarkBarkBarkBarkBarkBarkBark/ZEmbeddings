@@ -1,0 +1,212 @@
+SPEAKER_L: mhm, mm. Yeah. Yeah. Mm Yeah, I am computer company. Yeah. Yeah. Yeah. Mhm, mm hmm. Yeah. Mhm Right. Uh huh. Mhm, mm Yeah. Yeah. Mhm Hello, cardio.
+SPEAKER_R: I'm good, how are you doing?
+SPEAKER_L: I'm fine. Thank you.
+SPEAKER_R: My name is Blair, what's your name?
+SPEAKER_L: My name is Helen And again, what's your name
+SPEAKER_R: Blair yeah,
+SPEAKER_L: to meet Blair.
+SPEAKER_R: let's meet you Helen. Where are you calling from today?
+SPEAKER_L: I'm calling from the United States from Maryland.
+SPEAKER_R: Maryland. Cool. I used to live in Maryland.
+SPEAKER_L: I live in Maryland three years for um, where are you going from?
+SPEAKER_R: I'm calling from Ohio, in the United States.
+SPEAKER_L: I used to live close to a fire. I used to live for a long time in Missouri and Kansas city. Them I don't work when I sit there have a thing.
+SPEAKER_R: Yeah. Sorry,
+SPEAKER_L: Oh,
+SPEAKER_R: can you repeat that?
+SPEAKER_L: how was your day today?
+SPEAKER_R: Oh my day is good. I've just been working pretty much all day. I'm a grad student at Ohio State University. And so uh we don't we don't get summers off so we work a lot and telecommuting as well.
+SPEAKER_L: What are you studying
+SPEAKER_R: I study psychology
+SPEAKER_L: like?
+SPEAKER_R: actually.
+SPEAKER_L: Oh, it's great. I love us to psychology. I originally from Ukraine, I immigrated to the United States and in Ukraine I was a music teacher and now I
+SPEAKER_R: of
+SPEAKER_L: completely
+SPEAKER_R: course,
+SPEAKER_L: premiere and in Ukraine I also law, I was a teacher in the music college and it was psychology. Music psychology. Okay.
+SPEAKER_R: Music psychology. Really?
+SPEAKER_L: yeah yeah. Hey
+SPEAKER_R: How would what would you study specifically within Music
+SPEAKER_L: you
+SPEAKER_R: psychology?
+SPEAKER_L: know it was like Children's psychology because in there is some uh I mean when the kids go into music school we start in the psychologist, they're learning a village is everything. And also when a musician let's say piano player or violent player uh doing some concert, they vary in their, you know like some people are afraid of sin, so psychology music psychology and help them to be more calm and more creative. Okay, thank you for my accent.
+SPEAKER_R: No, it's ok, I can understand you. Um So what kind of did you teach specific instruments are you just there to help you prepare to perform?
+SPEAKER_L: Actually I I can't play piano but uh in music college I was my major was music syria. It's hard when you self interest California, music history. It was my uh it's what I was teacher but also I was uh I studied, I'm not I was teacher of music psychology, music
+SPEAKER_R: Across.
+SPEAKER_L: really and other but here in the United States and computer program,
+SPEAKER_R: Okay, cool. What what programming languages do you use?
+SPEAKER_L: its mainframe programming, it's uh B B to C C SVS. Andre tell also I test my mainframe application and also I'm working on application which connects several languages like drama and many aim javascript and mainframe, it's okay.
+SPEAKER_R: Cool. Yeah, that's that's more complicated than what I tend to use. I'm more proficient in in javascript
+SPEAKER_L: Ooh.
+SPEAKER_R: and python. So I use those actually use them to both create experiments for participants to, you know, do these psychological tasks as well as to analyze data statistically. So that's actually a lot of what I'm learning right now is how to use these computer programming languages to create experiments online. Because with the coronavirus
+SPEAKER_L: It
+SPEAKER_R: we can no longer collect data in person with people. We have to figure out creative ways to do experiments through the internet. And that's why I started to learn javascript because that allows you to use, you know, the web based platforms.
+SPEAKER_L: mm. Probably it's good to learn also database because when you accumulate a lot of data you need to store it. Yes in some it's a place and about the virus, I agree every single digital now, it's not out your wife, it's
+SPEAKER_R: Yeah, I mean, it's a good time to be a computer programmer. Right,
+SPEAKER_L: Yeah,
+SPEAKER_R: Because you can do everything remotely.
+SPEAKER_L: I'm working from home and my husband working from home too. Mhm.
+SPEAKER_R: And what does your husband do?
+SPEAKER_L: She also mean for a programmer for for different companies? Okay.
+SPEAKER_R: I see. So both of you are mainframe programmers. Nice.
+SPEAKER_L: and from programmers if you like it.
+SPEAKER_R: That's great. Yeah. And so how long have you been in Maryland for?
+SPEAKER_L: in Maryland the actually Alex my husband here longer, he's here for years. He started working here. I was I was living still in new york city then from new york city to Maryland. And now we live here together already three years
+SPEAKER_R: Okay, great. Yeah, I actually used to live in Baltimore before I moved to Ohio I had gone to school in outside of Baltimore college called coucher College. It was a small little college and then I lived and worked in Baltimore for another four years after that. Yeah, I really miss it. I used to I really love love Baltimore.
+SPEAKER_L: I don't know well about him or well, but we live in a small city elkridge, its approximate dragged about him or Yes, so if you like.
+SPEAKER_R: I've been there before
+SPEAKER_L: Yeah. Nice blaze. Yes. And before we lived in Kansas city for a long time, also worked as programmers and before we lived in new york city um It's all
+SPEAKER_R: See
+SPEAKER_L: about
+SPEAKER_R: if you got to see a whole bunch of the United States then.
+SPEAKER_L: yeah, yeah. Yes and sometimes we visited florida on Vicki seems to be like you love at the United States it's like it's like our homeland bombshells er
+SPEAKER_R: yeah my my grandparents actually live in florida. Um Yeah and um in Sarasota, if you've ever heard of that, somebody in the west Coast. Really nice. Uh
+SPEAKER_L: Yeah.
+SPEAKER_R: they have white powdery beaches there I really enjoy.
+SPEAKER_L: Yeah, I don't like floated. Yes and we like new york also because lot of entertaining options, a lot of places where you can stay it spend your spare time. Sevilla actually my relatives lives in new york so the visiting often and be used to live in new york system.
+SPEAKER_R: Yeah, I like new york city as well, I've mostly
+SPEAKER_L: Thank
+SPEAKER_R: like
+SPEAKER_L: you.
+SPEAKER_R: the food that's my favorite part is eating all the interesting cuisines, anyone from pizza to chinese hot pot, you can get everything there is
+SPEAKER_L: I
+SPEAKER_R: great.
+SPEAKER_L: love it. My favorite is limp club in Manhattan lamp club. It's so beautiful. It's a vicious, nice place, nice atmosphere and very delicious. And I love Times Square. I love here, I love good the course. It's like you, I'm feeling like I am in the middle of the role. Yeah,
+SPEAKER_R: you definitely feel that way. So I get very overwhelmed by everything that's going on. You know the advertisements, the there's so many people, there's people dressed up in weird costumes, it's like it's like, I don't know what to pay attention to because everything is happening so quickly.
+SPEAKER_L: Yeah, it's nice and I love it. I miss it and
+SPEAKER_R: because like it's gonna be a while before we can go see that again,
+SPEAKER_L: yeah, yeah, it's too crowd Yeah. What movies do you like?
+SPEAKER_R: what movies do I like? I like are movies actually I really enjoy scary movies that
+SPEAKER_L: Ooh.
+SPEAKER_R: I creeped me out and like our weird actually just saw
+SPEAKER_L: Hm
+SPEAKER_R: kind of a horror movie the other night called mid Somar and that was really cool. It was about a bunch of people that go to Sweden and go meet a cult of crazy people. It's pretty exciting. What kind of movies do you enjoy?
+SPEAKER_L: I like different shoes. My favorite shows is our homeland. I love and billion successions. I like you fracture. It's like
+SPEAKER_R: Well
+SPEAKER_L: fracture fracture.
+SPEAKER_R: mhm. Okay fracture. Yeah
+SPEAKER_L: Yeah, I like it. And but my favorite show, billions succession in homeland. I'm
+SPEAKER_R: I've only seen the last episode to Homeland. I was visiting my parents when that when the season finale happened in the series finale happened as I watched that one episode it's like a funny episode to see the last stuff because it culminates everything but it seemed very tense like the whole time I was just like what's going to happen next? It's very
+SPEAKER_L: My
+SPEAKER_R: exciting.
+SPEAKER_L: opinion. First part of the 1st 12 or three season, brilliant upcoming season. Nice. Always exciting. But not as nice as for true season. I actually live like Damien livia. Damien lettuce. He plays in this movie. So it's my favorite are sure season interesting but not you're not.
+SPEAKER_R: Yeah I mean watching the c. Series finale made me really want to watch the first serious seasons so they it seems like a very interesting and good but I feel like there's so many different tv shows to watch that it's hard to choose exactly
+SPEAKER_L: Yeah.
+SPEAKER_R: which ones like me and my girlfriend have like five tv shows were watching at the same time. We go then we start a new T. V. Show and then we can't go back to the old one and we forget what was happening. So it's very it's very overwhelming sometimes but I also really like secession. I think that shows great and really clever. Yes.
+SPEAKER_L: Yeah,
+SPEAKER_R: A session.
+SPEAKER_L: I like it. Yeah.
+SPEAKER_R: Yeah everyone seems so awful. All the people it seems so so such terrible
+SPEAKER_L: Good.
+SPEAKER_R: people but it's really fun to see what they get themselves into.
+SPEAKER_L: I like the conversation there. If you study in psychology, it's probably very interesting to watch this show because it's so many different psychological situation. It's analogies. It's just sometimes unbelievable.
+SPEAKER_R: Yeah they're all scheming against each other trying to get a leg up. It's pretty interesting. Um The kind of psychology I study is less about social interaction and more about the decision process like how we turn information into like a uh into something that goes then gets translated into our brains. So it's like our brain is like the hardware, it's like the mainframe and what I study is like the, the program that goes from like the server to to like the screen, if that analogy was helpful, I don't know.
+SPEAKER_L: Yeah, psychology is very interesting. I like it. It's a, I like movies which are psychological, let's say billions. It's brilliant movie related to personalities relations. I think it's very psychological movie succession. Yes, it's what else? I don't know. But okay. What is most A visa in Ohio?
+SPEAKER_R: the weather right now, it's fairly cloudy, unfortunately cloudy but warm, it's very humid outside. Uh I imagine the weather is pretty similar in Maryland, correct.
+SPEAKER_L: Yes, a little bit cloud, but it's really warm, Warm. Yeah, it's warm, nice weather. I actually, I like cold weather move.
+SPEAKER_R: You like cold weather more? Was the weather colder in Ukraine than here?
+SPEAKER_L: much cool that it's extremely cold and all often rain really ranges. So and I like when I'm cold it's for me it's, you know, it's but atmosphere. But we live in Maryland but can.
+SPEAKER_R: Where it's warm and muggy a lot? Yes.
+SPEAKER_L: but
+SPEAKER_R: So
+SPEAKER_L: it's nice for them. Uh
+SPEAKER_R: yeah, where in Ukraine, did you grow up?
+SPEAKER_L: I grew up, it's small city minutes skin, unpronounceable small city. But it's nice play. And I immigrated to the United States in 1996. So I, you know, one for a long time or is it and all my family?
+SPEAKER_R: All your family is still in Ukraine?
+SPEAKER_L: No, all my family, I live in Maryland with my husband and my mother and my sister and my niece lives in new york. So what? Yeah.
+SPEAKER_R: Yeah, I think I have some family from
+SPEAKER_L: Talk
+SPEAKER_R: Dubrovnik,
+SPEAKER_L: Dubrovnik. It's, it's Yugoslavia or found
+SPEAKER_R: Oh, that's Yugoslavia. My mistake.
+SPEAKER_L: what you did to
+SPEAKER_R: I'm
+SPEAKER_L: me.
+SPEAKER_R: sorry.
+SPEAKER_L: It's okay. But it's a one of, I mean it's not Ukraine and definitely Dubrovnik, maybe it's some small city, but it seems to me that that Yugoslavia,
+SPEAKER_R: Mm Yeah, maybe I'm wrong. Maybe it was somewhere else. I was told that a family somewhere in the Ukraine, but I'm not sure where.
+SPEAKER_L: you have, you have some family Ukraine. Yeah.
+SPEAKER_R: Yeah, maybe, maybe I was wrong about the name of that city because you're right. Dubrovnik is like in Croatia, isn't it?
+SPEAKER_L: Yeah. It seems,
+SPEAKER_R: You
+SPEAKER_L: I'm not
+SPEAKER_R: can stop him.
+SPEAKER_L: not to Ukraine. I don't remember like big cities like in Ukraine. Like he will walk hard cuff uh hotels and I know we need uh but
+SPEAKER_R: I'll have to ask my mom when I talked to her next where it is, But that was that was like and I think my great great grandparents emigrated in the early 1900s from the Ukraine from Ukraine.
+SPEAKER_L: Oh, great. Yeah. Mhm. Yes.
+SPEAKER_R: So so what else? How did how did you get involved with? Prolific?
+SPEAKER_L: You know, I started, I like surveys and I started to take surveys approximately a year ago and I enjoy doing this. I like this and you know, I like different topic, especially connected to movies or psychological topics. Everything is interesting. Especially now we have now is a situation where everything has changed because of this. We are staying warm and I would do sometimes it's not available. We're trying to be careful. So mm I have a time to do some survey and I like it. You know, it's and growth english.
+SPEAKER_R: Mhm. Yeah. It's definitely helpful. Also imagine doing the conversation part is helpful to hearing and speaking. Um Yeah, that's cool. I agree. Like things are very different and changing and it feels like most of the studies I take on prolific are asking me about how I feel about how things are changing. Um Actually, I originally start doing this because I want to start putting surveys on here. And so I wanted to see what it was like to do it as a participant before I make other people do it. So it's been very educational for me. So I see like what things work, what things are easy to do, what things are a little more difficult and less uh understandable for the average person.
+SPEAKER_L: Yeah. I think for you it's for your profession is very helpful. Yeah. Yeah.
+SPEAKER_R: Yeah, and like you said, there's many people that have more free time, so more people are going to do it, especially when you can get a little payment, because some people are having a hard time with money right now.
+SPEAKER_L: Yeah. It's very helpful. Yeah. Okay. You you mentioned you have your your friend and which sudden?
+SPEAKER_R: she also studies psychology actually, she's uh she does clinical psychology though, so she sees patients and helps them with mental illness and you know, life stuff like that. So her work is more useful than mine because she is actually helping people directly, where I'm just studying them from behind a screen.
+SPEAKER_L: I think it is very good when you both are related to the same profession. Let's say for us the both our programmer is the same programs. I mean the same programming languages like mainstream. It's helpful for us in our relationship because we can discuss it discussed different situation. It's some kind of bonds between us. Some kind of fun because bonds different psychological bonds. But this is one of them.
+SPEAKER_R: Yeah no I mean I think that's definitely been very helpful because we both know what the other person is going through, not just working through issues with like uh psychology, but you know being a grad student it's hard so we can support each other and we both work long hours so we both understand when we need to get a paper done or uh make sure our advisors happy with us with a progress report or something, so it's it's very it's very nice. Um and you know when one of us has a question another one can hopefully answer it or at least provide some insights, so.
+SPEAKER_L: you can also discuss with each other. Different situations will be helpful for each of you. I think it's good. It's great because sometimes be mighty 26 years and yes, in addition to personal relationship, it's good to have in other kind of professional connection or bonds or with discussions. So I think it is good. Yeah. Mhm.
+SPEAKER_R: Right. Yeah because if you have an idea that you're not sure about, you can ask them to challenge it or make it better
+SPEAKER_L: We'll discuss, express your opinion. Ask him about something because sometimes it's good to see something from another point of view.
+SPEAKER_R: definitely. Yeah you can get kind of stuck in your own perspective and you need someone else to come in. Just like no you're making a bad assumption right there or when you have a problem with your code, they can debug it for you, that's the best.
+SPEAKER_L: helping each other. Yes. Yes. Especially during design they stand it's helpful to help each other. Yeah. Okay.
+SPEAKER_R: So what else? How's how's the uh how are things like in Elkridge with the virus? Are people is there a lot of people getting it or is it relatively calm?
+SPEAKER_L: I still in my country, it seems to me like around 2000 cases or maybe cases for this, I'm not sure because but it's not very bad, it's not bad. But I see that we live in Howard country and I see that all our neighbors teaching in the houses and it's quite sometimes feels that I don't know um somewhere in the middle of something because it's quite the staying home. We ordering our food online. Uh If you like Costco and Costco delivery in our groceries, their prices are great and the food selection great. So we order in every single line is a delivery in amazon another choice. So we still both programming. We can work from home from home now in our state home um or they're still here, so it's still actually.
+SPEAKER_R: Yeah. Do you ever go out for walks or anything to get just get out of the house?
+SPEAKER_L: No. You stay in home video. Uh He betrayed me at house a lot. But inside inside I would like to go out to walk but my husband's very careful. We tend to take home,
+SPEAKER_R: Yeah, that's that's smart. I we go out a little bit because we have a dog so we need to walk the dog and make sure she gets exercise, otherwise she gets a little grumpy. So we don't we don't do too much. I mean there's a park near our house that will walk to and then walk back but we're careful. We avoid other people wear masks when we can.
+SPEAKER_L: Yeah. It will be also very careful when we we are not going out. But let's say sometimes to pick up mail or something, we have to go out. So we're trying to be careful. Very careful. It's
+SPEAKER_R: Do you live in a house or like in an apartment?
+SPEAKER_L: you're living in the house in the calculation small c term here, it's close to Washington and it's close to Belgium um Nice. Really nice. I like it. Uh
+SPEAKER_R: That's not
+SPEAKER_L: What state is cheating on like? Ohio
+SPEAKER_R: so I live in columbus which is the capital of Ohio
+SPEAKER_L: Oh it's good. Yeah.
+SPEAKER_R: yeah but we're not downtown, we live kind of in a more suburban
+SPEAKER_L: A suburban here.
+SPEAKER_R: part of the city so it's pretty spread out, it's very common here too. It does seem like most people are staying indoors and not really going anywhere but we we actually still go out for groceries to get them ourselves. Um because it's not too bad over here a number of cases and what we wear masks, you know? Um But otherwise we haven't really gone to many places except for parks. Um Occasionally go on bike rides though because it seems like you can't really catch it outside, it's very rare so we felt pretty safe going by people.
+SPEAKER_L: You have to wear a mosque. You have to wear goes everything should be careful now.
+SPEAKER_R: Yeah, we're trying to be careful. Um
+SPEAKER_L: Yeah, I think it's good. I'm sure it's a little over soon, but for now they have to work out.
+SPEAKER_R: Yeah, I hope it's over soon. I mean what's interesting is like what's going to happen to the university whether or not they're going to have in person classes for students in the fall.
+SPEAKER_L: No.
+SPEAKER_R: There's a lot of talk about canceling those in person classes and going to online only.
+SPEAKER_L: Mhm. But it's not very good substitution. Yes, important. Mm.
+SPEAKER_R: I was a teaching assistant in the spring semester and we switched to online halfway through the semester and people's grades dropped by a lot after the switch. It seems like, you know, people were having trouble accessing the material online or they were just less motivated because they were no longer in person, but there are a lot more people started failing the course uh once we switched.
+SPEAKER_L: Yeah, I know. Especially for psychologist that's very important in the personal communication yet person because it's all. Yeah.
+SPEAKER_R: Yeah. You need to see the person's face, look at them in the eye, see them smile goes a long way,
+SPEAKER_L: Yeah. What kind of food do you like?
+SPEAKER_R: kind of food. I like all food. I can't it's hard for me to pick with food. I'm know, I'm mostly I cook a lot, so I try to cook vegetarian for me and my girlfriend. Um So a lot of tofu dishes, I started making some of my own uh state um It's called it's like a wheat gluten. Uh That's scared. Um I make a lot of oatmeal for breakfast and make some soups. How about how about yourself,
+SPEAKER_L: Yes, I like cooking and I like health style and my favorite tool is a pressure cooker. Yes.
+SPEAKER_R: pressure cooking? I hear that's really cool.
+SPEAKER_L: You mentioned soup, I like to cook soup and pressure cooker. You know you can put uh it's healthier. Especially you also most vegetarian you're trying to avoid me but sometimes you can need it but not not often. So I like fresh soups. I like to put peanut, another herbs and tomatoes, everything then press a cook and then using I mean hand blender, you could cream in it. It's really healthy and I like it into like different trails also like go out and eat sushi and back resumption. That's not
+SPEAKER_R: I
+SPEAKER_L: it's
+SPEAKER_R: can't
+SPEAKER_L: good
+SPEAKER_R: remember
+SPEAKER_L: enough.
+SPEAKER_R: the last time I had barbecue and sushi.
+SPEAKER_L: Yeah, it's not an option now. It's unfortunately I have to cook everything home. Yeah.
+SPEAKER_R: Yeah, we do a lot of cooking, but occasionally we order out like the things we can't cook, like some indian food we've ordered out. And I think chipotle, we've also gotten order
+SPEAKER_L: And.
+SPEAKER_R: out, you know,
+SPEAKER_L: Like very healthy beet salad. You know it's it's it's super food. It's really
+SPEAKER_R: I love beets. All
+SPEAKER_L: and what I'm doing I'm um pressure cook these beds. Then I clean skin, remove skin and then I uh uh how to blend it in in blender wonder. And then at uh garlic or my anus you can add something girls like a little bit nuts and it's delicious sellout. I like this. Easy
+SPEAKER_R: That sounds
+SPEAKER_L: to do know
+SPEAKER_R: good.
+SPEAKER_L: and delicious.
+SPEAKER_R: Yeah. I mostly just roast my beats. So that way the sugars caramelize and they're nice and sweet. They were like and then I put me I'll put that in a salad with feta cheese, a little bit of shallots. Uh Some onion. Yeah, that's really good.
+SPEAKER_L: I also like wages different salads. It's my favorite. Yes. Simple cell is that you take fresh charas and blended and at garlic and blend the cheese or shredded cheese and at minus is very delicious Like five minutes to cook and the night.
+SPEAKER_R: Yeah, they're probably good with like some pita to dip it in some like flatbread. Be very nice.
+SPEAKER_L: Read in those years.
+SPEAKER_R: that sounds good. Now I'm now I'm getting hungry. It's only it's only 4:33. I need I need to wait another two hours for dinner. Yes. Maybe I'll eat a snack. Yeah. Okay. Well, it looks like we've hit 25 minutes
+SPEAKER_L: Yeah. Yeah. Yeah. Yeah. Yeah.
+SPEAKER_R: so we did good. So it was really nice talking to you Helen. Right.
+SPEAKER_L: Yes. Yes. Very nice talking to you too.
+SPEAKER_R: Yes. Well stay safe out there and enjoy the prolific studies
+SPEAKER_L: You
+SPEAKER_R: that come out.
+SPEAKER_L: do stay safe. Okay. But
+SPEAKER_R: All right. Bye bye.

@@ -1,0 +1,347 @@
+SPEAKER_L: you're right. Yeah. Yeah. Mhm. You need to do this work for what? Can't wait. Yeah.
+SPEAKER_R: but uh
+SPEAKER_L: Hi, Hey, how is, how's it going? Doing
+SPEAKER_R: I'm going to tell you.
+SPEAKER_L: good. Yeah.
+SPEAKER_R: Okay.
+SPEAKER_L: Yeah. So is this your first
+SPEAKER_R: No,
+SPEAKER_L: time doing this call
+SPEAKER_R: I think this is like my fourth at this point.
+SPEAKER_L: for time? Okay. Yeah, same. I feel like every call has been different. But um, yeah, I guess what I'm not. Are you in the U. S. Or any other?
+SPEAKER_R: I'm in the U. S. Uh north Alabama.
+SPEAKER_L: Oh no, it's okay. Wow. I think you're the
+SPEAKER_R: We
+SPEAKER_L: first
+SPEAKER_R: were.
+SPEAKER_L: person
+SPEAKER_R: It's
+SPEAKER_L: I
+SPEAKER_R: restrained
+SPEAKER_L: talked
+SPEAKER_R: expression
+SPEAKER_L: to
+SPEAKER_R: on.
+SPEAKER_L: on prolific who's from the south. Yeah. Yeah. Okay.
+SPEAKER_R: Don't you worry about what about you?
+SPEAKER_L: California. Northern
+SPEAKER_R: Got
+SPEAKER_L: California, So, yeah.
+SPEAKER_R: you Your real far away. Okay.
+SPEAKER_L: Really far. Yeah. No, it's, yeah, pretty far. Um, yeah. How are things going in Alabama or in general? I've never really been too much of the south. Uh,
+SPEAKER_R: You're not missing too much. I can tell you that. Um It's been all right. The state itself is in shambles, but we're still going.
+SPEAKER_L: I trudging along. Yeah. I think the further south I've found as texas and even then that was in Austin. So it wasn't um, it wasn't like
+SPEAKER_R: Thanks.
+SPEAKER_L: too much more aside from that.
+SPEAKER_R: Uh huh. Can't you see, I think the furthest towards you I've been as austin as well, so
+SPEAKER_L: really? Okay. Nice. Yeah. Do you like, I mean have plans or like
+SPEAKER_R: Most
+SPEAKER_L: eventually
+SPEAKER_R: recent
+SPEAKER_L: after
+SPEAKER_R: election.
+SPEAKER_L: covid right on visiting California or any parts of the west coast?
+SPEAKER_R: Um I guess probably after college, wherever my job will take me. Um After after covid though. Honestly, I just want to have a nice relaxing time just with friends, I guess.
+SPEAKER_L: Yeah. Nice. Uh Okay. So what are you attending college in Alabama? Okay. It's nice. What do you study here? Okay,
+SPEAKER_R: Computer science.
+SPEAKER_L: cool. It's awesome.
+SPEAKER_R: Currently a freshman. So I think
+SPEAKER_L: Low.
+SPEAKER_R: this.
+SPEAKER_L: So, so that's, this means like you're doing distance learning and everything or? Okay.
+SPEAKER_R: Mhm. I've got one class that's in person and the rest of them and pretty much just online only. Okay,
+SPEAKER_L: Is it like, I guess how do you find
+SPEAKER_R: thank
+SPEAKER_L: that? Because I don't, I think right now, I don't really know that money. I know people who are like in
+SPEAKER_R: you.
+SPEAKER_L: grade school but not in cult like an undergrad, so I'm not sure that experience is completely different now.
+SPEAKER_R: Yeah, well I mean uh the campus and city itself are pretty much empty most of the days. Um Except
+SPEAKER_L: Mhm.
+SPEAKER_R: during like lunchtime and stuff. But the classes themselves, they're not they're not too bad, but it's definitely not the same interaction with the teachers that you would normally get, I'm sure.
+SPEAKER_L: Yeah. Yeah. That's interesting. Yeah. I can't really imagine how college would feel like a distance learning. Um I feel like when I was in college, there were times when I wanted there to be a distance learning, but now I think about it like having that interaction is really nice. So yeah. Mm
+SPEAKER_R: Yeah, I think that the uh the distance learning has helped a little bit with like some classes maybe, but some of the teachers just aren't, they're not they weren't ready for it, they just have no idea how to how to cooperate with the uh you know, electronics and the internet and stuff. They they're just clueless
+SPEAKER_L: I've
+SPEAKER_R: to
+SPEAKER_L: heard,
+SPEAKER_R: me.
+SPEAKER_L: yeah. I've heard that like a lot of teachers
+SPEAKER_R: His.
+SPEAKER_L: um have been struggling with that. Like I think a few of my friends or parents are elementary school teacher so probably like definitely a little different. But they said like the biggest struggle is getting everyone on the technology and you know how to use. Um And then um
+SPEAKER_R: I can just. Mhm.
+SPEAKER_L: it's been it's difficult. So yeah. I don't know. Yeah. I feel like I was just gonna say like I feel like working in tech like we're so used to, you know, like using zoom or using like slack or other kinds of communication. But I'm like, I feel like sometimes like this tech bubble is so real because I forget that so many people don't really use zoom or like other tools on a day to day basis. And yeah, Like Yeah.
+SPEAKER_R: I definitely feel that um sometimes you just get so caught up in like using technology or like yeah people, some people just don't know about it.
+SPEAKER_L: Yeah. Yeah, it's pretty intense. But I feel like even my grandparents don't know how to like these things, like, like zoom and like facetime and whatnot. So it's kind of hard to tell them how to do it because they're like, they revert back to like, they're like standard methods and it's like, no, like you need to do this and
+SPEAKER_R: conditions.
+SPEAKER_L: do this. Um Yeah, so it's been, it's been interesting, but yeah,
+SPEAKER_R: Mhm.
+SPEAKER_L: I mean
+SPEAKER_R: It is not.
+SPEAKER_L: how there's like a ton of software engineer, Well, I'm sure, you know, like a ton of software engineer jobs, like out here in California and in the west Coast in general, I think. Yeah.
+SPEAKER_R: Um
+SPEAKER_L: Yeah.
+SPEAKER_R: So I guess what do you do any free time and stuff?
+SPEAKER_L: I'm sorry. I just noticed you have a roommate in the background. Okay.
+SPEAKER_R: He was actually just, yeah.
+SPEAKER_L: Okay. Because I couldn't tell like she was like, oh, there's a blank screen and then I was like, okay.
+SPEAKER_R: What she's noticed that a roommate he just got back and sat down. Yeah.
+SPEAKER_L: Yeah, I mean I guess like, well I work in tech and actually, you know, it's interesting Part of my job
+SPEAKER_R: if
+SPEAKER_L: actually,
+SPEAKER_R: you
+SPEAKER_L: 90% of my job is working with engineers, so I don't know if you've heard of user experience design at all or much of it. Okay. Yeah, I guess mostly like working with engineers and getting the designs into development. So right, whatever you see in the Ui is kind of that process we're working on. Um Yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: worked pretty much been in California my entire life, so I feel like the tech level is pretty real, especially in Silicon Valley. Um
+SPEAKER_R: Mhm.
+SPEAKER_L: Yes, that's kind of what I do
+SPEAKER_R: What's
+SPEAKER_L: on a day to
+SPEAKER_R: this?
+SPEAKER_L: day basis and hopefully once Covid is over, be nice to kind of like explore more parts. Like
+SPEAKER_R: I don't
+SPEAKER_L: my
+SPEAKER_R: know.
+SPEAKER_L: friends and I had been planning on going to new Orleans but that probably is not going to happen any time soon, so Yeah.
+SPEAKER_R: yeah. Mhm. Uh we've got a couple of our friends from back home hoping to uh probably go to Japan or some way of once Kobe is done and once we're out of college
+SPEAKER_L: that's pretty fun. Yeah. No Japan's um
+SPEAKER_R: network.
+SPEAKER_L: it's a nice place to go. I think, I think the biggest thing I realized that when I was in Japan was like there's no trash cans but everywhere, so clean, like there's no litter and I was like, what does everyone do with their trash? I guess they just stuff it in their bags until they get home or find a trash can somewhere else. Um That I'm sure you act your pants a pretty cool place to go. So hopefully by then cope it's over and you guys can
+SPEAKER_R: And
+SPEAKER_L: go on a trip or something.
+SPEAKER_R: hopefully by then. Yeah, I sure hope so. Thank you. Uh
+SPEAKER_L: Yeah.
+SPEAKER_R: So are you, have you been in northern California your whole life? Did you move there for work?
+SPEAKER_L: Yeah, pretty much my entire life. Um Company I'm with right now, they're actually based in Cleveland. Ohio. so I think at some point I have to get out to Cleveland, which I'm sure is like completely different, like my coworkers tell me every day like oh it's so different here in California, I'm like yes, I'm sure it is very different, so um that's kind of something
+SPEAKER_R: You
+SPEAKER_L: to be
+SPEAKER_R: have to.
+SPEAKER_L: excited about, you know a lot of people are like why would you want to move to? Ohio, but I don't really see an
+SPEAKER_R: They
+SPEAKER_L: appeal
+SPEAKER_R: are
+SPEAKER_L: and
+SPEAKER_R: looking
+SPEAKER_L: like
+SPEAKER_R: for
+SPEAKER_L: going to a big city like new york or
+SPEAKER_R: water.
+SPEAKER_L: Chicago or something, so yeah, is there like anywhere that like, I mean I know you're still right like college and you have a few years uh
+SPEAKER_R: The
+SPEAKER_L: is
+SPEAKER_R: woman.
+SPEAKER_L: there like anywhere that you're really looking to go or you're pretty much open to wherever
+SPEAKER_R: I'd
+SPEAKER_L: and
+SPEAKER_R: say I'm pretty much open to anywhere. Uh Hopefully someplace I can afford a place but uh
+SPEAKER_L: Yeah, I mean are you like still open to staying in um Alabama, I'm not sure what the job prospects are like. Mhm
+SPEAKER_R: Um There I mean I imagine that there's some companies but that probably doesn't even compare to like the bigger cities. Um Yeah I'm not entirely too sure.
+SPEAKER_L: Yeah I mean but cost of the cost of living in Alabama is pretty decent
+SPEAKER_R: Very careful
+SPEAKER_L: right? For the,
+SPEAKER_R: means.
+SPEAKER_L: it was for like a lot cheaper than, well I guess in the west coast. Yeah.
+SPEAKER_R: definitely.
+SPEAKER_L: Yeah, that's nice. Yeah I would say the one thing like I wouldn't miss about California is the cost of living here, it's so expensive and gas is expensive and I was telling my coworkers like the average cost for like a house would be like at least here in my areas like 404 150,000 and they were all like to think that in Ohio could
+SPEAKER_R: Get
+SPEAKER_L: you could get like a
+SPEAKER_R: out.
+SPEAKER_L: really really nice house for that price or even like close to a mansion, it was like here you have to have a million dollars to get a mention so it's just pretty mind
+SPEAKER_R: It's
+SPEAKER_L: blowing to me. Um That costs and living, you know? Okay
+SPEAKER_R: I don't I don't really know how much a whole house would cost down here. Uh So do you said like how much is gas up there?
+SPEAKER_L: right now uh in sacramento it is um what is? I just got gas? It's three around 3 to 3 15 but in the very like san Francisco it's like 3 50. Um
+SPEAKER_R: Now um
+SPEAKER_L: much is it in a lot cheaper?
+SPEAKER_R: I want to say it was definitely in the $2 range. Let's see gas
+SPEAKER_L: that'd be nice
+SPEAKER_R: station. Uh I've got a couple that are like 1 90
+SPEAKER_L: to
+SPEAKER_R: up to like 2
+SPEAKER_L: get
+SPEAKER_R: 30.
+SPEAKER_L: one idea. That's so, that's so nice. Okay. I guess like um so do you live in a one? Yeah of course you live in a college town right. Is it, would you say it's more lively than other parts of Alabama were like it depends.
+SPEAKER_R: so I'm in Birmingham, which was essentially just a town that a college took over, like every corner of just an entire huge section of the city is just a college. Um So I guess that uh well I've only ever been up here really daring, covid, so I'm not sure how it normally compares, but I'm from a small town down south Alabama mobile. Uh and it's uh downtown is kind of busy, but the exact area where I'm from is uh it's definitely probably a lot less people.
+SPEAKER_L: Okay. It's interesting. What would you recommend like when Ray like when covid is over? Like for people to really like, I don't
+SPEAKER_R: She.
+SPEAKER_L: know like I don't want to say explore because I can find that on google. But it's like what is one thing maybe about
+SPEAKER_R: Okay. Thank you.
+SPEAKER_L: Alabama that I could not easily
+SPEAKER_R: Anything.
+SPEAKER_L: find a google. Like just like the fact or something like weird or funny or just Yeah. Okay.
+SPEAKER_R: I've been wondering the same thing all my life.
+SPEAKER_L: That's your answer is pretty like clearance. Okay, interesting. Um
+SPEAKER_R: Um
+SPEAKER_L: okay.
+SPEAKER_R: I guess the thing is like uh the google will tell you like the uh the USs Alabama battleship, but I mean I've been there before and like for Condi which is like an old military fort, but I've been there before, so I'm kind of like numb to all of these different things that are already in my area because I've seen it and I've experienced it. Uh but yeah, I mean I'm sure there's there's some cool stuff, there's like uh areas to go caving in and uh things differ all throughout Alabama. Usually up North Huntsville and Birmingham are two of the bigger cities. Huntsville has like a whole Nasa center and stuff um
+SPEAKER_L: Movie.
+SPEAKER_R: And and then tuscaloosa and auburn, around uh Montgomery in the middle of the state. Uh Probably some, you can find some civil rights stuff in Montgomery. Um No, they're just big historic things and in south Alabama is like you've got the beach and some other things I guess.
+SPEAKER_L: I didn't know about the beach part actually like that surprised me. I think that his everything about the historical monuments and sites. You mentioned like we we learned a lot about in history and I think caring about what I'm surprised about the beach. Yeah. Okay.
+SPEAKER_R: uh
+SPEAKER_L: Yeah,
+SPEAKER_R: the gulf of the gulf is like a big selling point of Alabama. Uh
+SPEAKER_L: that
+SPEAKER_R: maybe
+SPEAKER_L: makes
+SPEAKER_R: not as much since VP oil spill, but people still go out there all the time.
+SPEAKER_L: Right. Okay. I'm gonna like I need to get I feel like I need to get better acquainted with like that geography of the south because like this is random. But when I was a lot of my coworkers, they went to um, some university in Missouri I think what was it called ST louis right? Or in ST louis and I didn't realize how close ST louis was to Ohio and I don't know I just feel like I need to better record
+SPEAKER_R: that's
+SPEAKER_L: myself
+SPEAKER_R: great,
+SPEAKER_L: like geography too. Oh
+SPEAKER_R: actually,
+SPEAKER_L: I see okay. I see the gulf now and I see. Okay I think I see that. The town you said your film. Okay. It's pretty cool. Yeah. You're really okay. I guess you're not too far from Atlanta right on the based on the map. Have
+SPEAKER_R: yeah, not not incredibly too far.
+SPEAKER_L: you been to Atlanta?
+SPEAKER_R: Um I actually don't know if I did, it would have been when I was a lot younger, but um I don't think I've been to like the heart of Atlanta, I might have been somewhere near, let's see where is um Stone Wells? Okay, Yeah, I would have been, I would have gone through Atlanta to go to Stone Mountain.
+SPEAKER_L: Oh is that also in Georgia stand that? Okay, interesting wow. It's cool. Yeah I guess there's. Okay. Did you do probably a little bit more traveling out there? Yeah. What what I guess interested you and like uh to choose like computer science as your major
+SPEAKER_R: mhm. Uh I've been in so computers and games and stuff ever since I was a small kid, so I felt it was pretty natural
+SPEAKER_L: um What kinds of things? Yeah.
+SPEAKER_R: really anything um I grew up with a lot of first person shooters, but um now I'll hop into uh really, anything
+SPEAKER_L: Yeah.
+SPEAKER_R: on my councils have been playing a lot of party games with friends online as of now and data, yeah, I guess I enjoy some platformers, I'm still kind of in the first person shooters, I'll hop into an RPG sometimes, it really just depends on the day I guess, and how much time have
+SPEAKER_L: it's interesting
+SPEAKER_R: you?
+SPEAKER_L: I think the engineers at my company, they have like them, what is it, a dungeons and dragons thing going on? I don't know if you played already get heard of that but pretty popular among engineers that are too, but yeah I have not heard of it but I haven't really played too many games but yeah. Okay
+SPEAKER_R: I've done it a few times, uh the uh Leader dungeon master that I had was uh not the greatest, so it wasn't too great of an experience, but I had uh one section, that was pretty good I'd say, but I've only done it like maybe 23 times, really?
+SPEAKER_L: so does the dungeon master like they kind of dictate how, because I haven't played, I'm not sure but do they really dictate how the entire experience go to? Okay.
+SPEAKER_R: so they're the one that kind of like creates the world and tells the story and set you up with all the encounters and stuff.
+SPEAKER_L: that's kind of cool. Okay I see. So like would you say like obviously like certain maybe certain people are more inclined to be better like dungeon masters
+SPEAKER_R: definitely.
+SPEAKER_L: and. Okay I see. So do you think based on this like whatever assessment like you would like to be an engine master or not as much?
+SPEAKER_R: Okay I think that I would probably better off not being uh it's a lot of storytelling and uh
+SPEAKER_L: I see.
+SPEAKER_R: coming up with uh like on the spot things and I'm just I would have to spend a lot of time just making sure everything's right.
+SPEAKER_L: Got it. So there is a danger master and there's like everyone else who just play those players in this game. Okay. And then is the point of the game, you're just going through these encounters together and
+SPEAKER_R: different
+SPEAKER_L: working towards like
+SPEAKER_R: pretty
+SPEAKER_L: a greater goal or something?
+SPEAKER_R: much. Um Then of course depends on you know the story that's being told. Um Sometimes you know it's to get an ancient relic or something or maybe it's just you know kill a leader, you can really do anything with it. Yeah.
+SPEAKER_L: sounds kind of cool, like I know there's some people are talking about it and I feel like hearing about the danger master think it sounds intriguing,
+SPEAKER_R: I want
+SPEAKER_L: but
+SPEAKER_R: to
+SPEAKER_L: I
+SPEAKER_R: be
+SPEAKER_L: also,
+SPEAKER_R: with someone.
+SPEAKER_L: I don't know if I would like to be the dungeon master either because I feel like it's a lot of responsibility, right? Like making sure the game goes
+SPEAKER_R: definitely.
+SPEAKER_L: well. Yeah. Okay, interesting.
+SPEAKER_R: What about yeah
+SPEAKER_L: Yeah. Is there like what else do you like enjoy doing when you know you're not like
+SPEAKER_R: the plan.
+SPEAKER_L: doing distance learning or playing games?
+SPEAKER_R: Um Honestly if I'm not like doing like in a class of writing up a paper uh then I'll be just talking with friends on discord or playing games and if I'm not doing that I'm probably just watching Youtube or asleep.
+SPEAKER_L: So it's pretty nice. Yeah, lot of what do you watch on Youtube? So I feel like I'm asking you like a big questions.
+SPEAKER_R: that's fine. Um I've got a few different like sub sets I guess. Um I watch a guy play a lot of puzzle games among us has been huge, so I've been watching some of that um sketches
+SPEAKER_L: Oh cool. Yeah. Well that's pretty cool. Okay.
+SPEAKER_R: with
+SPEAKER_L: I actually
+SPEAKER_R: me.
+SPEAKER_L: didn't know about the watching people play puzzle. Didn't puzzle. That's pretty cool. Okay, do you like
+SPEAKER_R: It's
+SPEAKER_L: go ahead?
+SPEAKER_R: not a not like physical jigsaw puzzles, there are like video games that are just yeah,
+SPEAKER_L: okay. I wasn't actually
+SPEAKER_R: I don't I
+SPEAKER_L: physical.
+SPEAKER_R: don't really know how to explain it. Mhm.
+SPEAKER_L: because I guess I was going to leave me to my next question, which is like, do you enjoy like putting together puzzles? But I guess since you that was
+SPEAKER_R: I
+SPEAKER_L: kind
+SPEAKER_R: do
+SPEAKER_L: of
+SPEAKER_R: though, I definitely do. Yeah.
+SPEAKER_L: trying to think like do you enjoy playing digital puzzle puzzles or just you like the actual like tangible feeling of like putting something together physically?
+SPEAKER_R: So we I have tried doing like the digital puzzles and some of them online with friends and stuff. Uh and those are fun just to interact, but I've always been a fan of like building things like legos and uh connects and puzzles and things like that. Yeah. Mhm.
+SPEAKER_L: I would say like, yeah, I agree with you. Like I feel like a digital puzzle doesn't really feel the same. It's like I feel like I'm just kind of, I can zone out what I want. Yeah there's like a super, if you ever go to san Francisco there's a super cool um museum it's called, what is it called? It's been the wall I guess. It's not even see myself. Explorer exploratorium and it is yeah exploratorium in san Francisco it's like pretty close to downtown and it's just really neat because they used to have all these cool like science and art and just like like anything that had to do with like stuff I think and it was very interactive. So like on thursday nights there would be like a session dedicated specifically
+SPEAKER_R: Nothing.
+SPEAKER_L: to like whatever was theme for the week. So I remember like there was like a food theme and then there was like an electricity theme or like a water theme, just like you know Covid's over and you know these they open up and everything like it's pretty interactive really hands on so I thought that was a good experience,
+SPEAKER_R: Gosh
+SPEAKER_L: you
+SPEAKER_R: it looks pretty cool. It's based on what I'm seeing at it right now.
+SPEAKER_L: know? And then I guess on that second there's also something called the Academy of Sciences, it's more I guess scientific more science based but it's still um pretty awesome. They have these things called like the night life events and I think oh actually maybe they're both but I'm just on their website. Oh no they're virtual man. Okay anyways I don't know what their virtual events are like but they're yeah you're ever in san Francisco like I said there in person events, it is pretty cool and pretty interactive. So yeah like a lot of people like we were still working in the office like it was like kind of like the office thing to do right? Like thursday nights, head
+SPEAKER_R: Shit.
+SPEAKER_L: of the exploratorium and see what there is. Um Yeah so just something if you're ever out in the west Coast.
+SPEAKER_R: Yeah that sounds that sounds real fun. I'm a big fan of like you know aquariums, things like that so just having some hands on with technology sounds really cool. Mhm.
+SPEAKER_L: There's also, I feel like I'm just giving you all these wrecks but there's also this aquarium in Monterey which is like like Monterey California and
+SPEAKER_R: the whole
+SPEAKER_L: it's a huge
+SPEAKER_R: works.
+SPEAKER_L: aquarium. And
+SPEAKER_R: Thank
+SPEAKER_L: I don't know like
+SPEAKER_R: you.
+SPEAKER_L: when
+SPEAKER_R: Thank
+SPEAKER_L: I went
+SPEAKER_R: you.
+SPEAKER_L: I thought it was kind of like the reviews I heard. I feel like we're kind of overrated. Like it's awesome that I like it but I think it's one of those experiences where everyone hyped it up so much. And then when I went I was like it's just kind of like a standard aquarium.
+SPEAKER_R: I want
+SPEAKER_L: I
+SPEAKER_R: to
+SPEAKER_L: don't
+SPEAKER_R: make
+SPEAKER_L: know like
+SPEAKER_R: trouble.
+SPEAKER_L: everyone made it sound like it was like the aquarium and it is really neat like and if you ever get a chance to check it out like you should, it's awesome and it's really pretty like by the seaside, right? Um But I don't know, I feel like the experience is a little over hyped. So uh
+SPEAKER_R: Catch you.
+SPEAKER_L: yeah, when I think of your student, you get a discount. I mean, well, I wouldn't want to just sit and so I do remember that part. Uh Yeah, so that's another thing too. Yeah. You know, check out with your here.
+SPEAKER_R: Can't complain about a discount
+SPEAKER_L: Yeah, it helps a lot. Yeah.
+SPEAKER_R: a little different
+SPEAKER_L: Um I think,
+SPEAKER_R: the market. Yeah.
+SPEAKER_L: those are some of the big things. Are there like, similar? Well, I'm sure like, obviously like in Alabama, there's a like similar museums or exploratory ums in the area.
+SPEAKER_R: Yeah. So let's see down south. We have the Dolphin Island Sea Lab which I think I've only been to like once
+SPEAKER_L: What? It sounds pretty neat. Okay.
+SPEAKER_R: it's there. I'm sure you can like uh that dolphins and stuff maybe. I don't quite remember but it's just like a big aquarium and things like that.
+SPEAKER_L: this looks pretty neat actually. Ok.
+SPEAKER_R: Um And we also have an explore e. Um which is like they have a
+SPEAKER_L: I
+SPEAKER_R: set theme. Um And they have like it's just like a museum of all kinds of different things. Like one time they had you know uh dinosaurs or something and just told you all about dinosaurs. And they also have like general science stuff like how converting energy into their food into energy works. And then they also have an imax connected to it which will show like just huge you know movies and stuff like
+SPEAKER_L: that
+SPEAKER_R: that
+SPEAKER_L: sounds pretty cool. Okay. Like I would really like something like,
+SPEAKER_R: but it didn't
+SPEAKER_L: was just
+SPEAKER_R: take
+SPEAKER_L: thinking
+SPEAKER_R: much.
+SPEAKER_L: like an experience I had and I think it was in Los Angeles. It was something like what you describe, but I don't know, it's just been such a long time since I've been to one of those kind of attractions. And right, with Covid, it doesn't help that you can't really
+SPEAKER_R: Big business.
+SPEAKER_L: go out and do that right now,
+SPEAKER_R: this
+SPEAKER_L: but mm hmm.
+SPEAKER_R: Um Let's see. Uh Can you go like Montgomery has a a big zoo. I'm not sure how it's been affected with Covid but the Birmingham Zoo I went a couple of weekends ago and it was pretty good. Uh There were some exhibits of course shut down, which was a little bit upsetting, but other than that it was a community of people, some cool stuff, bad foxes and seals and otters, so.
+SPEAKER_L: that's pretty cool. Okay. I don't think I've ever seen a fox in a zoo before. We have like bears here, obviously. But uh, there's
+SPEAKER_R: What?
+SPEAKER_L: a lion's, I guess pretty standard. Okay. But I haven't seen a fox before, so that's pretty neat. What, like what exhibits like did you want to see that were shut down?
+SPEAKER_R: I was really hoping to go into the reptile exhibit, I've got uh two of them at home and uh so I was hoping to you know, kind of see a lot more, but uh yeah that was completely shut down. Uh The otters were nowhere to be seen, which was a little upsetting. Uh It's me restrictions, I can't really think off the top of my head, they were planning on creating a whole new area. Uh But of course that wasn't ready yet, so. Mhm.
+SPEAKER_L: What martel's do you have about? Uh,
+SPEAKER_R: I've got a bearded dragon and a savannah monitor.
+SPEAKER_L: Okay. Okay. Okay. That's cool. Nice. How long have you? It's kind of look
+SPEAKER_R: Gosh, I think I've had them at least like two or 2 to 3 years. Somewhere around there,
+SPEAKER_L: Nice. And there, are they at home or did you bring them to school?
+SPEAKER_R: No we had to keep them at home. My dad's uh made their own little uh play area for him pretty much.
+SPEAKER_L: So yeah. Yeah, I look. Okay. I looked them up and I, yeah, I think I remember what the bearded monitor, bearded dragon looks like. Yeah, interesting. Okay.
+SPEAKER_R: For different reasons.
+SPEAKER_L: there was like one exit, one zoo in, in Los Angeles and it has an entire section like a little bit on a tangent, but it's like
+SPEAKER_R: What do you
+SPEAKER_L: dedicated
+SPEAKER_R: mean?
+SPEAKER_L: to snakes and that was, I don't know, kind of like, well, because just like you have like, I don't know, like 50 different types of snakes just chilling in these cages, but
+SPEAKER_R: That way
+SPEAKER_L: Cool. Okay. I see. Yeah, awesome.
+SPEAKER_R: People
+SPEAKER_L: Um well I have to probably hop back onto work. It's like, well, it's, I guess it's like 3 30 over here, so I'm assuming it's six PM or 6 30. And are you guys
+SPEAKER_R: 5 30.
+SPEAKER_L: 5 30? Okay. I keep thinking
+SPEAKER_R: Where's the trouble?
+SPEAKER_L: like this last time. Okay, Cool. Well
+SPEAKER_R: Got you. It was nice meeting.
+SPEAKER_L: yeah. Likewise. Um yeah, good luck with school and everything else for the rest of this year. Okay.
+SPEAKER_R: Thank you. Have a good
+SPEAKER_L: You
+SPEAKER_R: one.
+SPEAKER_L: too.

@@ -1,0 +1,439 @@
+SPEAKER_L: well
+SPEAKER_R: Yeah how are you doing today?
+SPEAKER_L: you can see that they're fine and hear me?
+SPEAKER_R: Yeah I hear you fine. You hear me? What great
+SPEAKER_L: Right. The whole screen,
+SPEAKER_R: I take out the whole thing here. Right.
+SPEAKER_L: I don't really know, I was reading through the instructions just now, I'm not sure what we're supposed to do if it's like to both move on to the next part of the survey.
+SPEAKER_R: So yeah I was working through that as well yeah kind of like to me that essentially yeah just talking for for 25 minutes and then I think there'll be some follow up questions afterwards. Although I was looking because I think when I was originally reading it and had mentioned to me that there might be some questions I guess that we could use to discuss but only if we wanted to and I don't see anything like that so Mhm.
+SPEAKER_L: Yeah, well that was that was just because I think in the original thing, it said something about that there was going to be a group that was assigned to like a preformatted question set up and then another group that was more like a free format setup. But I don't recall it saying anything about what to talk about. That's why I'm looking at now to see if because it says something that don't move on to the next page until you've opened the conversation in a new tab.
+SPEAKER_R: ah I see it. Right okay that's
+SPEAKER_L: So
+SPEAKER_R: a good point. You're right.
+SPEAKER_L: someone
+SPEAKER_R: So so I guess
+SPEAKER_L: go ahead.
+SPEAKER_R: I guess we could advance to the next page then.
+SPEAKER_L: And then that will give us kind of like the ability to tell whether, because now saying how was the technical quality of the video chat, So that kind of leads me to believe that it's just something to answer afterwards.
+SPEAKER_R: Right. Yeah that would make sense. Okay so you're already into the next page.
+SPEAKER_L: Yeah, I did. And I
+SPEAKER_R: I'll see what happens here. Okay you're right.
+SPEAKER_L: check it.
+SPEAKER_R: Just tell you that's just questions. Yeah that's gonna be more relevant after the chat is over then. Okay mm.
+SPEAKER_L: huh.
+SPEAKER_R: All right then so thank
+SPEAKER_L: I'm
+SPEAKER_R: you. Fine.
+SPEAKER_L: Ian
+SPEAKER_R: Matthew my name's Will yeah. Nice to meet you.
+SPEAKER_L: Okay. Well you're also a prolific user.
+SPEAKER_R: Yeah I've been using it just recently. Yeah
+SPEAKER_L: Yeah.
+SPEAKER_R: I came across the eggs in the past month at this point you
+SPEAKER_L: I've been
+SPEAKER_R: know
+SPEAKER_L: going
+SPEAKER_R: enjoying
+SPEAKER_L: to
+SPEAKER_R: it. It's been kind of fun.
+SPEAKER_L: yeah, it's also interesting to have a source of income that's in pounds sterling. You know that because I've been on I think probably about three years now.
+SPEAKER_R: Oh really? Yeah. Okay.
+SPEAKER_L: And um there used to be, I mean it was always in pounds but there used to be other options besides Paypal and it was a time thing, like it took time to get it. Now they have the instantaneous payout, which is nice. And it also used to have a feat. So, you know, one
+SPEAKER_R: So
+SPEAKER_L: of the,
+SPEAKER_R: what
+SPEAKER_L: one of
+SPEAKER_R: do
+SPEAKER_L: the
+SPEAKER_R: you
+SPEAKER_L: things that
+SPEAKER_R: so yeah
+SPEAKER_L: what
+SPEAKER_R: so it used to be that you had a certain threshold you had to hit and then,
+SPEAKER_L: there was there was a threshold.
+SPEAKER_R: Sorry?
+SPEAKER_L: Yeah, there was a threshold and there was also like a timing for the payment. So you had to wait at least 24 hours and you know, and then it also applied a fee if you used Paypal and then I think they also used Square as well Squarepants. But yeah, I mean it's, I don't know if you use any other like surveys or academic experiment testing sites, but I kind of found this through an amazon mturk forum where they said that this was like another place to be able to do surveys and such.
+SPEAKER_R: okay. Yeah I just heard of a mechanical turk before. Yeah I just really haven't done any kind of like really going up. It's uh yeah. Are
+SPEAKER_L: Yeah.
+SPEAKER_R: there a lot of academic surveys like this on there?
+SPEAKER_L: Well I would say that in a way, I mean there's another thing called, I think like GsB or Sona systems that universities used to do surveys,
+SPEAKER_R: No it's
+SPEAKER_L: that that kind of had their own network, um where you could sign up through different universities for both, like in person experiments and then online experiments.
+SPEAKER_R: How interesting. Okay.
+SPEAKER_L: But of them all I would say amazon it may not be the oldest, but it's kind of like the granddaddy of these um survey system. So like even if they don't own the actual survey sites like Qualtrics. Yeah lot of those sites kind of made their name by providing surveys for amazon's mechanical turk.
+SPEAKER_R: Oh I see. Okay. Yeah.
+SPEAKER_L: And there are other companies that even do um kind of like filtering of applicants for hits for amazon's mechanical turk. They're like turk prime is one of them. It's completely separate company that they automatically because amazon has a kind of uh it's well you can filter out based on demographics which is a newer function of theirs, but they didn't used to have it. But the amazon this turk prime company creates a separate list of questions that you could fill out and then it automatically gives you um like I don't know what we call it. Um It filters you into being allowed to take certain hits Based on your demographics, like, you know, White Male 45, that thing. Uh huh.
+SPEAKER_R: Huh? Oh,
+SPEAKER_L: Yeah.
+SPEAKER_R: interesting.
+SPEAKER_L: So if you're interested, that's those are other things. Look into
+SPEAKER_R: Yeah, because I've read about, yeah, mturk before, it just didn't seem very fun to me that yeah, I think
+SPEAKER_L: it,
+SPEAKER_R: you like doing tasks for penny at a time, so yeah. You know the kind of all okay. Soul crushing at that
+SPEAKER_L: It's
+SPEAKER_R: point.
+SPEAKER_L: well, yeah, it is and and that part of it has kind of been taken over a lot by people from like, you know India and the Philippines, things like that. Um And there is that element to it, like, but there are ways to filter out. There are scripts that have been written uh to make it so that you can automatically kind of get rid of all of the junk. Um
+SPEAKER_R: Okay.
+SPEAKER_L: There's uh there's a group called I think it's um Turk view or turk nation, I forget what it is, I have it on my computer, But it's like a 3rd party script that allows you to one at times how long it takes you to do the hit. And it measures based on like what they're paying, how long it takes you to do it. And after, you know, dozens of people have done it, it then creates like a good average of like, is this hit actually worth it? Are you making above minimum wage? Are you getting you know, decent pay? Um And then there's like I have another screen where it's it shows a list of those values, like what the hourly rate is and then, you know, kind of gives you like the money and how much money you expect to make per hour, and then you can just filter out all the ones that are below given threshold. So
+SPEAKER_R: Try
+SPEAKER_L: it gets
+SPEAKER_R: sport.
+SPEAKER_L: rid of those bad junk penny hits
+SPEAKER_R: Okay. Yeah, I got yeah, that was
+SPEAKER_L: and
+SPEAKER_R: kind of surprised about with prolific. It's just they were kind of open about what the expectation was for how long will take to complete something and then which we actually expect
+SPEAKER_L: All
+SPEAKER_R: on an hourly basis Like that, right? And rather and said they were trying to obvious Kate it kind of where, okay, so you might make what, 50 pence, but if it takes you 10 minutes and right then it's like you're not even making minimum wage at that point. So you're
+SPEAKER_L: That's horrible.
+SPEAKER_R: kind of calculation like that, so yeah, that's why I've been enjoying
+SPEAKER_L: And
+SPEAKER_R: it so far, but I said it's just been my first months. I haven't even cashed out at this point.
+SPEAKER_L: yeah, I was thinking about doing that is like because um you know, if I ever planned to go to England uh I could then I have like already have I wouldn't even need exchange and it just like save up a bunch of money. Like this is my my trip to England.
+SPEAKER_R: Yeah. This paypal charge an exchange fee since it's in pound at this point one.
+SPEAKER_L: It's not a well, I mean, yeah, they pay the charge a fee in the sense that they give you bad exchange rates. You know, their exchange rates are like lopsided compared to, you know, like a bank or something like that.
+SPEAKER_R: I got you. Okay.
+SPEAKER_L: But yeah, I mean the other idea and I thought about this um I haven't looked in there too deeply, but the possibility of just opening up a bank account that allows you to hold money and sterling. You know, like some whatever bank might have international services so that instead of having to exchange it, you can just get that money.
+SPEAKER_R: Having a sense. Yeah,
+SPEAKER_L: Yeah. So where did you did you hear about prolific?
+SPEAKER_R: I just heard about prolific. Yeah, searching around and then I just ran across the beer money for them on Reddit. Like pretty much, yeah, I was like half the posts seem to be related to prolific at that point. It's evil. It seemed to be really satisfied with it. Yeah, they really, really like people were saying that they loved it so much. They wanted to find other sites that were like it and so I figure that they must be, yeah, something to it. Since there was that much kind of a positive feedback, you know, that was going on with it. Yeah. I figured I'd give it a try and yeah, what's it filled out the full kind of demographic profile and then I got the little prolific extension and just kind of keep me updated about what kind of gets posted at that point and so yeah, it's been nice. Yeah. Kind of like fill in little gaps during the day like that.
+SPEAKER_L: Oh yeah, that's exactly what I use it for. I mean, I I have other things that I do but prolific is one of the windows that I always kind of keep open. Uh and and I would say that, I mean of the type of like beer money type things. Um probably the best is user testing um
+SPEAKER_R: Okay.
+SPEAKER_L: uh the act and not just in general user testing, but actual user testing dot com. I don't know if you signed up for that or
+SPEAKER_R: Yeah, I do. I have an account for that and so yeah, I was like, I guess I finally got on boarded at the beginning of May. Yeah. I
+SPEAKER_L: Mhm.
+SPEAKER_R: think it's because of the pandemic. Probably had reduced hours. I was waiting for a good two months or so until
+SPEAKER_L: Bit
+SPEAKER_R: I was completely approved. Yeah. To take tests at that point. So yeah. Since then, yeah, I've done pretty well and I've done a couple of the live conversations on it, so yeah, that's been a nice kind of a side source of income at this point, so I've enjoyed that.
+SPEAKER_L: Yeah, I mean, and that's one of the things that like you kind of really do have to keep the window open Because so many of those, they'll disappear within seconds of appearing, you know, because, you know, they might have a limit of like, you know, we only want 100 tests or 50 tests or whatever and people just jump on them and
+SPEAKER_R: Yeah. Anything for what? Yeah, I kind of learned pretty quickly that if tests are still lying around it for a couple of hours, then they're looking for someone so specific like me actually applying for that. Yeah. Looks like a
+SPEAKER_L: Like are you a systems engineer with Children over the age of 50?
+SPEAKER_R: yeah, what seems kind of odd like, yeah, like if you're looking for somebody who's like working in artificial intelligence or something like that, they're probably making so much and so busy that they're probably not on the site in the first place. It's not really sure like when they're actually gonna find a hit or someone just going to lie about it.
+SPEAKER_L: Yeah. Well, oddly surprisingly enough, I've done some research experiments on amazon that involved collecting demographics for people who do things like user testing and stuff like that. And surprisingly enough, there are some wealthy people who do this as a hobby. Like, you know, they're making, you know, they're in the demographic listed 250 K plus,
+SPEAKER_R: Yeah. Okay. Uh huh
+SPEAKER_L: yet they're still doing user tests are working on amazon or things like that as a hobby in their spare time.
+SPEAKER_R: if you like the variety of it, yes, I guess what these are testing, you're not exactly sure what you're getting into like until the test starts at that point. So yeah, I guess it kind of
+SPEAKER_L: that's
+SPEAKER_R: like the novelty of it like that, Right?
+SPEAKER_L: that's one of the reasons why. And I've done that for a long time to and user testing dot com is definitely one of the things that the more tests that you do and the more often you do them, the more likely you're going to get more tests because they'll put you into special panels where you'll even start getting tests that you don't even have to do pre screening for just, you know, you just accept um
+SPEAKER_R: yeah,
+SPEAKER_L: or you'll see some sometimes at the top it'll say like
+SPEAKER_R: Remember there
+SPEAKER_L: you're
+SPEAKER_R: will be a little better.
+SPEAKER_L: breaking up a little bit
+SPEAKER_R: Yeah. So yeah, I kind of froze up for a second to I said that the wifi here in the office is normally really strong so hopefully it doesn't happen again at that point. Uh Yeah, just to dry, I've seen those little headers up there and I've tried a couple of them and most of time they're always looking like some people for more than a sales position for for business. And so I haven't really yeah, like fit the target they're looking for on any of those, but I don't like that. The more Tessa I perform for them, right? Like that the more eligible you become for things. Right.
+SPEAKER_L: You're maintaining you know like five star, four star kind of things and because there I'm not doing it as much as I used to, but there was a time that I maintained On a bad week or a bad seven day span because they pay you exactly seven days after you take the test on a bad seven day span, I I would never go below $100. Um
+SPEAKER_R: Okay.
+SPEAKER_L: and then, you know, quite often I go over $200, you know, because there would be days where it's like I would have A $60 test to $30 tests in like $510 tests in a single day. And you know, that's that's almost a paycheck right there.
+SPEAKER_R: I was going on a street for a while. Yeah, I was going to get at least one test today. You're right. Like normally like maybe one conversation a week that was kind of eligible for at that point. So yeah, I think I was kind of surprised because I, for any of these sites I had relatively kind of low expectations. Yeah, but what the real could be off of it, but yeah, I was kind of surprised you just by the, the quantity that was out there for it.
+SPEAKER_L: Well, like I can't tell you exactly because I said in an NBA through user tested, not not with user testing but with another company, not that tested. And I had conversations with them. But once I did a test, once with them, I've gotten probably a dozen tests since then, that are pretty high dollar value tests.
+SPEAKER_R: I see. Okay,
+SPEAKER_L: And you know, so it's like, and that's kind of what I mean by like the more you do the test, you might come into one of these companies, they're like, oh we like your feedback, we want to put you on for like a, you know, independent contract type deal.
+SPEAKER_R: interesting. Okay. Yeah, I was going to say it was almost kind of randomized at that point, basically. See that, yeah, they liked your performance, right? And they want to do you have to keep working with you at that point that you could specify Certain years. Yeah, exactly has been kind of a struggle just in terms of trying to keep trying to induce my rating at this point because I would say well over 90% of people leave no rating at all. So yeah,
+SPEAKER_L: Where?
+SPEAKER_R: I mean the ones that I have gotten feedback on have been five stars, because unfortunately for my first uh tests that user testing rated, they gave me a four. So I always feel like I'm trying to fight it, I kind of push it up a threshold so I can keep getting more tests at that point.
+SPEAKER_L: The way they average your past 12 ratings. So once, you know, if you if you manage to get five, probably take you know 50 50 or so tests, but
+SPEAKER_R: And
+SPEAKER_L: once
+SPEAKER_R: that,
+SPEAKER_L: if you managed to get five star 12 5 stars in a row, then it will be a five star. But I would and I mean getting back to like just talking about like the, you know the Reddit beer money kind of thing. Um amazon, there are ways to make like a lot of money on amazon.
+SPEAKER_R: thank you.
+SPEAKER_L: I've And I've been on the for the Amazon forms for a while and some of these guys are just insane with how much money they make they're making, you know, $3, a day? In under, in Under eight hours. But it takes a certain mindset. Uh you have to be accepted to some of the closed qualification groups. Like for a while, I mean a couple of years ago there was this where I was doing things, where you had to, all you had to do was center the location of a building on this map ai that they were working on And it was, it was 20, excuse me, it was 25 cents per hit. And there were thousands of them and it literally took like one or two seconds, like you just grabbed the pin, moved it over, grabbed the pin, grabbed the pin, moved it over. So for that few months that those hits were going around, you know, I was making over $100 a day, you know, for for a few hours worth of work. So it's the kind of thing that if you know what you're looking for and you you you get used to using the scripts and doing all that kind of stuff, especially if you can write your own um if you're familiar with any kind of like javascript programming or anything like that, um there are ways like I I even did a demonstration once where I took it was this terribly because we were I was actually arguing with people about, they were saying you can't make a lot of money on amazon mechanical turk without cheating the system and and using scripts is not cheating the system, as long as you're the one doing the actual decision making,
+SPEAKER_R: I understand that if you were just trying to filter out and find the task that you're actually interested in you know at that point depending on what your needs are. Yeah I think would be a problem with that, Right, Rather than just like endlessly kind of scrolling through them at that point
+SPEAKER_L: Well, this was filtering the actual hit itself, so, and what it was is it was a series in the form of the person who wrote, who composed the head and the program that runs the hit was like an image filtering service. Whoever designed it didn't know how to create websites and was really bad at java scripts. So the actual hit itself was really poorly formatted, You have to scroll back and forth to get through the things. The instructions were kind of vague and it had all these different problems with it that it was a hit, that Was five cents per task. And if you did it as it was supposed to be done, it would take you about a minute to do the task. So it was you wouldn't want to do that. You know, it's like it's terrible pay. But if you write a script that gets rid of all the scrolling, puts the images right in your center field of view and makes the buttons easy to hit where you can just use one or two keys that will filter the image, pick the image that you want and then submit the task That brings it down to around 10 seconds for five cents.
+SPEAKER_R: Oh okay. So you actually you actually reformatting the hit itself at that point filtering through? They did it?
+SPEAKER_L: custom script specifically for that hit and and there there are hits like this where you know, there might be tens, it a lot of this happened more so a few years ago when artificial intelligence wasn't as strong because that's kind of what amazon mechanical turk started off as it was. It started off and I think it was like 2005, It was the concept that there are things that artificial intelligence are good at or you know, expert systems are good at which was far more limited, you know, way back then and there are things that humans are good at. And the whole concept of the mechanical turk is like back in the 1800s, there was this automated chess playing machine and where you could play chess against it. And really, it was it was a guy, a midget inside of the machine that would move that would move the chess pieces. Yeah. So it's it's the people on the front end think it's artificial intelligence, but really it's human intelligence that's that's doing, and that's what it stands for its human intelligence task. So,
+SPEAKER_R: remember what the H was for human and yeah I can remember what the rest of it stood for. Right okay. Human intelligence tasks Right
+SPEAKER_L: yeah, so a lot of like, I mean back in the day when, you know, there were companies that were having people do, um, you know, content checking for, you know, swear words or, you know, content image checking for uh, sexuality or nudity or child pornography, all of that stuff that the people visiting these sites like facebook or whatever it might be. We're just thinking that it's just the, you know, the program doing all that when in fact, it was actually thousands of people on amazon doing all that, you know, being paid on it.
+SPEAKER_R: actually outsource it out to them Right then someone would actually have to if I go ahead malady
+SPEAKER_L: And then
+SPEAKER_R: was
+SPEAKER_L: there's
+SPEAKER_R: what they're not
+SPEAKER_L: so many stories that are like that, they're pretty crazy. Like there have been, you know, like there was an illegitimate company that was using amazon mechanical turk to get people to do your captures for you. So, so like it did happen to like bypass
+SPEAKER_R: The
+SPEAKER_L: all of that, that kind of stuff. They were they were providing that through amazon mechanical turk. They
+SPEAKER_R: Anderson
+SPEAKER_L: were providing hits to do that. Um
+SPEAKER_R: Yeah. Is there anything horror stories of people who are asking you to upload their their passport or their Social security card or something like that? Yeah, it's like I don't feel like amazon, I understand the amazon wouldn't be able to filter out every single business that wants to be able to produce a hit like that. But yeah, I guess I guess I hear more horror stories and the not about using uh but I guess I just want to understand the system then. Yeah, you could use it like a nice little side source income there.
+SPEAKER_L: yeah, if you're interested, um I would suggest there's the Mturk Suite is
+SPEAKER_R: What?
+SPEAKER_L: a program, there's a free version and a paid version. It was originally just a series of scripts that one of the entered guys wrote, and he's one of the guys that makes like hundreds of dollars a day. Uh The Mturk Suite gives you a bunch of different things to help you make money faster. Um There's a thing called Hit Forker which just allows you to list hits and then shows you the money and things like that. And then another one called Jr Panda Crazy. Um It's kind of like a joke word within the entire community because its preview and accept and they just, they just call him pandas. It allows you to like if you see a hit that's a good hit, it will automatically just keep trying to load that hit. Ah because once somebody accepts it, it's locked up until that person is finished, depending on the kind of hit.
+SPEAKER_R: True.
+SPEAKER_L: So Like I have a hit right now sitting that's waiting for me, that's a $5 plus a $5 bonus. Um and it's listed, I believe it was listed as coming in at $25 an hour showing up. The bonuses aren't included. So we're looking at possibly a $50 hit that I can do later,
+SPEAKER_R: How would you say?
+SPEAKER_L: $15 an hour hit. But that
+SPEAKER_R: read,
+SPEAKER_L: that's just sitting in my cube. So
+SPEAKER_R: do you have the setup to just have a separate monitor that's kind of dedicated
+SPEAKER_L: I
+SPEAKER_R: to?
+SPEAKER_L: have three monitors and and that's the, that's the kind, that's another one of the things that um the like just from its more than amazon's mechanical turk. It's it's many things. Um but once I went into multi monitor setups and started learning how to create my own hockey's and stuff like that. That that just tripled how much money I was making because I mean for instance, I have you in full screen right now because you know, it's kind of the end of the day and
+SPEAKER_R: I
+SPEAKER_L: I'm
+SPEAKER_R: get
+SPEAKER_L: not
+SPEAKER_R: to hang out in the environment of it. Yeah.
+SPEAKER_L: you know, and Usually I have kind of things organized in different areas to where I'm always able to look at of the like 30 or different sites that I belong to. That I can make money off of Where some of these companies I might get like one survey a week but it's worth $50. Um Another one, like I don't know if you've heard of pine cone is another
+SPEAKER_R: I
+SPEAKER_L: one of
+SPEAKER_R: have,
+SPEAKER_L: the your money sites. They, I might only get one or two of them a week but they take me like a couple of minutes and their $3 a pop and sometimes I get accepted for whatever that product is there. Like we want you to try this new kind of coca cola or we want, you know I've got like laundry detergent and beer.
+SPEAKER_R: Oh yeah, yeah I guess it was like a few months ago I guess where people were kind of promoting that they were accepting new entrance at that point. Yes, I got signed up for that. I actually think I got one q tip in my email right now, they kind of take a look at. So yeah, I know they had kind of teased that there might be products that you might actually get to try. But I mean at this point it's been kind of normal kind of a consumer research at this point, but at least I don't had to be screened out of most of them and they'll just give you ones that you're eligible for like that so I can appreciate.
+SPEAKER_L: that seems like with them that they pre filter you you know that once you sign up for the stuff that they only send you the ones that you're going to be accepted for are likely to be accepted for.
+SPEAKER_R: Right. Yeah, it's about a prolific as well that obviously once you accept it then you're in the study. Yeah. So you don't have to go through that the
+SPEAKER_L: Come on.
+SPEAKER_R: mind numbing part of it is like entering in all your normal demographic information over again. Right. Just no, no thanks.
+SPEAKER_L: And then well that's why I think true that that's another one that's good about amazon's mechanical turk. Is that once you do all of their own demographic filters and then you know have started doing some of the like questions for turk prime and things like that is that you're pretty much almost always going to only be doing hits that you're capable of doing. Because like through the turk view it'll tell you like other people write reviews and they'll say you know like way too much writing or you know got unpaid screeners. I was screened out of the process after two pages And and they will show up with little warnings so you already know avoid that one You know or that work is going to be rejected or you know they have a 50% rejection rate or whatever it might be. Which and there's kind of like two main categories of people in that like of the people that know how to do amazon mechanical turk, there's like the grinder people who just like to get the really large batches of hits doing the same thing over and over and over and over again because they're the kind of people that usually write their own scripts to do it so that they can do it quickly
+SPEAKER_R: I see. Okay,
+SPEAKER_L: And and just you know knock out like $40 or $50 in an hour or two and then they're done you know like on these forums I've talked with people there like I work amazon is a part time job as my only job and I make enough money to live off of you know, so and then you know some people are like I have a normal job but I sit at work with a computer so I might as well be doing this too.
+SPEAKER_R: Yeah, I can see that. Yeah. What was interesting for me is that I'll have time during the day we're I'm just rendering something and then I just have, you know, maybe 10 minutes, 15 minutes. Yeah, a pop record to try to be like, well I guess what other kind of little income can I make that point? Right. And so I was trying
+SPEAKER_L: with
+SPEAKER_R: to kind of fill in the gaps like that.
+SPEAKER_L: it's really rendering or what kind of
+SPEAKER_R: A video and rendering.
+SPEAKER_L: you like a videographer or something?
+SPEAKER_R: Yeah, I work as a video editor. Yeah. So that, yeah, I'm exporting something out for a client to review then, you know, it's a process, all the color correction, everything so
+SPEAKER_L: I was gonna say that I can imagine even on a fast computer that that could be something and it's like boom that's gonna take a little while.
+SPEAKER_R: Yeah. It depends on the project right, especially now that more and more people want to do 4K video like that. Yeah, absolutely. Like four times the amount of processing to be able to handle it. So yeah. You know, they they always find a way to kind of Ask for something that pushes up what the render time is going to be anyway. Right? So I always figured, okay, so I'm always probably gonna have 15 minutes or so while something's exporting. Yeah, it's like, what else? Maybe in the meantime? Right.
+SPEAKER_L: Yeah, so I mean it's definitely then because there was as I said there's a grinder people and then the other type of amazon people are the ones that are more like more like kind of like being on prolific where they're just looking to do. I got some free time, Give me a survey, you know, give me some academic experiment that a psychology student you know wants its to $2.50 or whatever it might be. Uh And and they tend to, there's like the two separate groups, the grinder people have no interest in doing the big you know decision making tasks and all that. And the survey people have really little desired it like I couldn't I I've done it before, we're like you know there's been time periods where it's like oh wow this is a good paying task where I could make a lot of money but I just get so bored like like
+SPEAKER_R: Actually,
+SPEAKER_L: I can't do this over and over and over and over again. Um
+SPEAKER_R: Uh
+SPEAKER_L: But sometimes there are ones that are grinder hits but they're also really interesting. Um And like I'm a portrait artist, I do drawings and paintings and portraits. Um And there was one time a few years ago where it was training an artificial intelligence how
+SPEAKER_R: Wouldn't
+SPEAKER_L: to Create a three D. model of a human head based on a single image of a person's face. Uh
+SPEAKER_R: for one, it's not even from different angles, so yeah, Just do you
+SPEAKER_L: just
+SPEAKER_R: get
+SPEAKER_L: like a like
+SPEAKER_R: like
+SPEAKER_L: a single image. Yeah and then it had to kind of make predictive guesses as to what you know the back of the person's head an election stuff we do and it was neat because the interface had me creating and because I'm a portrait as I was pretty good at it and I like drawing portraits anyway so I found it really enjoyable even though it didn't make a lot of money but I ended up doing a lot of uh you know the hits for them because it was just really cool to do.
+SPEAKER_R: yeah. Trade off. Right, so I've actually enjoyed something right then. Yeah, don't worry about the overall I guess. Like I really rate you're making off of something, right? So yeah, it's it's actually you want to do first place? Yeah, I like that.
+SPEAKER_L: Yeah and it's interesting because you will like if you get in amazon's mechanical turk and learn how to get rid of all of the garbage because there is a lot of garbage there um You know and and that's I think why what puts like you said you were kind of put off by it. I think a lot of people are put off by it because of that garbage and not knowing that there are ways to filter through it.
+SPEAKER_R: Mhm. Yeah, I just
+SPEAKER_L: So.
+SPEAKER_R: heard most people saying, Okay on on a good day, I was making $5 an hour, I was saying like well yeah, have have other means. Yeah, making more than I can move on. But Okay. Yes, so I guess for the for the forums where people are discussing all of this, I guess where they normally host that, I guess it's probably not on the amazon site itself is not just on Reddit or I guess
+SPEAKER_L: No.
+SPEAKER_R: a forum that's dedicated to it.
+SPEAKER_L: Yeah there I mean there's a couple Mturk reddit forums but the Reddit forums are kind of like I like Reddit for a lot of things but for mturk not really. Um But there's the one that Turk view I think they've changed the name but there are a couple of forums is like turk nation Turk hub Turk view. Um and it's like two or three of those forums are pretty populated with people guy and they post up hits on the forums as well as discuss things about like how to set up scripts, how to, you know what kind of scripts are working. Um The they might release a script for a certain type of task, they're like hey if you got this qualification, I wrote the script this will work. Um and then and for the most part it's discussing things related to enter, but it's also kind of like red, it's beer money where the I mean that's it was through an M. Tech forum that I found prolific, you know, so like they'll discuss things like you know, hey what's going on? And I think there's you know some like discords friend turk and I mean some of the people, I'm I use it pretty much every day um But I'm not like one of these like Ninjas that has to make you know $200 a day off of Amazon's mechanical turk.
+SPEAKER_R: Right. Even after living off their right yet?
+SPEAKER_L: Yeah you know and even even within that I like the variety why which is why do user testing and you know beta testing and software testing and all kinds of different testing testing. But I do recommend it like I always get kind of like, I don't know, not hurt but it's just like
+SPEAKER_R: No.
+SPEAKER_L: it's a strange that I see, I can understand why people have such a bad impression of mturk and I agree with some of it, especially like their customer service is non existent um you know if you're buying something from amazon yeah we'll talk to you all day long but working for amazon even as this kind of whatever nebulous gig independent contractor, they don't care about you at all. Which which surprisingly prolific is the option. I don't
+SPEAKER_R: I
+SPEAKER_L: know if you had if you
+SPEAKER_R: haven't had any issues with them yet. I haven't had any kind of questionable surveys at this point, but Yes.
+SPEAKER_L: uh the handful of times that I've interacted with them, they were prompt. Uh They like they paid me even when the requester like rejected me because like they were like we looked at your, you know, we looked at it and you weren't wrong so we'll pay you anyway. Yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: you know, so I've I've had absolutely no problems with them amazon on the other hand, they don't even answer you. Uh you
+SPEAKER_R: You
+SPEAKER_L: know
+SPEAKER_R: know,
+SPEAKER_L: like I said probably a dozen reports, you know, saying like the requesters bad or something like that, you know one of my personal information and they don't care. But
+SPEAKER_R: I think you come into me then. Yeah, I think I'll give it a look then. Right. I'll see what else is out there. Right. So, I guess if
+SPEAKER_L: it
+SPEAKER_R: I got a filter it the right way and then Yeah, it's actually a
+SPEAKER_L: yeah, it's
+SPEAKER_R: lot.
+SPEAKER_L: definitely like I said, you know the panda crazy and Panda helper script, the Hit Forker, the Mturk Suite. Once you get those things together, you can definitely, like I said, I mean I only have eyes, it's actually searching for a couple of things that I've listed, But I have uh it's $5 hit with a $5 bonus and it's listing at $25 an hour for just the $5. So it's a 50 $50 an hour hit, You know, I mean, it's only gonna be 10 bucks, but it's, you know, whatever.
+SPEAKER_R: Yeah, I think if you have other sites, you know, you kind of monitoring in the background then right, you kind of pick and choose and you just put your hourly rate up at that point, so that's good. Okay. All right. I'll be willing to give it a shot at this point. It's
+SPEAKER_L: I'm one someone over to the M. Took. Mhm.
+SPEAKER_R: it's worth it's worth a second look then. All right, it's good. Yes,
+SPEAKER_L: So
+SPEAKER_R: we also have more positive opinion of it,
+SPEAKER_L: uh well we've been talking for over a half an hour, I think we Uh
+SPEAKER_R: Okay. I
+SPEAKER_L: Uh
+SPEAKER_R: think the criteria here then that's good. Uh The time flew by, it was nice, mm.
+SPEAKER_L: and I mean I I actually I'm one of those people that I think it doesn't matter. Um you know, like one of the things that I'm interested in doing that I want to do in the future is I'm interested in buying land and I want to grow lots of hot peppers to make my own hot sauce and that's something that potentially could become its own profession, you know, I want to do it to where I'm doing it more than just like a boutique selling it to a couple stores, I want to sell it, sell it um and I can fully imagine that because you know the growing part of peppers is going to have a long process, but I'll still be sitting in front of the, you know, the screen doing user testing and mturk, you know, so
+SPEAKER_R: That makes sense. Yeah, obviously yeah, you're full time. Yeah guys like weeding peppers at that point. Right? Yeah. At the days like that that's great. Yeah. All right.
+SPEAKER_L: So anything
+SPEAKER_R: And
+SPEAKER_L: else we talk about?
+SPEAKER_R: uh I don't think so at this point yeah actually yeah that was that was very helpful conversation. I don't know how you kind of end up since there was no kind of structure to this, so But yeah, that was very helpful though. Thank you. Yeah, it's gonna get different perspectives on things.
+SPEAKER_L: Yeah, I think it's actually been happening a little bit more to just because it's obvious that I think with the pandemic, a lot of people been having to figure out what to do at home, you know, whether they are laid off or lost their job or lost their business or whatever it might be, but I've definitely seen and I kind of got the impression that you started looking right around the time when this happened to um
+SPEAKER_R: I mean I guess there were some sites that I had started to use like
+SPEAKER_L: what?
+SPEAKER_R: a respondent and user interviews and things like that, like prior to the pandemic beginning. And so I guess that kind of gave me Yeah, I think the sense
+SPEAKER_L: Avenue,
+SPEAKER_R: is Yeah, exactly. So they that's probably like the tip of the iceberg at that point. Yeah, more flexible, remote kind of ways yet I get a little side income going on and so yeah, definitely, definitely accelerated kind of research into that. Yeah, once uh once I had to stay at home at that point. Right? So yeah, so yeah, I've definitely been more actively interested in it lately, that's for sure.
+SPEAKER_L: cool. Yeah I I also use respondent user interviews and I
+SPEAKER_R: Thanks.
+SPEAKER_L: mean I literally dozens and dozens of sites that some of them I forget that I even I even belong to and then You know a $200 beta test for some game and it was like yeah we want you to play this game for an hour a day for a week okay
+SPEAKER_R: So
+SPEAKER_L: and
+SPEAKER_R: just
+SPEAKER_L: 200
+SPEAKER_R: so you find other sites sites that are more like just like specific to like a certain industry or genre or something like that you want to do it,
+SPEAKER_L: like I'm uh I don't know what you call it like in house beta tester for general electric um
+SPEAKER_R: Okay.
+SPEAKER_L: you know so and I have an NBA with them but it's not for them, it's for the products so I can't talk about, can't talk about the products that I beta test. But yeah and like I used to be an in house beta tester from McCormick spices. It's like just the weirdest thing that you know you find because I've been doing this for years always looking at like what kind of unusual, just weird things to make money like for a while for a little while I was working as a loss prevention specialist where I just acted like I was shopping and and I would watch and that got a little too creepy for me. I didn't really like kind of just looking at you know kind of following people around.
+SPEAKER_R: people are there. Right, Yeah.
+SPEAKER_L: Yeah it creeped him out a little bit too much so that didn't last. But I like those kind of unusual jobs like mystery shopper and you know and there I mean there are those two like I don't know if you've seen those where it's like you get paid to just take pictures of like what a grocery store has or you know we
+SPEAKER_R: I like field agent, I've used that before, yeah, I've done a couple of tasks with them, right, It was a pretty decent one where they were
+SPEAKER_L: on.
+SPEAKER_R: asking you at certain times of the day just to check what the stock was. Pre pandemic, because they wouldn't even be possible now, just like checking what the stock was on paper towels and toilet paper. Yeah, I it was, I could get it done in about 10 minutes and they were paying $17 we could pretty much the day, so I was like okay, yeah, that's a nice little way to put that into the schedule. There are no problem.
+SPEAKER_L: Yeah and it's what another thing is that I love to travel. So having like these kind of like gig jobs just makes it like I could be doing this at a hotel room.
+SPEAKER_R: Yeah. Right. Yeah, so it's not like a location dependent at that point right there, you're gonna do it from anywhere, Yeah.
+SPEAKER_L: I've been many times where it's just like I'm literally making just enough money to pay for. I take a trip while I'm on the trip. It's like wow, you know my my this is going to cost me 60 bucks, my foods, 30 bucks. I need to make $90 a day. And I go through all of the different things that I have and I was like
+SPEAKER_R: Thank you.
+SPEAKER_L: can I do over the next three hours to make $90? Oh
+SPEAKER_R: Yeah, maybe a goal oriented of a great uh
+SPEAKER_L: yeah and then then the rest of the time I'm like whatever I'm on vacation, it's all paid for.
+SPEAKER_R: yeah, I don't even appreciate the flexibility of it here. Yes, I just kind of like accumulate
+SPEAKER_L: No
+SPEAKER_R: as many sites as I can, Right, Because you have to add
+SPEAKER_L: involved.
+SPEAKER_R: up.
+SPEAKER_L: Yeah and I recommend just keep looking. Um because
+SPEAKER_R: No
+SPEAKER_L: I I mean like there's another one I don't do it anymore um just because I've gotten to the point where I'm a little too sketchy for me. Um But I was making pretty good money with it. It was another service that I had in the background where Uh they would pay you 10 cents to just
+SPEAKER_R: more.
+SPEAKER_L: go to a web page. And what they were trying to do is promote, you know, so the search engines, you know, you have to search for that object and they had a script that would highlight the web page they want you to go to And just leave it open and just leave it open for 30 seconds. So I would have that in the background. It would literally take me five seconds to do the task and they would appear randomly throughout the day. So I would make you know between five and $10 a day doing this and and the total, if you take all the time of the day, the total is only like 10 minutes that it took me to do it because it's literally just opening the window, clicking on the button for the, clicking on the right website and leaving it open.
+SPEAKER_R: Right. You had another monitor and just leave it up there and then you can continue with what you were actually, you know?
+SPEAKER_L: Yeah, just go back to do whatever else I'm doing. And and it's just like I built it in towards like I didn't even think about it anymore. There's actually several sites that are kind of related to the this uh some of them I still do other with this particular one. I don't just because just the kind of format of the site, it's just something sketchy about it. I can't really put my thought, I mean they don't have any contact information, like there's no way to you just randomly just randomly send you money at the end of the month.
+SPEAKER_R: Okay. Again, calculated at that point, right? Yeah, if your your your businesses existing this kind of this gray area, you're essentially sounds like your kind of generating artificial demand for for a page like that, right? Yeah. People are operating like a little sketchy to be in the two.
+SPEAKER_L: Yeah. So that's like one of the few, I mean, and they're out there, there's all kinds of sketchy ones out there so that some of them you just make crap money at. Um You know like I've done, I belong to probably like 30 or 40 different transcription style um you know, different kinds of transcription jobs. And for the most part they're all garbage.
+SPEAKER_R: Yeah, I was getting to that, it sounds like, you know what, you're getting poor quality audio and then, yeah, you're getting charged very low per minute in order to be able to fight for that. This wasn't worth it. Huh.
+SPEAKER_L: Yeah. I've tried, I've tried probably almost all of them except for the kind of more legitimate ones that you have to go through training and you know, um Those ones, yeah, you're going to make more, but that goes against my whole kind of thing where I don't want to be doing the same thing all the time. Um It's just like, I don't know if you've heard of Lion Bridge or
+SPEAKER_R: Yeah, I've heard of them before, right. Actually.
+SPEAKER_L: your
+SPEAKER_R: Are
+SPEAKER_L: mother,
+SPEAKER_R: we like that? Yeah.
+SPEAKER_L: there's a Lion Bridge, there's rev there's a couple of these companies that they're extremely strict like in a line bridge I believe is mostly just googles manual search, kind of like quality control people and the people that go through these tests, they're like, they're insanely hard. Um But you can take the test over and over, you mean, and it's like they're separated by weeks and you just keep failing and failing and failing and you have no idea why you're failing it because they don't want they don't want to give you feedback, they
+SPEAKER_R: that's it.
+SPEAKER_L: want you to be able
+SPEAKER_R: That's
+SPEAKER_L: to get past it and then, You know, it used to be, I remember talking to people who did it used to be that you could do it full time and it was like something like $15 an hour. So it was you know if you needed a job it was a job you're
+SPEAKER_R: train
+SPEAKER_L: making
+SPEAKER_R: them.
+SPEAKER_L: $15 an hour, you're working from home, you know Which that's a huge thing anyway for people who Like who don't kind of get the difference like they're used to working a job or they drive to work and they got a 40 minute commute and they've got to go to lunch and all that kind of stuff, just how much money you are actually saving. You know you might take a person who is used to making $30 an hour or $35 an hour and they are upset that they're making $15 an hour until they realise that by working at home they're actually making about the same. you know? So it's
+SPEAKER_R: I can see that, Right. And then I'm just gonna write off all that as a business expense at that point for your in that connection and things like that to Yeah. Uh
+SPEAKER_L: there's all kinds of things you can do.
+SPEAKER_R: at that point, Right. Uh Yeah.
+SPEAKER_L: I like those those companies like I said I don't do them because I mean they're okay for some people. Um I just don't like doing the same thing all the time. Uh And then most of the other transcription ones are just garbage. And the only ones that aren't garbage you have to work at them so hard uh to like get through their filters where like your level one transcriptionist to level two transcriptionist and
+SPEAKER_R: Well.
+SPEAKER_L: they keep slowly moving you up and like this one company that I was doing a little bit because it was one of these ones where you could just pick it up whenever you wanted. Uh and they paid within 24 hours. So I used that as kind of like if I just needed a couple extra bucks I would just you know bad out a dozen or so of these. But there they knocked me down because their rating system was a peer review rating system and peer review rating systems are garbage. Uh Like it's kind of like with user testing where most people don't give you ratings. So if you do get a four or three you're stuck with that for a long time because you're not you know and and they would they would do this because it appears almost all the time when you did something perfectly. They wouldn't give you a five star, they would just not rate you. And then the bonuses that you make off of that work you do are based on your rating. So it will say like you have to maintain a three point rating or above on a five star scale And you get hit with a single one star, You're screwed. You gotta you gotta literally work for like five or 6 hours straight just doing perfect hits to get past that. So sounds like some of this. I'm not I mean that was another one of the kind of jobs though that like people who are really good. I mean I type it like over 100 words per minute. I'm fast typist but um and I can listen and transcribe simultaneously. Um You know, but there are people are even bigger into it where they get the foot pedals so they can pause it and slow it down, speed it up. Um
+SPEAKER_R: Oh, really? Okay. Uh huh.
+SPEAKER_L: Yeah and I mean there are people that make hundreds of dollars a day doing that, it's just it's just boring.
+SPEAKER_R: But I think
+SPEAKER_L: Ish.
+SPEAKER_R: it is a full time job that point, right? You are dedicated to it. Yeah.
+SPEAKER_L: Yeah, I mean you're just doing a full time work at home job and that's your job.
+SPEAKER_R: That's what you want to do, that's great. Yeah. Right. Yeah, that's not like your life calling then. Yeah, maybe a little bit of drag, Yeah,
+SPEAKER_L: I like I do this because I like the freedom, I've always kind of been into working for myself, so it's like um having things that allow me to again fill in the gaps, that's what I want and especially fill in the gaps when I want to, you know, if I, if I feel like you don't want tomorrow, I'm not gonna do anything, I can't, I'm sat with that.
+SPEAKER_R: Yeah, it's kind of like I was looking into something like a happen where someone like you had to have sort of a certain like hourly commitment for a week, it makes sense that and if I had a bigger project I was working on then really? Yeah, I want to have the ability to basically say, well I can I have a longer term project I'm working on, I can just kind of put all this other stuff to the side for the moment. Right. Whereas if I had that, I'm kind of locked in, I don't know, 20 hours a week or something like that and it's really hard to be able to squeeze in every single week like that.
+SPEAKER_L: Yeah, that's why like even, I mean some of the beta testing, like tester work I think is one of them, and Early Birds is another one, those can be really good paying jobs, like side gig jobs and and they can even become full time jobs if, like, I mean, people get into becoming beta testers, just full time beta testers, but I usually, I get the, you know, I get them every once in a while and I'll accept them, but a lot of the times there's just too much of a commitment there, like you know, we need you for five days to do this, this and this with this product and then right full reports about it. It's like, I don't want to but but I mean but if you see some of them though, like They'll have huge things, it'll be like, you know, $5 for a minor bugger error, $10 for a major bugger error, $50 for a critical error. And some of these people are so good at finding bugs that they're batting out, like five bucks, five bucks, five bucks, five bucks, you know on top of whatever the base pay is, You know, you know, so they might get a base pay of 100 bucks and they found 30 minor errors and five major errors all within a single day. Yeah. So you know if that's that your thing, that's your thing. But
+SPEAKER_R: Mhm. Yeah. I think if you really find like manager you're calling at that point. Yeah, I heard about the precise I guess like a like you test, but at the same time I think we're kind of paid by the bug at that point.
+SPEAKER_L: Yeah. Yeah. You test is another one of them that's just like that I've gone across the spectrum with like, you know what are all the possible like, you know, you know, reading emails and I mean most of these things are just cons um and that's I think that's the other big problem with like all of these different work from home websites and all the things that people talk about is that When you really get into it, 80% of the jobs out there are cars, you know, so many of them. I've come across someone like that, but I've gotten really good at spotting them though. Like okay, this is bullshit, okay, this is bullshit. You know like do this and we'll pay that and you know, if you work this will double your money and it's like okay whatever, you're just trying to get my information so that you can, you know, use my credit card or whatever.
+SPEAKER_R: Yeah, I understand. Absolutely. They were requesting that you pay for a membership ahead of time, right? And then like the work starts slowing in. Right? Absolutely. Yeah. Yeah, Yeah. Yeah. There's no trial to it and they get I kind of assumed that the scam you're paying yeah. For the opportunity to for them to potentially give you like that. Right.
+SPEAKER_L: Yeah, literally, the only, only service out of all of the different things that I do and all the different things that I have, The only service that I pay for is the Turk view for amazon's mechanical turk. And one of the reasons why I pay for it is because it was initially free. But the guy who runs it literally, it became his life, you know, that was his job, was doing the turk review.
+SPEAKER_R: Yeah, I'm sure that it takes, you know, you know, a lot of hours effort, right? To be able to keep that thing updated, so helping
+SPEAKER_L: I mean he's
+SPEAKER_R: you get more money than well prepared trade. Yeah.
+SPEAKER_L: and he was like, you know, you made a thing where it's you know, it's like 499 a month and your remember, you know, so it's like, you remember to the forum, you remember to the discord and you're also a member to their review system and and it's a script that's actually, or it's an extension that's actually put on your your browser so that it's constantly updating you're and it's like, you know, the difference between not having it and having it is probably the difference between a couple $100 a month and how efficient I am in finding things on amazon's mechanical turk, So Paying $5 for
+SPEAKER_R: Absolutely.
+SPEAKER_L: that service. Yeah.
+SPEAKER_R: Uh huh. Uh huh.
+SPEAKER_L: And also that's another thing that if you did get into and turk and we're thinking about whether I I'm not going to pay that five bucks a month for or whatever, that's a scam, it's not necessary. Just like um there's a pay version of the Mturk suite and I might get it at some point in time. I just haven't really looked into it enough versus what's being offered. That's different between the free version and the pay version and the guy that does it, like I've seen him on the forums for years, he's definitely genuine and he is one of these people that it's, you know, Mturk is a full time job for him because he's one of those guys that would be like 350 bucks today. I worked for six hours and it's like, holy shit, how did you make that much money in six hours? And he's like, well I did this, this, I wrote a script. He's I mean, the guy literally will look at a hit and start writing a script just for that hit before.
+SPEAKER_R: just 1000. Right. Yeah, that looks just like it then. Yeah, pretty automated like that. Right. Uh
+SPEAKER_L: it'll be like, you know, what things can I do to, So, but I mean, and he's another guy that's definitely legit so that if if I do see the benefit in the pay version of the Mturk suite, I probably would have no problems, you know, jumping in and doing that. But other than that, like all the other things that would be like past this and we'll get you this later, nope, even off of Reddit beer money, I've had a couple of guys that are like yeah I'm starting a you know, mailing list for respondent like you know uh tests and you know, all it will be is like a buck a month and I'm like no man, I can already do all that for free, I don't need to pay you a dollar a month. So you're just I think you're just looking for to get a lot of people to pay you a dollar a month.
+SPEAKER_R: Yeah. Right. Yeah. Right. The value is low enough that they think that the price is low enough, right. It's like people's expectations to get out of it, right, Doesn't physically matter it what you put into it at that point. All right,
+SPEAKER_L: Yeah.
+SPEAKER_R: right.
+SPEAKER_L: All right. Well
+SPEAKER_R: A master class again, the side gate work here. This is nice. Yeah, I really appreciate it. Huh.
+SPEAKER_L: I've actually I've I've actually considered writing a book about you know putting it out an e book and selling it for $47. Making a weapon. Um uh
+SPEAKER_R: Well, I think the, the amount of additional income you could make, yeah, if you like new, all the services are out there and they say, what kind of tips? Yeah. Can I make you more efficient at it? Yeah, that makes sense to me, I mean.
+SPEAKER_L: I thought about this for a while and just about writing a book about and not even just I mean yeah I could you could consider it like side gigs but just um ideas about finding work that people don't necessarily consider. Um
+SPEAKER_R: Thank you.
+SPEAKER_L: And one of the things that made me think about this, I I lived in Albania for a while. Yeah
+SPEAKER_R: Okay.
+SPEAKER_L: and it's a very poor country. Um But there are all of the people there like so many people figure out ways to make money that are very unusual. Like there's this one kid Like 12 year old Kid would wake up every morning early in the morning and like just troll along the beaches, collecting anything. You can mostly shells interesting looking rocks. And then he would go to the city center or the promenade where all the tourists who'll be walking and just set up all the rocks and sell them off for like a euro or €2 apiece. And he would make more money before noon. Then the average person in Albania makes in an entire day and it's like, yeah,
+SPEAKER_R: For
+SPEAKER_L: this kid's literally just selling rocks.
+SPEAKER_R: free? Right. Yeah, I understand. Right.
+SPEAKER_L: he was picking up shells and rocks and selling them and that and that kid is making more money. So it's that kind of like the alternate thinking about, you know when people are like, man, I, I need to make money, how can I make money? And it's always frustrated me when, when people are like, oh well you don't have a degree or I'm not an artist like you and it's like, you don't have to be, you know the same thing with the like with the growing hot sauce. This, this blew me away. One time I was out Watching this video from this guy where he started, he was like I'm going to show you how to make $1 million dollars and he picked up a peach pit, he said you can start with single peach pit and what have you done is he Bought the peach for 50 cents at a fair eight. The peach planted the peach pit and the plant grew and once it was about yea big he had a peach tree That he sold for $50 uh huh and he's like from a single seed, You can make $1 million dollars and he was explaining how you could do it with tomatoes, how you could do it by pureeing the tomatoes that you grow. And he just he kept using examples of starting with such a simple concept. Um Or like another example he gave was most, some of the cheapest land you can buy in the United States
+SPEAKER_R: Or
+SPEAKER_L: is forest land that's way away from civilization because nobody wants to live there. You know it's uneven land, it's full of trees and so on and so forth, but that land could be used for lumber and you could sell the lumber and very often you can find land where the land itself is cheaper than its value and lumber. So he's like you know you pay $10,000 for 40 acres of land and then you sell the 40 acres of your lumber, you tell the you know the company you're like look you can get your trucks out here and you can get your loggers out here, I'll sell to you for X. Y. Z. Price that's like 20% less than what you're normally paying. And then once they you know once all the lumber is gone you mean you made $20, in lumber? You plant seeds for new trees.
+SPEAKER_R: Oh yes. Them grow up again. Right. Uh huh.
+SPEAKER_L: Yeah 10 15 years later you got another $20, And and and he was talking about all these different ideas that are just like it was blowing my mind because I was like this guy is talking about peach pits and growing tomatoes and it's like yeah okay.
+SPEAKER_R: A lot of resources. You are a lot of credentials. Right. Yeah. They're gonna be able to make that work. Right. You were saying that people actually want.
+SPEAKER_L: Yeah I mean it was such a simple concept that it was it was like he took a peach pit, planted it and all you have to do is wait. And You know he originally paid 50 cents for a peach, got to eat the peach and then made $50.
+SPEAKER_R: Yeah. But your patient enough for it. Right.
+SPEAKER_L: Yeah and so it's like that's the kind of stuff that I think about it, like. Yeah man, that's in a way, it's, it's investing um kind of like investing in stock martin, things like that, which I also do. Uh Which is another reason I have all my stock windows and stuff open. Another reason why have multiple windows. Okay. Uh huh.
+SPEAKER_R: Yeah. There's a lot of things you have to be able to kind of monitor at any given time like that. Right.
+SPEAKER_L: Yeah. You know day and you know, day trading is another thing that's like uh you know my my swing trades and my long term investments are one thing and then day trades is something that you could literally just turn on and off. It's like today I'm not going to invest in anything, I'm not going to trade or I want to take the day off or whatever it might be. You know, So that's another thing to look into. I don't know if you invest at all. But
+SPEAKER_R: I invest just passively though, so I haven't been a day trader. So I kind of feel like I would go insane if I was paying attention to like the daily movements of the of the market like that. But I guess what you got, I used to I guess like the patterns, you know that kind of exists that are out there. Thank you. Start to
+SPEAKER_L: probably one of
+SPEAKER_R: living
+SPEAKER_L: the
+SPEAKER_R: out of it.
+SPEAKER_L: there are probably two directions that I could see like if you're looking for more more passive but still kind of active is um one is the much more difficult version is getting into trading options. Yeah, options can
+SPEAKER_R: Model.
+SPEAKER_L: be very lucrative but
+SPEAKER_R: No.
+SPEAKER_L: it's a lot of thought is involved. So it's if you're not if you're saying that day trading is stressful. Trading options is probably also stressful to you. Your stressful. The other is kind of a more casual, it's called swing trading. It's where you're looking at short term gains but in a matter of weeks and months rather than days. Uh
+SPEAKER_R: Yeah.
+SPEAKER_L: huh. You know the the strict definition of the day trader is that you don't ever hold any money overnight. You're you're sold out by by day's end. Yeah. You know, But
+SPEAKER_R: Maria.
+SPEAKER_L: the looser version is, you know, your trading pretty quickly. Swing trading however, gives you the time to like for instance, there are people that will, they only focus on the FDA uh because there are very predictable ways of seeing that there's going to be growth in companies based based on trial dates. So, you know, if this company say, you know, some drug company acts has a Phase
+SPEAKER_R: Mhm.
+SPEAKER_L: three trial date coming up, whether they're approved or not, people are going to start getting into that company beforehand.
+SPEAKER_R: It makes sense. Right. Yes. So, you think that that's gonna have a big impact right? In with their future earnings are going to be right. Say I want to make your predictions on it yet.
+SPEAKER_L: So so you you can look at and you're things are either they
+SPEAKER_R: What?
+SPEAKER_L: always everything is an overreaction. First of all things are always go up up and down and it's always overreacting. Um and then over time you get kind of the more accurate value of something. So what a lot of people do is they only focus on medicines, they only focus on biotech, they only look at like FDA because you know the dates, you know, it's not like with a product release where you don't know when the products coming out, you don't know what the market is going to think about things like that with, with drugs for instance, is one example where you know that say on this gate, they're going to have their phase three trial review or whatever it might be and all of that information is publicly available. The FDA provides you all of that information. So there are people who, they're not day trading. You know, they're looking through the dates are like okay, next month this drug is coming out and then they'll spend like a week or two looking at at that company. You know, like they look up the people that work there, they check out their facebook profiles or their twitter profiles to just kind of get a feel like is this a company that I should be putting money into? Is there good sentiment about whatever this drug that's coming out because you know, the doctors or the people involved aren't necessarily going to tell you, but you can kind of get a feeling of like you do the research so they'll see like if they start to see the money climbing up a little bit, they put all their money into that investment and then literally right before, well there's two, there's the gamblers and then the traders, the gamblers will hold and just hope that the trial is successful because you'll get a lot of times you get like this creeping that will go up a little bit before and then right, when the trial is released, it will skyrocket if it's good or collapse if it's bad,
+SPEAKER_R: Right. Okay. Uh huh.
+SPEAKER_L: you know, So the trader will say, okay, I'm not going to risk, you know. Yeah, I can make a lot of money, but I could also lose a lot of money. So the trader will sell out right the day, you know, like literally the afternoon before the trial date is released. And, and then the more risky gambler is the water. Say screw it, I'll wait till tomorrow
+SPEAKER_R: You're
+SPEAKER_L: morning.
+SPEAKER_R: right. Up. All right. We're gonna actually that. Yes. And if you feel like you have more of a guarantee, right? For like a certain percentage return before they really state right, You bank that and just said not have to deal with the stress of whatever happens afterwards. Yes, I can understand that. The But
+SPEAKER_L: I mean there's always risk, but that's the kind of thing. Like it's not as stressful, it's not as risky and it's one of the versions, there are other things that you can invest in. But that's an example of a kind of investing that your, you can do over time. You can do slowly, but just in your spare time, like you look up company and say, okay, so they're releasing this drug, okay, They got some good reviews. You know, I look at their history, their history is pretty stable, you know, they tend to like and you can see kind of repeating patterns. Like some companies you'll see that pretty much every drug trial will go up and then it'll level off, will go up, it will level off or go up level off and then you look at the FDA review dates, you know, all the dates coincide, it goes up whenever that you know and people are like ok, so they tend to go up on that day when it comes back down so I'll buy in right before it goes up sell right before the date itself and there you go. Yeah.
+SPEAKER_R: All right. So tell me a little bit more more hope. Yeah, There's something out there. Yeah, I would just like fit into my life a little bit better than rather be staring at the stock industries all day like that. Right.
+SPEAKER_L: Well yeah, I mean. Yeah exactly. That's the thing, that's the one really good thing about this is you don't have to do any of that. You know you're focusing on two or 3 companies literally you know and some of the guys that I know that invest like that that's you know they have like hard rules like I will never invest in more than four companies at a time. So their entire you know like stock ticker set is just four companies and and
+SPEAKER_R: Keep
+SPEAKER_L: then
+SPEAKER_R: at that point. Right.
+SPEAKER_L: yeah and they're not stressed out you know like what is it, what is it at today? Well you know they're like yeah whatever. I have these four companies, I've researched these four companies, they have no intention on holding them You know forever. They're not you know it's not like I'm gonna just keep adding into my Microsoft or something like that. They're like yeah I am going to sell this out but I'm gonna sell it out in three months rather than 30 years. Yeah.
+SPEAKER_R: That's good. Yeah. Let's look into that as well because that seems like something like definitely like yeah, fit better into my schedule like that, right? And not dealing with it on a daily basis like that, But yeah. Okay. Looking at target dates in mind, right. About when I'd be buying or selling those. That makes sense to me.
+SPEAKER_L: Yeah it's definitely a lot less stressful because I do both. Um uh Day trading is a lot more stressful.
+SPEAKER_R: Sure. Yeah. Especially this year. Right. Yeah.
+SPEAKER_L: Yeah. Oh yeah I've lost a lot of money this year. What?
+SPEAKER_R: right. Well, I I have to from doing nothing. So, yeah, that was a long term. Yeah, I started to bounce back.
+SPEAKER_L: I actually the worst and part of my decision part of it wasn't because the pandemic. But I decided to really dump a lot of money into a company because I thought that they would recover because they got hit from something completely separate than the virus first and had the virus not happen. So it's Intelsat is the company. Yeah
+SPEAKER_R: I am.
+SPEAKER_L: it's the largest
+SPEAKER_R: What?
+SPEAKER_L: set. Well now technically it's the second largest SpaceX is now the largest with their Starling constellation. Um But in a sense they're the largest satellite provider company in the world. And they like their biggest customers are the US government U. S. Navy. Um You know they do all kinds of you know secret spies and all that you know But they also do cable television and the like their second largest market is internet and television services for boats and planes. And they got hit at the end of the year with an FCC notice it or noticed that pretty much the FCC FCC is declaring eminent domain on a bunch of their frequencies Because they're they're switching over using the frequencies for 5G. And they said we'll pay you you know we'll give you money for this. I mean but You know it was such a major hit. The stock went from $37 down to $7 in a matter of three days.
+SPEAKER_R: that's hard because you can't really kind of retrofit a satellite units in orbit that easily. Yeah, like different frequency at that point to be able to use that. So yeah, it's kind of like make them dead in the water at that point and see
+SPEAKER_L: Yeah it and they got slam and it just kept going down. But I thought okay right at the round of $3 mark was when it was instead of just going down is when it started fluctuating again and I was like okay this is a multibillion dollar company there. You know they have a lot of debt but they have more assets than debt. They're the largest satellite company in the world. They I mean they even do battle feud field communications for the U. S. Military, a
+SPEAKER_R: hmm.
+SPEAKER_L: massive company. This isn't just like some mom and pop shop right. It's like they have to recover, it might be a slow recovery but they got to recover and then right after I put my money in is when the coronavirus pandemic started. And the two of the biggest industries that were hit were maritime and aerospace. So it's like their entire services like there was like okay there's can't offer internet planes that aren't flying, can't offer internet carnival carnival ships that aren't going anywhere.
+SPEAKER_R: That makes sense. Right. Yeah.
+SPEAKER_L: So they probably in one of the most unique bankruptcies in history, They have declared bankruptcy. So the stock that I bought is now worth like $0.69 a share and it's not even listed on the stock market anymore. That's like. Uh huh.
+SPEAKER_R: Yeah. Yeah. Ever see that. Yeah. All your, all your customers you have bailing out at the same time, right.
+SPEAKER_L: Yeah that was, and and like in the wacky thing is that like normally your shares just get wiped out in a bankruptcy like that, but they're getting billions of dollars from the government just not right away. Uh huh. They're still, you know, they're still putting out commercials for new Internet service, things like that. Um they followed a chapter 11 to Chapter seven, but there, so it's either I'm going to have to wait years and join a class action lawsuit to get some of the money back or because they're not going out of business, they are that big. They're not.
+SPEAKER_R: We're just going to restructure at that point, Right.
+SPEAKER_L: Yeah. Um or the they eventually get relisted and over time it starts going up again, but temporarily and it's like you never
+SPEAKER_R: term
+SPEAKER_L: lose it.
+SPEAKER_R: yeah. Kind of investment. You're looking for it point, right. Yeah.
+SPEAKER_L: Yeah, I got it was a double whammy hit with that one. That was bad. So that yeah, there are risks. But
+SPEAKER_R: Where?
+SPEAKER_L: I knew that one. I knew. I mean, I wasn't expecting a global pandemic, but that that is the example of like, yeah, you are risking money man. Mhm. Mhm. All
+SPEAKER_R: Yes.
+SPEAKER_L: right. Well, this time we'll definitely wrap it up because
+SPEAKER_R: Well,
+SPEAKER_L: I have
+SPEAKER_R: yeah, just past the hour mark. At this point, I'm trying to figure out if there was any thing I actually needed to press to close out the conversation. I don't see anything, at least on my screen. I'm
+SPEAKER_L: no.
+SPEAKER_R: just the tab and that's it.
+SPEAKER_L: Yeah, I just close the tab.
+SPEAKER_R: That's why I figured. Okay. Right.
+SPEAKER_L: well, nice talk. Anyone.
+SPEAKER_R: Yeah. It's fun. Uh huh.
+SPEAKER_L: Fun experiment.

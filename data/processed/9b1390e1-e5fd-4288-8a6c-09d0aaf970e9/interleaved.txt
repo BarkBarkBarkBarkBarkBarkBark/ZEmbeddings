@@ -1,0 +1,178 @@
+SPEAKER_L: Uh huh. Have entered the video of conversation? Mhm. Yeah. Yeah. Yeah. Yeah. Uh huh. Yeah. Yeah. Mhm. Yeah. Mhm. Mhm. You're talking about yeah. Mhm. Mhm. Mhm. Yeah. Okay. Mhm. Mhm. Yeah. Mhm. Mhm. Mhm. Mhm. Mhm. Yeah. Mhm. Mhm.
+SPEAKER_R: I
+SPEAKER_L: Hey?
+SPEAKER_R: can you hear me? Everything good,
+SPEAKER_L: yeah I can hear you. It's all good. Um Yeah. So how is it going?
+SPEAKER_R: I'm doing good. Um Yeah like just being here at home the whole day, it really knew much. Um How about you?
+SPEAKER_L: Yeah. Pretty much the same. Think been social distancing now for something like I think one month over one month uh easily over one month losing track of time.
+SPEAKER_R: Yeah where where do you live?
+SPEAKER_L: I'm in bloomington indiana. How about you?
+SPEAKER_R: Um House look like corona situation there in indiana.
+SPEAKER_L: Uh It's okay. Um I mean it's not as bad as some other states but I think it's okay. Uh Where are you located?
+SPEAKER_R: I'm in new york.
+SPEAKER_L: Okay. Oh that's uh things are bad. Right.
+SPEAKER_R: Yeah it's super bad here. Um Yeah and today I just went out to do like the essential stuff like to do laundry and boy everyone's outside like I don't know, No
+SPEAKER_L: What?
+SPEAKER_R: 1's I think everyone is easing up with their like self isolation thing and I don't know. Hopefully it doesn't um like you know make the pandemic worse.
+SPEAKER_L: Okay. Um Yeah I mean like are the the cases in new york are going down now? Right slowly though
+SPEAKER_R: Yeah so the cases are going down but the death rate it's still pretty high. It has not much
+SPEAKER_L: Yeah. Okay. Uh So the death rate hasn't gone down yet
+SPEAKER_R: no.
+SPEAKER_L: I guess I would reflect a little later right like until um you know I think all those people who are counting towards the death rate would have been admitted some two weeks three weeks earlier I guess it'll get down lower. Like I think two weeks from now hopefully. I don't
+SPEAKER_R: hopefully
+SPEAKER_L: I mean nobody knows.
+SPEAKER_R: though
+SPEAKER_L: Yeah but if you're saying that everyone is out now then I don't know how that's going to let impact the thing.
+SPEAKER_R: how's the weather there? Because right here it's sunny and hot so that's why people are just going out. How about there?
+SPEAKER_L: Yeah things are, it's actually getting Sonnier now. Uh It was yeah I think we expected we expect it to get a little harder earlier I think it should have been but now the sun is coming out and but there have always been people just exercising and everything and I'm in bloomington. It's not there aren't any students around or anything like that, that's usually most of the crowd here. So uh otherwise the streets are pretty empty. Um So that's good I guess.
+SPEAKER_R: So it's bloomington like a university town.
+SPEAKER_L: Yeah. Yeah indiana University uh So Almost you know 90% of the people we encounter here usually students and I think they've they've sent almost everybody home.
+SPEAKER_R: are you a student yourself? Okay, that's cool. What are you taking up?
+SPEAKER_L: Uh I do human computer interaction like it's user experience design and stuff like that. Uh Yeah and I'm actually graduating this week. Uh There's no there's no graduation happening obviously. Yeah.
+SPEAKER_R: so they canceled the whole thing like you don't where the toga or anything like none
+SPEAKER_L: no
+SPEAKER_R: of it
+SPEAKER_L: I
+SPEAKER_R: will
+SPEAKER_L: think
+SPEAKER_R: happen.
+SPEAKER_L: yeah none of that will happen. I mean the university president has said that you know it's postponed indefinitely. Uh Which for us it just means cancel because I mean who's gonna stay here just for or come back just for the graduation ceremony? Uh Well we'll all be busy with jobs and things like that so.
+SPEAKER_R: True man that that kind of sucks. You've worked
+SPEAKER_L: I mean
+SPEAKER_R: like four years or five years for that then you know? I have.
+SPEAKER_L: I mean yeah I'm actually a masters student so I guess I'm less committed to this place than, you know, undergraduate students because I've only been here two years. Um
+SPEAKER_R: now.
+SPEAKER_L: Yeah, I mean, I don't know if that makes things better, like what? But things are certainly bad because like, you know, we're graduating now and like the job market is horrible, like uh
+SPEAKER_R: Yeah that's true like everyone's just not working right now, it kind of sucks.
+SPEAKER_L: Yeah, what do you do?
+SPEAKER_R: So I'm I'm a student too but I'm also a practicing physical therapist. Yeah so right now I'm just um starting my doctorates. Um I've been at it for two semesters now so I have maybe three semesters to go, oh I still have maybe a year and a half left.
+SPEAKER_L: okay. I think by then I hope things will be better. So if you're a physical therapist, I mean like uh are you practicing right now? I mean like are you able to go out and practice physical therapy?
+SPEAKER_R: so that's the so we are considered essential to basically but if you work in hospitals or what they call it like the skilled nursing facilities. But for me I I work at a orthopedic or outpatient setting. Yeah. So and it's basically more on like just foot pain, um orthopedic cases, ankle pain, ankle sprains. So like I don't that sucks for me, I don't have work because they just decided to close down the facility. Yeah.
+SPEAKER_L: Yeah.
+SPEAKER_R: But at least I have like school right now to keep me busy so I can't I can't really complain there.
+SPEAKER_L: Okay. Yeah, that's that's good. I mean uh Mhm. Yeah, I mean like it's it's lucky for students who are going to remain students through this and like, you know, afterwards like because like they're not just thrown out into this world in this condition, right? Like, so I I guess that's the positive of that mm
+SPEAKER_R: Well how about you? Like are you planning to just stay there in indiana or like move somewhere else?
+SPEAKER_L: Right now I'm here in indiana, find some work at the university and stuff like that. But uh afterwards like I'm still looking for jobs and everything. We've been looking for a while um Yeah, definitely moving out of your, just don't know where or when.
+SPEAKER_R: So is it will you just move based on like where you can find at work?
+SPEAKER_L: Yeah. Yeah, I mean before, before all this happened, uh you know, we had preferences about, oh, I want to go to the state or like, you know that state, but now all of that's like, you know, not
+SPEAKER_R: Gone.
+SPEAKER_L: reasonable. Like you just have to get something that itself is a challenge and just go where it is.
+SPEAKER_R: Mhm. How about like when before this happened? Are you did you want to work at like, I don't know maybe like some big tech companies or something
+SPEAKER_L: Yeah, I mean the idea was go to the West Coast or or even, you know, new york, you know, there's lots of opportunities in new york. Uh So we were thinking along those lines but yeah. Uh
+SPEAKER_R: with west Coast limb in silicon valley like in California.
+SPEAKER_L: Yeah California Seattle places like that, usually they have really good opportunities.
+SPEAKER_R: Mhm. But right now yeah the job market is down a lot of fun memories,
+SPEAKER_L: Yeah it was scary because like you know we were thinking about like three states um by B I mean like me and my girlfriend uh and she's actually sitting right here. Um We were thinking about three states California Washington, uh new york or something, you know, things like that and those three were the hardest hit places in fact first.
+SPEAKER_R: Yeah, for sure. I think so.
+SPEAKER_L: let's
+SPEAKER_R: Late.
+SPEAKER_L: see like there's a lot of uncertainty about you know how to actually proceed with this, so hopefully like things will get a little better. Mhm.
+SPEAKER_R: so like you said a while ago like some students right now they're like gone from indiana, they went home and stuff. Like how about you? Do you have like family around?
+SPEAKER_L: I have family around in California and everything, but for now I'm just staying here, like most by most of the students who have left, I mean their undergrad, so like they stayed in dorms and things like that, they've shut those places down, but you know, graduate students have, you know been staying outside, so uh it's more manageable for us and I think even among graduate students, a lot of people have, you know gone to States where there's family and things like that, I'm just saying here right now and then like, you know to stay close to the university and like, you know, get some job there makes things a little easier and besides, it's not like the other states are like really safe either, so.
+SPEAKER_R: Okay. Yeah because they thinking about it like for a lockdown like a month or two, some people would rather prefer to go to where family is, you know and just being, I don't know, just being stuck in a apartment or something like alone. That would feel um kind of bad. But I guess you have your girlfriend there so that would make better.
+SPEAKER_L: Yeah, we've been in quarantine and you know, having each other for company definitely helps. Like I can't imagine just being alone throughout this whole period I think yeah,
+SPEAKER_R: That's crazy.
+SPEAKER_L: I'm also an international student, so uh like if I really have to like go where family is that would be like you know India or like I have some family in California, I can also go there but California is not exactly like safe right now and traveling out of the country is not exactly an option with you know, all of the visa stuff.
+SPEAKER_R: Yeah. So you were born in India then you just came here for like school and stuff?
+SPEAKER_L: Yeah I came here like I came to the U. S. Just two years ago.
+SPEAKER_R: Oh then did you know english before then?
+SPEAKER_L: Yeah. Yeah I did. Uh
+SPEAKER_R: That's
+SPEAKER_L: yeah we speak a lot of languages in India. So like all of us don't know each other's languages very well. So like we usually communicate them english. Yeah
+SPEAKER_R: Oh I did
+SPEAKER_L: especially if you travel between the states and India and everything. I studied inequality where there were people from different parts of the country. So all they all have like different native languages and things like that. So all of us used to just communicate in english. So
+SPEAKER_R: yeah that's interesting.
+SPEAKER_L: yeah. How are you, when did you uh like how long have you been here?
+SPEAKER_R: So I I'm not sure from the Philippines. Um But I've been in the U. S. For, let me see For three years now. Um I went to Alaska for two years then I just came to new york maybe like um six months ago. Yeah so I don't know when I got here I just had a job for a few months than found an apartment. Everything than the lockdown how happened and stuff. So I would rather be
+SPEAKER_L: great.
+SPEAKER_R: in Alaska in quarantine. You know at least there's no people there, you can walk around see nature here crazy. But yeah
+SPEAKER_L: Mhm.
+SPEAKER_R: yeah all my family is here too though there in Utah. Um Yeah so I can't, I mean if given the choice I won't go back to the Philippines because I don't have anyone there and my parents are they're kind of old, they're like Late 60s, so if I would go to Utah then I would just put them in danger. So I'd rather stay here all right.
+SPEAKER_L: that makes sense. Yeah. Like uh in new york, like how are people feeling about the lockdown? I mean like are they like we need to reopen or like are they okay with the lockdown?
+SPEAKER_R: I think um like looking at where I live um people are kind of okay with it, but like looking at the news, I think people are like having protests and stuff and um like I think so I've been around, I'm the city doing like, like laundry, grocery shopping and stuff mostly in Manhattan. It's people are okay there. I guess that's like where the rich people are, so they can do the lockdowns and stuff. Um Yeah,
+SPEAKER_L: Yeah.
+SPEAKER_R: so there's not much of like, there's not a lot of people around um in queens area though where it's kind of maybe like the working class. Um Yeah, there's a lot of people because I guess they need to work, they need to go out and do stuff um Brooklyn, it's I don't know, there's like still a lot of people in Brooklyn tail, so I don't know like having like knowing that new york has the highest number of cases, but people are still going out. It kind of concerns me because I mean when this thing um like when the government, what they call it, when the governor would actually open the state, like how would that impact us and stuff? A second wave, Like that would that would hurt I guess more than the first, so I'm kind of scared about that.
+SPEAKER_L: Yeah. So like what did your day look like, you know, before all of this africa, like do you have, you know, people close to you there in new york because you said you had more than just recently? Right.
+SPEAKER_R: Yeah. Um I have my a few classmates here, so everyone back in the Philippines where I graduated college, they moved here, so that's why I moved here too because they actually referred me to the job. So I guess that's just it. Um I live in an apartment like so I live in an apartment that's like shared. I have one of my friends here. Um but that's basically it. So, but it's been pretty good like having a friend to talk to and stuff. So that really helps aside from just doing it alone, Katie. And it's weird too because new york has like a hotline for um like news and stuff. So I actually subscribe to it and like every day or maybe every other day they send tax, like if you have depression or if you have mental issues and stuff, please call this hotline and
+SPEAKER_L: No.
+SPEAKER_R: like realizing they're doing that. That means like people are really um suffering from like maybe being isolated or feeling lonely and it's crazy. People are really suffering from this I guess.
+SPEAKER_L: Yeah. I I wouldn't have, you know, realized before that, you know, being in quarantine would affect people this much like mentally, but like you know, but now every time you see online it's like all people are like depressed and like feeling that I mean like I feel it too like uh because like we've been indoors like for like more than a month now and you know every day is just the same way we wake up work, like apply for jobs, get rejected, go to sleep. Like it.
+SPEAKER_R: What's your schedule? Like do you still like wake up? I don't know, like am sleep at like 10 PM or has it been like all over the place?
+SPEAKER_L: it's been like a week. It's I feel like it's kind of shifted uh towards a little later. Like I go to sleep now at around you know 1:30 a.m. Or like two a.m. And wake
+SPEAKER_R: Aim.
+SPEAKER_L: up at 10 a.m. I feel like it used to be a little like you know, shifted by one or like earlier like I would sleep at like 12 30 or one and then like wake up earlier. But it's that way it's been like not much difference. I feel like I think things will definitely be a lot different if I was living alone. I feel like, you know, there would be no regulating factor or anything like to my sleep schedule or anything. So I think having people around us what keeps that stable somewhat.
+SPEAKER_R: that's good. And I bet that would help to like having routines. But for me though like even though I live with someone man, I I sleep at like five a.m. Now I wake up at like three p.m. Then the next day
+SPEAKER_L: This
+SPEAKER_R: I sleep at like 10 PM and wake up at like six a.m. It's been crazy. Um And I think it actually it doesn't help like when you wake up at like, I don't know, maybe a couple of days ago I woke up at like five p.m. And all you see is darkness now you don't see the sun and I don't know it just makes everything way worse.
+SPEAKER_L: Yeah. I can definitely feel that like, you know, sometimes when I, you know, make the like make the choice to sometimes sleep in the evening, like I'll say I'll just take a nap for a little bit and then you wake up to three years later, it's completely dark and everything and like you're like, what day is it?
+SPEAKER_R: that's true. Uh huh.
+SPEAKER_L: Yeah. So what do you do like to pass the time? Like are you busy with like schoolwork?
+SPEAKER_R: Yeah so I'm busy would score and um like even before the quarantine like even um I'm I play games and stuff, I'm always thinking in my computer so I can I can basically do it, it's fine, I don't feel super down, I don't feel super depressed. Um And I bet you're kind of the same to like even before the quarantine I bet you're in your computer all the time.
+SPEAKER_L: Yeah. From waking up and I was like going to buy, it's basically just looking at the computer.
+SPEAKER_R: Yeah so I think that helps like having our kind of our world um like online being able to do stuff, being able to serve the internet. I think that really helps.
+SPEAKER_L: Yeah. Yeah. But also I think like even though I was still on my computer, I was still a little surrounded by people. I think, you know that difference. I can surely feel it now. It's just like, you know, the there was like a bad idea of places I could go and like work and like walk around between like I'll go to a cafe and do the stuff I need to and stuff like that. But now it's just okay. Like bedroom or living room. Like those are the only two options and like it's getting yeah. Like I feel like that needs to be like a good mix of things. Maybe I'll work in the bathroom or something. I don't know. Um Yeah.
+SPEAKER_R: but have you um there's like this is what I read from the news and stuff so there's like two kinds of people like who just wants to chill out, do nothing and feel good and there's another set who wants to like you know like work out, I need to come out of this um lockdown feeling better, looking better or like have a scale, have whatever. Like where do you think you're in like in those two groups? Uh huh.
+SPEAKER_L: I'm
+SPEAKER_R: All right.
+SPEAKER_L: tempted to like go down that first. I would like to just chill out because like this is like a serious event and everything like you don't need to like feel pressure but the truth is I do feel pressure like, you know, I have to get a job like otherwise like I have to like, you know, I have to work and like I have to get a job and like for the job I have to make myself competitive and like, you know, so although I would like to be in that first category and I think like if I had a secure job and everything like I would be but like given that given my current situation, I think I'm forced to be in the second category right now.
+SPEAKER_R: Okay. That's good.
+SPEAKER_L: Like,
+SPEAKER_R: Yeah. Like even Me too. I mean the second.
+SPEAKER_L: like
+SPEAKER_R: Yeah, I want to be the first though, but I don't know like people are saying that because of the pandemic thing. Everything is passed. I mean, yeah, everything's paused. But we're still getting older. Our bills are still coming in so it's just hard to like just chill out, you know?
+SPEAKER_L: that's true. Like a lot of things have stopped, like a lot of important things but like all the things which maintain pressure on us are still like continuing like it's that's not stopped, it's just like we have to continue our previous lifestyle but in worse condition like that's it. So that's bad. Um Yeah, I mean like do you work out and stuff like?
+SPEAKER_R: Yeah. I try like since I'm a physical therapist, like even before I I tried to work out every day. Um I miss going to the gym though. Like really having weights and stuff. Like right now, I'm just um stuck to like the resistance bands, the body weight workout, but like we're working at really helps. Um Yeah, it does.
+SPEAKER_L: Yeah, I go out like uh I try to run every ordinary day and like you know on the days when I'm not running, like usually my girlfriend and I go for walks like that definitely makes a difference. Like in our day, like before walking after walk, like you feel a lot better like once you've been outside like but staying inside like you're quite depressed and like once you go outside you're like okay things are, the world is still out there. Yeah.
+SPEAKER_R: So you're you said you just finished masters, are you like around 25-30?
+SPEAKER_L: Yeah. Yeah. uh 27 to be specific like uh Yeah I mean hopefully like when my birthday comes in a few months like we'll be able to go outside, let's see. Yeah mm okay so what about food situation like are like is there take out available in new york?
+SPEAKER_R: Yeah, everything's um take out and you know those those apps um like Door dash or whatever. We just do that. Um It's crazy though because whenever you go to the grocery stores, I don't know if it's the same there, but you have to line up Because they like limit only like 10 people inside the grocery stores and you have to line up for like an hour before you actually get in. So that's the stressful part about it.
+SPEAKER_L: Right. Yeah it's actually not like that over here because there are already very few people uh
+SPEAKER_R: That's good.
+SPEAKER_L: so you can just go in, the grocery stores are not very crowded just when you check out like you have the they have set up like you know lines on the ground that like okay like first person, second person like so that your socially distanced and everything but getting inside the grocery store is is not a problem right now. Yeah.
+SPEAKER_R: that's again and like since that's like a small town, you have cars, right?
+SPEAKER_L: Yeah. Yeah we do
+SPEAKER_R: Yeah, that that makes shopping a lot of things easier because here we don't um Yeah, so I can only buy the things that I can carry and. Yeah that that kind of sucks too.
+SPEAKER_L: Yeah, I don't think about that actually like you know when I think about new york like I just think like, you know, there's a lot of people there and like, you know, it's a high cost of living and I assume that like they must also have like cars to get it on. But like, yeah, that's true that like, you know, a lot of people actually don't have guys because everything must be closed by and walkable and like because it's dense rate.
+SPEAKER_R: No um I mean my groceries just like a block away, but actually like I can like with my job right now like I can buy a car if I want to do, but I'd rather like not to Because with the subway like I can get to queens to like Manhattan in like 30 minutes. But if I buy a car it would take, I don't know maybe more because of traffic. I'd have to find parking spots. I have to um pay for monthly What they call it rent, which is like I think it's like 200, a month to just find a rent a space to park your car. And yeah
+SPEAKER_L: That's
+SPEAKER_R: so
+SPEAKER_L: like
+SPEAKER_R: it
+SPEAKER_L: my apartment,
+SPEAKER_R: really and then
+SPEAKER_L: like my apartments around like you know 3 50 Like including utilities. So
+SPEAKER_R: crap that's cheap. We achieve.
+SPEAKER_L: Yeah. Wake up.
+SPEAKER_R: So it just makes a lot of sense. Do not do not have a car, especially when you're single. You don't have a family yet so yeah I'll just stick with the subway for now.
+SPEAKER_L: Yeah. Like what are your other friends doing? Like do you get to meet friends? Like I mean all of you are socially isolating, but you know, do you still get to meet each other because that would still be safe? Right.
+SPEAKER_R: Um So I only be I'm sorry I only meet with my friend that lives um in the same apartment complex but with the other ones, I don't really go out to them because it's like a good um Let me think Maybe like 30 minutes going to their place and I have I'd have to ride the subway again which is I don't know it's kind of I'm kind of wary to ride the subway because it's closed um 4th and stuff so I'd rather not.
+SPEAKER_L: Yeah, that makes sense. Yeah. If there are 30 minutes away then it's like not for that I guess you just have to maintain your friendships or radio calls.
+SPEAKER_R: Yeah that's true. Yeah.
+SPEAKER_L: So like how are your parents doing in Ura?
+SPEAKER_R: Um They're doing good even before the quarantine. They only just watch netflix too, they really go out. Um Yeah but yes they live with their grandkids so that that makes things way better. Um They live with my brother too so I don't I don't think they're getting too lonely there.
+SPEAKER_L: Yeah that's good.
+SPEAKER_R: How about the situation of the pandemic in India? I heard it's getting worse there.
+SPEAKER_L: Yeah it's so right now there actually aren't that many cases reported but I don't know like whether that's accurate or like whether that's because of like a lack of testing. I mean they are definitely not testing enough. Like it's a his country um with a very dense population. Like I'm pretty sure they're not testing enough but I think they are taking the right steps. Like just recently they had a four day complete lockdown basically. Like even the essential services were locked down except except pharmacy stores I think it was um Yeah, so they've been taking steps to address the situation. I just don't know whether it's enough like social distancing is definitely happening, but like they're still like very optimistic about it. Like I think now they've extended the social distancing guideline for until I think two weeks from now like and we know it's not going away in two weeks, right? So like they're they're still being like very optimistic about all like we'll open up after two weeks and things like that. But, but I think otherwise I guess it's being handled okay. It's really hard to tell when you're in another country. Uh huh.
+SPEAKER_R: question. So when when would we know that this um this thing is finished?
+SPEAKER_L: Id don't know if he'll ever know like, I mean there has to be a vaccine that loved or you know, I think I think this is going to be changed for like a long time to come. Uh and I don't think it's just going to disappear like people are still going to be infected and stuff like that. And I think under the vaccine comes along like we have to keep treating it seriously I guess. Mm
+SPEAKER_R: Um
+SPEAKER_L: hmm. Okay.
+SPEAKER_R: So wait let me check. We just have to stay on the video for 25 minutes. Right?
+SPEAKER_L: Yeah, I think so. And I think, yeah. I think, I think like we've been honored for Oh, I love.
+SPEAKER_R: my timer says 32
+SPEAKER_L: Mhm. Yeah. I think like, yeah, we're good actually. Okay
+SPEAKER_R: but what's next though? Um
+SPEAKER_L: at I think like we just have to go into the page and hit necks.
+SPEAKER_R: And we won't close this tab. Right Not yet.
+SPEAKER_L: huh. Uh Not yet I guess. Yeah. Yeah. What? Yeah. Okay.
+SPEAKER_R: Are you like
+SPEAKER_L: I think we can actually uh close this now.
+SPEAKER_R: you can? Okay
+SPEAKER_L: Because
+SPEAKER_R: sweet
+SPEAKER_L: it just has some additional questions. Okay.
+SPEAKER_R: Well thank you so much. That was
+SPEAKER_L: It was great talking to you.
+SPEAKER_R: yeah that was great. Yeah have a good day and be safe.
+SPEAKER_L: Yeah. You do. I mean like this is an interesting thing to do during quarantine. Yeah.
+SPEAKER_R: Right good. Nice to meet you though. Right.

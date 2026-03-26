@@ -1,0 +1,295 @@
+SPEAKER_R: well,
+SPEAKER_L: Heidi many. Yeah,
+SPEAKER_R: how are you?
+SPEAKER_L: I'm good. How are you?
+SPEAKER_R: I'm good. Sorry, I'm a couple minutes later my dog was barking
+SPEAKER_L: Oh, it's okay. So I had to find my laptop charger so I was afraid I was going to be late. I actually just got on about 10 seconds before you. Hi, I'm Shelby.
+SPEAKER_R: It's nice to me. I'm Ariana.
+SPEAKER_L: Nice to meet you.
+SPEAKER_R: Yeah. Um I don't I don't know if there's like a list of questions we're supposed to go through.
+SPEAKER_L: Uh huh. Let I'm not for sure. I know they said that their meticulous and if not just kinda like talk about whatever. Mhm.
+SPEAKER_R: How old are you?
+SPEAKER_L: Did you say? How old am I? I'm 23.
+SPEAKER_R: I'm 19.
+SPEAKER_L: Uh huh. So young. Okay.
+SPEAKER_R: Are you a student or post grad? Er
+SPEAKER_L: I actually just graduated to me.
+SPEAKER_R: Congratulations.
+SPEAKER_L: You so much? Are you a student?
+SPEAKER_R: Yeah, I am
+SPEAKER_L: What?
+SPEAKER_R: a sophomore now in college.
+SPEAKER_L: Okay. Oh, congratulations. What are you studying?
+SPEAKER_R: Do you see where my studying? What am I studying?
+SPEAKER_L: What are you studying?
+SPEAKER_R: I'm studying music and bio.
+SPEAKER_L: What's interesting take
+SPEAKER_R: I'm indecisive. What did you study?
+SPEAKER_L: um I actually went for biology and then I switched to nursing. Yeah.
+SPEAKER_R: Oh that's so cool. Are you hoping to go to med school and next year?
+SPEAKER_L: I'm thinking about it. It was kind of what I was thinking about and then like all of this happened so I don't know what to do. Mm
+SPEAKER_R: similar crazy time.
+SPEAKER_L: It is. It's very, very crazy. Right. Okay.
+SPEAKER_R: the biggest fan
+SPEAKER_L: mm hmm. Yeah, I did. Um your college switch to online classes.
+SPEAKER_R: we did from the second half of the semester, but we're going back in person in the fall, which I'm kind of afraid about.
+SPEAKER_L: We switched online too. And now they're going back. Some of some classes are going back and other classes are online. I didn't do too good online.
+SPEAKER_R: No, it's really hard to focus.
+SPEAKER_L: It is, I, I haven't got a desk but I kind of throw it stuff on it. So I did most of my homework in bed and I would end up taking naps.
+SPEAKER_R: we do. And then like we would have tests and I didn't feel like clearing off my desk just like sit on my bed for my test. Which
+SPEAKER_L: No,
+SPEAKER_R: company?
+SPEAKER_L: it is, it's comfy and it's just, I didn't do too.
+SPEAKER_R: Yeah. So are you out of school now? What's the fun?
+SPEAKER_L: I graduated in May. So I'm done. Um I do want to go back. I just, I'm indecisive right now. I'm trying to decide what to do with my life.
+SPEAKER_R: That's very fair. Do you have any advice on how to pick a major because I kind of just picked bio for fun. How much I want to commit to it.
+SPEAKER_L: Mhm. Um I wish I could give you some amazing goodbyes. But um I kind of picked a major, I was indecisive and then one day I was driving and I was listening to music and I was thinking about what I wanted to do my whole life, like what job would make me want to get up and I wouldn't hate it. Mhm. Yeah.
+SPEAKER_R: Do you spend a lot of nursing?
+SPEAKER_L: Yes, I did on housing and I'll see if I don't hate it.
+SPEAKER_R: What best of luck?
+SPEAKER_L: Thank you. I best of luck to you
+SPEAKER_R: Thank you.
+SPEAKER_L: don't stress about it. You have time
+SPEAKER_R: You don't
+SPEAKER_L: Um in my nursing classes, those people and there was someone in the 50s,
+SPEAKER_R: That's so cruel.
+SPEAKER_L: it was so neat that no matter how old you was, you can always go back and switch your mind and Yeah.
+SPEAKER_R: Let's a relief I think.
+SPEAKER_L: Yeah. I just don't stress you got time. Yeah. Yeah.
+SPEAKER_R: So have you been stuck at home quarantining all year? But you would give yourself entertained?
+SPEAKER_L: Um a lot of netflix videos.
+SPEAKER_R: What do you like to watch?
+SPEAKER_L: I like scary movies,
+SPEAKER_R: It was very brief.
+SPEAKER_L: it sounds big, but it's not, I watch scary movies and then I get scared and I had to sleep with my lights on,
+SPEAKER_R: I can't handle stress. I've just been watching like Children's cartoons.
+SPEAKER_L: I think you know what comedy is too,
+SPEAKER_R: I like comedies.
+SPEAKER_L: just laughing kinda helps with this dress and a lot of netflix and reading. I love books.
+SPEAKER_R: What's your favorite books series or just some books that you like? Mhm
+SPEAKER_L: I love hey parlor. Um there's a book by George Orwell um 1974 I think
+SPEAKER_R: 1984.
+SPEAKER_L: 94. Yes. I love that book. I just read it. I'm trying to do more classic books. I educate myself.
+SPEAKER_R: I get that. There's a lot of books I haven't read
+SPEAKER_L: Some of them,
+SPEAKER_R: that's good.
+SPEAKER_L: some of the classic books I just can't get into
+SPEAKER_R: No.
+SPEAKER_L: like sign. It was way too long and just I couldn't do it,
+SPEAKER_R: I tried Moby dick but like there are two chapters that are like incorrect whale and out of me and I just didn't want to read through that.
+SPEAKER_L: you know? Well Anatomy.
+SPEAKER_R: I don't know much but like I know enough to know that it wasn't correct. Mm Yeah
+SPEAKER_L: Yeah.
+SPEAKER_R: I mean like they didn't really know at the time of their writing, it's like I should cut them some slack but
+SPEAKER_L: Uh It's hard to read a book or watch a movie when you know it's incorrect in
+SPEAKER_R: some
+SPEAKER_L: fact.
+SPEAKER_R: of them are like sexist.
+SPEAKER_L: Yeah. I hate that. I know that times was different back then but still I just.
+SPEAKER_R: Why would I want to swap the characters are supposed to like because they're trying to sexist. Mhm. Mhm.
+SPEAKER_L: Yeah.
+SPEAKER_R: Mhm.
+SPEAKER_L: Do you have any animals?
+SPEAKER_R: Yeah I have a dog.
+SPEAKER_L: It's cool. I have two dogs.
+SPEAKER_R: What are their names? Mhm.
+SPEAKER_L: chuck and champ.
+SPEAKER_R: It's very cute. What kind of dogs are they?
+SPEAKER_L: Um chuck is a german shepherd on and champ is a yorkie poo. The truck is like so big and champ is so tiny
+SPEAKER_R: That's cute.
+SPEAKER_L: chuck. He just turned one in june. Yeah Will be 11 in August. Mhm
+SPEAKER_R: so
+SPEAKER_L: champa
+SPEAKER_R: cute.
+SPEAKER_L: so grumpy and chuck has so much energy and it's so cute to watch them play
+SPEAKER_R: Polar opposites.
+SPEAKER_L: you know skill. Um What's your dog's name?
+SPEAKER_R: My name is Oliver. Um He's a rescue puppy. He's super thumb. We think he's like a schnauzer some terrier mix. Um He was actually like the dumbest dog I've ever met and I love him a lot.
+SPEAKER_L: This sounds so cute.
+SPEAKER_R: I have seen him walk into walls because he didn't like stop sliding in time. Okay
+SPEAKER_L: Mhm.
+SPEAKER_R: our opulent these
+SPEAKER_L: You
+SPEAKER_R: rooms meet and very dumb and very loud.
+SPEAKER_L: animals? I love how they all have their own personality and it's so cute.
+SPEAKER_R: Well I think my favorite type of dogs just big stupid dog.
+SPEAKER_L: I know the stupid ones. Just cute. I just love all animals. I also have some bunnies. Like some rabbits.
+SPEAKER_R: Actually
+SPEAKER_L: There you are the sassy. Yeah some of them will like let you hold them in other of them like you can't touch them.
+SPEAKER_R: But is cute. How do you, I don't know much about rabbit care you like are you able to play with in the bunch or?
+SPEAKER_L: You it's up to the rabbit, some of them you can play with them and hold them and pet them other bunnies, they don't really like being pet. Um If you go to pick them up you have to do it slowly. Don't startle them. If they get scared they will claw you. But other than that they're really friendly. They love snacks, get out of your hands.
+SPEAKER_R: Mhm. It was kind of wanted a rabbit. They just precious.
+SPEAKER_L: It was so cute. They die easily sadly but it was so cute. Mhm. Mhm.
+SPEAKER_R: like the normal lifespan of a rabbit,
+SPEAKER_L: They can live about five years.
+SPEAKER_R: it seems like a solid amount of time.
+SPEAKER_L: Um I have some rabbits started. Two girls they put a long time along, we just take good care of them. Um When the baby is just born it's kind of they die easily been. Mhm. Unfortunately they just have to be careful when the babies they don't get any snacks. Just milk and hey but once they get past that they live a long time. Okay.
+SPEAKER_R: Okay.
+SPEAKER_L: Mhm mm.
+SPEAKER_R: Many enjoy their company.
+SPEAKER_L: Thank you. I think
+SPEAKER_R: mm Do your dogs ever get to play with your bunnies?
+SPEAKER_L: um Julia voi. Um No. Yeah
+SPEAKER_R: It's probably safe.
+SPEAKER_L: if they want to champ loves to sniff them and the bunnies will allow that. They don't like it but they will allow that
+SPEAKER_R: It would be scary.
+SPEAKER_L: he the scale chuck, he wants to play with them but he's really excited and he doesn't know that he's a big animal, he's almost as tall as me when he's on Like two ft and it gets so excited and he scales the bunnies one time. Um We chocolate um chuck play with Leo, one of the Labatt and he pinned leo down in licked. Um Leo was terrified so they don't get to play, just talk wants to but he doesn't understand that he's a big dog. You have to be careful. Okay.
+SPEAKER_R: I love that so much. Mhm.
+SPEAKER_L: and then I have a cat, it's kind of my cat, it's a outdoors cat it showed up
+SPEAKER_R: Hello?
+SPEAKER_L: one day and so kind of adopted it and I feed it and it stays in my garage.
+SPEAKER_R: It's so cute. Did you
+SPEAKER_L: I
+SPEAKER_R: give a academy?
+SPEAKER_L: willie,
+SPEAKER_R: That's a cute,
+SPEAKER_L: she's a cute
+SPEAKER_R: so many animals. That sounds so fun.
+SPEAKER_L: it's fun. It's it's a venture.
+SPEAKER_R: Different.
+SPEAKER_L: I love, I live in town. I'm hoping to one day live in the country and I just can have like all these animals.
+SPEAKER_R: But please. Okay.
+SPEAKER_L: This
+SPEAKER_R: And
+SPEAKER_L: love animals so much.
+SPEAKER_R: Mhm. Yeah. He looks back. I I have a list on my phone of like every dog breed that I want to own at some point in my life. Just at some point I just have so many dogs and I'm so excited for that day.
+SPEAKER_L: I hope one day you can have all the dogs you want.
+SPEAKER_R: You could.
+SPEAKER_L: Um if you could have any, what would it be? Mhm.
+SPEAKER_R: I'm gonna probably still both dogs but like a Norwegian into it.
+SPEAKER_L: So cool
+SPEAKER_R: So you
+SPEAKER_L: this man.
+SPEAKER_R: what about you? Any animal?
+SPEAKER_L: Uh Al I love owls and it's illegal to own one and I live in Illinois.
+SPEAKER_R: I live in Washington.
+SPEAKER_L: Let's meet Thanks.
+SPEAKER_R: I think it's probably illegal here too. I don't know have
+SPEAKER_L: I
+SPEAKER_R: not looked
+SPEAKER_L: know
+SPEAKER_R: in good.
+SPEAKER_L: Illinois if you have a wildlife license, you can own one. But other than that it's illegal. Okay. Mhm.
+SPEAKER_R: It's so hard. I know that there's a bird life sanctuary like pretty close to where I live that has a lot of owls and like I was going to go volunteer there over the summer but can't do that,
+SPEAKER_L: There's I don't know what the closest Wild Bald one is that. There is an animal shelter close to where I live about 20 minutes away and I have been wanting to go volunteer there forever and life happens. Yeah.
+SPEAKER_R: Very, very stressful. You know, one day at a time.
+SPEAKER_L: That's what I've been doing. I one day at the time I'm getting kind of cabin fever being inside so much, but
+SPEAKER_R: And yeah,
+SPEAKER_L: that's actually why I started doing solves
+SPEAKER_R: then just point for like some entertainment.
+SPEAKER_L: two, I needed something to, I'm a night out so I'm up all night And it gets lonely at night because my family goes to bed at like nine so so I do and solve a so I would have something to do.
+SPEAKER_R: like that. Um I had a question that I just completely forgot it before I started speaking.
+SPEAKER_L: I feel that all the time if you think about it, just interrupt me. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Yes.
+SPEAKER_R: How's Illinois? Mhm.
+SPEAKER_L: it, have you ever been to Illinois?
+SPEAKER_R: nope.
+SPEAKER_L: So you know when people think of Illinois, they think of Chicago, I don't live anywhere near Chicago. I live in a tiny town of about 1200 people and the Illinois is mostly farmland,
+SPEAKER_R: checks out.
+SPEAKER_L: so just I live in a tiny little town, a lot of farmland. Not much happens, Not much to do. We have a lot of animals though,
+SPEAKER_R: Have a wind.
+SPEAKER_L: it's common episode often like once a month, there will be like a deal running around town.
+SPEAKER_R: Yeah. Trying to make some friends.
+SPEAKER_L: Oh, so cute. Um How is Washington?
+SPEAKER_R: That's really nice. I live. I'm like the uppermost left hand corner. So like Canada is like 20 minutes away and we're on the ocean.
+SPEAKER_L: I'm so jealous. I am so jealous.
+SPEAKER_R: It's a city of about like 90,000 people. It's like a decent size but not like overwhelmingly large. It's really pretty. I really love the pacific northwest.
+SPEAKER_L: It does. I don't think I mentioned that I kind of live like 12, kind of like in the middle of Illinois, but kind of down
+SPEAKER_R: No.
+SPEAKER_L: mostly down, I'm bad about describing things.
+SPEAKER_R: Oh you're you're valid. I mean I don't know geography very well, so I don't actually like where Chicago is in the state of Illinois, so.
+SPEAKER_L: Chicago is like, I've never been to Chicago actually, but it's up to the top of Illinois and I like towards the bottom of Illinois um in the country, it's pretty a lot of trees, wild animals. I don't want to live in a big city like you.
+SPEAKER_R: It's really nice. I like it because there's a lot of just cool diversity and it's it's a really nice city in my opinion. Um And like I think this is just a good job on maintaining the balance with parks and urbanised areas and they're turning in one of the old like factory areas is like on some waterfront that it was abandoned. So the city is tearing it down to build a new park and it's opening next year and I'm very excited.
+SPEAKER_L: so neat. Um we, that closest like walmart is like 25 minutes away.
+SPEAKER_R: No, hoping I would survive without. I hate driving.
+SPEAKER_L: so it's like when you go shopping you have to get food for like a week or two in advance which I thought that was common. And then um one of my friends like live in a big city and she's like oh no well I only get food for like that day. I'm
+SPEAKER_R: Wait,
+SPEAKER_L: like why?
+SPEAKER_R: usually I think get food for like the week because we just plan your menus ahead.
+SPEAKER_L: That's what I was comin I always plan and then I like budget and like then go shopping
+SPEAKER_R: I've been so stressed. I just had to pick what I was eating like a day off. It would just be mac and cheese every day.
+SPEAKER_L: I would get lazy. Sometimes I have days I wake up and I'm like I don't want to like take a shower and get dressed. Someone just lay in bed. Thanks. Mhm.
+SPEAKER_R: Me like pretty much every day since March.
+SPEAKER_L: Me too. I I got laid off in april.
+SPEAKER_R: I'm so sorry.
+SPEAKER_L: It's okay. That kind of just been lazy.
+SPEAKER_R: Where were you working before?
+SPEAKER_L: I work as a C. N. A. Mhm.
+SPEAKER_R: I don't know what that is.
+SPEAKER_L: Yeah A. C. N. A. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: You don't know what it is.
+SPEAKER_R: So.
+SPEAKER_L: Um It's like a nice aid. It's a new assistant. So like in hospitals they walk with Mosses and I like help get you dressed and get you ready for the day.
+SPEAKER_R: Okay, that makes sense. Yeah.
+SPEAKER_L: um I worked at a hospital in the mental health unit for um people 55 years and older or most. Yeah.
+SPEAKER_R: Tragic that hospitals had to lay people off pinned. Emmick.
+SPEAKER_L: I know. I didn't think it would happen. I worked at a small hospital though so but like all the hospitals around here how to lay people off and nobody's hiring for losses
+SPEAKER_R: No. Sorry.
+SPEAKER_L: it's fine. It happens okay.
+SPEAKER_R: So very stressful existence right now.
+SPEAKER_L: It is things are kind of just really strange.
+SPEAKER_R: Mm. Yeah, I really like everything's happening at once and there's not really like time to process anything and then the next thing happens.
+SPEAKER_L: I know and I don't know if it's just because living in a small town but I've noticed that people been like mean lately.
+SPEAKER_R: Well
+SPEAKER_L: I don't know everyone just I know those stress but everyone just kind of mean all lately.
+SPEAKER_R: I haven't noticed that here, but I also don't leave my house very often, so. Uh huh. I'm sorry that it's been not as nice out there.
+SPEAKER_L: Oh it's fine thank you fighting you. I haven't really been able to do.
+SPEAKER_R: No, sorry, it cut out for a second.
+SPEAKER_L: It's fine. Sorry if I keep asking me what sometimes the volume kind of what's
+SPEAKER_R: Technology
+SPEAKER_L: up?
+SPEAKER_R: Internet. It's messy.
+SPEAKER_L: I know especially everybody using it nowadays and this just isn't keeping up to good
+SPEAKER_R: Yeah. I have no idea. Um At my school with our online classes like some of our classes are still in person but some are in two weeks but we're quarantining for two weeks once we get there. So those classes are all online but I have three roommates and it's just one big rooms. I don't know if we have class at the same time, it's gonna be really weird.
+SPEAKER_L: interesting. Do you have to will face mask in class? Okay. I thought so. Questions
+SPEAKER_R: Yeah. Okay. Don't really know how well it's going to go over.
+SPEAKER_L: I I know around hill like elementary schools are starting back up
+SPEAKER_R: Well that's scary.
+SPEAKER_L: and you have to wear a face mask and I don't think little kids are gonna will face mask very
+SPEAKER_R: No.
+SPEAKER_L: well.
+SPEAKER_R: Oh the poor teacher trying to enforce that on a bunch of like
+SPEAKER_L: I
+SPEAKER_R: smoking.
+SPEAKER_L: I feel so bad. Everything is kind of like all messed up right now and. Mhm.
+SPEAKER_R: I go to a pretty small schools, it's like 3000 people. So I don't know if it's like I trust the majority of the people to adhere to the guidelines and social distance wear mask. Not go off campus but I feel like it's gonna be like one group that just doesn't do that and then they bring it back to campus and it gets to everyone.
+SPEAKER_L: I hope that doesn't happen for you, but there's always those people who can't listen to the walls. Yeah. Yeah,
+SPEAKER_R: I am not thrilled about.
+SPEAKER_L: hoping that everyone's list. Okay. Mhm. Yeah.
+SPEAKER_R: Yes. I know you're saying it's just weird times.
+SPEAKER_L: It is like I was thinking a few days ago that like I went to walmart to do like grocery pickup so like you oil online and then they bring it to you to your vehicle and just seeing everybody railing mask and it's just it's so crazy.
+SPEAKER_R: Just like the new reality.
+SPEAKER_L: Um and I don't know if like whatever going to go back to not them in mask. Was this something that's always going to happen? I don't know. It's just crazy.
+SPEAKER_R: Can you play thinking bathroom links like last year? Like I keep going like pressure
+SPEAKER_L: breathe
+SPEAKER_R: actively stressed. I'm like oh my God I didn't social distance last year this thing and then you feel like oh didn't have a virus by that. I don't know why I keep remembering that and feeling guilty when it wasn't actually a problem.
+SPEAKER_L: Yeah, I remember back in, I think it was january of february when I first heard about the coronavirus and I never thought it was going to be this bad.
+SPEAKER_R: Yeah. Not see a whole global pen time. They come in our way.
+SPEAKER_L: No, I wish like uh maybe like I should have took it serious back in february, you know? Stock up face mask.
+SPEAKER_R: Oh For all of our jokes none of us really had 2020 vision
+SPEAKER_L: No, No, No, No, this isn't 2020 has been terrible.
+SPEAKER_R: 1 4 months left.
+SPEAKER_L: Yes, I was joking that I turned 22 in July And I decided that I wasn't 2023, it's gonna stay 22. I didn't get to enjoy being 23.
+SPEAKER_R: Yeah we'll be so long and you can celebrate everyone and not be stressed. Be a weird story in like 50 years. Hopefully this won't be continuing. It's really weird to remember it. I remember when I was in my funny is when I was just you know pandemic on the loose.
+SPEAKER_L: hoping that like we'll be better one day I hope, wow.
+SPEAKER_R: we'll be right there. I have confidence.
+SPEAKER_L: Yeah I yeah I didn't sleep too well last night.
+SPEAKER_R: I'm sorry doing this like yeah I've been catching up like noon.
+SPEAKER_L: I have been doing that to staying up until like three, getting up 12 Uh one and then like sleeping schedule has been so messed up. Yeah.
+SPEAKER_R: Yeah. Comes the vibes I might have to go soon. That's why because I have a cello lesson later.
+SPEAKER_L: Oh yeah. Don't yeah go go to your cello. That's exciting.
+SPEAKER_R: Yeah. Yeah. But this has been really nice to meet you and talk to
+SPEAKER_L: It's
+SPEAKER_R: you and get me
+SPEAKER_L: nice to talk to you.
+SPEAKER_R: good luck with nursing. You'll make
+SPEAKER_L: Thank you.
+SPEAKER_R: nurse someday and have a lovely farmhouse with so many animals.
+SPEAKER_L: Thank you so much and don't stress, you'll feel like everything else. You're young. You have time go. Good luck on the school. You wear your mask, social distance and all that. Good
+SPEAKER_R: And
+SPEAKER_L: stuff shouldn't go have fun with the cello
+SPEAKER_R: thank you so much.
+SPEAKER_L: found by you
+SPEAKER_R: Hi.

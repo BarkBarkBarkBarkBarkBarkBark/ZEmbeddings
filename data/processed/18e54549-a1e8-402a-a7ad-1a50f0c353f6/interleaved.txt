@@ -1,0 +1,263 @@
+SPEAKER_R: No. Yeah. Thanks. Hello, how's it going? Uh huh. Mhm.
+SPEAKER_L: I'm doing. Yeah.
+SPEAKER_R: so this is the first time you've done this kind of uh survey before.
+SPEAKER_L: Yes sir. Yes sir. What about you?
+SPEAKER_R: This is my 6th time.
+SPEAKER_L: Your sixth time? Okay, that's pretty interesting. Um uh What all kind of stuff have you have you talked about then? What kind of stuff do you want to talk about?
+SPEAKER_R: Oh man, it's all good. Um Do you do any other survey or is it just prolific?
+SPEAKER_L: Just prolific for me? I I get a lot, like I tried a lot of Yougov and stuff like that, but it got really spammy and it felt I felt like I wasn't being rewarded properly and things like that. So
+SPEAKER_R: Did
+SPEAKER_L: what
+SPEAKER_R: you have to try
+SPEAKER_L: about
+SPEAKER_R: like
+SPEAKER_L: you?
+SPEAKER_R: did you ever try like amazon mturk?
+SPEAKER_L: I have not, I'm going to write that down and
+SPEAKER_R: Yeah, that one prolific except way less paying and a lot more work. You have to get like scripts and stuff like that like um and to kind of help you along on the site um What you kind of get the hang of it. Um It can be pretty rewarding. Um But prolific definitely. Uh like the less effort, higher pay. Yeah.
+SPEAKER_L: I liked a lot because it's also a lot of scientific research. Uh and
+SPEAKER_R: Big
+SPEAKER_L: I'm
+SPEAKER_R: man,
+SPEAKER_L: really into that, so.
+SPEAKER_R: That's what I'd rather do to 100%. It's just it's just way better for that.
+SPEAKER_L: Mhm. I like it a lot anyways. What do you what do you do for a living? Do you just do surveys and stuff?
+SPEAKER_R: Oh no no I work for state government uh to work, work at the welfare office.
+SPEAKER_L: Okay. That's cool. That's cool.
+SPEAKER_R: How about how about yourself?
+SPEAKER_L: I am a senior so it's like a wine aficionado. Uh It's it's essentially like a really fancy server. Yeah.
+SPEAKER_R: man.
+SPEAKER_L: Yeah, it's really cool, I really like it. Um What what is your favorite hobby in the free time?
+SPEAKER_R: Favorite hobby. in my free time.
+SPEAKER_L: Yeah. If if if you could do anything that you wanted to do right now, what would it be?
+SPEAKER_R: I probably played the drums. I'm a drummer.
+SPEAKER_L: Really? Okay. What kind of, what kind of music do you like to make?
+SPEAKER_R: Um I play I play everything. Um But left to just like what I would like the best is like jazz probably. Yeah,
+SPEAKER_L: Okay. That's pretty cool.
+SPEAKER_R: but for
+SPEAKER_L: So
+SPEAKER_R: the drums,
+SPEAKER_L: you see like like got.
+SPEAKER_R: for the drums, jazz is very much like you can kind of go off really do your own thing and it's like it's it's the funnest thing to play. Uh huh.
+SPEAKER_L: I get that. That's really cool. I like a lot of jazz music. So you like a big band jazz? Have you ever listened to scar?
+SPEAKER_R: Yeah. Yeah. Yeah. Yeah. Punk and Sky and all that good stuff, definitely. Uh grew up on punk. Um So that's pretty cool reggae. All that. I like everything man, I would really like everything. How about yourself?
+SPEAKER_L: Uh Same, I typically find myself listening to metal. I don't know if you can tell but
+SPEAKER_R: Yeah. Yeah. The medal I gave it away right?
+SPEAKER_L: typically find myself listening to metal, but I really also like pretty much everything I would say that the that the only things that I'm not super passionate about, our like gospel music um or like pop country music. I don't really like that very much either.
+SPEAKER_R: Yeah. I'm not a big pop country guy and gospel. I get it. Not for me I guess. You know what I mean? If given pop country or gospel, I would definitely go the gospel roots, I think.
+SPEAKER_L: Uh See I would go pop country instead.
+SPEAKER_R: All right, so it's his own ego.
+SPEAKER_L: um So uh whenever playing the drums, what what is your what is your favorite thing or what do you what do you find the most difficult about playing the drums? Is that the initial learning bit or is it like the rhythm keeping or?
+SPEAKER_R: No, the rhythm you either have or you don't. So I would say the hardest thing is getting more technical and uh you know, maybe you want to be a little flashier, maybe trying harder things, not getting it as quick as you want to get it. But at this point I play the drums since I was a kid. So I mean, we're talking 20 years now, so I mean, pretty much kind of music put in front of me, I
+SPEAKER_L: I'm
+SPEAKER_R: can get down pretty good. Yeah.
+SPEAKER_L: that makes sense. That makes sense. Um Whenever you say more technical stuff, are you talking about like uh technical as in uh what is the one band, three man band greatest drummer in the world? Uh Dude had a full set, like he had to like be lowered into his drums or something like that and he would just play the entire drum set around him, like
+SPEAKER_R: And
+SPEAKER_L: I don't remember the name of the banner and give me a second
+SPEAKER_R: is it rough?
+SPEAKER_L: rush. That is it, man, I'm so bad with names,
+SPEAKER_R: well,
+SPEAKER_L: but
+SPEAKER_R: I mean that's the drummer, that's the drummer, Everyone's like that's that's the dude. So Yeah, yeah,
+SPEAKER_L: He
+SPEAKER_R: I mean, just he was there, he like, technically wise, Yeah, that's what we're talking like that level. Um Sometimes, you know hear stuff that's just so complex and it's like really you got to listen to it again again again. But
+SPEAKER_L: Okay. That's cool.
+SPEAKER_R: I would say other than that and probably making money any which way I can. I like stuff like this and stuff like that, like stocks really like investing and shit like that. Yeah I'll
+SPEAKER_L: that's pretty
+SPEAKER_R: say that take over.
+SPEAKER_L: What what what particular kind of investments are you looking at right now? Are you are you preparing yourself for the possibility of an economic crash here in the United States with the lockdowns coming in again or what?
+SPEAKER_R: Only in the sense that I would exploit it and buy more stocks whenever freaks out. I think most of the crash has been dealt with. Uh so I'm not really fearing that, I think I'm planning on a rough few quarters ahead of us but I think by Q. three 2021 realistically I think it should be a different picture and that's kind of what I'm banking on so but I think it's a had
+SPEAKER_L: I was gonna
+SPEAKER_R: what?
+SPEAKER_L: ask uh if you don't mind me asking, what what do you typically have is your basic kind of portfolio in your stocks? Like do you go the safe route with like a realtor like our what is it called? Um like housing and and things like that, or are
+SPEAKER_R: real
+SPEAKER_L: you
+SPEAKER_R: estate
+SPEAKER_L: going more like Yeah real estate, that's that's what it's like for real estate, Are you uh going more of like a unsafe route with like betting on stocks, things like stock shorting, or investing in like green energy or things like that? Yeah,
+SPEAKER_R: so green energy. I wouldn't say his gambling that's a pretty safe bet right? Unless you're planning on living in some kind of wasteland pretty soon which
+SPEAKER_L: I love you.
+SPEAKER_R: we might understand. I'm not I play every sides. I own oil and I own renewable. I own real estate. I own about 30 positions. I own three E. T. S. Out of those 30 positions. Um risk. I don't play with options unless you have like 100 grand or 200 grand. I don't mess with the options. I can't afford to lose negative exponential amounts of money. That's not my game at all. Um But I do get the idea about it. I mean like don't get me wrong if you're smart, you know what you're doing? I'm sure you can make a lot of money on options but I've never once facing options better. Um So yeah I just I invest in like stuff you're gonna need, pharmaceuticals, um
+SPEAKER_L: No,
+SPEAKER_R: Internet, basic stuff like that,
+SPEAKER_L: that's cool. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: have you, have you bought any fighter stock from
+SPEAKER_R: I did.
+SPEAKER_L: what I can
+SPEAKER_R: I
+SPEAKER_L: tell
+SPEAKER_R: I'm
+SPEAKER_L: that they're going to be the leaders in the coronavirus vaccine development?
+SPEAKER_R: yeah, They're they have kind of been struggling. So I was I was always kind of fearful as I bought them. I bought only the dips so they're around like what, 35 right now I think I haven't bought a share over $30. Um Yeah, it's one of its as far as like pharmaceuticals, it's like my smallest holding over that. I haven't really had they make the remdesivir which is like less and less effective. And then uh Merck Merck pharmaceuticals batman and
+SPEAKER_L: that's
+SPEAKER_R: then
+SPEAKER_L: pretty
+SPEAKER_R: fighters.
+SPEAKER_L: good.
+SPEAKER_R: When I when I I like into a segment, I buy like a lot by like a bunch of them and then just see what happens. I think that's the smartest way. We're not really sure. Like you can kind of see in real time how things are working now and that kind of helps you inform the next decision. Yeah.
+SPEAKER_L: that makes sense. That makes sense. Um So you buy based upon, do you buy based upon uh trends happening in the market itself? Or do you buy based upon like ethical
+SPEAKER_R: All
+SPEAKER_L: ventures? Or do you buy based upon social trends that are happening? So the things like uh given the option to buy Tiktok, would you buy Tiktok?
+SPEAKER_R: Um Well, I mean, I own Microsoft, which was going to get Tiktok now. It sounds like oracle right now. I wouldn't touch to cock a three ft full uh with a 10 ft pole given it has to get through the Communist Party. So, I mean everyone's really
+SPEAKER_L: huh.
+SPEAKER_R: quick to jump into china, but I mean at the end of the day, the china Communist Party can come in and say no, that's it, we're going to deal with this or no, that's it and they can do whatever they want. So, I mean, you gotta be smart when you're messing with foreign stocks. I own like maybe like three or four foreign stocks and they're very, very safe. S. A. P. Is like a german company, you know, a Canadian oil company, Canadian solar company and I think in Australian mining company. Um but when it comes to overseas stocks, uh I'm a little more shit like conservative. Uh
+SPEAKER_L: Makes sense. Um So I think I think you lashed onto uh and the idea of tick tock keeping the china thing, but you missed the question is like, do you invest like ethically driven or like socially driven or do you do it like markedly driven? Like so
+SPEAKER_R: as
+SPEAKER_L: you
+SPEAKER_R: quality
+SPEAKER_L: know you
+SPEAKER_R: above,
+SPEAKER_L: said you buy the dips and stuff
+SPEAKER_R: it's
+SPEAKER_L: like that, so.
+SPEAKER_R: all, it's all of the above, right? I mean I've Boughton stocks just on fundamentals, just like I love this company, they're making money, they're doing the right thing and I pay for too much for them and I've lost money that way. So um I do a bit of both kind of usually charting, I'm looking at the chart and going, okay, where's the month trend is going up, it's going down, you kind of know, I mean everything I have, I'm watching daily, so my advisor based on the relationship to each other, I laid everything out in front of me and I just kind of watch what they're doing in relation to each other.
+SPEAKER_L: Okay, that makes sense now uh
+SPEAKER_R: Oh
+SPEAKER_L: still sort of talking about the stock market
+SPEAKER_R: what?
+SPEAKER_L: but also not really, how do you feel about some of these larger stockbrokers and the stockbroking companies breaking into Bitcoin?
+SPEAKER_R: Uh I think it's exciting, right? I've used Bitcoin because I've had to, I like playing online poker and so that got taken away from me, so the only way to do it was through Bitcoin, get taken away, like you still do it now, but oh man, I'm hoping God if we can get that back in this country, make America great again, I would be making so much money, you don't even know I would not be doing what I'm doing now. Yeah,
+SPEAKER_L: Yeah. You uh you really get a poker?
+SPEAKER_R: I am so, so I do everything except no limit hold em, so I will play any kind of poker besides no limit, hold em and I can hold my own. I wouldn't, I mean if I was a professional right, I wouldn't be sitting here right now, I'd probably be in Vegas or something like that. But right now even in Vegas you can't, you can't go so
+SPEAKER_L: you can't sit
+SPEAKER_R: which
+SPEAKER_L: at the table here.
+SPEAKER_R: I love and I want to see them all go bankrupt because they've got no problem putting me out of a job. So I, I love it. I love
+SPEAKER_L: I
+SPEAKER_R: it.
+SPEAKER_L: agree, I agree, I've been playing poker for a long time. My uh my grandmother taught it to me whenever I was a kid um and you know I've I've been playing hold em and Omaha hi lo and and all kinds of stuff basically my entire life, I'm 29 years old. Uh so for 20 ish years at least. Uh huh.
+SPEAKER_R: So 33 years here, Omaha, Hi Lo is definitely a good one for me, stud stud, seven Hailo is like my moneymaker Uh really to seven triple draw, Um five card draw, um, raz horse, you know, and they kind of switch everything uh right
+SPEAKER_L: so I would say that Omaha Hi Lo is is my safe game is the one that I play, if I just want to play that way, I don't lose any money that way I have the opportunity to win money, but I'm probably not going to lose any money going
+SPEAKER_R: do
+SPEAKER_L: into
+SPEAKER_R: you do
+SPEAKER_L: it or if I do then it's like 20 bucks, maybe
+SPEAKER_R: pot limit or no limit or what?
+SPEAKER_L: I prefer no limit because it makes it a little riskier. Um and
+SPEAKER_R: yeah.
+SPEAKER_L: typically whenever I play online, I just play with the free money instead of playing with my money. So
+SPEAKER_R: Now do you still play online now?
+SPEAKER_L: I haven't played in a few months, but last time I played was last year, so
+SPEAKER_R: I'd say yeah, my last year and like, uh
+SPEAKER_L: 50.
+SPEAKER_R: I don't know, the sites got a little steadily shakier and I like started seeing box and I'm like, yeah, right. That explains a few weird tournaments on the tournament, dude. So I mean, um I don't know, everything's just so degraded. What your opinions are, we gonna get this with our whatever president we get, they're gonna it's gonna change I think or now. Uh
+SPEAKER_L: talking about what online poker probably not realistically, I think uh neither of them, whoever it's going to be are going to view that as any kind of an issue at all and so more than likely anybody who would be appointed to any kind of position that would be able to make that kind of decision is not going to give a flying fuck part
+SPEAKER_R: Are you
+SPEAKER_L: of
+SPEAKER_R: it
+SPEAKER_L: the partner language but
+SPEAKER_R: you're in a state where you can go play like because you know, there's like New Jersey and Nevada. I mean
+SPEAKER_L: I'm
+SPEAKER_R: are you an
+SPEAKER_L: in
+SPEAKER_R: online
+SPEAKER_L: texas,
+SPEAKER_R: privacy?
+SPEAKER_L: no I'm in texas uh texas is just a strict no gambling state whatsoever, so if we if we want to go we had to go to like Oklahoma or or Albuquerque, new Mexico, that that kind of thing
+SPEAKER_R: You make the drive? When are you? Mostly online?
+SPEAKER_L: mm um I have played in person a couple of times uh one particular time I went and I made like 7 $800 and that was cool. Um I was just taking money from other players. Uh
+SPEAKER_R: Yeah. Cash. Cash.
+SPEAKER_L: Yeah, yeah, I sat down
+SPEAKER_R: That's
+SPEAKER_L: at a cash table
+SPEAKER_R: thanks. There
+SPEAKER_L: and
+SPEAKER_R: you go.
+SPEAKER_L: nobody expects, expects us like 20 something year old to have been playing poker for a long time. So It
+SPEAKER_R: the cash
+SPEAKER_L: was
+SPEAKER_R: team
+SPEAKER_L: it was like
+SPEAKER_R: is
+SPEAKER_L: four
+SPEAKER_R: super
+SPEAKER_L: or 5 years
+SPEAKER_R: hard
+SPEAKER_L: back anyways. Yeah.
+SPEAKER_R: eight. There you go.
+SPEAKER_L: Yeah. Um I was actually in Albuquerque for a magic tournament which magically gathering is a card game and I was there to play the tournament and uh I got knocked out really early and so I was like man I just go play poker, it's basically the same thing, I can win me some money, it's all good. Yeah.
+SPEAKER_R: It's you know, but you know, did you do you play a lot back in the online days?
+SPEAKER_L: Yeah, I used to play a lot um way
+SPEAKER_R: I know that was,
+SPEAKER_L: back when in my in my barely legal teens like like I was like 18, I played a lot A lot and I was I was pretty successful as I said, I only barely ventured into the real money because I was you know an 18 or 19 year old and so I didn't really have a whole lot of to spend or dispensable income At the time. But you know I made a couple $100. Not bad. Just just enough to be like Oh hey I made something not like crazy amounts.
+SPEAKER_R: mm. It's a it's a whole other landscape now, I mean I can still win, I have to work so much harder than it's like yeah, you know, at the end, at the end of the day, if it feels like work, it's not fun, it's kind of my it's kind of my rules. I like tournaments because I like the competitive thing, I like being number one, our life number one to, you know, you know when you see your progression and then uh
+SPEAKER_L: Yeah. As long as you're in the money at school. Right.
+SPEAKER_R: and I like I like being a nerd and seeing like looking up your stats online and you can be you can see like the, you know, the win rate and the grass and shelling, you know, at the end of the day I want accolades and fucking things by my name and you know, I mean that's almost just as important as the money, it's like
+SPEAKER_L: Being recognized for for for good performance is just as good as the money. Yeah
+SPEAKER_R: especially
+SPEAKER_L: I agree.
+SPEAKER_R: like, like you said, being a little bit younger and you've got the old parts of the table, you know like I'm going to school this kid and you're like yeah fucking all right. You know what I mean?
+SPEAKER_L: Yeah I agree. I agree. I play I play video games for the same reason like I play a game called Dota And it's a massive online battle arena and it's based off of like a mod for an old warcraft three game and uh like that's a competitive game and I enjoy playing that too. It's really fun whenever you get like the M. V. P. Screen at the end and it's you and like you see all the accolades that you had during the game. It's really good.
+SPEAKER_R: Oh yeah. I mean that's like all video games, right? The high score at the end. You want you want your initials to be at the top. You know?
+SPEAKER_L: that's true that's true.
+SPEAKER_R: That's it. That's that's part of the uh you know, I like being competitive. I don't know if that's such a good thing but is what is
+SPEAKER_L: uh I also enjoy a competitive environment as long as it's not like a toxic competitive environment because once the toxicity starts to leak in and then it no longer becomes fun because then it becomes more work than straighter than fun it is and I
+SPEAKER_R: I
+SPEAKER_L: kind
+SPEAKER_R: thought
+SPEAKER_L: of stuff you get a lot of stress from it.
+SPEAKER_R: hard to keep it hard to keep in check for sure.
+SPEAKER_L: Mhm. Um What is the the largest amount that you've ever won from a tournament? Yeah.
+SPEAKER_R: 1800 bucks.
+SPEAKER_L: Damn. Um It's pretty good man.
+SPEAKER_R: it was the first place in a stud high low um last year I think two years ago or last year. And yeah, they have more and more of those. But I'm holding out I'm kind of like, you know, I'm kind of like boycotting for like not another dollar until it's until it's like something a little bit more legit or or I'm at the point now move somewhere, you know I mean it's going to be illegal here. Well then whatever. I'm a young man, I got some money saved up. Will do what I want to do
+SPEAKER_L: Yeah I understand that. I personally
+SPEAKER_R: what
+SPEAKER_L: and for the decriminalization of a lot of different things like for instance I don't know if you saw but Oregon decriminalized all drugs which
+SPEAKER_R: I heard
+SPEAKER_L: I think is
+SPEAKER_R: I
+SPEAKER_L: great.
+SPEAKER_R: heard mushrooms, I was like oh jesus, all right.
+SPEAKER_L: Uh Not just mushrooms but like literally all drugs.
+SPEAKER_R: I heard I was just in it for the mushrooms but alright,
+SPEAKER_L: But
+SPEAKER_R: good for everybody else. It's a good idea.
+SPEAKER_L: but I think that, you know, that kind of a thing is just absolutely incredible. I think that it's very progressive in the theory because once you're past the whole criminalization of of this kind of aspect, then you can go on to like the rehabilitation and and casual usage
+SPEAKER_R: but
+SPEAKER_L: of things like drugs now,
+SPEAKER_R: as soon
+SPEAKER_L: applying
+SPEAKER_R: as you our country
+SPEAKER_L: that
+SPEAKER_R: again,
+SPEAKER_L: to.
+SPEAKER_R: people don't want that. People rather catch you and put you in a cage and make money off that. And my in my state a couple of years ago it was a 10 year mandatory minimum sentence for growing weed. Now everyone and their mother grows weed because they can make a little money off of it. But I'll never forget that a couple of years ago you were going to throw me in the cave And there was no questions asked 10 years. That's that's a society man. Yeah. Right?
+SPEAKER_L: So as soon as as soon as money becomes a factor in whether or not someone can abuse the situation to to generate a lot of revenue, as soon as it becomes more profitable to legalize the drugs than it is to have people in cages. That's whenever you'll see a radical change in the policy.
+SPEAKER_R: But there's not it's not work. It's not really a lot of money being made, there's a lot of money being spent. But like show me the company that's really making a lot of money right now because I don't see one. There's a few one office maybe in the pot industry, but they're not making a lot of money. Yeah,
+SPEAKER_L: I think, I think the reason why we don't see a lot of revenue being generated right now by the industry is because a lot of it is going into reinvestment into the company's. So like being able to upgrade process is being able to upgrade machinery, being able to hire more workers, expand the industry, that kind of thing. And so because the industry is you know two years old then we haven't really seen a solidification into these actual like monarchs of the industry yet we have we don't have any brand name pot growers
+SPEAKER_R: but
+SPEAKER_L: or.
+SPEAKER_R: pots pots a hard thing to monetize. Uh It's like, it's not like coca cola, right? Like you can't you can't grow coca cola in your own basement. So when everyone can grow it, I mean like like in Canada, it's just the price just goes lower and lower. And the producers are realizing like they're like their money isn't in producing and selling it in all the weird offering drinks and and all the off stuff. You know the derivative stuff you can make and sell from but I mean the product is just got cheaper and cheaper and we'll get cheaper.
+SPEAKER_L: I agree, I agree. But as of right now being able to be on the on the cutting edge or on the cusp of the breaking of that industry really allowed uh these individuals to kind of set the tone for the way that the industry is going to grow. And at that point that's whenever you see like G. E. Or or General Motors or something like that, that is whenever they have lots of competitors and you will eventually see the those kinds of industries or those kinds of captains of the industry
+SPEAKER_R: You have, you
+SPEAKER_L: evolved
+SPEAKER_R: have it now
+SPEAKER_L: as well. Yeah.
+SPEAKER_R: you have you have constellation brands and then uh Altria and Kronos. So you get the cigarette brands owns Kronos and then you've got the alcohol owning constellation brands which makes sense. You know those kinds of tin stocks. Um But Ultra hasn't really done much with it. They put in a I think like a billion and then just sat there and then constellation brands done two billion and for years and it hasn't really gone anywhere. So they dumped in another billion to canopy growth corporation, which is a pretty good stock. I mean both of them are pretty good stock, Kronos and CGC. Um, I don't know, maybe next year. I mean it seems like every couple of years everyone gets excited and then the stock plummets after this,
+SPEAKER_L: Yeah, I think, I think that one of the things that we're going to have to have before the stocks or before the market solidifies on the hemp industry are on the, on the pot industry is the legalization and widespread acceptance of hemp as a material because uh Many, many years ago I think in the 1920s they outlawed hemp to be used as like rope manufacturers have lobbied the government and whatever. And so we need to see the repealing of those kinds of laws in order for the manufacturing part or manufacturing side of the business to really flower
+SPEAKER_R: Well
+SPEAKER_L: before
+SPEAKER_R: it
+SPEAKER_L: we
+SPEAKER_R: is,
+SPEAKER_L: can see.
+SPEAKER_R: uh, federally, federally, it's 100% okay. In the U. S. And is, yeah. Yeah. That that passed under trump actually. Yeah.
+SPEAKER_L: I didn't,
+SPEAKER_R: Or
+SPEAKER_L: I didn't know that.
+SPEAKER_R: yeah, the stock, you can buy hemp this ticker, H. E. M. P. Um pretty weird. Stock splits all the time and kind of sketchy. Um, but yeah, I think last either last year, the year before. Yeah,
+SPEAKER_L: I'll have to look that up. Yes,
+SPEAKER_R: you could get
+SPEAKER_L: I
+SPEAKER_R: like
+SPEAKER_L: should say.
+SPEAKER_R: if you really wanted to. I mean I would probably have to go state by state, but that's exactly the thing.
+SPEAKER_L: Yeah, man, that's cool. Thanks for that. I didn't actually know that. I thought, I thought it was still federally illegal to manufacture hemp, but we could import it with whatever reason, so.
+SPEAKER_R: I mean, at least from my understanding now, it's officially okay for like banks to touch him money and like federally, it was like okay thing. Um, but just him. Okay.
+SPEAKER_L: Okay. That's very interesting anyways. So I think that uh if that is the case, then we should see a lot of great financial gains, at least in the health sector as it becomes more widespread, like especially because hemp is cheaper to produce than than uh like rope and things like that are.
+SPEAKER_R: We will see. But I'm not betting too much on it.
+SPEAKER_L: Yeah, I agree. I agree. Uh the the idealist within me wants it to happen that way. That way we can see, you know, cheaper manufacturing of goods, We can see more locally manufactured goods and things like that because hemp grows very well here in the United States versus versus a lot of other things that are forced to grow in this area.
+SPEAKER_R: definitely. I mean, you definitely best off investing in something compassionate about no matter what.
+SPEAKER_L: Yes sir. Yes, sir. All right, well thank you. It was just fun.
+SPEAKER_R: A Good one.

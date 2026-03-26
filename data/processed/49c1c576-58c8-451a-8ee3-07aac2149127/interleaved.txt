@@ -1,0 +1,211 @@
+SPEAKER_L: Hey, how's it going?
+SPEAKER_R: Good, how are you?
+SPEAKER_L: Not today, about you,
+SPEAKER_R: I'm doing good.
+SPEAKER_L: No,
+SPEAKER_R: Um where are you based?
+SPEAKER_L: I'm actually out in Indianapolis.
+SPEAKER_R: Oh nice. I'm in California,
+SPEAKER_L: Okay, cool. Well part
+SPEAKER_R: uh, barrier san Jose area. Do you know that place?
+SPEAKER_L: Been there when I was maybe 12. My recollection is pretty much useless at this point.
+SPEAKER_R: I see. Uh Were you did you were you born and raised in Indianapolis?
+SPEAKER_L: Uh No, I'm actually from the Chicago land area recently. Yeah. So I've never expected ever moved indiana and stay there. But somehow that happens. So the point of a from Chicago and indiana is the south and you know, and I ended up staying there. So here I am,
+SPEAKER_R: Actually
+SPEAKER_L: you're from that uh the bay Area yourself. Originally you're moving there
+SPEAKER_R: I'm born and raised here, so I've
+SPEAKER_L: girl.
+SPEAKER_R: lived my entire life here.
+SPEAKER_L: Cool. So I'm guessing there's been a lot of changes to that over the years then.
+SPEAKER_R: Yeah. Well according to my parents, this used to be a very farmland area and now it's become so industrialized, I guess a lot more city, you know? So
+SPEAKER_L: Yeah. I can definitely notice some of the areas around here where like you still have to go too far to find cornfields right outside the city itself, which indiana makes sense but it's just weird to like, you know, be driving and then you're hitting corn and Barnett and the bulls and like right now I use a couple of skyscrapers. So your deck out of you.
+SPEAKER_R: how long have you been in Indianapolis then?
+SPEAKER_L: Um About 10 ISH Eva I guess 12 years at this point. So. Yeah.
+SPEAKER_R: Did you move for work or?
+SPEAKER_L: Yeah. Originally, so I went to school in indiana and then stumbled into a job that was based in Indianapolis and got another job in Indianapolis and then married someone in Indianapolis and you know, now I'm probably a life. So
+SPEAKER_R: I see.
+SPEAKER_L: yeah, low cost of living and it makes it a lot easier to travel places that which is one of the nice per accident. Yeah. So have you done one of these before or first time one of these like video chat things or?
+SPEAKER_R: I mean I do video chat a lot with my friends, but it's the first time I've ever done a like a study that required a jet.
+SPEAKER_L: I did one of these maybe a couple of months ago. And it was just an interesting thing to do then to use that. I'm surprised they were still doing it.
+SPEAKER_R: Oh, with the same, same like a researcher or
+SPEAKER_L: I think so, or it was at least set up the same way. So I'm not sure if it's maybe say different researcher but like similar platform but Yeah. Yeah.
+SPEAKER_R: I see.
+SPEAKER_L: Similar like you Yeah, I'll zoom stuff video chat. That's pretty much my every day at work at this point. Mhm.
+SPEAKER_R: How is the coronavirus affected work for you?
+SPEAKER_L: I've been working from home since March at this point so I do not leave the house much anymore. My office has told us on yeah. The earliest labor day would be, you know, the first time they might even think about asking people back. But probably not even then
+SPEAKER_R: I see.
+SPEAKER_L: you've been lucky enough it hasn't really ever hit too badly here so far. So we had our semi peak but it never overloaded the hospitals or anything like that.
+SPEAKER_R: I see.
+SPEAKER_L: Yeah. So we'll see where that goes with everywhere else in the country. Starting to zoom up again. All right.
+SPEAKER_R: it seems like everything is kind of peeking or getting worse actually. I think it's worse than when it was back when everything started closing down. But open things up now too. So
+SPEAKER_L: Yeah. I think when I was reading all like whatever the daily numbers are there, like beyond whatever they were back in april for the rest of the whole country then, so. But yeah, it'll be fun. Mhm.
+SPEAKER_R: Yeah, I think we're gonna have this for a really long time. Maybe even more than a year. So
+SPEAKER_L: I'm assuming 20, at this case, you know, it would be the earliest. I don't know what part of the year, but definitely into the next one. Just because you see Al bavaria's like organizations or whatever that would have knowledge of this or like yeah, we're not planning anything through the rest of the year. So I think I saw like today like broadway itself like announce it will be shut down at least through the end of this year. So
+SPEAKER_R: Brought to you mean like broadway shows
+SPEAKER_L: in new
+SPEAKER_R: in new
+SPEAKER_L: york
+SPEAKER_R: york?
+SPEAKER_L: yeah, like no place at all at least through the rest of the year. So
+SPEAKER_R: Mhm. Have you been going so crazy at all or do you enjoy working at home?
+SPEAKER_L: Um I had to figure out some new rhythms, definitely. It was I have like my own pattern at work where you know, here's what I do when I get in here when I get my coffee when I go for a walk. And it was like hard to adapt that to you know, being in a home office and trying to tell yourself step away from your computer, go and do something else for a little bit and don't try to always appear online. And they say that it's you know try to treat in a similar passion but well that's in a good rhythm at this point,
+SPEAKER_R: I see.
+SPEAKER_L: luckily you know if we still have a daycare available so we're able to get the kiddo out of the house to go somewhere during the day. Otherwise then that might be a bit more distracting at times.
+SPEAKER_R: I see. Can I ask what kind of area that you work in or be out of work?
+SPEAKER_L: I do like data related works or data architecture, data analysis, that sort of thing.
+SPEAKER_R: Does your company provide like data services to other companies or
+SPEAKER_L: Uh We don't yeah, we don't do consulting, it's just, you know, I do that for this organization but sort of jump around and you know do that at various places here and there so personally. Yeah,
+SPEAKER_R: Crazy? Are you more on the analysis side or are
+SPEAKER_L: I
+SPEAKER_R: you more are
+SPEAKER_L: I used to be more on the analysis side and you know more sequel writing and dash boarding. That's sort of the thing that I'm more on the modeling and governing side of things.
+SPEAKER_R: I see
+SPEAKER_L: Always double back and forth just because you know, you have to get in the data sometimes and look at things and figure it out and you know, see what it looks like. But far less code writing nowadays than I used to when I was a little young here. So
+SPEAKER_R: I see. I guess I'm a little just curious about like uh the technologies you use. So you just mentioned sequel. But like uh do you have like python? And I guess normally when I think of like data analysis, physicians, I think of
+SPEAKER_L: yeah, I'm not I'm not a data science level of analysis. I'm definitely, yeah, we have another group that does that and that's their whole thing. I'm more on me like data preparation and cleansing and sort of delivering to the various like consumers of it like Definitions of data. So they know, you know for getting this data set, here's what all the attributes mean. They can know that it's been cleansed and you've got rid of the garbage data so they don't have to spend, you know, 75% of their time just mangling the data together or wrangling it together and trying to assemble something useful. So yeah we have a whole set of people who are, you know, doing the actual statistical analysis of things. And my side was more so when I would do that more directly is just like assembling data, querying stitching datasets together and then making sure it met up with you no more transactional base, making sure that a consumer would get the whole report. You know this organization place this amount of orders that consisted of blank and try to get that out to him.
+SPEAKER_R: Um when you had your last conversation, I'm just curious about like the demographic of the person you talked with. What were they like on the west coast East coast, were they in the technology field? I guess the reason I'm asking is that I'm just curious if like, you know, I guess I wasn't, I guess most people who have the time to do this, I like in the technology field or like have time
+SPEAKER_L: that
+SPEAKER_R: to do it. So
+SPEAKER_L: I was thinking the same thing like you know the average person who's going to be say I'm prolific being able to do studies during the day is likely someone who's working remotely is likely in general like to see more in the I. T. Field. But yeah I had the same experience. I got someone out of Seattle last time and I think remembering correctly I think it was some, well actually I'm not sure what is his work situation vitamin. I know he was doing some outdoor work at the time so I think he just um he might have been out of the job at the moment so I'm not actually sure what he had been doing. So Right.
+SPEAKER_R: please.
+SPEAKER_L: Yeah, I said that like the same, you know, I guess, you know, the average person is probably, you know, in their pool of people, they might match up right now, it probably fits a certain profile in terms of work, so
+SPEAKER_R: Yeah. You know, Yeah, I guess I was a little surprised. I I thought I would meet other people who like we're out of the job. We're like, we're doing a lot of like micro transaction work. Um
+SPEAKER_L: yeah, and I guess it's sort of, you know, who is the type of person who is then drawn to look at things like paralympic or mturk or you know, things that you can do from home and then take the time to get proficient in it. And I just I have no idea what the actual population of people actually looks like for that, but nowadays you can think there'd be a lot more of them because, you know, we can't leave our houses and a lot of cases and it's a way to big money without putting yourself at risk.
+SPEAKER_R: Yeah. Well I was thinking like what's the percentage of people who would be on here that already have full time jobs? Um And you know before I had this conversation with you I was thinking that like uh it would be very low um But I don't know. Well I mean this is just one data point but.
+SPEAKER_L: Yeah, for me it's more so it's like my wife. So to turn me into it originally, it's been more of like a game for us like how much little bonus money or you know extra things we can do. So then that's like a restaurant money to you know go out and get some food or something like that.
+SPEAKER_R: How long have you been doing, salad?
+SPEAKER_L: Uh me like at a sort of more regular basis probably just since quarantine originally hit back in March and before that I would, you know, I was bored and I looked down and saw something and it was interesting. I do it for now. It's like anything that pops up and I qualify. I probably pick it up if I have time to do it during the day. Yeah.
+SPEAKER_R: Uh huh. Uh Sorry this might be a personal question I guess. I'm just curious. Well I also started a prolific maybe. Well I started earlier but I didn't really do a lot until quarantine hit again because then now I have a lot of extra time. I'm just curious how much have you learned so far delivered
+SPEAKER_L: Um Trying to think what it would be. I think it might be somewhere like the 4600 range, something like that. So. Yeah.
+SPEAKER_R: Uh
+SPEAKER_L: Well the way I gotten lucky where like when Kobe hit there were a lot of studies that popped up where it's like, hey if you want to be in this study that goes for 14 days, we'll send you something every single day. And then I was able to get in a few of those and then those just sort of keep building them out over and over and over. So
+SPEAKER_R: I see
+SPEAKER_L: and then
+SPEAKER_R: I
+SPEAKER_L: just
+SPEAKER_R: don't
+SPEAKER_L: having
+SPEAKER_R: do
+SPEAKER_L: work from home job and like have the other laptop, you know, have a personal laptop open to prolific and working. And if I hear something pop up on another laptop it's like all right. Do I have time to do this and not something out in five minutes go back to work, that sort of thing.
+SPEAKER_R: I see I just want to say wow because I've only well I don't do that much I guess I'm not as much as you but I've only gotten I think like $30 so far.
+SPEAKER_L: Oh yeah. Yeah. Well it's just becoming, it's almost like a competition between my wife and I was like which one of us can, you know, get a higher amount at this point. But her job, she's a nurse, so she doesn't really have that same. I'm at home working and confused stuff that pops off, whereas I'm obviously home all the time, so
+SPEAKER_R: I
+SPEAKER_L: been
+SPEAKER_R: see.
+SPEAKER_L: a bit different situation.
+SPEAKER_R: Um do you do any other micro transaction services?
+SPEAKER_L: Yeah. Not really, not mainly just prolific right now.
+SPEAKER_R: How did you find full of it?
+SPEAKER_L: Uh I think it might have been through Reddit originally, but I think my wife was more the one who turned me on to it, like as a thing to regularly to you. But I know you look at Reddit some of the various, like if you're familiar with it all, I'm not sure. But it's like a variety of different subreddit spokes on different topics. And there's one called like beer money where it's just his little extra ways you can like earn five bucks and three bucks and you know, beer money. So so that's what sort of pointed me totally.
+SPEAKER_R: I see, I uh like a long time ago I was doing Amazon tick for a while um just for like it was still very it didn't pay very well and I stopped that and then I started up again and then I thought man this is like terrible, like you
+SPEAKER_L: yeah. It's
+SPEAKER_R: do
+SPEAKER_L: not
+SPEAKER_R: like
+SPEAKER_L: like,
+SPEAKER_R: 10 cents, five cents.
+SPEAKER_L: yeah, like what you're getting paid per hour does not make your time worthwhile in that case to really do it. Yeah.
+SPEAKER_R: So I looked it up online and I was like what else could they do? And that's how I found prolific. Um But I guess the thing that kind of like surprised me about prolific was that it was the UK based, I was like oh will I be able to get in, but
+SPEAKER_L: I'm getting paid in pounds. Yeah. So now it's like I'm actually monitoring the exchange rate at times and you know, see if it's beneficial to me, you're not and it's like I suddenly have an opinion about Brexit and how that affects the pound two dot there conditionally. Yeah. Like a recently I think sort of the pathway that got us toward that originally was we tend we used to be like contest ear's to a degree where we like enter a lot of contests, like try to win things and we got to a point where we're doing that pretty well pretty regularly for a while and then like moves along, you have less time to actually go out and do stuff. You have a kid so you can't just go to every concert, even tickets to you or you know, go to any game you want tickets to you. So we sort of fell out of that. This is a thing where they were at home more regularly became go out as much, but here's how we can make a few dollars here and there for when we did go out.
+SPEAKER_R: you know that's funny because I I went through a phase where I was doing contests as well. Um
+SPEAKER_L: yeah.
+SPEAKER_R: I'm just curious what what what are some more interesting things that you've won?
+SPEAKER_L: Um the best thing we, I guess one of the better ones we want was on, so Pacers of the local basketball team and there was one night this was like years and years ago when the Chicago bulls were Well not years and years ago when they were amazingly good in the 90s, but like maybe when Derrick rose and you know, uh the bulls are pretty good making the playoffs going up against the heat for a while. Like we wanna like first row tickets to a bull's Pacers game and it was part of the whole radio set up around here. So before that, well like we're taking to dinner by one of the local radio celebrity type sports people. And it's
+SPEAKER_R: Movie?
+SPEAKER_L: just it's weird. He was a weird person like I guess to be on radio and talk sports radio like who he was as a person. Actually fit up to exactly what you were hearing on the air and the whole time his assistant was like apologizing for his behavior, it was like really really awkward at dinner. But then afterwards we were able to go to the game and we're like in the first row and it's just like I could never in a million years like afford the paper, you know, first or tickets to a actually good NBA game and there's just an amazing experience actually is.
+SPEAKER_R: that's pretty cool. I I entered a few contests like that where Owen a free dinner with, you know, X and I have no idea
+SPEAKER_L: I
+SPEAKER_R: who.
+SPEAKER_L: wouldn't
+SPEAKER_R: Excellent,
+SPEAKER_L: want to. Yeah.
+SPEAKER_R: I don't want any of them actually, so I never got the experience, but I
+SPEAKER_L: One
+SPEAKER_R: want to
+SPEAKER_L: thing,
+SPEAKER_R: say go ahead.
+SPEAKER_L: sorry, I interrupted you. Go ahead.
+SPEAKER_R: Oh, I was just gonna say the most expensive thing that I want was just tickets to a a tech conference, I don't know, have you heard of? Uh He always called anything, it was a graphic conference in L. A. Anyway, it's not my field of expertise, but it was I think those tech conferences are super expensive And I think this one was like $1,500 for tickets, so.
+SPEAKER_L: Yeah. I mean there's a reason you're companies and you know, buy your tickets to go to those versus individuals actually paying to go to them. Yeah. I know the benefit for us was just being in a smaller market like Indianapolis. Like there aren't as many people entering contests we found. So your, your percentages of winning, we're just so much higher if you just continually itself. So. And then you eventually meet up with other people who do the same thing who also won tickets to something you entered and then you learn about their lives and what they're doing is just this weird little subculture, you never like expect to be introduced to become a part of and then you are so right
+SPEAKER_R: But you uh don't do that anymore or you
+SPEAKER_L: that
+SPEAKER_R: don't have time to
+SPEAKER_L: not
+SPEAKER_R: do
+SPEAKER_L: as
+SPEAKER_R: it anymore?
+SPEAKER_L: much, mainly just because we have like a lot of the stuff you'd win would be tickets to like events or concerts or this or that and just like time wise, I don't know, we don't have time to do that anymore. So like in general, there were a lot of contents that were like money based or um like item basically were more experienced base so we just don't have time to where even if we wanted, we wouldn't be able to use it. So
+SPEAKER_R: I see. Did you keep them organized at all in the sense like remember winning like a $20 Amazon gift certificate and I had no idea where I got it from.
+SPEAKER_L: we, we had actual, we didn't like keep track of where we like one stuff. Not necessarily, but we had a folder where like we want to gift cards, we put it in the fold like uh sort of one of those like baseball card holding things that have like the nine slots for cards. And we put the car gift cards, we win in each of the slots. So we have our binder, we'd go to to, you know, say, hey, we're hungry tonight. Where did we win something from? And then that's how we would decide we have dinner that night. There's something like that.
+SPEAKER_R: I see. Um Yeah, I'm just curious a little bit more about your background. Well, let me see if I just feel like there's some similarities between what we do. Um and I'm curious if you've also gotten into into fire uh financially
+SPEAKER_L: Look,
+SPEAKER_R: independent, retire early.
+SPEAKER_L: I'm familiar with it, but I've never taken the deep dive into doing the spreadsheet to actually plan out what level would I need to get to to where I can withdraw X percentage of year and have the principle, you know, still grow and this and that. But we have sort of a general, like we want to retire earlier, but you know, I haven't actually tried to put that into action on a mathematical level yet,
+SPEAKER_R: I see.
+SPEAKER_L: but it's sort of a aspirational goal, but we're not really trying to act on it right now.
+SPEAKER_R: Right, right. I see. Yeah,
+SPEAKER_L: it's really, it comes down to like, how do we pay for health care and that's really the main thing in the long run, so
+SPEAKER_R: I see. Yeah, I haven't gotten too deep into it, but Well yeah, I just feel like it kind of all fits into kind of this thing of like trying to make money on the side, trying to win contest, trying to get more money. Um So
+SPEAKER_L: And I think like once you start on one that it sort of exposes you a little bit to the rest and you get through on a little deeper and a little deeper into it and you're always looking for that like extra percentage point here there to sort of round things out. Yes. I'm guessing you work like in the tech field as well to some degree or
+SPEAKER_R: yeah, I work in at one of like the big tech companies in Silicon Valley. I work but something in the cloud area, so like AWS Azure google cloud. Um so that kind of a
+SPEAKER_L: Okay, cool. Mhm. That's areas were sort of moving into right now, getting off from getting off of being on prem and moving off from more so in terms of our, what we're doing data wise, but always an ongoing process and being in the midwest, everything gets here a little slower, so
+SPEAKER_R: mm uh what else do you do for fun on the side?
+SPEAKER_L: um well I can't do it at all anymore, but I'm pretty um pretty highly into playing pinball of all things. Yeah,
+SPEAKER_R: you're a pinball machine.
+SPEAKER_L: I wish that sort of, again one of the dreams where once we get the house paid off, that'll be sort of all right, I can rationalize buying that.
+SPEAKER_R: Do you have a, I used to have one of these like small pinball, I mean, I don't think correct to call it a pinball machine, but it was something you can just, it's a portable one, you can put it on the desk, it's like really small,
+SPEAKER_L: yeah, yeah, like sort of their more plastic and like almost a picture price style or something like that, just like we had the whole, you know, far kate seen pop up around here and involve machine showing up in craft breweries a few years ago and then that just sort of re triggered. Uh I remember playing that when I was a kid and ended up getting very much it knew it and then the whole competitive scene and that's again, another interesting subculture. If you delve insulates up.
+SPEAKER_R: Hi city. Yeah, I never really got too deeply into it but I'm just curious uh did you play the Windows XP
+SPEAKER_L: Uh Space Cadet. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Oh yeah, I think everyone like in a general age range, definitely grew up playing that one, so and I remember, I think it might have been called like epic pinball or something like that. There was something like preinstalled on random hacer pc my parents bought in the mid nineties, but I remember like growing up just playing off as pc involved games and that's what it was like the gateway into it all.
+SPEAKER_R: Um I guess another personal question uh in what decade were you born? And I'm just care so for it like in the same age range or not? I
+SPEAKER_L: mid 80s.
+SPEAKER_R: was same here. Okay.
+SPEAKER_L: Yeah. I wonder if again that ties into the type of person who's on prolific and doing this is all sort of that, but sort of a weird down to like being able to remember like up to this point when the internet wasn't a thing and then when it is a thing I still have that bait memory of the world not being connected and you know, still having to go to a library and looking encyclopedia research. But that's like sort of a long, long time ago at this point, so. Mhm.
+SPEAKER_R: was one culture shock or not? Culture shock, but the interesting thing that I saw recently where uh you know how like when you uh fake being on the phone, you like put your hand like this and now I
+SPEAKER_L: that's
+SPEAKER_R: think people just do this.
+SPEAKER_L: Oh yeah. Well it's very much the whole, you know, if you go to save a file, like in most programs it will be a floppy disk image, like no one. I mean people know it means say but they have no relevance, has no relevance to the physical object anymore fairly. You know, average person growing up I would think the, you know, dialing a number, you know that ties back to a rotary phone and those are not a thing anymore. So. Mhm. So have you been working from home like since like entirely, since have you been hit as well or still have an office? They
+SPEAKER_R: Uh Yeah since March, so I've just been here at home. Um it's okay. Uh you know, I was doing this article about like it's supposed to be an introverts paradise. Uh and I definitely agree to some extent, like it is nice. I do miss the office and meeting with people. Um but it's not as bad as I thought it would be. I think there's a lot more people who uh maybe our it's probably not as good for them, but I think for me, at least I think it's been going generally well, uh I do enjoy it. I like it. I was also at a point where uh the funny thing is I switched teams right when this happened and um, I haven't met my team in person at all. Um
+SPEAKER_L: huh.
+SPEAKER_R: so getting ramped up and getting up to speed on this new team was a little interesting. So that's, I think that maybe the bad part about it, but otherwise the flexibility, the comfort of your home, it's been pretty nice for me.
+SPEAKER_L: Yeah, and I felt pretty much the same where I'm more on the introvert side than the social animal side, but like you know, found sort of the avenues where you know, still keep in touch with friends through zoom or find activities online to deal with people where we had a, you know, local trivia game, we would go to semi regularly and the woman who ran it just took it all online and it's done on the hottest system where it's like you trust people aren't gonna look at google and figure something out and that's sort of been like uh hey we're all going to meet up, you know every Wednesday night to do trivia online and just sort of get together and maintain some level of contact with people.
+SPEAKER_R: And is it clearly zoom that you're using or do you use any of the other services like this?
+SPEAKER_L: Just yeah, just zoom right now so which I still find fascinating where all the other services had such a head start on everything and then zoom just became a thing. Yeah.
+SPEAKER_R: Remember 10 years ago, Google Hangouts had a lot more features. Uh and then they switch, like they had like this moustache feature, you could have mustaches on people and then it was a lot more dynamic and then google dropped the ball. I felt like they had all this stuff before and then they got rid of it. And they anyway,
+SPEAKER_L: yeah, I feel like google just trying to do a little bit of everything and like, you know, they try to just offer every single, you know, I guess application they can and then either it's just they're spread so much into so many different areas, like just all blends together to a degree after a while and you know, they tried to get into social that's never really worked and I think they're trying that again, if I'm remembering right on some level, I can't
+SPEAKER_R: social
+SPEAKER_L: remember, they
+SPEAKER_R: or google.
+SPEAKER_L: there was some, I'm trying to remember what it is, there's something recently that I did not even click further into, you know, going to the article that some new sort of platform they were launching that connect people together and I could be, it could have been an onion or an article for all I remember at this point, but mhm.
+SPEAKER_R: Yeah, I guess I wouldn't be too surprised. Wow.
+SPEAKER_L: I mean they got to, you know, they have the search market to drive all their advertising and social is obviously another area where you know, they're locked out to a degree, so but
+SPEAKER_R: Thank you. Have you had dinner yet?
+SPEAKER_L: what is that?
+SPEAKER_R: Have you had dinner yet?
+SPEAKER_L: Oh, not yet. So I have a burrito waiting in the fridge right now, so half a burrito I guess at this point, so we have some of our local places have started to open up and do take out again, so spinning fun to finally get out to them. Set patronizing them and get some actual good food for once.
+SPEAKER_R: I see.
+SPEAKER_L: Yeah. It's always interesting to see, you know which place to go into, other employees actually wearing that are the patrons who are going in wearing them and it started tells us, alright, do I want to come back here again or not? So Oh,
+SPEAKER_R: okay. I guess it looks like we're over time now, but And you, yeah. How
+SPEAKER_L: Let's
+SPEAKER_R: do you close
+SPEAKER_L: see.
+SPEAKER_R: this? Or do you just close the window?
+SPEAKER_L: so if I remember looking back at the directions here, I think it said, let's see if we switched cabs here. I think once we're done, it says, yeah, close it once you finish with the conversation. So I think we can probably close that one out and then the other tab that has all the instructions at the bottom. It should have that blue arrow and then we move on, fill out our, you know, after after conversation. Um, survey, I guess.
+SPEAKER_R: I see. I just have one question. What do you think they're trying to figure out what this video recording thing?
+SPEAKER_L: I mean, I'm assuming that's something like, okay, what are the effects of, you know, if someone has been socially isolated or quarantine, they're not been around people, how does that affect how they talk? You like, I'm using my hands a lot to talk right now, Like is there, you know, some prevalence of, you know, just based on your condition and where you're living and what you've been through? How does that affect how you converse of other people? Like they
+SPEAKER_R: Isil?
+SPEAKER_L: could have a whole different ulterior motive that I have no idea about and they're just minding my face to build an A. I. That can imitate me. So.
+SPEAKER_R: Yeah. I didn't even make the connection to coronavirus. I was thinking more along the lines of like maybe they're just mining data for like, uh, conversational. Like you no wonder people pause when people speak. Anyway. I guess some
+SPEAKER_L: it's probably a mixture
+SPEAKER_R: ai machine.
+SPEAKER_L: of all these things. Mhm. But yes.
+SPEAKER_R: Well, it was nice talking to you. Um,
+SPEAKER_L: Well, well
+SPEAKER_R: Good
+SPEAKER_L: Rescue
+SPEAKER_R: night.
+SPEAKER_L: Union goes well, have a good night,
+SPEAKER_R: You take
+SPEAKER_L: bye.

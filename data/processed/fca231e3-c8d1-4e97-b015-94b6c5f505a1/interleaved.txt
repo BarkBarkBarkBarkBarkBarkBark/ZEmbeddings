@@ -1,0 +1,420 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hi, how are you,
+SPEAKER_R: Oh, let me get my headphones one minute.
+SPEAKER_L: ***
+SPEAKER_R: Yeah, wherever they are. Okay. Yeah.
+SPEAKER_L: and
+SPEAKER_R: Okay, can you hear me now?
+SPEAKER_L: I can. Hi.
+SPEAKER_R: Okay, good. Hi, how are you doing?
+SPEAKER_L: Good, good, good. I'm just gonna set a timer
+SPEAKER_R: No,
+SPEAKER_L: for us.
+SPEAKER_R: Okay, good. Because I'm always like, always end up looking at the clock and being like, how long was it?
+SPEAKER_L: Well that's okay. I spent a timer for us.
+SPEAKER_R: Perfect, Okay. Something was stuck into my computer, but I got it okay. I was like, this is my third time trying this time and no, and so I'm glad this showed up because nobody showed up the first two times. I,
+SPEAKER_L: Me too. Same thing happened to me. I did another time, but I nobody showed up like the past three times.
+SPEAKER_R: I was like sad and I waited last time for like 10 minutes and then I was like, well I guess they're not coming okay, and that's my best one stuff. Yeah.
+SPEAKER_L: So where do you live?
+SPEAKER_R: I live in san Antonio texas.
+SPEAKER_L: Well? Oh, you do? Okay. I'm from New Jersey.
+SPEAKER_R: Okay. Oh wow, that's way different.
+SPEAKER_L: Warm or what you different? Oh my God. Yeah. How's the covid been for you guys? Pretty bad.
+SPEAKER_R: um Yeah, and I was in Kansas up until like a month ago and then I moved back here, so I was in Wichita, so it was kind of bad there. But then the first couple weeks I got here I guess like numbers have spiked so it was a little bit nervous but I work from home, so I've just been quarantining myself my friend's house if.
+SPEAKER_L: Yeah. You know, that's the smartest and the safest. We had it really bad
+SPEAKER_R: you should
+SPEAKER_L: in New
+SPEAKER_R: take
+SPEAKER_L: Jersey
+SPEAKER_R: it.
+SPEAKER_L: in the spring. You probably already heard, You know? How bad is that? In New york city and New Jersey? They're kind of like the same states. You know, people interact, they work in each state, live in another one. Um but it was really, really bad. So we're used to really very harsh. Like what am I trying to say, restrictions on things and things let up a little bit, but not really. We can't eat in restaurants and we have to wear mask outside to we're supposed to
+SPEAKER_R: Okay, so even
+SPEAKER_L: and
+SPEAKER_R: if
+SPEAKER_L: now.
+SPEAKER_R: you're just like outside, not in somewhere. Yeah.
+SPEAKER_L: Most of the restaurants tried um the ones that could set up like outdoor eating in their parking lots and things like that. But there are a lot of restaurants that already went out of business and it's sad. It's really sad.
+SPEAKER_R: it really is. There's a lot here that have closed down or having reopened yet. Um And there's some places that you can, you know, still do the drive through or you can go in to pick up your food but you can't eat in the yeah, in the place. I know that they had opened up like some of the bars and stuff here like a month or two months ago, like right before I got here and I think that's when the numbers started spiking, so there's not a kind of clothes and everything back down but as far as like restaurants, clubs, stuff like that. But yeah, grocery
+SPEAKER_L: That's what
+SPEAKER_R: stores
+SPEAKER_L: happened
+SPEAKER_R: and
+SPEAKER_L: here.
+SPEAKER_R: everything.
+SPEAKER_L: It's really sad. And when the Jersey Shore open, because we get a lot of people coming in the summer just to stay on the Jersey Shore. Um They tried like
+SPEAKER_R: What?
+SPEAKER_L: outside bars and that type of thing. And that's when the numbers started going back up and then some kids had a bunch
+SPEAKER_R: I
+SPEAKER_L: of parties and you know, you
+SPEAKER_R: don't
+SPEAKER_L: hear
+SPEAKER_R: know.
+SPEAKER_L: about it on the news that they broke up these parties 100 kids. And so that's when you know that scary. But I'm like you I pretty much just you know really safe. I have three kids. Um We just you know, just do what we can to say safe. They haven't really socialized too much.
+SPEAKER_R: what
+SPEAKER_L: And now
+SPEAKER_R: are
+SPEAKER_L: the
+SPEAKER_R: they
+SPEAKER_L: big
+SPEAKER_R: doing
+SPEAKER_L: school
+SPEAKER_R: about school? Oh
+SPEAKER_L: I have someone in college when the starting college and he's gonna go um Yeah with the restrictions of course, but he's going to go and then um school, they're still toying with it being hybrid Um meaning
+SPEAKER_R: Yeah.
+SPEAKER_L: like online at home and then maybe they'll do 2/2 days in school. So it's just like it's just
+SPEAKER_R: scary.
+SPEAKER_L: it moves, it's like all the time. It's just it's up in the air.
+SPEAKER_R: Well they have some kids starting tomorrow. I know and my friends that school just sent them computers, one for each student. So they're doing it from home for now. That's what I understand. So I was like yeah I would worry. Me and my kids and my kids are grown there 1921 but if they were still in school it would scare me to like send them to school. So
+SPEAKER_L: you know,
+SPEAKER_R: crowded.
+SPEAKER_L: you know, so I know it even scares me to send him to college because like he's really responsible. But I'm thinking like you know his roommate, even if he is responsible, who knows, we don't have any control over to where he's going, you know what I'm going to a party or something and you
+SPEAKER_R: That's
+SPEAKER_L: just have to hope
+SPEAKER_R: true.
+SPEAKER_L: and pray for the best.
+SPEAKER_R: Yeah and people here I stay away looks like I sold my car right before I got here because you know bills and stuff. And my friend rides the bus to work. He works at a plasma center, so he's been working. But he tells me like the people, they don't have their noses covered on the bus. Some people I don't wear masks and sometimes the people, you know the best drivers tasted, sometimes they don't and I'm just like it's not worth it like I just
+SPEAKER_L: That's how
+SPEAKER_R: mask
+SPEAKER_L: you're
+SPEAKER_R: on.
+SPEAKER_L: I know, I know and if it doesn't go over your nose, it really doesn't help. You know like 100%,, you know, people don't realize. They realize and it's hot. I understand it's it's hot. It's not comfortable.
+SPEAKER_R: So that's the thing that worries me about Kansas because I have you know, great nieces and nephews and it's hard to get them to keep their masks on just like when we go to the store. So I couldn't imagine like them being at school all day and the teacher trying to teach and trying to keep everybody keep your mask go at it. Like that's
+SPEAKER_L: I will.
+SPEAKER_R: and
+SPEAKER_L: It's
+SPEAKER_R: kids
+SPEAKER_L: hard.
+SPEAKER_R: catch everything already, like they're just sick already so fast.
+SPEAKER_L: It's true. Oh my gosh, my
+SPEAKER_R: No.
+SPEAKER_L: kids have been home for for um since March, so like six months including august been a long stretch. None of them could work, none of them could work there part time jobs after school because they were restaurants and they, you know, they closed down and it's been a long long
+SPEAKER_R: So
+SPEAKER_L: by
+SPEAKER_R: everybody's
+SPEAKER_L: six months.
+SPEAKER_R: kind of stir crazy like, okay, I'm ready to go outside, but not quite anything go. Yeah.
+SPEAKER_L: But I thought that um I thought was tiny little girl. She must have been about 1.5 with a tiny mask on. It was so cute. She was just keeping it on and in her little stroller and it's adorable.
+SPEAKER_R: that's so cute. Yeah, I worry sometimes because I see kids people without with babies and I'm like, I don't see them like covering them, you know, covering them and I just want to like, you know, like put something on your baby, like they already have a
+SPEAKER_L: Or
+SPEAKER_R: hard time. So
+SPEAKER_L: I know
+SPEAKER_R: and I know you can't like really, you know, I don't know how that works, but I think I would just say in the house of my baby if I had to because even shopping and everything like I went grocery shopping, but I just do it online and then let them put it in the car like to pick up or whatever because I'm just like,
+SPEAKER_L: Oh that's really smart.
+SPEAKER_R: so like we have a TB in walmart, I've been doing it with walmart lately because every once in a while they'll give you like the deal where it's free for them to deliver it. But you can go, you know and do your whole shopping thing and now like I told my friend they take like the vision and the state, you know something whatever. I think when you get there they just have to like scan your card. But I told her I was like it's way easier because when I'm in the store I'm so focused on trying not to like be around too many people. Then you forget
+SPEAKER_L: I know
+SPEAKER_R: stuff and you're like rushing but there you can make a list and just go, you know do all the shopping. They have it to where if you want substitution or not. So it's pretty cool. I don't know if you have that
+SPEAKER_L: that's
+SPEAKER_R: out there
+SPEAKER_L: when
+SPEAKER_R: but
+SPEAKER_L: the more
+SPEAKER_R: if you do
+SPEAKER_L: I
+SPEAKER_R: definitely
+SPEAKER_L: like that.
+SPEAKER_R: try it. Yeah
+SPEAKER_L: Well
+SPEAKER_R: it's the
+SPEAKER_L: I
+SPEAKER_R: card
+SPEAKER_L: don't
+SPEAKER_R: is pretty cute too. Yeah.
+SPEAKER_L: I've done like the curbside pickup in pet stores like for at petsmart. Petco. I don't know if you have those for like, you know my pet supplies and um but the groceries, I haven't done it. Um I really haven't done it yet. My husband likes fresh things so he likes to go out and pick his own like you know, produce
+SPEAKER_R: I don't know.
+SPEAKER_L: since like so I'm kind of spoiled in that regard. So he don't, you do and he's a really good cook so he likes to cook. So
+SPEAKER_R: Good. Well
+SPEAKER_L: I
+SPEAKER_R: that's
+SPEAKER_L: Coraline
+SPEAKER_R: good
+SPEAKER_L: and
+SPEAKER_R: man.
+SPEAKER_L: her we like this company called Peapod. They I don't know if you guys have them in texas. They come around the neighborhood and they deliver
+SPEAKER_R: Three
+SPEAKER_L: groceries
+SPEAKER_R: more.
+SPEAKER_L: and things if you order in the store. The grocery
+SPEAKER_R: I heard
+SPEAKER_L: store.
+SPEAKER_R: them. I didn't know that's what they were. Yeah. I used Instacart and like Walmart and stuff because it's, the card normally has ideals and stuff here like $15 off, you know $15
+SPEAKER_L: Oh that's
+SPEAKER_R: off your
+SPEAKER_L: great.
+SPEAKER_R: girls through there. I'm like OK cool. So and
+SPEAKER_L: that's
+SPEAKER_R: then sometimes
+SPEAKER_L: perfect.
+SPEAKER_R: they'll do free uh free delivery. I think if you spend like $35 or something and I usually spend $35 in my country shopping. So yeah it works
+SPEAKER_L: that's
+SPEAKER_R: out.
+SPEAKER_L: so cool. Oh that's good. First month from so is it isn't half there in texas?
+SPEAKER_R: Yes it is very very high. Have my A. C. Off because it's super loud. But yes it's a very hot out here.
+SPEAKER_L: What's it like like 100° or?
+SPEAKER_R: Um it was 10.2 I believe. Let me see what it is today. Today right now it's just 92. But it feels like 105 because it's super human out here. So I was in Maryland for everything here so I kind of remember how it was, it was like 2003 so but I know it was mostly kind of cool out there like it stayed not too hot but here it's like worse.
+SPEAKER_L: it is. Now you don't have like the hurricane heading to your coast do you? The two
+SPEAKER_R: No
+SPEAKER_L: hurricanes.
+SPEAKER_R: there was one that was headed I think it was marco I think it's the name of it, I think that it was heading towards Houston but there was like something that shifted more towards Louisiana so but Houston's like I'm in san Antonio so I'm kind of in the middle so we don't really get too many hurricanes. Uh It's more like Houston which is kind of closer to the coast which is on the coast. So um but yeah it looks like it said earlier that it like changed, which is kind of back to Louisiana is always getting hit. I feel like uh
+SPEAKER_L: They
+SPEAKER_R: kind of
+SPEAKER_L: are the 4th state. They're always getting hit. I
+SPEAKER_R: and
+SPEAKER_L: know.
+SPEAKER_R: it's I couldn't live there or florida I don't think because like it's always like hurricanes or floods or something and I would just be like I'm over it, I'm not
+SPEAKER_L: No
+SPEAKER_R: trying anything
+SPEAKER_L: I
+SPEAKER_R: else
+SPEAKER_L: get
+SPEAKER_R: down,
+SPEAKER_L: it.
+SPEAKER_R: like I'm not climbing on anybody's roof like.
+SPEAKER_L: it's really hard. Like two weeks ago we got hit with a Superstorm um And it came up here and people were without power for a week like in Connecticut and yeah and parts of New Jersey, Long island new york. Um We just lost it for two days so it was no big deal but still like a lot of people and the trees were down and everything and that was just like with a tropical storm that came up the coast. So I was really
+SPEAKER_R: Guitar
+SPEAKER_L: weird.
+SPEAKER_R: close to the water to right. So uh
+SPEAKER_L: Oh yeah we're right
+SPEAKER_R: so
+SPEAKER_L: near the water. Yeah. Yeah
+SPEAKER_R: what's
+SPEAKER_L: but
+SPEAKER_R: the weather
+SPEAKER_L: this one
+SPEAKER_R: like the hair? That's
+SPEAKER_L: I hate to complain. It was like 89 maybe. But it was it was humid.
+SPEAKER_R: rita
+SPEAKER_L: I have to say it was human right
+SPEAKER_R: Well
+SPEAKER_L: now.
+SPEAKER_R: in
+SPEAKER_L: It's
+SPEAKER_R: there
+SPEAKER_L: probably low 80s. Around 80 maybe
+SPEAKER_R: so you're but you're used to you're used to the cooler weather. I mean it's cooler there more so than it's hot in New Jersey.
+SPEAKER_L: It is now. The humidity creeps up and it really makes it feel uncomfortable. It brings the next around 100. Um and it's been very very humid all summer. Um July was really really hot and most of August
+SPEAKER_R: Because
+SPEAKER_L: so um
+SPEAKER_R: of the storms I wonder maybe.
+SPEAKER_L: I don't know I mean it's it may be global warming, I'm not sure what it is, but it's been like one of our hottest summers by far but not compared to this, so I can't complain.
+SPEAKER_R: Well yeah, I mean that's the thing I always say because like in the in the winter time it will be the other way around like it gets like 60 degrees here and we're like oh my God it's freezing and you're like oh no that's fine, that's 60 degrees is perfect. So it gets like negative
+SPEAKER_L: all my
+SPEAKER_R: zero.
+SPEAKER_L: guys wonderful but we don't really get that severe cold weather anymore with the with the mountains of snow like we used to like years and years
+SPEAKER_R: good.
+SPEAKER_L: ago we used to have snow on the ground all the time now up here, like it's like once in a blue moon honestly, but you get like half an inch on the ground and everybody in new york panics, new york and the jewish history panic, get out the snowplows, get out the Sanders get everything you possibly home, but Weatherman says you've got to be careful driving and literally like it's a half an inch. But the ice up here is what gets you and it makes all everybody have an active on the road and stuff like that.
+SPEAKER_R: That's how it is in Wichita because it snows there. So I think my first winter there, like I woke up and it was like ice on the ground and I'm like what is this? But they're like uh you know they cleaned out all the main roads but they don't do the neighborhood roads. But yeah, that's the ice. It's like scary
+SPEAKER_L: I see
+SPEAKER_R: to
+SPEAKER_L: that's hard.
+SPEAKER_R: Yeah. Yeah so you can, as long as you can get off your neighborhood to like a main street you're fine. But getting out the neighborhood is the hard part like I had to sign something
+SPEAKER_L: But
+SPEAKER_R: on my
+SPEAKER_L: sometimes
+SPEAKER_R: lease because my.
+SPEAKER_L: you work out, it's harder. You look out your door and you want to estimate like what it's going to be like, you don't know, it's any better outside
+SPEAKER_R: like
+SPEAKER_L: of the neighborhood. Nothing happens to me all the time. All
+SPEAKER_R: all
+SPEAKER_L: this
+SPEAKER_R: my
+SPEAKER_L: home
+SPEAKER_R: boss the first time and I'm like I need to wait until this like slow like you know built some and she's like oh no the roads are fine and I'm like such a picture of like frustrate and I'm like I don't know what to do here. Like my
+SPEAKER_L: has
+SPEAKER_R: driveway
+SPEAKER_L: happened.
+SPEAKER_R: went like this so I had to sign a thing saying like you know in the winter time to be careful coming up my driveway because it was so steep and I'm like I'm scared to like back up like I'm gonna run right into the other you know thing and my landlord already made me sign something saying it wasn't the responsibility. So like if I want to know what I would have parked on the street or something. Yeah it was.
+SPEAKER_L: I think we parked down at the end of the driveway maybe because we used to live on a big wall. That's what we had to do.
+SPEAKER_R: Park on the end. Yeah. I used to just if I thought it was gonna snow if it snowed today before then I would just kind of part on the side of my front of my house instead of in the back because I would just be like, yeah, that's like the thing and then it would be like cool. But I saw somebody in the truck almost like running to the curve. So I was like I had this like little bitty car and I'm like there's no way. So
+SPEAKER_L: That's scary.
+SPEAKER_R: but uh yeah
+SPEAKER_L: Yeah. When you start sliding, I hate that. That's so scary.
+SPEAKER_R: and here in texas, I've only had to deal with black eyes every once in a while, so you like hailstorms. But that's like the most
+SPEAKER_L: You
+SPEAKER_R: that happened. Yeah. And it's a little weird
+SPEAKER_L: my gosh.
+SPEAKER_R: because I'm like,
+SPEAKER_L: I would never
+SPEAKER_R: yeah, and it happens, maybe I say like it will start getting cold like november ish december. So like when everybody else is getting snow will get like some hail and then it will normally like maybe once or twice and then it will be, but I'm like everybody's car, you know, everybody has hail, damage insurance out here and stuff like that. So I guess it works out.
+SPEAKER_L: heal damage. Oh my,
+SPEAKER_R: Yeah, and I'm like,
+SPEAKER_L: we
+SPEAKER_R: they
+SPEAKER_L: must
+SPEAKER_R: should
+SPEAKER_L: be
+SPEAKER_R: deal
+SPEAKER_L: dropped
+SPEAKER_R: with more
+SPEAKER_L: while.
+SPEAKER_R: covered. Yeah, well they're like, they can be like quarter size or golf ball size or you know, some of this, but
+SPEAKER_L: Why?
+SPEAKER_R: I guess from it falling, you know, even the little bitty ones can cause dents in your car and you know, whatever. So It's a lot
+SPEAKER_L: that's
+SPEAKER_R: of people getting their cars like around springtime, you'll see a lot of people getting their cars repainted because of that or they'll be
+SPEAKER_L: What?
+SPEAKER_R: selling them during taxes. Yeah, it's kind of crazy. But that's like the worst that it gets everyone throughout some sleep. But I think when it gets like 30° here, they're like drip your faucets and you know, turn your heaters off and You know, watch your animal. Yeah, we're like 30°. And then I moved to switch time there, like it's below 14 or making a 14 and I'm like, what? I can't do this. I was like, I'm moving back to Texas before it gets cold again because like, I literally cannot.
+SPEAKER_L: Oh now you're a Dallas cowboy fan. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Okay.
+SPEAKER_R: You're
+SPEAKER_L: We
+SPEAKER_R: in Dallas Cowboys
+SPEAKER_L: were
+SPEAKER_R: friend since
+SPEAKER_L: all
+SPEAKER_R: 96.
+SPEAKER_L: like he said okay because we all are giants fans, New york giant fans up here. But my one son, the middle son is a Dallas cowboy fan always
+SPEAKER_R: Tell him I
+SPEAKER_L: has
+SPEAKER_R: like
+SPEAKER_L: been,
+SPEAKER_R: the most what's
+SPEAKER_L: have you heard
+SPEAKER_R: arrival
+SPEAKER_L: one of them?
+SPEAKER_R: in your house.
+SPEAKER_L: Oh well it's funny because he had a life sized Tony Romo one of those fat in his room growing up. And my other son next door had eli manning from the giants on his wall.
+SPEAKER_R: And
+SPEAKER_L: So their total rivalry. Forget it in
+SPEAKER_R: Especially
+SPEAKER_L: my house, forget it. It's not funny.
+SPEAKER_R: during that game you're like, yeah, I used to date this guy who is the new york giants friend. And I was like, when we're playing against each other, there's no friends here. He's like, okay, bye.
+SPEAKER_L: There are no friends and
+SPEAKER_R: pre
+SPEAKER_L: there's very
+SPEAKER_R: season
+SPEAKER_L: little talking
+SPEAKER_R: series.
+SPEAKER_L: in my house
+SPEAKER_R: Yeah. And I'm worse
+SPEAKER_L: and
+SPEAKER_R: than the men sometimes. He's like talking and I'm like babe games are and shit. He's like
+SPEAKER_L: definitely
+SPEAKER_R: take it talked to me before the game comes on a dirty commercial, I can't be bothered. So it's terrible. My best friends. Uh
+SPEAKER_L: no
+SPEAKER_R: He
+SPEAKER_L: not
+SPEAKER_R: likes
+SPEAKER_L: this one
+SPEAKER_R: to Jack.
+SPEAKER_L: of the jets.
+SPEAKER_R: So yeah, so
+SPEAKER_L: let's
+SPEAKER_R: I
+SPEAKER_L: move
+SPEAKER_R: don't
+SPEAKER_L: from
+SPEAKER_R: know.
+SPEAKER_L: new york.
+SPEAKER_R: No,
+SPEAKER_L: Was he
+SPEAKER_R: no,
+SPEAKER_L: from me
+SPEAKER_R: no,
+SPEAKER_L: now?
+SPEAKER_R: he's born razors. Yeah. Just that's this team. Yeah,
+SPEAKER_L: Wow. That's
+SPEAKER_R: I
+SPEAKER_L: interesting.
+SPEAKER_R: know. Absolutely. I say I was like, what
+SPEAKER_L: Someone.
+SPEAKER_R: is wrong with you? He's like, that's my team and I can't tell them nothing. Just like, you can't tell me nothing about the cowboys, I just leave alone.
+SPEAKER_L: I know who knows, who knows if we'll even play this year, you know, we're
+SPEAKER_R: I'm
+SPEAKER_L: waiting to hear.
+SPEAKER_R: so sad about it like. And then I forgot that the Dallas cowboys moved there, you know where I was like, they're probably going to spring training anyway, but I forgot that they moved their spring training to California or whatever like some years ago because we used to go to spring training here in san Antonio whenever they do it here. So
+SPEAKER_L: fine
+SPEAKER_R: that was cool. Yeah but I know everybody, I'm like what they're doing basketball so maybe but I don't know I think they're still trying to figure it out because the basketball
+SPEAKER_L: I think.
+SPEAKER_R: players are like it's not fun playing without the crowd, which I understand because the crowd hype them up but like hey what about us? We're sitting at home, we can't do anything. The least we can do is watch sports,
+SPEAKER_L: Yeah, that's the least we can do. It was funny I saw like a sports highlight the other day and they have those cardboard cutouts for the baseball
+SPEAKER_R: good
+SPEAKER_L: games
+SPEAKER_R: luck.
+SPEAKER_L: in the statement and now they put boots stuffed teddy bears in there and one of them got a line drive right to the head and his head went back to kind of like one side to side and they sat right back up. Yeah, a long hit in the head but he, you know, he rebounded God that was a person, it would have been really detrimental. Yeah.
+SPEAKER_R: I bet you that person said that was supposed to be sitting and I was like I would have caught that ball.
+SPEAKER_L: Example, but it's really funny to see the crowd like you know with all these cardboard cutouts and you know, teddy bears and different things like that's really strange.
+SPEAKER_R: Oh yeah because in the basketball they just have the screens right? Like the T. V. Screens or computer screens and so you see people like moving and you're like what's going on? Oh yeah that's the computer screen,
+SPEAKER_L: It's very
+SPEAKER_R: everyone. Yeah
+SPEAKER_L: my family, my husband, my sons are huge basketball players and and they loved the game of basketball. So here's hoping for that one too.
+SPEAKER_R: yes. Yes. Yes. I think everything, I just wish everything could kind of start going back but I want to make sure that everybody is safe for everybody's trying to rush it. But just like what happened here and what happened there, like they open stuff up too soon and then people were getting sick and I'm like it's not worth it, like we can sit at home for a little bit longer, we have video conferencing and okay
+SPEAKER_L: I agree.
+SPEAKER_R: stuff.
+SPEAKER_L: I know I know it's not the most exciting thing but you know what it's safe.
+SPEAKER_R: Yeah and that was the thing that was worrying about the kids in school because when I first got back they were talking about in Houston like putting and I'm like well they can't have all the kids back in school at the same time because there's like literally no way like those classrooms used to be so
+SPEAKER_L: What?
+SPEAKER_R: crowded so they have to have some kind of like half, one half in school, half online and maybe switch off, like you said a couple days I think maybe wait and just do it online and then for now.
+SPEAKER_L: For now I know I think so. True, definitely think so
+SPEAKER_R: but I guess it's harder for some parents to go back to work. You know, not everybody can work on line and stuff. So
+SPEAKER_L: It's got to be horrible and for the essential workers to they leave behind. I have a lot of friends that are nurses and they're trying to figure out what they're going to do because they have to go to work no matter what and they was going to teach the kids and you know I hear them talking and it's it's really hard.
+SPEAKER_R: There's a lot of people I know that are on care dot com and stuff like that, like climbing like tutors or like nannies, but more so like just to be there with their kids while they're doing their schoolwork to help them out so that they can go to work. And I think they make a market tested and stuff. So maybe if you have any friends let them know that I know care dot com because my friend, she works on there, they do background screens and everything. But I think they test them for covid to before they can work near uh
+SPEAKER_L: well
+SPEAKER_R: their
+SPEAKER_L: that's
+SPEAKER_R: kids.
+SPEAKER_L: for that's that's interesting. I bet they're getting you know what I bet that's a field that's going to open up is to be like a nanny caregiver kind of supervisor person for these home school conclusions.
+SPEAKER_R: it's that that in pet care like walking pets and being there. So that because I think a lot of people have been home like their pets are like on a different schedule now and so now they have to leave them at home again and they're like, it's like I don't know what to do. So yeah, there's a lot of those online like um tutoring remote schooling and then take care. So yeah, it's really a lot of more people trying to get certified and stuff. But the good thing about them is like they do background checks and all that good stuff so that's good. You don't have to worry about you know
+SPEAKER_L: that is good. Yeah
+SPEAKER_R: and then testing.
+SPEAKER_L: I'm in like some help because a couple of them are single moms too so it's you know it's hard, they're worried about it
+SPEAKER_R: And I don't think it's that much. I think like everybody has like their own you know certain amount that they charge for stuff like that. But I don't think it's that much because everything I saw and there was like you know $67 uh like an hour or something. Yeah there was a couple in there were like they're just they do like the online where they watch them on language. I don't know if that's that's safe because like if something happened you're here and I'm there. But yeah
+SPEAKER_L: that's
+SPEAKER_R: so
+SPEAKER_L: interesting.
+SPEAKER_R: the little Yeah because my friend she has the she said it was like $30 for the camera that she puts up in her house and then she could see everything that's going on from her phone and she said it was like $40 and they put it three cameras I think around the house. So she can she's like look and she just pulls it up and I saw her sudden playing video games and then she can talk to him from there. She's like hey what are you doing? He's like but yeah.
+SPEAKER_L: That you can't really hide from the camera then
+SPEAKER_R: Yeah. No and if they don't know where they're at then that's even better. But I guess I don't know where they're at than still. Yeah
+SPEAKER_L: that's pretty
+SPEAKER_R: but you can at least see it from wherever you're at. And then you know if you need to do anything then yeah. So at least they have those things that they're making so that people feel safer when they have to go back to work. That's crazy.
+SPEAKER_L: Yeah. Yeah that's a good thing. It's a really good thing. Oh my gosh you're lucky you can work from home that you know you have a job that you can do from home.
+SPEAKER_R: Yeah. I just found it because I was out of work from March to June and then I just found this job so it was pretty cool that I found it because yes that was my savings is getting low and then my friend he just turned 19 so my son and my daughter is 21, she's in the air force so she was okay but my son and I want to
+SPEAKER_L: hold
+SPEAKER_R: help
+SPEAKER_L: on.
+SPEAKER_R: her dad with him. So. yeah
+SPEAKER_L: Yeah. Where are you stationed in the air Force? Where where?
+SPEAKER_R: she sent Ohio and I cannot think of the name of the base but she's in Ohio right now where she stationed at. Yeah
+SPEAKER_L: All right.
+SPEAKER_R: I have to I think it's Canton. Ohio it's so terrible like she just told me but she calls me so yeah she's been in the air Force for about two years now so she's out of basic and all that and her dad
+SPEAKER_L: good.
+SPEAKER_R: was an Air Force so that's where she got that from which
+SPEAKER_L: And
+SPEAKER_R: is
+SPEAKER_L: she
+SPEAKER_R: better.
+SPEAKER_L: likes
+SPEAKER_R: My.
+SPEAKER_L: it.
+SPEAKER_R: Yeah. Yeah she loves it. Um
+SPEAKER_L: Good.
+SPEAKER_R: She does like linguistics so she's you know she doesn't have to be out. She's just doing stuff with languages and the way she didn't work like embassies and stuff like that. So not
+SPEAKER_L: that's
+SPEAKER_R: too
+SPEAKER_L: very
+SPEAKER_R: much of a. Yeah. Yeah and she's gonna go go to officer school so that would be yeah
+SPEAKER_L: Oh that's really good.
+SPEAKER_R: tell people
+SPEAKER_L: That's
+SPEAKER_R: what to
+SPEAKER_L: graduate.
+SPEAKER_R: do.
+SPEAKER_L: I congratulate as an officer, wow. That's fantastic.
+SPEAKER_R: like telling people what to do. She's been doing this since her brother was young. She's
+SPEAKER_L: Yeah. That's
+SPEAKER_R: two years older than him and I swear that she once I had him she thought she was his mom and so he told her you're not my mom.
+SPEAKER_L: That's cool. Well my my timer just went off. I think
+SPEAKER_R: All
+SPEAKER_L: we're good.
+SPEAKER_R: All
+SPEAKER_L: I think we did the 25 minutes,
+SPEAKER_R: I think we did too. Yeah. I think we started like 502 so we're good. Well
+SPEAKER_L: I was
+SPEAKER_R: it was
+SPEAKER_L: promised
+SPEAKER_R: nice meeting here.
+SPEAKER_L: not you.
+SPEAKER_R: You too. I'm Giovanna
+SPEAKER_L: Absolutely.
+SPEAKER_R: by the way.
+SPEAKER_L: All right, bye bye. Be safe and be well,

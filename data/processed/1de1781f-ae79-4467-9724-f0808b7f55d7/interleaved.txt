@@ -1,0 +1,271 @@
+SPEAKER_R: Hello.
+SPEAKER_L: Hello?
+SPEAKER_R: Can you already?
+SPEAKER_L: Yeah, I can hear
+SPEAKER_R: Sweet
+SPEAKER_L: you
+SPEAKER_R: everyone. How you doing?
+SPEAKER_L: All right, how are you?
+SPEAKER_R: Not too bad, no complaints. Yeah. So is there a specific set of questions we're supposed to ask her to have a regular conversation.
+SPEAKER_L: No they just said talk about whatever
+SPEAKER_R: Gotcha. So what's your name?
+SPEAKER_L: my name is brian, how about you?
+SPEAKER_R: I'm john nice to meet you.
+SPEAKER_L: Yeah, you too? Yeah,
+SPEAKER_R: Where you from?
+SPEAKER_L: I am from Virginia, where are you from?
+SPEAKER_R: I am from Kentucky, Central Kentucky.
+SPEAKER_L: cool. I was actually born in California so I have been all over. Yeah.
+SPEAKER_R: Got you. Yeah, my, my brother used to live in Richmond, so been there and back a couple times to see him.
+SPEAKER_L: Oh yeah, that's actually where I am, is Richmond?
+SPEAKER_R: it's a great time,
+SPEAKER_L: Yeah, it's really cool actually live directly like in the middle of the city. Um
+SPEAKER_R: come on.
+SPEAKER_L: So that was pretty cool like until Covid happened, which made that much less accessible. But
+SPEAKER_R: Yeah. Has Covid had a big kind of impact on your work or school or anything or?
+SPEAKER_L: actually I was working in the restaurant industry so like I had a big impact on me. Um I was doing a corporate dining for a big company and since they were, they transitioned to working from home full time. Um The cool thing was that they paid me to stay home and do nothing for like six months. So
+SPEAKER_R: Well, that's
+SPEAKER_L: I got real spoiled on that. Um but it was weird, but I did actually get furloughed. I started a new job last week actually. Yeah,
+SPEAKER_R: same industry or?
+SPEAKER_L: no um restaurant industry is really in a bad spot right now and it's so you don't know how long you would actually have a job. Sorry I heard some people actually from my old job, they got a new job, another restaurant in that restaurant closed down or they went to another position that was open with the companies are working for like at BCU and then we see is like no we actually need you. Um
+SPEAKER_R: Who?
+SPEAKER_L: Yeah so now I'm doing um work for a home security company, doing tech support.
+SPEAKER_R: Okay. Got you.
+SPEAKER_L: How about you? What what's covid done for you?
+SPEAKER_R: Um I've been kind of lucky in that. It hasn't been too bad. Um I'm a student
+SPEAKER_L: Yeah.
+SPEAKER_R: here at the University of Kentucky, so um decides from classes going online mostly. Um I have a couple of horses that are still in person and it really decides that that's the only thing that's affected me. Um So I'm lucky in that expect, but uh a lot of my friends are in the kind of the same boat as you as a lot of like restaurant and uh food service jobs just kind of dried up because people weren't really going out to eat or if they were like they, you know, they didn't need as much help. But yeah, it's, I would say like a only 10% of the nicer restaurant or not nicer, but like some of my favorite restaurants have closed because you know, people either don't have enough money to spend to go out to eat or you know, they can't really pay anybody to work, so.
+SPEAKER_L: Yeah. A few of my favorite places of clothes, I don't know if you've heard of Metro diner, it was on like a,
+SPEAKER_R: No.
+SPEAKER_L: what was it like man versus food or shrivels and dies
+SPEAKER_R: No.
+SPEAKER_L: at some point, but they became a chain and they had like a couple of locations here, but they've been slowly closing down and like Covid, it was like the nail in the coffin. Um
+SPEAKER_R: Bed Tony.
+SPEAKER_L: Yeah, which sucks because they actually had a really good food. Um and I thought they were really popular because every time I would go at certain hours they were packed. So yeah, Man of viewers. Um mm Yeah.
+SPEAKER_R: it's unfortunate, but uh I guess hope something gets better soon.
+SPEAKER_L: Yeah. Like I'm glad I was able to uh
+SPEAKER_R: Do it.
+SPEAKER_L: find something completely outside of what I was doing and I'm like, I'm excelling at it. So I've only been there just like my second week. So
+SPEAKER_R: Mhm. Is it uh commensurate with tech support?
+SPEAKER_L: yeah, tech support for a home security company
+SPEAKER_R: Do you work from home or do you work at the office?
+SPEAKER_L: right now, we're doing four weeks of training in, in an office. But then after that we will transition to remote. But yeah.
+SPEAKER_R: Do you? Yeah. Sorry. Good.
+SPEAKER_L: Yeah, but it's really cool because like we go in like when we got in there, like they have, you know, cubicle set up, but like you're at, people are at every other cubicle like just having a cubicle apart and so nobody is directly in front of each other or next to each other, just just for the space. You know, we got the mask mandate the whole time were there and you
+SPEAKER_R: All
+SPEAKER_L: got sanitizer everywhere, so it's pretty, pretty, like I was happy to see that we can.
+SPEAKER_R: I feel like otherwise it would be probably kind of just on your mind all the time. I mean if you're I don't know if you share keyboards or if people are coming in at different shifts or whatever, but like that would drive me crazy if I didn't know somebody was doing it correctly.
+SPEAKER_L: no, this is very much your stuff is your stuff, it's yours and when you go home you're taking it all with you and they'll give brand new stuff to any the rest of employees that are training. Oh
+SPEAKER_R: Thanks. Do you have attacked background or?
+SPEAKER_L: um not professionally. Um but I've been working with computers, like all my life has always been like a hobby, I figured now is a good time to transition back into her career, but
+SPEAKER_R: that's uh
+SPEAKER_L: uncle,
+SPEAKER_R: sir? Good.
+SPEAKER_L: but like a food was definitely hobby too, so you know, go back and forth. I definitely missed a lot of aspects of working the food, but this is cool too, you know, and I'm being paid more, so.
+SPEAKER_R: No complaints there. Yeah, I am. I'm also a computer hobbyist um actually been out and about today looking for different parts. Um I had a had a system just completely die on me last week and never had that happen before, so that was just
+SPEAKER_L: Was
+SPEAKER_R: in
+SPEAKER_L: it
+SPEAKER_R: dealing
+SPEAKER_L: like
+SPEAKER_R: with them.
+SPEAKER_L: it's a hard drive or?
+SPEAKER_R: Okay. I'm not sure. I've kind of nailed it down to either the power supply or the graphics card. Um I'm thinking it's probably the graphics card just because it's, I don't know, it's like the fans don't turn on, but they kind of like twitch, it's kind of weird, but uh so I try to replace it with an old woman I have and that didn't seem to work either. So now I'm using uh not this computer, this is a laptop, but I'm using an old computer for about 10 years ago, so that's what I'm you guys working on
+SPEAKER_L: that
+SPEAKER_R: tonight?
+SPEAKER_L: that is unfortunate, I'm sure that you can't really do much with that one. Um
+SPEAKER_R: Yeah, I mean it works for when I used it, but granted that was also 10 years ago, so the games are a little more demanding now, but. Oh
+SPEAKER_L: Yeah. Do you know if like when you were, when you had the problem that you have like graphical problems before the system died at all, like it was a graphics card situation, it's usually you'll get a lot of like artifacts or something on the screen. Yeah.
+SPEAKER_R: Yeah, I'm not sure. Um I just just like completely cut out which is what maybe I think it was power and then after putting the Gpu in a different system I think maybe the power like shorted out the graphics card too.
+SPEAKER_L: That's that's definitely possible.
+SPEAKER_R: Yeah I have no idea. But it was it was odd. I was just playing like Borderlands two which is like
+SPEAKER_L: It's old.
+SPEAKER_R: speak with that. You wouldn't think that that would be the most demanding game but
+SPEAKER_L: It isn't the best optimised game for sure, so I wouldn't, you know, put a passive melting a graphics card um Yeah,
+SPEAKER_R: Yeah. Yeah I was going to update the system anyway so like I'm not I'm not too worried about it but.
+SPEAKER_L: I mean it's a good time to get him to grab his card right now, I'm like with the 30 70 out um if I'm gonna upgrade and probably probably gonna agree with that one when it's more available
+SPEAKER_R: Yeah. Uh They like back ordered on or is it just really high prices right now?
+SPEAKER_L: um back ordered like when like I haven't checked recently but when they released it was definitely like oh they're available second
+SPEAKER_R: joe.
+SPEAKER_L: later, they're gone scalpers and immediately on Ebay for way more money.
+SPEAKER_R: Yeah that's so it was really frustrating but
+SPEAKER_L: it's not always how it is with like any new technologies, like I know the console, we're going to have the exact same problem with those come out this year.
+SPEAKER_R: yeah I had I had heard that that was the thing with PS five's like that would be available for like a minute and then they would all just get but
+SPEAKER_L: Yeah, that happens every new generation. Um Remember when the we came out I was lucky because I stayed. Well okay, lucky is a strong term because actually stood in line for Like eight hours just to get it. Um I don't know if people do that anymore um I definitely want to do that again. Um
+SPEAKER_R: I
+SPEAKER_L: but that,
+SPEAKER_R: don't blame you.
+SPEAKER_L: yeah, but I mean like I was still in college, I had nothing else to do so.
+SPEAKER_R: Yeah. Yeah that's uh definitely like a different culture of games like I I don't know I mean I don't know if you ever pre ordered games but I I guess now they have like more I mean how I buy games is like through you know virtual or online stores so like available availability is never like an issue. So like but like and I guess the older generation so it was like you have to wait outside or like wait until a new shipment came or you just didn't get it.
+SPEAKER_L: Yeah, like it's the digital stuff games has made things so much easier to remember um for the really popular games or even maybe like the less popular games like the more niche games that they're not really shipping out a lot, you had to pre order with a retailer or you probably won't get it on release day. Oh
+SPEAKER_R: 12. Do you gain much or do you use your computer for other like programming or anything else?
+SPEAKER_L: I can when I can um not not as much as I used to just because I just yeah can't you know focus for so long anymore, kind of like get burned out um But I have been playing, I just finished um pillars of eternity too.
+SPEAKER_R: Oh yeah that's a good game.
+SPEAKER_L: yeah, I just finished that and and I got like almost 100 hours into it. Um and that took me a long time. Um But now I started on divinity, Original Sin too. Sure.
+SPEAKER_R: I have very good things about that too and I know that new boulders gauge just came out of the same kind of genre
+SPEAKER_L: yeah, it's out of early access so I'm not touching it.
+SPEAKER_R: that's that's probably safe. Yeah.
+SPEAKER_L: Yeah like you can only play that game for the first time once you know what I mean? And holders Gate is such has such a legacy behind it, but I don't want to taint it with like uh my my character's hair is poking through his helmet.
+SPEAKER_R: You know Yeah, that's a that's a
+SPEAKER_L: I'm
+SPEAKER_R: that's a good idea just because I feel like uh I don't know if you remember from like four or five years ago, it was like the flavor of the month was like uh early access survival crafting games and it was like rust, Minecraft blah blah blah. All these other games that would come out and there were early access and they were like just about like half finished,
+SPEAKER_L: but
+SPEAKER_R: but they would ship them out like in early access so that we could just start making money and it's like these games were just like not ready to play at all. And it was like
+SPEAKER_L: that that trend never went away, like it only got worse. Um But I think gamers have much lower tolerance these days. Yeah
+SPEAKER_R: definitely getting sick of it just because like
+SPEAKER_L: much,
+SPEAKER_R: I would have expected better right now, but Oh.
+SPEAKER_L: that's pretty much, you know it used to be beta testing, you have this stuff, you have to sign up for now, you now you gotta pay for it. You got to pay to test people's games for them which is a while to me. But you know it's working for him so whatever. Like I think Baltar's gave three. The developer said they got over like a million um sales on it. The
+SPEAKER_R: All
+SPEAKER_L: data released. Yeah it's
+SPEAKER_R: that's
+SPEAKER_L: like it's absolutely insane and I get it all there's a three is huge. Like that's what people like, people have been wanting a new dungeon and Dragons rule set uh C. R. P. G.
+SPEAKER_R: No,
+SPEAKER_L: And I really want to play it. Like I'm stoked for that game but I will wait a year. I have the patience for it.
+SPEAKER_R: I think it's a good idea just because like I have kind of jumped the gun on some of those games before or like um like I've played like betas of games and it's like yeah, like I'm kind of glad like I didn't pay like full price for this or like there's definitely some work that still needs to be done. So like I don't I don't blame you on that just because Yeah, Plus if you really enjoy it, like, you know, you can only play it so many times and get that same first experience, so
+SPEAKER_L: I mean there are some games where it makes sense. Like, I don't know if you ever played Minecraft but when that first came out that was early access and that was a huge deal. Right? If it didn't go earlier access, it probably wouldn't have got as popular as it did, I mean, I might add, but you never know. Um
+SPEAKER_R: Mhm. I mean they did set they did set a good standard for that as far as like they released a lot of content and they are still releasing a lot of content. They definitely set a standard that I don't think a lot of people get up to, but
+SPEAKER_L: Hey, I mean, I think that's standard they have now, a lot of that is due to the fact that it is so popular and that they can keep making money from that through like maybe not the gaming self, but like, you know, they sell servers now, they have a lot of merchandise, like I think that's most of the money they get nowadays.
+SPEAKER_R: Yeah, I wouldn't doubt it. So what do you do outside of gaming and and work?
+SPEAKER_L: Um I do some art sometimes, like a draw sometimes. Um I've got like a small little instagram with some stupid drawings on it. Um But uh I'd like to go to like electronic music shows before, which, you know, obviously I can't do and who knows when I can, but Richmond is really good for that, like I could just drive like 15 minutes in the downtown, like their shows going on. Mhm.
+SPEAKER_R: it's it's
+SPEAKER_L: But
+SPEAKER_R: definitely uh I do remember having some uh I'm trying to remember the uh the place, it's kind of near the river, it's like under some bridges I'm trying, it was like a name for the area and I can't remember the name of it, but
+SPEAKER_L: Uh huh I know you're talking about, but I can't think of it on top of my head, I haven't been down there actually.
+SPEAKER_R: yeah, there's a lot of like bars and restaurants and it seems like some pretty good music venues, so.
+SPEAKER_L: Is it shocking bottom? Yeah.
+SPEAKER_R: that's it, that's it, he hasn't lived there, so it's for so long time, I've been back in a while, but yeah, it was uh interesting place for sure.
+SPEAKER_L: Yeah, they got some wild stuff over there. Um but you know, I can't really go there anymore. Yeah.
+SPEAKER_R: yeah, it's it's been too long for not having seen a show just because there was a music video down the street for me that I would go to and see some shows and that was one of the victims of Covid. They just shut down because they just wasn't making any money anymore.
+SPEAKER_L: Yeah, I actually bought tickets to a show like for like uh what in april that was canceled of course. Um It was really because I'm really looking forward to it. Um And we also we had also my girlfriend, I had actually bought tickets and hotel reservations for Orlando Studios to go like last month.
+SPEAKER_R: Shoot that's they give you any sort of refund or
+SPEAKER_L: Uh kind of they were real stingy with it,
+SPEAKER_R: enough.
+SPEAKER_L: that they were real real crappy about it um because my girlfriend didn't order like the insurance on it or the warranty or whatever on the reservation. It's like wow okay. I guess I should have uh for so I said I guess I should be able to foresee a pandemic. I don't
+SPEAKER_R: So
+SPEAKER_L: know.
+SPEAKER_R: about the Orlando Studios uh Global Pandemic Insurance package. She's
+SPEAKER_L: Yeah. Uh huh. But it is what it is.
+SPEAKER_R: okay. Yeah. Yeah I had a one of my friends um she was gonna go see um 100 Gets the band uh Electronic noise ish band. Uh And somewhere in Kansas and they've kind of blown up since then. So like the tickets never to be that she begins and they had to cancel the show. So
+SPEAKER_L: He said like it was called 100 jacks.
+SPEAKER_R: yeah 100 G. E. C. S.
+SPEAKER_L: Never
+SPEAKER_R: It's
+SPEAKER_L: heard of them.
+SPEAKER_R: it's kind of a hyper pop. It's like um I would compare it to like noise music. It's electronic but it's great into the ear you mind you might not like it first
+SPEAKER_L: I
+SPEAKER_R: couple of times.
+SPEAKER_L: mean I like some affects when I don't know if that's really
+SPEAKER_R: Well
+SPEAKER_L: good similar.
+SPEAKER_R: that's there's definitely some derived uh some derived qualities there. Um It's a lot like a knight corps. It's always kind of those things.
+SPEAKER_L: so it's like really fast.
+SPEAKER_R: Yeah it's like what I've heard from people who like listen to Nike or like back in the day that it was like more popular. They were like this this band is like they make they take all the good stuff from it and leave all the bad stuff out and make like really catchy songs so you may like him you know there?
+SPEAKER_L: Yeah. I have to check them out. I never got a night core. Um I guess just speeding up music, video music on Youtube wasn't really for me. But um I could see the appeal. I never really got into like at least listen a lot of metals and never really got the speed metal either. So it's I guess I like more low tempo stuff in general.
+SPEAKER_R: Yeah. Yeah that's as far as metal goes, I'm definitely more of a slower kind of doom metal stuff.
+SPEAKER_L: Hell yeah. Yeah. Iran uh one of my favorites is the is the rapture.
+SPEAKER_R: Oh yeah yeah. Yeah.
+SPEAKER_L: Mhm. They don't really put out anything anymore but I love what they've done.
+SPEAKER_R: Um You're I mean you're in the Doom so I assume you're familiar with sleep
+SPEAKER_L: No I'm
+SPEAKER_R: use,
+SPEAKER_L: like I'm not real heavy in the doom but like what I've heard I really like I just I branch out to a lot of different stuff.
+SPEAKER_R: I recommend Sleep there, they kind of uh like expanded the genre live and um I think one of their songs, it's called Dope Smoker, and it's uh it's literally like an hour long song. Think it
+SPEAKER_L: wow. How is it? Is a stoner metal?
+SPEAKER_R: it's kind of like stoner metal, it's most of the music is basically about getting stones, but
+SPEAKER_L: That's
+SPEAKER_R: I don't know if people are taking, but it's
+SPEAKER_L: I
+SPEAKER_R: it's
+SPEAKER_L: used to but not anymore.
+SPEAKER_R: yeah, but it's it's still funny, it's um I went to uh try to go see them in Nashville a couple of years ago and there was some party or something I had been invited to and I decided to go to that instead. And then it turns out the show is like really good, and I didn't really have a good time at the party, so I was like, that was a bad idea,
+SPEAKER_L: Oh man it's X color.
+SPEAKER_R: you can't.
+SPEAKER_L: Um But are you into like what other metals are you into?
+SPEAKER_R: Um I started out with like doom and then kind of branched out into like thrash metal and then uh lately been more into like black metal and a little bit of death metal
+SPEAKER_L: corporate from.
+SPEAKER_R: just heavier stuff and then kind of getting more into like hardcore uh as far as like just like punk but like also kind of metal core, but yeah just I got my hands in every pot.
+SPEAKER_L: I mean you definitely go with the like other direction from me. Like I got I got really into progressive metal. Um
+SPEAKER_R: yeah,
+SPEAKER_L: Like I've seen O. P. F. Live which is amazing. Um You know they only could play like four or five songs in their set because they're all like 20
+SPEAKER_R: you know?
+SPEAKER_L: minutes long. Uh
+SPEAKER_R: yeah, I've heard good things with them.
+SPEAKER_L: Yeah they're definitely one of my favorites and um porcupine tree I guess they're like more progressive rock I guess. But um they're definitely one of my favorites and riverside, I've never ever heard them either.
+SPEAKER_R: I haven't. Oh.
+SPEAKER_L: they have their progressive rock but the few of the songs get a little hard um And they like to use keyboard sometimes
+SPEAKER_R: Well
+SPEAKER_L: which is I'm
+SPEAKER_R: that
+SPEAKER_L: all for.
+SPEAKER_R: sounds a cool mash up this
+SPEAKER_L: most
+SPEAKER_R: tool fit into that prog metal at all, or?
+SPEAKER_L: yeah I'm a big tool fan. Um I uh sad I was not able to afford to see them when their last toward a friend of mine went so jealous and he doesn't even listen a tool like that.
+SPEAKER_R: Clears that always happens.
+SPEAKER_L: I did see a perfect circle though at the same show that opened up the set which was like, you know, a bucket list thing for me? I was they were like a headliner. It was amazing. Yeah,
+SPEAKER_R: did you see them?
+SPEAKER_L: it was um I can't remember what the festival was called. It was down in north Carolina, what was it Carolina? Rebellion? Yeah, they had mastered on there too, they
+SPEAKER_R: thanks.
+SPEAKER_L: had a Kojiro that was there as well, and they're they're pretty broad G.
+SPEAKER_R: Yeah, that's that's uh that's stepping out of my my knowledge for for metal, but uh I definitely have some friends that are really into tool and uh I think I've listened to open up a couple times just because I had read a lot of good things about them. But uh I'll give another listen just because
+SPEAKER_L: It really depends on the album and listen to that. Uh That uh opec is very different on their albums. They either go real hard or they're like way more prodding. Um Their older stuff is way harder.
+SPEAKER_R: it's kind of nice though because I like a differentiation between, you know, album styles.
+SPEAKER_L: Yeah, and I like, I just appreciate the vibe they have with like, you know, like Gothic six, kind of like spooky vibe. They got to really like melancholic. Um
+SPEAKER_R: hmm.
+SPEAKER_L: Like, I don't know if you know this band that's on my shirt? Um It's not metal, it's carpenter brut but they're like a horror synth band which is kind of mentally as
+SPEAKER_R: That
+SPEAKER_L: an actual,
+SPEAKER_R: sounds pretty tight.
+SPEAKER_L: it's an actual band and um if only a few other songs have um vocals but like their stuff is wild. Um They have a lot of music videos, I would definitely recommend um turbo killer if you want to go on a ride.
+SPEAKER_R: I'll definitely, I feel that it's definitely a season for something like that. Nice. Yeah. Um
+SPEAKER_L: Yeah
+SPEAKER_R: trying to think. I've only been to like one concert or like the festival. Um There is one in Cincinnati Ohio. Um I'm trying to remember the name. I don't think there was a specific festival name or anything, but it was a testament. Uh claim of God Behemoth and the headline was slayer, which was like, that was that was on their last tour, like their last like Goodbye to her. So
+SPEAKER_L: That sounds intense.
+SPEAKER_R: yeah, it was a lot, I'd never been to an actual concert before so like I just went forehead in with the intensity of
+SPEAKER_L: Without
+SPEAKER_R: the
+SPEAKER_L: airport
+SPEAKER_R: music.
+SPEAKER_L: too, I'm sure.
+SPEAKER_R: Oh yeah, I had no idea what to expect. Uh huh.
+SPEAKER_L: Um For lamb of God man you need you need severe reflux. Um
+SPEAKER_R: I had no idea.
+SPEAKER_L: That's cool though. I bet that showed a lot of fun.
+SPEAKER_R: Yeah, I I liked a testament in slayer but I I didn't have no idea what behemoth was and that's kind of what got me into black metal just because it's pretty it's pretty cool stuff,
+SPEAKER_L: I don't think I've listened to Bahamas.
+SPEAKER_R: they're very uh just there's just satanic I guess
+SPEAKER_L: That's
+SPEAKER_R: it's no that would
+SPEAKER_L: you
+SPEAKER_R: put
+SPEAKER_L: know?
+SPEAKER_R: it but the individuals were super cool, they were all just wearing masks the whole time and not like slipknot esque but you know it's pretty cool though.
+SPEAKER_L: That sounds awesome. Um At that test I went to um there was this band that those like viking metal.
+SPEAKER_R: fighting them
+SPEAKER_L: I can't remember what that band was called. Do you remember what the band was called? Uh huh. Oh, it was like uh but like whatever it was called they had on the stage had
+SPEAKER_R: No.
+SPEAKER_L: like a half of a viking ship and they were like on top of it, they had some dudes with battle axes and shields come out and fight each other. Um There was all of them had like a little viking horn attacks to hit their their constantly drinking out of it was it was awesome.
+SPEAKER_R: I knew it, I knew there was a genre I didn't know they really doubled down into the
+SPEAKER_L: they
+SPEAKER_R: into the
+SPEAKER_L: went
+SPEAKER_R: chips.
+SPEAKER_L: he went hard man. Like I never really got the viking metal until that show and I'm like ok, these guys Okay,
+SPEAKER_R: yeah there's some of the genres that I'm like I respect but
+SPEAKER_L: well,
+SPEAKER_R: like I I just have not touched because I don't I don't know if I'm ready such as viking metal, Pirate metal um Folk metal. Um Just all sorts of crazy stuff.
+SPEAKER_L: The band is called a mono mars.
+SPEAKER_R: Oh yeah I'm on a Marth. Yeah
+SPEAKER_L: Very
+SPEAKER_R: I didn't know that. That's that's pretty awesome.
+SPEAKER_L: Yeah, they were awesome. Yeah. I listened to him a little bit before, but I didn't realize just how into that they got and I appreciate them that that much more. Uh huh.
+SPEAKER_R: Uh Yeah.
+SPEAKER_L: All right. Well I think we passed our time now.
+SPEAKER_R: Heavy.
+SPEAKER_L: Yeah. There was 25 minutes and we're at 7:30 now.
+SPEAKER_R: Oh yeah we're already wasn't good to be good then.
+SPEAKER_L: Yeah. I appreciate it.
+SPEAKER_R: All right just just close the window or
+SPEAKER_L: Yeah. We can close the close the window.
+SPEAKER_R: all right. Have a good night burner.

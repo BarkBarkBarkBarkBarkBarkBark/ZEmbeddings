@@ -1,0 +1,28 @@
+# ─── Secrets ──────────────────────────────────────────────────────────
+.env
+
+# ─── Python ──────────────────────────────────────────────────────────
+__pycache__/
+.pytest_cache
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# ─── Data (raw uploads can be large / sensitive) ─────────────────────
+data/raw/
+data/processed/*.npz
+data/processed/*.parquet
+
+# ─── IDE ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ─── Jupyter ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/

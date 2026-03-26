@@ -1,0 +1,265 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hello.
+SPEAKER_R: Hey how are you?
+SPEAKER_L: I'm good. My name is Alexa, what's your name?
+SPEAKER_R: That's our Mustafa
+SPEAKER_L: Mustafa is there? He said
+SPEAKER_R: most of them
+SPEAKER_L: master,
+SPEAKER_R: with it. Mhm.
+SPEAKER_L: nice to meet you.
+SPEAKER_R: No. Strange too soon.
+SPEAKER_L: Um I am 19 and I live in Hawaii. Where are you?
+SPEAKER_R: Yeah. Uh 20 years I live in uh in D. C.
+SPEAKER_L: Oh wow. That must be interesting right now with the political climate.
+SPEAKER_R: I'm
+SPEAKER_L: Two different.
+SPEAKER_R: not really following very much. Mhm.
+SPEAKER_L: Yeah.
+SPEAKER_R: Okay.
+SPEAKER_L: Yeah. Yeah. Um So how is quarantine? Is it is are the restrictions really bad? And D. C. Are the very strict or
+SPEAKER_R: I mean like like you have like
+SPEAKER_L: but
+SPEAKER_R: to wear a mask and like look if you want to go anywhere
+SPEAKER_L: Happening.
+SPEAKER_R: and you have to kind of like you know if you're coming back from another state especially like states will that have like higher cases you have to quarantine like for two weeks and but otherwise like if you're living there it's okay.
+SPEAKER_L: Yeah. Your department. It sounds, yeah doesn't sound too bad here. We get a lot of um like lockdowns like we were not allowed to really leave your homes just for safety measures. Yeah.
+SPEAKER_R: You know? That's surprising to know. Uh huh. I didn't know like any state like do this right now.
+SPEAKER_L: Yeah Hawaii has been a very um strict.
+SPEAKER_R: Yeah.
+SPEAKER_L: It's a good thing because that means we're one of the states of the lowest amount of cases and deaths. Um So yeah it's a good thing even though it kind of sucks but things that are open now a little bit. Not really you can go out but of course you have to wear a mask and you can't really be with more than, I don't know like five people. Yeah. Yeah that's been interesting. So why are you in D. C. Have you always lived there?
+SPEAKER_R: No. Yes so I actually like I've lived like for for eight years now here but like in the middle I was in college at indiana so It was like two or 3 years a lot of the friends of course.
+SPEAKER_L: I would imagine. Is your family in indiana or did you just grow up there?
+SPEAKER_R: No no I uh I spent most of my time in D. C. But actually like I went to college in India.
+SPEAKER_L: Oh okay. I misunderstood. I've never been to D. C. I've heard the traffic is really bad. Yeah.
+SPEAKER_R: Yeah that's the worst thing ever. Hey you like you're gonna hate yourself if you're in traffic
+SPEAKER_L: Because you can't get anywhere
+SPEAKER_R: you can't get
+SPEAKER_L: well.
+SPEAKER_R: anywhere. And it's like you expect like you're against rush hour but actually your students stuck in traffic every system everywhere. It's but it's not moving but right now like because of the coronavirus and things are like calm down a bit so we don't have the same traffic jams. But still
+SPEAKER_L: Yeah let's go to benefit I guess. Of the pandemic. Yeah. What did you go to um university for
+SPEAKER_R: I started business and for matics
+SPEAKER_L: business end forensics?
+SPEAKER_R: and for matics.
+SPEAKER_L: For for matics? I don't think I know that word.
+SPEAKER_R: it's it's kind of like computer science and business at the same time. So it's kind of like coding and software engineering at the same time. Like you have like some business knowledge as well.
+SPEAKER_L: wow. So has that did you did you graduate? Oh okay.
+SPEAKER_R: Great to see you cocoa for years ago.
+SPEAKER_L: Okay. So it hasn't been like were you able to get a job? What's here degree?
+SPEAKER_R: like most states, like um um I decided to concentrate more on like uh not clothing, a computer, so I'm kind of kind of like more like a freelancer now. Some kind of like doing like independent work.
+SPEAKER_L: Yes. You're contracted out almost. That's pretty cool. You're, it's like you're independent. It gives you a lot of flexibility.
+SPEAKER_R: now I prefer it this way. It's realistic.
+SPEAKER_L: Mhm. So it has that's been good like during the pandemic. Yeah,
+SPEAKER_R: Like, like some businesses like right now with like crushing would like to create websites because
+SPEAKER_L: it's just
+SPEAKER_R: because they already didn't have one and now they need one because now now they want people like to schedule like pickups or deliveries or they need like to have a system. So there's mostly what I've been working on, but otherwise like, there are of course like the market is down, everyone is afraid, you know, something everyone's
+SPEAKER_L: My grandma.
+SPEAKER_R: so it's kind of like so handsome.
+SPEAKER_L: Sorry to hear that. I hope it gets better. Oh, we hope. Uh
+SPEAKER_R: we have, but It's not in the hour. Hand three.
+SPEAKER_L: definitely not. We can't, you know, make the rules or pass the legislation, sadly. Okay. Even though we're citizens, um I'm going to university for social social work. So, so now everything has been moved online, like all of our classes are done virtually. It's not very fun. It's been a little difficult. Um Yeah, that I don't know better than better than having to stop going to school completely I think. Yes, that would not be good.
+SPEAKER_R: different. Yeah, it's better. I like to finish quick and uh and the and yeah, like when you're doing like online classes, some people like that distracted when when they are like doing it. But you know, I prefer like online classes rather than in person to be honest because I just, I want to stay home and just finish it up. The only thing like it would be fun like to go to college is just like to like if I'm like right there in person, it's like maybe like go with the people like two bars and stuff and like enjoy city, but otherwise everything would be better. Like if it's online for me.
+SPEAKER_L: I did also prefer online. I did my first semester of university entirely online and it's definitely better because like you get to do your work when you want almost, you have more time for yourself. Yeah, you get to stay home, which is nice. But now uh now
+SPEAKER_R: All
+SPEAKER_L: that I think now it wasn't a choice,
+SPEAKER_R: Perfect.
+SPEAKER_L: so I think that's why it's not as fun. Yeah, but you're definitely right. The benefit of of university is uh the people and socializing can't really do that now. Uh
+SPEAKER_R: Mhm. Yeah, like uh but like I especially it's it's hard like if if you were like an introvert or into yourself,
+SPEAKER_L: Yeah, I am actually, you know what an amber vert is?
+SPEAKER_R: no.
+SPEAKER_L: It's like a it's like a mix between an extrovert and introvert. It's okay. Yeah, right in the middle. I I thought I was an extrovert for the longest time, definitely. No, the pandemic showed me. I'm definitely not not really. I had to push myself to talk to people almost, you know, because it's so easy to isolate yourself. Um When you're introverted, just keep to yourself. Yeah. Yeah.
+SPEAKER_R: Yeah. So you're you're right. I assume like you're at the university of how I write.
+SPEAKER_L: No, I'm actually not. I live with my parents, my entire family lives here. Um We're all together, which is really nice. I'm not alone. Uh huh. Yeah.
+SPEAKER_R: So, so
+SPEAKER_L: Well
+SPEAKER_R: you're actually traveled to college?
+SPEAKER_L: yeah, before I was commuting um but now we don't don't even do that. Everything is just through the computer. We have to do you heard, have you heard of zoom? Yeah, we have to use zoom for all of our classes. Oh my gosh,
+SPEAKER_R: I hate to mm
+SPEAKER_L: yes, I dislike it very much. Uh huh.
+SPEAKER_R: I feel like in zoom like you can't really find anything like a trial like to find where this is where this is. Mhm
+SPEAKER_L: And it's also just I'm sure you understand because your job is kind of almost exclusively computer based, but when you're on zoom for like eight hours and then all of your homework, all of your classwork is also on the computer, it's really draining. Yeah,
+SPEAKER_R: I was
+SPEAKER_L: not
+SPEAKER_R: just
+SPEAKER_L: good.
+SPEAKER_R: yeah, No, no good. So,
+SPEAKER_L: on. All right.
+SPEAKER_R: so when you're doing like socials were, what are you like what I would say like you're going like with social work?
+SPEAKER_L: Yeah. Uh um I have a few goals um first to get my Bachelors of course and then but in the social work field you have to have like a master's degree to like make any kind of money. So I have to get my masters degree as well and I have to be licensed. Um And I think I want to work with um like mental health people who have mental health um issues. I could also work with drug and alcohol addicts. There's so many things you can do with social work. It's really awesome. But yeah, it's basically just about helping people who
+SPEAKER_R: Reporter.
+SPEAKER_L: are overlooked I guess by society and giving them resources to try to solve there
+SPEAKER_R: Look like,
+SPEAKER_L: to help them solve their problems. It's really cool.
+SPEAKER_R: you're gonna you're gonna work when if you're in the midwest,
+SPEAKER_L: In the middle am I going to work in the midwest?
+SPEAKER_R: like I think like that's that's where people like me to help the most.
+SPEAKER_L: That's funny. Um I have no actually, I guess I could, but uh no, I have no idea. I
+SPEAKER_R: The flow
+SPEAKER_L: had
+SPEAKER_R: of arms.
+SPEAKER_L: not considered the midwest at all
+SPEAKER_R: It's
+SPEAKER_L: to be
+SPEAKER_R: true.
+SPEAKER_L: honest with you because social work your pushed really hard, They work you really hard and you don't get paid a lot. So the midwest I didn't even consider because they do not pay well. Okay.
+SPEAKER_R: time living there uh wouldn't have fun. Not at all.
+SPEAKER_L: I would not want to live in the midwest,
+SPEAKER_R: No
+SPEAKER_L: especially
+SPEAKER_R: way.
+SPEAKER_L: not now, just the political climate, there's so much not good.
+SPEAKER_R: No, I I don't know like what's going to happen like the next few days. But it's it's kind of like here in D. C. There's gonna be a marches and stuff. So I hope like they don't cause a lot of trouble because
+SPEAKER_L: From
+SPEAKER_R: because here like in D. C. It's a it's really like what I call, it's like a left wing cleaning area. So like when there are people like coming from outside that's like a provocation like what are called and Yeah.
+SPEAKER_L: Uh
+SPEAKER_R: Yeah.
+SPEAKER_L: I think that's been on everyone's minds, I mean, especially you're literally in the hotbed of like political of politics, but yeah, I would be cautious because we don't know what, how the the right wing are going to react at all here Hawaii is a very like a left leaning state of liberal state, but there's a lot of trump supporters here and they like right around in their trucks, uh they're called in their caravans, caravans are
+SPEAKER_R: Yeah. We have those.
+SPEAKER_L: Mhm Oh it's so I don't know, I'm concerned that they're going to react badly,
+SPEAKER_R: Do you have our guns legal as to why or or currently?
+SPEAKER_L: gun is really difficult to um like on a gun here thankfully. Yeah,
+SPEAKER_R: Great.
+SPEAKER_L: yeah, I'm definitely scared for like the more midwest states, the southern states. Uh huh Yeah, where they can like what you called, they can carry in public, public open carry. Yeah, I would be very scared. Right? Yes, I'm
+SPEAKER_R: I don't know like who's going what they're going like to read john concern but otherwise like I think everything gets its calm right now. I hope it stays this way kind of like playing soccer like with friends and everything.
+SPEAKER_L: Oh yeah, just just getting back to the normal activities, Yeah, so you play soccer, that sounds fun, Are you on a like a um like a team for fun?
+SPEAKER_R: Yes, something like that. I wish I was professional.
+SPEAKER_L: Uh huh It's difficult to make it anywhere professionally.
+SPEAKER_R: Yes. Especially soccer like there are like millions of players or professionals and they're very good. Uh huh So
+SPEAKER_L: I think it's soccer not as big here as in europe, I feel like it's huge in europe and here there were more focused on football which which they call football. We're the only country that cost.
+SPEAKER_R: and
+SPEAKER_L: They can't.
+SPEAKER_R: Ireland Ireland also don't call 12 oh because Ireland Australia as well because Australia also have like their own folklore kind of like rugby so
+SPEAKER_L: so so you keep up to date on the soccer news
+SPEAKER_R: Of course I get I watched like uh european games like every week it's like uh it's like you know like like every sunday man and Saturdays are preserved like we're for east on games so Yeah you can mhm You can't just like them, you like to do anything.
+SPEAKER_L: Thanks. So is that you are the U. S. Teams not on the same level as european teens?
+SPEAKER_R: No because europe like they kind of
+SPEAKER_L: Look
+SPEAKER_R: have academies
+SPEAKER_L: you. Mhm.
+SPEAKER_R: so everyone is like when you're raised their like for years and also european teams have been like in the game like since more than 100 years. So I mean
+SPEAKER_L: What,
+SPEAKER_R: The American teams have been like only 30 years or something.
+SPEAKER_L: Oh we're definitely behind general. Okay.
+SPEAKER_R: they're trying like to americanize like the league system to make it like an ifad in a way like the same system so it's all three working out like to be fucking idiot league. It's more like kind of like everyone like cause
+SPEAKER_L: One
+SPEAKER_R: it's like a retirement league
+SPEAKER_L: a retirement leak.
+SPEAKER_R: because like like the european players who are like about to retire and just come here like to spend like the last years of their lives. Yeah.
+SPEAKER_L: that's funny, I did not know that at all. Yeah I'm not I don't really get help. I sports
+SPEAKER_R: What?
+SPEAKER_L: can be fun to watch but here how much football is like important to americans? Like well it gets a little a little scary, I don't know and then it's it's sad I learned about through my university how badly they treat football players. Um Like the rookies are just starting out, it's kind of sad they use them and then they like throw them away. Okay. Mhm.
+SPEAKER_R: It's because like there are a lot of like players who want to get in but but they're like not like look it's very competitive to get in there. Right,
+SPEAKER_L: Yeah all
+SPEAKER_R: okay.
+SPEAKER_L: sports sadly are super competitive. It's sad because there are so many people that are talented but
+SPEAKER_R: What?
+SPEAKER_L: it's like only the top, I don't actually know percentages or anything, but it feels
+SPEAKER_R: Thank
+SPEAKER_L: like
+SPEAKER_R: you.
+SPEAKER_L: it's on like the top 5%,, you know really go anywhere are the same
+SPEAKER_R: I would
+SPEAKER_L: goes
+SPEAKER_R: say.
+SPEAKER_L: with music to you know like people spend their whole lives dedicated to that because they're passionate about it. But then.
+SPEAKER_R: It's even like you look like a professionals like the same like music or sports,
+SPEAKER_L: What?
+SPEAKER_R: it's kind of like there are like the top top players like the ones that everyone now and they're kind of like the players who are like just a completing theme too. Same with music. Like you have like a top musicians like on top charts and then there are a couple who are like but people know them but they're not gonna win or it's the result
+SPEAKER_L: Mhm. It's really sad, it's
+SPEAKER_R: since
+SPEAKER_L: a whole hierarchy.
+SPEAKER_R: that's levels. So uh so actually like you you mentioned like you're going to have the you're going to help people like and social services like social work. So so do you like work with with an organization or or do you work for something? Public
+SPEAKER_L: I don't I'm only a junior,
+SPEAKER_R: what?
+SPEAKER_L: so I just started um my actual majors courses, but next semester I am supposed to, we have what they call practical terms. So you go and you work in the fields with a specific on organization
+SPEAKER_R: What? Oh,
+SPEAKER_L: Yeah, to
+SPEAKER_R: yeah,
+SPEAKER_L: get your hands on practice, so I'm supposed to, but because
+SPEAKER_R: What?
+SPEAKER_L: of the pandemic, they said they might make it online,
+SPEAKER_R: My
+SPEAKER_L: which I don't understand how that would work. But yeah, I'm I'm supposed to I was
+SPEAKER_R: What?
+SPEAKER_L: really looking forward to it, but hell no, fingers crossed. Yeah,
+SPEAKER_R: I guess you're gonna call people like online and like, like try to help them, like just like what we're doing now.
+SPEAKER_L: probably. Yeah. That makes
+SPEAKER_R: What?
+SPEAKER_L: the most sense like virtually speaking with people,
+SPEAKER_R: Go home.
+SPEAKER_L: which I'm really grateful
+SPEAKER_R: Great.
+SPEAKER_L: that like we have technology or I guess uh
+SPEAKER_R: What?
+SPEAKER_L: that I'm from a family that can afford, you know to have this kind of technology
+SPEAKER_R: So,
+SPEAKER_L: because I know a lot of people don't even have that
+SPEAKER_R: What?
+SPEAKER_L: now.
+SPEAKER_R: It's just expensive in Hawaii?
+SPEAKER_L: Oh yes, it's very expensive to live here. Actually. The only reason we're here is because my dad is in the Air Force um So he he was given orders to come here and that's why we're here. Mhm. Otherwise my parents could not afford to live here.
+SPEAKER_R: Yeah. Because I think that there's a lot of the navy like in Hawaii. Okay. Yeah. Yeah. Yeah.
+SPEAKER_L: It's interesting because I mean it's not interesting,
+SPEAKER_R: No.
+SPEAKER_L: there's a lot of homeless people here because it is so expensive um
+SPEAKER_R: Yeah.
+SPEAKER_L: justifying housing is expensive and then the jobs because because you know hawaii is really tourist tourism based economy. Um
+SPEAKER_R: Mhm.
+SPEAKER_L: But all of those jobs are really low paying low wage jobs and so some people actually some most people have to work multiple minimum wage jobs and they still can barely afford to live here, so. Mhm.
+SPEAKER_R: Yeah. I guess
+SPEAKER_L: It's a car.
+SPEAKER_R: I can tell I like,
+SPEAKER_L: Good luck.
+SPEAKER_R: especially right now due to the coronavirus, there are there are like no, no tourism opportunities. Okay.
+SPEAKER_L: is correct. They closed, we have had been closed to tourists for the longest time and they just opened up to tourists like two weeks ago I think. But it's not the same amount of tourists and there's still a whole bunch of restrictions, you know, so definitely not good for the economy. Yeah. Yeah.
+SPEAKER_R: Right. So
+SPEAKER_L: Yes,
+SPEAKER_R: what
+SPEAKER_L: but business,
+SPEAKER_R: I want to ask you something, but I totally forgot
+SPEAKER_L: it's okay. Do
+SPEAKER_R: Mhm
+SPEAKER_L: you use prolific a lot?
+SPEAKER_R: mm. Yes. Like uh it's like, like what I would say like it's among like one of the websites like I used for the west purpose like I also use like amazon turk. I don't know if you've heard of it.
+SPEAKER_L: Mturk? I've heard bad things. Mm.
+SPEAKER_R: It's actually like how you do like Anthony because you really like do do anything like above half half a dollar. These are like the good ones. But like the bottom ones are like by uh like, like I don't want to insult them sometimes. Like they're cheap, you know, so they kind of like red jacks your work because they don't want to pay you.
+SPEAKER_L: Ah They can reject you after you did the work. That's not cool.
+SPEAKER_R: And they can come up with an excuse like quality is not good. So whatever stupid things like that. Uh
+SPEAKER_L: And they probably still use it.
+SPEAKER_R: Yeah. But probably like if you like but like from my experience like doing like the top things like the ones the three year pay good they're not not what like uh if you like take it slowly or not gonna received like a lot of rejections. Mhm. So it's kind of fun. I also use like things like user testing.
+SPEAKER_L: User testing. Yeah. Use user testing to
+SPEAKER_R: Yeah. And you.
+SPEAKER_L: you. Test. Oh.
+SPEAKER_R: mm Like sometimes like they give you like a weird tasks like like you like this week like they told me like you have to you have to get a truck and an RV to
+SPEAKER_L: What,
+SPEAKER_R: test yeah to test like an app.
+SPEAKER_L: I don't know how they think. You could just casually go out and buy. That's funny.
+SPEAKER_R: No it's it's like granted Durant take an RV. It's like I don't know like where's the process like.
+SPEAKER_L: Uh huh. Don't have the space for it.
+SPEAKER_R: No like like I barely have space like for for the car but like getting an RV and truck. That's a that's that's that's gonna make me look out of place really. Uh Pretty much like pretty much like what went like to a trailer park or something to test. Yeah. There was actually like this episode you know Grand Tour.
+SPEAKER_L: I do. Actually. You mean with the three, the three guys, right? The drive cars and stuff, yep,
+SPEAKER_R: they once I can't they once like went to like a trailer park in Arizona. It was really is. Mhm. Yeah.
+SPEAKER_L: that shows pretty good. Actually. Used to watch it a lot with my dad until they they like ended it and they create a new version. Yeah. Yes
+SPEAKER_R: Yeah. So I guess uh I guess now in which we spend time. Yes. Uh huh.
+SPEAKER_L: Yeah I think it's been let's see. Yeah it's been it says my time. What does your timer say? Because
+SPEAKER_R: It says
+SPEAKER_L: I came in
+SPEAKER_R: 30
+SPEAKER_L: first.
+SPEAKER_R: minutes.
+SPEAKER_L: Yeah Okay so we're over the 25 minutes
+SPEAKER_R: Mhm. Yeah. Well this was nice talking to you.
+SPEAKER_L: you too and I hope things don't explode in D. C. And they stay calm.
+SPEAKER_R: Yeah. Yeah. When you know from the news of if everything explodes or uh or I'm still I'm still there because like if if things get crazy pro probably I'll just come to Hawaii or Alaska or something.
+SPEAKER_L: get out of the mainland. Yeah.
+SPEAKER_R: Uh If you can and uh to have like uh can I live in a car?
+SPEAKER_L: Uh huh. People live uh like just out on the grass actually. Yeah because the weather is really good so you totally could. Uh huh.
+SPEAKER_R: I guess that's a like if you like, you have like a like stores like with work and life, I I think that they're close now, but.
+SPEAKER_L: they are closed now sadly but you could make it work. Yeah
+SPEAKER_R: mm. Mhm.
+SPEAKER_L: if things open up war.
+SPEAKER_R: Yeah, but I mean like, yeah, let's hope things go go
+SPEAKER_L: What?
+SPEAKER_R: and and good luck luck with your studies.
+SPEAKER_L: thank you. Yeah.
+SPEAKER_R: Look around.

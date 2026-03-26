@@ -1,0 +1,265 @@
+SPEAKER_L: Hello. Okay. Hear me?
+SPEAKER_R: Yes, I can. Can you hear me
+SPEAKER_L: Yes, I can.
+SPEAKER_R: Okay? How are you today?
+SPEAKER_L: I'm good. I'm good. How are you?
+SPEAKER_R: Great.
+SPEAKER_L: What's your name?
+SPEAKER_R: my name is ruby.
+SPEAKER_L: Room B.
+SPEAKER_R: Yeah. And you?
+SPEAKER_L: My name is john
+SPEAKER_R: Uh Nice to meet you, Dylan. How
+SPEAKER_L: nice to meet you.
+SPEAKER_R: are you today? I do you work from home?
+SPEAKER_L: Okay. Um No, I'm a student right now. I'm at a university, so
+SPEAKER_R: What are you studying,
+SPEAKER_L: I'm studying biology. Mhm.
+SPEAKER_R: And how is that going?
+SPEAKER_L: Um It's going pretty well. I mean like all my classes are online, so like it's kind of hard to focus, but I'm doing the best I can.
+SPEAKER_R: Yeah. You have to be really disciplined. That's a family.
+SPEAKER_L: for sure. For sure.
+SPEAKER_R: Yeah. So what are you planning to be after school? Yeah.
+SPEAKER_L: So like I was thinking about pre med but
+SPEAKER_R: And boy.
+SPEAKER_L: I don't think medical school is like good for me because I feel like it might take too long.
+SPEAKER_R: Well,
+SPEAKER_L: So like,
+SPEAKER_R: it pays in the end?
+SPEAKER_L: yeah, for sure. For sure. But then I was like thinking about like maybe dental school instead because it
+SPEAKER_R: I want
+SPEAKER_L: also
+SPEAKER_R: them.
+SPEAKER_L: pays in the end as well and it's shorter so
+SPEAKER_R: Mhm. Yeah. That's cool. That sounds that's
+SPEAKER_L: Thank
+SPEAKER_R: cool. You must be smart again.
+SPEAKER_L: you. Thank you. Yeah, but like organic chemistry is kicking my ass so. Mhm.
+SPEAKER_R: Yeah, I did it before because I studied dietetics. So we had to do organic chemistry. I mean, it was pretty fun. I think I had a good teacher, so I enjoyed it. Yeah, it was pretty fun.
+SPEAKER_L: that's good. That's good.
+SPEAKER_R: So the wiki are you in?
+SPEAKER_L: Which what?
+SPEAKER_R: Yeah. Are you in at
+SPEAKER_L: I'm
+SPEAKER_R: convenient?
+SPEAKER_L: a sophomore. I'm a sophomore.
+SPEAKER_R: Oh, that's awesome. That's awesome. I'm glad you're enjoying it.
+SPEAKER_L: Thank you.
+SPEAKER_R: Cool. So do you have lockdowns where you're currently at?
+SPEAKER_L: What's up?
+SPEAKER_R: I was saying do you guys have lockdowns in the area you're staying here?
+SPEAKER_L: yeah, yeah, we do. Yeah. Well like it's not enforced or anything, but like, we're pretty much recommended. You're like stay. But like I live kind of close to like where the nightlife is for my university and like it's still kind of packed every night. I don't go, but like there's a lot of people and like recently our universities fight like, Like 2-2 times the cases of COVID, so it's like really, really bad. But yeah.
+SPEAKER_R: wow, that's crazy. Do you stick on campus?
+SPEAKER_L: I say off campus.
+SPEAKER_R: Okay. So that's better. At least rather than on campus it will be, I can imagine seeing on campus and having online classes. That would really suck. Oh, that's
+SPEAKER_L: It's just like, yeah, I mean like this time is like kind of hard for everyone, so it's kind of hard to complain about like my current situation because I know everyone else is like similarly um troubled. So
+SPEAKER_R: departure in which state are you in?
+SPEAKER_L: I'm in texas. What about you?
+SPEAKER_R: I'm in texas to Yeah,
+SPEAKER_L: What do you live? What sitting
+SPEAKER_R: crazy. I'm in Arlington.
+SPEAKER_L: Alan Burton? Is that like around Dallas?
+SPEAKER_R: uh not really. It's about maybe 30, minutes away from Dallas, right?
+SPEAKER_L: Yeah,
+SPEAKER_R: Yeah,
+SPEAKER_L: I'm
+SPEAKER_R: I mean the closest universities. Ut Arlington, yeah, mm
+SPEAKER_L: Yeah,
+SPEAKER_R: hmm.
+SPEAKER_L: I got A and M Yes, so like, I think we're like around four hours away from you, so
+SPEAKER_R: yeah. Yeah, I've looked at it. I think I've looked into it before. Oh, interesting. That's crazy. Because the last time I did this um the guy I spoke to was in new york. Yeah, so it was like pretty different, so it's it's crazy that you're in texas too.
+SPEAKER_L: I agree. I did it one time before as well. I talked to some like lady in California. Yeah,
+SPEAKER_R: I'm
+SPEAKER_L: a lot of time was talking about politics as well and it was like kind of interesting I guess.
+SPEAKER_R: are
+SPEAKER_L: Although
+SPEAKER_R: you are you into politics?
+SPEAKER_L: uh well like I I like to partake and like keeping up with like the current news and everything and like I have my own opinions but like
+SPEAKER_R: On
+SPEAKER_L: her opinions were basically an opposite of mine because she was like a Trumper, but I mean like, I don't want to be rude.
+SPEAKER_R: I know, I don't like politics, I mean I will follow it because I know it affects me and it affects the world around me, but I'm not really a fan of politics, like I'm not that invested in politics. Yeah, mm hmm. Mhm. Mhm. Hello
+SPEAKER_L: Oh, sorry. Yeah, my internet
+SPEAKER_R: and
+SPEAKER_L: went out for like two seconds.
+SPEAKER_R: oh that's okay. Uh huh
+SPEAKER_L: So like, how are you feeling about the election? Did you vote?
+SPEAKER_R: Uh no I did not, I'm not invested in politics like that, but at first it was kind of exciting, like I think the 1st, 2nd day after the whole election thing, I was following it, but now I guess I'm over it, I'm tired, I'm over it.
+SPEAKER_L: now it's fair enough,
+SPEAKER_R: Yes. And how how are you feeling? Are you happy with the results?
+SPEAKER_L: well like, I'm kind of in the same boat as you because like I didn't vote as well, but
+SPEAKER_R: And
+SPEAKER_L: for me it was mainly because we live in texas and like I I would have voted for joe biden if I was able to vote and like I don't feel like texas I could I don't think I can see texas becoming like a democratic
+SPEAKER_R: Democratic and
+SPEAKER_L: for a while.
+SPEAKER_R: why do you peek biden? I'm just curious.
+SPEAKER_L: Um Well like it's not like I really like biden
+SPEAKER_R: correct.
+SPEAKER_L: as a candidate, it's more or so that like I've seen like the antics that like trump has like risen like over the past four years as like our supposed leader of the country and it feels like it would be like better if we had someone more distinguished and like more like formal china like that has like the power to do stuff in our country and I know that like
+SPEAKER_R: you know
+SPEAKER_L: um so like there's like the three branches in the government and the Senate's like pretty much controlled by republicans and like Because like the Supreme
+SPEAKER_R: Listen.
+SPEAKER_L: Court had like three judges, three judges out of nine that were like appointed by president trump during his four years. I know that like that's also gonna be pretty conservative as well, so it would be good to just have like uh someone trying to like stop them from doing stuff. Yeah.
+SPEAKER_R: have you ever looked into their policies the republican? Because I heard it's pretty good. So I hear, I mean apart
+SPEAKER_L: the policies
+SPEAKER_R: from, yeah people say like apart from the trump factor that was like I mean he was not the best candidate but apparently I hear that the policies that the republicans have are really good for the country, especially
+SPEAKER_L: I
+SPEAKER_R: like
+SPEAKER_L: heard,
+SPEAKER_R: financially.
+SPEAKER_L: I I mean financially I think that like um I believe in like Better health care for all because I know that like healthcare is like a big problem in our country because like I know that like my grandma got sick once and the hospital bill was almost like $60,000 and yeah that would be like a lot lower um and any other country and I know that like uh just
+SPEAKER_R: What?
+SPEAKER_L: like as a platform, I know that democrats are like more inclined towards like health care for all
+SPEAKER_R: that's true.
+SPEAKER_L: and like I know that the economy has been good for the last four years due to trump but like yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: I mean there's like some trade offs that you have to make, you know? But
+SPEAKER_R: Mixing
+SPEAKER_L: ultimately like I'm just a spectator, I don't think I would, I mean I definitely didn't participate in election for that, so.
+SPEAKER_R: Uh huh. Yeah, makes sense. We'll just we'll see how it goes I suppose. Yeah. So any plans for the holidays,
+SPEAKER_L: Are.
+SPEAKER_R: do you guys do anything special?
+SPEAKER_L: Mhm. My friends and I are thinking about like renting out like maybe like a cabin or something at Oklahoma just to like relax for a couple of days, but like some of my family's in New Mexico right now
+SPEAKER_R: huh. Um
+SPEAKER_L: and I might go there during winter break, we'll see.
+SPEAKER_R: Okay. And you're not scared of the whole covid thing?
+SPEAKER_L: I'm like my parents they like respect the whole covid thing, so like I'm not going into Mexico to like travel or anything, I'm just like they're to just uh
+SPEAKER_R: Mhm.
+SPEAKER_L: lived out of place with my parents or the break and for Oklahoma we're not going to do anything like rash or anything, we'll probably go to somewhere like more secluded.
+SPEAKER_R: Mhm. Oh got you. But it seems like people are kind of over it like um about a month ago I went out with my friends. Yeah I think a little over a month went towards like the N. B. A. The final. Yeah and I was so surprised. It was so packed. Like we first started at the restaurant and it was so so packed and then after that my my friends and they were like go ahead let's go to the club, let's go to the club and then we just went to the club and I was so surprised it was so packed and they were not even like um enforcing like the whole mask thing, it was all up to you if you want to wear the mask, you wear the mask. If you don't want to wear the mask, you don't wanna, you don't wear the mask. And we're not even counting the number of people that were in the club. So it was like really, really packed. I was like, okay, I guess people don't care anymore.
+SPEAKER_L: What do you think?
+SPEAKER_R: I think it's crazy. I think it's crazy because I feel like people are still dying and I have like family outside the country. Like I have a sister in Australia and she says in Australia you can't even go from one state to the other because they don't want, they don't want the virus to spread. So they're really like strict on it. And I also have family. My brother is in England and he says they're going through the same thing, like you can't just go from one town to the next. So I was just like, we don't even care, like I don't even hear people talking about it anymore, like like before it seems like everybody just has moved on. But apparently
+SPEAKER_L: Did you?
+SPEAKER_R: I see people are still dying on the news, so I'm just like if we become ignorant or I don't know.
+SPEAKER_L: Yeah, I think America as a whole just decided that like they wanted to um not like uh stay home anymore because like did you read that like for texas like we had like approached a million covid cases now? Yeah, I think so and I think we're like almost or like we have already surpassed California or matched it at least. So it's kind of crazy, it's kind of crazy but I can kind of see like why that number is so high because I know that every weekend people are partying like right down there. And I had like a Covid test recently and came back negative. So that's good.
+SPEAKER_R: Okay. Oh, that's great. And how is it? I've never had the test, but I heard it hurts.
+SPEAKER_L: That's like the one I think you're thinking about. The one that like, where they reach up all over your nose. Yeah. Yeah. The one that I had there like, Way more gentle about it. Like all you have to do is that you take like a kind of swab thingy and you just like put in your mouth for 20 seconds and that's all
+SPEAKER_R: Okay. Do you have, do you know anyone close to you who has had the covid thing? Okay.
+SPEAKER_L: not close. Like, I've had friends of friends that like, I don't have Covid because like, they were still working at like boba shops and stuff like that. So
+SPEAKER_R: huh And did they tell you the experience how it is?
+SPEAKER_L: well, like all of them have like pretty mild symptoms. But like. Yeah, but the scary thing that I've been reading about is that like, people don't really know the long term effects of covid 19 yet. Because like I heard that there is some like um permanent scarring like in your lungs and like your lung capacity may like never recover back to like the way it was. And I know that like one of the friends of friends like he didn't have that bad of a fever or anything, but like he couldn't taste or smell for like a couple of months after.
+SPEAKER_R: Oh that's crazy. Right, that's scary. That that is scary. I don't know.
+SPEAKER_L: What
+SPEAKER_R: So what are you are you going back home for thanksgiving? Are you
+SPEAKER_L: are
+SPEAKER_R: anything
+SPEAKER_L: probably not thanksgiving because
+SPEAKER_R: I think?
+SPEAKER_L: my university, they really hate gaming out like holidays. So like
+SPEAKER_R: Or
+SPEAKER_L: we have
+SPEAKER_R: in
+SPEAKER_L: we have we have school on like monday and Tuesday of that week and then we have thursday, I mean Wednesday thursday, friday off for thanksgiving. So my schedule is that like I have class on Tuesday and then break for like five days and I have like a test or final on monday. So like I don't think Going to us going back to Austin or going all the way to New Mexico for five days is where?
+SPEAKER_R: Yeah. Okay. Got you. That's crazy. I hope you have a good thanksgiving though
+SPEAKER_L: Yeah. Thank you. Yeah
+SPEAKER_R: And I was the weather that side.
+SPEAKER_L: the weather. Um It's been really nice recently honestly
+SPEAKER_R: Only
+SPEAKER_L: like I've been walking like around the neighborhood for the past couple of days just to like feel the weather and like maybe like it's something to eat but it's been pretty good. Like it was really cold for like a week, maybe like two or three weeks ago. But other than that it's been good.
+SPEAKER_R: Okay. Gotcha. Wait so if you're gonna do um okay so your major is biology? Right so when you're done then uh you can you just go straight to do, you just take a board exam to become a dentist or you have to go to dental school, do some more.
+SPEAKER_L: Um So like uh path that you kind of have to take. So um I'm planning you kind of have to like shadow a dentist for like 40 hours or at least 40 hours and that you can do that like while you're doing your bachelor degree and then you have to take something called like the then told like access exam. I don't know what it's called but it's called the D. A. T. And and then like you have to apply for a bunch of dental schools and hope that one of them except you. And then you go to dental school for four years and you pay
+SPEAKER_R: Well
+SPEAKER_L: like An ungodly amount of tuition I think like the average is like 70K. or something a year. And then finally you can open up your own practice or something after those four years. But like
+SPEAKER_R: got
+SPEAKER_L: that's shorter. Like that seems long and expensive but like dental schools like four years of that. And then you also have to do like 3-7 years of like residency where you don't get paid as much
+SPEAKER_R: So
+SPEAKER_L: and
+SPEAKER_R: what's the difference with medicine like is in the time the time frame if?
+SPEAKER_L: so like it's also four years of school right like of graduate school after bachelor degree. But then after that you need to be like a resident where like you're basically like uh like an intern that gets paid a lot less than the actual doctor. And like you have to like be in that position for 3-7 years and then you can call yourself like a fully fledged doctor and then start making the big money.
+SPEAKER_R: But don't they now cut corners because doctors nurses I are like in demand
+SPEAKER_L: What?
+SPEAKER_R: isn't it a bit shorter now?
+SPEAKER_L: Maybe I don't know. But there's like another thing you can do which is called physician's assistant, where like you basically
+SPEAKER_R: The pressure.
+SPEAKER_L: just like you don't have to become a resident. And like you get paid like a significant amount of less amount of money, but it's still like a really good amount of money, but like you don't have to do as much, but like you're still like quote unquote a doctor so.
+SPEAKER_R: Okay. So are you doing it because you like it or you're doing it for the prestige to be a doctor?
+SPEAKER_L: Well to be honest, like I was never much of a science person in high school but but but but like I chose Biology for college because I wasn't really sure if I was going to go into business, I definitely didn't want to do engineering because I'm really bad at coding, but like I was like okay biology, like we'll just run with it and see how it is and like I started really enjoying like the material so I think
+SPEAKER_R: And
+SPEAKER_L: I might actually enjoy like this line of work.
+SPEAKER_R: I'm not sure actually not bad it's just it just takes so long. Like I did for dietetics I did like you have to do the bachelor's degree then you have to do the masters I mean yeah the masters and you have to do an internship. So sometimes they combine you can combine the masters and the internship. Most most colleges have it as one program and then after that you have to take the R. D. Exam and then you can become an R. D. So it's just so so much so after I was done with my bachelor's I was like okay I'm burned out, I'm taking a break so now I've been taking a break and I probably will go back to school next year to do my Masters and my internship. But at
+SPEAKER_L: did
+SPEAKER_R: some
+SPEAKER_L: you?
+SPEAKER_R: point it burned out because I was taking like 21 credit hours a semester. Yeah and I was working full time as well so I was just like burnt out. It's crazy.
+SPEAKER_L: that is a lot of hours.
+SPEAKER_R: Mm I really wanted to finish so but it just made me kinda hate school for a while. So now I'm starting to, I'm starting to like it again, Start thinking about going back again to get that passion back again. So now I'm just saving up like we said it's so expensive squeeze. So expensive. So
+SPEAKER_L: Where'd you go to school?
+SPEAKER_R: Okay. 1st, um, I started at a community college at Brookhaven, uh, in farmers branch here in Dallas. And then from there I went to texas, women's University and then I did it, I think a year there and then, um, I moved to our king Saul because it was kind of cheaper. And then I did my last, my last two years there, That's where I graduated from. And then I came back. I came back to texas this year. Yeah, beginning of the year, like around much after I was done.
+SPEAKER_L: Did you like Arkansas? Ha ha ha,
+SPEAKER_R: okay. It was good in terms of, there's nothing happening. So you're focused. So if you go there and say, I just want to do school, you will do school because it's just like so boring. There's not much happening. And especially the town I was staying in, like, it's a small town. So. And if you want to have fun or if you want to do anything interesting, you have to Drive like an hour to little rock or 45 minutes um to the next city. So there's not much happening. So you're focused. So I was it was good. I was focused like I was getting a
+SPEAKER_L: I
+SPEAKER_R: because I had nothing else to do but study. So the destructions are very, very limited. And like here, here there's a texas, there's a lot of things to do. You can never run out of things to do.
+SPEAKER_L: true, true. Yeah,
+SPEAKER_R: So, yeah. So if you have a purpose, I mean, I think so is good. But to stay there. No, I didn't like it.
+SPEAKER_L: this is fair enough,
+SPEAKER_R: It's
+SPEAKER_L: fair enough.
+SPEAKER_R: not fun at all. It was not fun at all. Yeah. So if you had to choose a state, which state would you like to leave in?
+SPEAKER_L: Well like I can't really say because I was born in New Mexico but I like moved to Austin when I was like two years old. So I don't remember anything about new Mexico. And I've stayed in texas for my whole life. So like I can't really like judge like the other states. But I mean like I don't mind texas. I think texas is like pretty good. But like I lived in Austin so I feel like Austin is not really representative like of what the texas state is. So
+SPEAKER_R: Back to my bed. That's not bad at all. Uh huh. Whilst I want to ask you about Oh
+SPEAKER_L: Well like you said you were like watching the NBA finals right? Are you like enter the NBA?
+SPEAKER_R: I am so into it. But yeah, I really do like basketball a lot. And
+SPEAKER_L: Who is
+SPEAKER_R: especially
+SPEAKER_L: your name?
+SPEAKER_R: like this year, like before the whole um pandemic thing, it was so much fun because you didn't know who was gonna win because I was so happy for I mean I was so happy this year. It wasn't just about the Golden State Warriors because
+SPEAKER_L: For
+SPEAKER_R: it's always so predictable. You just know it's them. So it was just kind of like anybody's game. So this one was I feel like it was the best season in a long time because it was just like anybody is gay.
+SPEAKER_L: Do you have a team that you're really into?
+SPEAKER_R: I really used to like um okay, I think my favorite used to be Houston the Rockets and then now I'm kind of leaning towards the box.
+SPEAKER_L: Oh you like Johannes? Huh?
+SPEAKER_R: Yeah. I really like them. And I feel like the Rockets, they always, they kind of like stuck in one place, you just get like maybe to the finals or semi finals, whatever and then that's it. They are not winning at all. So Yeah. And again, because there, so we'll see. I'm waiting for it to start again, for the season to start again.
+SPEAKER_L: The good news is that like the off season is like really short this time since like the NBA finals was really recent and they're going to start in like december. Right? So yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: that's good.
+SPEAKER_R: And I wonder if it's going to be um in a bubble again. I wonder because he wasn't so fun in the bubble. I
+SPEAKER_L: Oh you don't like it?
+SPEAKER_R: just realized that okay, it's so you really need to have people in the stands and all that drama. It's so much fun. Yeah. So I wonder, I wonder how they're gonna work it out, but I'm sure they won't be in the bubble is just too expensive to do it that way.
+SPEAKER_L: Yeah. Yeah, for sure.
+SPEAKER_R: I'm sure they'll figure it out. Hopefully things will get better soon I hope and we can get to some normalcy of life, you know.
+SPEAKER_L: Mhm for sure. I think they have like a vaccine right now that's like 90% success people. So hopefully like we can have it out like that like the span of a couple of months because I'm honestly really sick of trying to quarantine while everyone else around me is like partying. I'd rather just like take a vaccine so I can just go out normally.
+SPEAKER_R: Okay. So what do you think about the whole vaccine things? I know some people don't like it. Some people don't support vaccines were like oh they they get you sick and all that stuff.
+SPEAKER_L: Well I mean I feel like there's just like a lot of misinformation like running around like I know like one study that people got really really nervous about was like they said that like vaccine may cause like autism and your Children or something. And then that
+SPEAKER_R: I read about that.
+SPEAKER_L: yeah. And then that doctor was like literally I think he got stripped of his medical license after that study because like it was reported to be like super false and like he tried to like falsified the findings and everything. But yeah it's pretty tough and I hope that like America as a whole can like Vaccinates themselves from COVID-19 so we can get back on track. But it's a hope. What do you think?
+SPEAKER_R: Yeah. I've always I've always had vaccines. I don't see what's the big deal like I I don't understand why people are making such a big deal out of it.
+SPEAKER_L: But like
+SPEAKER_R: It
+SPEAKER_L: the thing is that like we're like stem majors right? So like we understand that like it's completely
+SPEAKER_R: I guess so. I I guess so because people don't understand the whole thing of injecting that same thing. Like you know how they inject a little bit of that um If it's covid inject a little bit of it in you so that you know what he's going to fight it. So people are like, oh that doesn't make sense, blah blah blah. But I was like, I don't know, I just
+SPEAKER_L: they didn't
+SPEAKER_R: feel like we have just become so argumentative.
+SPEAKER_L: right. It's
+SPEAKER_R: Crazy.
+SPEAKER_L: that like, yeah media has been like, it's really hard to find like a completely objective media like everyone like even CNN like it's super like uh left side bias and then Fox news obviously is completely like conservatively like biased. So it's really
+SPEAKER_R: that
+SPEAKER_L: hard to find like reliable sources of like any information at all.
+SPEAKER_R: that's true. And then I blame social media to because it's good and bad because everybody has just become an expert. So even I can just wake up and think of something and just posted there and if you if other people don't do their research then I'm already influencing people yet I don't even know what I'm talking about. So it's just made this, it just made people so dumb. It's just crazy. So I blame that too. It's crazy. But uh we just hope things get better.
+SPEAKER_L: Yeah. Yeah, for sure.
+SPEAKER_R: Mhm. Yeah, and when you guys, when you guys start your finals
+SPEAKER_L: Uh my first finals like december 1st for biology,
+SPEAKER_R: and okay.
+SPEAKER_L: I'm taking molecular cell biology right now. Have you taken that?
+SPEAKER_R: No I didn't have to thank God.
+SPEAKER_L: Uh huh We're talking about like some type of like muscles right now, so it's like kind of confusing like the most recent test it was over. Let me think, I honestly forgot the material, but it was oh it was just DNA replication and like protein synthesis. So like the central dogma stuff, right? And like I don't know why, but like A. And M. Made so that like my course specifically had like one professor teaching the first half of the semester and the different professor switches in for the second half. Yeah,
+SPEAKER_R: Uh
+SPEAKER_L: so the link, so then that exam was the first exam of the new professor, and like We went from 20 questions for like 44 with
+SPEAKER_R: What?
+SPEAKER_L: the same amount of time, and a lot of people were really mad about it. And like I honestly was chilling because like I got like a 93.5 uh
+SPEAKER_R: yes.
+SPEAKER_L: from the beginning. And then because like everyone complains so much to like the advisers and like to the teacher directly, uh he got really fed up with all the complaints and he's like, you know what, We'll just add 20 points to everyone's score. So like I did pretty bad on exam to, but because
+SPEAKER_R: and
+SPEAKER_L: I was exam three, I got like 113.5 and like I'm at like a 96 now for that class. So
+SPEAKER_R: that's awesome. That's awesome. Yeah. Well I only did uh that stuff like muscles and all in anatomy and
+SPEAKER_L: I hate
+SPEAKER_R: he was
+SPEAKER_L: Anatomy
+SPEAKER_R: I hated into it was just so overwhelming like and then we had to also dissect like a cat a live cat. I mean
+SPEAKER_L: path.
+SPEAKER_R: I'm sorry sorry sorry.
+SPEAKER_L: I took anatomy in high school as well and we did the dissecting a cat. So like it's not. Yeah.
+SPEAKER_R: it was for me I didn't like it. First of all I'm not a cat person. I mean I don't think I've even have did I even I've never had to seen anything, well maybe just a chicken or something like that but a long time ago it was just like a new experience.
+SPEAKER_L: Uh huh. Mhm. I mean I I hated the class and like memorizing all the muscles and stuff, but like, I was okay. I might be like a little bit of psychopath, but I was like okay with like the whole cat dissection thing. I was like pretty interesting. Yeah.
+SPEAKER_R: Oh no I hated it Like it was just her P. And girls and uh I don't want to go back there. Yeah I did not want to go back there. But let me check the time. I think we are. Let me see. Yeah we did it. We made our 25 minutes. Thank you so much. It was nice chatting with you and all the best with your studies.
+SPEAKER_L: Thank you. Thank you. And I hope that you do well in your Master's degree like one year later.
+SPEAKER_R: Thank you so much. All right then. Have a good day.
+SPEAKER_L: All right, have a good one.

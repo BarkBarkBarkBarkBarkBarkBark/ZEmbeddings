@@ -1,0 +1,125 @@
+Fuck you, mm. Okay. Yeah. Why not? Okay. Right. Uh huh. What? Yeah. Yeah. Oh. Uh huh. Yeah. Mhm. Good. Yeah. What? Yeah. Yeah. Yeah. Oh no. Okay. Mhm. Yeah. Come on. Yeah. Mhm. What? Yeah. A friend. Uh huh. Your hair? Yeah. On what? Okay. Yeah. Thank you. Yeah. Okay. Mhm. Okay. Yeah. Mhm. Yeah. Yeah. Yes. Okay. Good. Yeah. Yes. Okay. Uh huh. Yeah. Yeah. Yeah. Mhm. Okay. Okay. All right. Mhm. Okay. Yeah. Okay. And all right. Okay. Yeah. Okay. That's a little party fire. Yeah. Yeah. Yeah. Uh huh wow. Oh what? Okay. Uh huh wow, wow. Oh. Yeah. Why? Oh yeah. Yeah. Uh huh. All right. Uh huh. Yeah. Mhm. Oh wow. Well,
+How about me?
+All right, let me just close facebook killing time.
+How's it going, man?
+Not much. My name is Jeff.
+Were you at that?
+that's always
+Yeah, I'm over in Oregon.
+Uh Well, I'm at Valley, so kind of by Asylum, like the state capital.
+So
+have you
+done
+these before?
+That's the third time for me to. Very nice.
+Yeah. It was already in there.
+Yeah, that's good stuff. So what are you doing out there?
+So you have to stay kind of quarantined when you're in a different city?
+So.
+Good deal.
+Do you stay domestic when you're flying?
+barely
+international.
+that's right. Yeah,
+I do. I. T. For our school district. Yeah.
+It starts off as Jack of all trades five years into it. We're starting to see like we need to kind of start spreading out into more specific fields. So I'm kind of falling into more software and back end stuff and a lot of programming and web apps and stuff like that.
+Uh It's always based on need and time. So it's like, uh, we have a bunch of student data like just tons of information about like their housing and everything else and so we need a way to be able to take their information and give it to somebody else so that we can get like log ins and stuff like that, not their personal information because that's illegal but like just the idea I'd stuff so I've created uh integrations for stuff like that and ways for us to help kind of manipulate that data. Um
+and a lot of it deals around with that like right now we're gonna go distance learning, so everyone's gonna need like a Chromebook, so I had to create something to kind of track all the chrome books and where they are and how to check them in and out. So it's it's a bunch of just a bunch of data manipulation gets really boring when I have to explain to somebody but it's fun to do.
+Perfect.
+I was
+self taught. Uh
+So even as far back as like one of my earliest jobs just working at a grocery store, I found myself kind of manipulating data and like putting in fake barcodes, so like if you go
+back to that place still
+you can put in a code and it comes up as a as my name and like a crazy price. Uh And then it really kind of took off, I was working for a company called Mitchell one they do automotive repair manuals and I knew nothing about cars getting into it. And uh I got in right at the right time when they're kind of transitioning over to like having India put in a bunch of the data and then we were just manipulated on our side so that it makes sense
+to
+customers. And I learned that you could kind of program within the program where you're using. So I started making little scripts in there and stuff and that's really where I started exploring. And then once I was able to make most of my job I started exploring more and I create like a little video game inside of that program and a chat program and all sorts of other stuff. Yeah. Yeah.
+And once you, once you understand the basics of one program it's it's easy to learn another, you can you kind of learn the hooks of it and then just it's kind of like learning latin and then you
+learn
+spanish
+and italian and that kind of idea what.
+not
+so much anymore hardware you have your limitations but for the most part even the dumbest computer that you're going to work on now is going to be able to process like the hardest code you could write.
+and and kind of to get the logic circuits of it because everything is basically like an if then statement kind of idea, so it once, once you understand that and once you can wrap your head around that, that might be like a hoop that somebody makes, somebody jumped through to see if they want to continue. Uh but for the most part, I mean
+you
+learn like the simple stuff like the Hello world and figure out if I do this, the computer does this and then you start going well what if I make it remember these eight characters and then
+can
+I make it
+remember these 32 characters? And so it just kind of builds on itself,
+City?
+A lot of them are very similar. Uh
+it
+might be like slightly different syntax, so like two of them that I use a lot are are switched in a couple of things, so like PHP and then um Power shell or javascript, they all they all use different characters. So like if you're going to concatenate two strings instead of like a plus sign, PHP is a period, so it's like little things like that that will throw you off and like some languages you don't need a semi colon at the end, but others if it's not there, you're screwed. It's little things like that that you have to learn.
+I use notepad plus plus. Uh because it it lets you save the file as a certain type of language and then it helps you color code things
+and that's super useful. And then it also has some shortcut keys which end up being useful like moving an entire line, just a couple of things up is real easy. Uh But yeah
+a lot of people will use that. A lot of people use uh well like Power shell
+which is like kind of like a C. Plus plus kind of idea, it's a Windows based thing. Uh They actually have their own app for it so you can kind of run it while you're working on it so you can kind of test what you're doing and locally. Um Yeah everybody uses what they're comfortable with. For me it was no pad plus plus because it was free and it was pretty detailed so I've stuck with it. Yeah.
+No
+it's like it was it was almost back doored like I got hired. I've had to I. T. Jobs one was working for the newspaper and then ones for the school district and they both hired me based off of my associates degree, which is computer network. So it was just like okay you're going to be a hardware guy, you're going to do this, oh you can code, what can you do this, can you do this? And then yeah so it's kind of one of those things and I prefer that I just don't have any credentials to show that I can do it. And almost every job I've ever had even way back when was it was like I don't want you to waste time on this and then when I'm done I showed them how much time it saves to use it every day, like this is the greatest thing ever. So like that first gig Mitchell one I created a system that went through all of our editor editor files and it would just look for the same queries every time we knew these mistakes would be in there and we had to spend all this time on it, so I just made it go through it and fix it and then give me a report of how many it fixed each time.
+So we did a math equation to figure out how much
+time that would save for all the editors to use it throughout the year and save something like $3 million or something over the year. They're like, this is the greatest thing ever.
+Yeah, that's what, it's just stuff that people don't think of because they get stuck in their ways and uh it's just sometimes it takes fresh eyes to see a new issue and that's what I tend to lend my talents towards, is giving another point of view to it.
+continuous improvement stuff. Yeah. Yeah,
+There used to be a really cool site, uh what was it called? I want to say, it was like Code Academy and I don't know if they're still up, but they had a really cool breakdown of of uh different languages and that's how I taught myself how to do J query, which is like javascript on crack. Um and it's like, Mhm. Their their way of breaking it down, made it interesting and engaging and kind of made it more step by step, kind of progression instead of like a lot of, a lot of books or classes that you might take, we'll
+start off
+with like a hello world and then the next thing you're doing, you're like,
+I
+don't even know what this word means, what, why am I doing this?
+Uh No, that's why that popped into my head because that's for the students. Uh
+don't don't do that one else for a little kid. Uh Let me see if I can find it. Okay. Yeah.
+Yeah. Hope. Mm No, I don't have it anymore. I have
+to go
+searching for it,
+And if you want to start with python, go for it, python is pretty versatile. Uh C plus plus is still broadly used. But if you want
+to do more web stuff then I would say start with like uh like javascript and stuff just to mess
+with website design. Because then you could do that just locally and kind of see the effects of it.
+Yeah. My sister actually, she uh she just turned 50. She is trying to learn python herself. I think she found it like one of the online schools because she's down in Tennessee right now and she was like I need to do something, I need to be engaged with something, so she's going to try to do that. So
+there's online
+stuff too.
+I don't know. She
+this was just a couple of weeks ago, so I think she she might have just started it, but I haven't followed up with her.
+Wait,
+maybe. Thanks.
+Nice. That's fine. So you've been having a lot of downtime then you're talking about for those coming up?
+concrete
+day.
+Carpentry is fun too.
+Yeah, that's what we had to do at the end of our fiscal cycle,
+ends on the end of june 1st of july. So it's uh as the school year was wrapping up this last year, they're like we need to take a furlough to save some money for next year kind of idea. So we all got furloughed, uh most of us got furloughed four days, some of us got five and then like my wife who works for the SD she got six days. So it's just kind of like that we're gonna we're gonna cut you guys right now so that we can save some money for a later kind of idea.
+just
+like one day a week for like five weeks, six weeks, four weeks. This kind of it was a weird way to do it but they found a little loophole so that we could get our unemployment, we could get the 600 thing from the government. And so like everybody made out better than they would have. Like everyone was making like 125% more than what they were supposed to be making. As like can we have more for it though? Days I'm free.
+That's
+rough bed. Yeah.
+Absolutely.
+It was good for a minute, but I mean are where we are right now, we have so much work that we're under water, so it's like we can't take these these days off anymore. But yeah, this next year is gonna be weird with all of that because uh sounds like a lot of people are withdrawing their students from the district, so that means less government funds being put in, then you have less people spending money here and earning money, so that's less tax dollars, so that's probably gonna be less money. So
+we're right at the cusp of probably getting some layoffs or something coming up soon.
+Yeah. And our district is kind of
+weird too because we have we have a very liberal governor in a very conservative town. So in our town it's like we don't need to wear mask blah blah blah kind of idea and our governor is like no you need to wear masks, like this is the thing, you need to do this. And then our school district was like well we'll push school start off by one week and then the governor is like no you really distance learning and they're like okay we'll go distance learning
+but we're going to come back at some point, most of us are saying why why don't we just do this like the whole first half of the years um like that way we can plan for something instead of having to react over and over and change up everything. Apple. Either.
+Bye.
+That
+was a lot like. Okay.
+Yeah the hardest part is that social interaction because you're learning how to interact with people and everything and all the friendships that you make and things like that. So that part is really difficult and it's been
+talking point for everybody about kids need the other kids. You know they kind of go stir crazy and I have two of my own, they're going into 3rd and 4th grade and you can see the effect on them some of the days they're just they're just moody and you try to figure out why it's just they're they're missing that social interaction with their friends. It's kind
+of weird.
+But yeah the learning from a distance worked really well. We uh my kids are in christian school and they they got a much better education when all of this happened in March than what we were seeing in the public school. Yeah, like they actually had more development and better content, so
+yeah, it was still good, it was still a good way for them to learn and they both kind of absorbed it pretty well,
+but
+I would say is probably uh in the public sector, it became a idea of
+like this is too new, I wasn't trained how to do this, this is unfair to me for the teachers. And in the private school it was more like, well this is what I'm getting paid for. I'm going to try to figure out how to do this. Mhm. And we saw I wouldn't blanket the whole public school like that either. Like they had some of the teachers in the admin and some of the schools really adapted to it well and kind of put an extra effort. But for the most part a lot of them are kind of jaded by the idea and they still are, even them coming back right now.
+That's
+the difference. You know, you get somebody in a catholic school or christian school or private school, whatever it is and and they're there for a reason because they're not getting a big paycheck and with the public school you kind of get this more comfortable nous that gets set in an entitlement. I'm protected by the union, I have X amount of years, so I have seniority, you can't touch me kind of idea. And
+private
+school is like I'm just here for the kids, that's why I'm here.
+Thank you. Mhm. So if
+it
+is,
+you said you're flying back out today.
+man.
+Yeah. So are they attributing that to like the summer wrapping up or like covid increasing?
+Just like a strict like drop off. Yeah.
+Crazy. That'd be weird man.
+There's a couple of pictures of like one person in a plane or you know next to nobody then there. That's weird.
+Yeah. I love flying. I wish I could do that more often. Honestly. It was always fun for me.
+I hope so sooner. The better we'll stay safe man. It was really good talking to you.
+Thanks man. Yeah,
+but

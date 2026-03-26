@@ -1,0 +1,288 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hi, how are you? Can you hear me?
+SPEAKER_R: yeah I hear you just fine. You hear me? Ok too? Right.
+SPEAKER_L: Yeah cool.
+SPEAKER_R: Mhm. How you doing
+SPEAKER_L: Hey
+SPEAKER_R: today?
+SPEAKER_L: I'm good, how are you?
+SPEAKER_R: I'm doing okay, let's get you half a day off. Yeah
+SPEAKER_L: I'm Olivia.
+SPEAKER_R: my name is Jeff, Nice to meet you Olivia.
+SPEAKER_L: to meet you, too. Nice to meet you too. Yeah.
+SPEAKER_R: What do you do, wow.
+SPEAKER_L: I work I work from home now, my work for idea in the market and the market department so yeah how about you?
+SPEAKER_R: he said the market department like marketing for them.
+SPEAKER_L: I work in the marketing department Trachea. So on the website of things like the e commerce and making sure the website looks good and is functioning correctly. Um
+SPEAKER_R: Very cool.
+SPEAKER_L: Yeah
+SPEAKER_R: So
+SPEAKER_L: that's pretty cool. How about
+SPEAKER_R: for
+SPEAKER_L: you?
+SPEAKER_R: like a corporate level of it.
+SPEAKER_L: Yeah corporate level like yeah yeah there's no store around here. Um So yeah I work for I work from home for the corporate office.
+SPEAKER_R: that's awesome. Um
+SPEAKER_L: Thanks.
+SPEAKER_R: I do I t for our local school district so I do a lot of their web app sites of things and programming and then a lot of the user account management stuff. So.
+SPEAKER_L: okay that's neat. Um How's it been with, are you guys remote or is your school district remote now?
+SPEAKER_R: We ended up going remote. It was kind of like a last minute poll which was extremely difficult. It's still extremely difficult. But yeah our our demographic in the city is more blue collar so it's more like we don't need to wear masks, we don't need to do anything, this is all kind of whatever. And so they were balancing like how to keep people around here happy. And um, so they were trying to think of like, okay, we'll do like a hybrid model, some of us will be in school, some of us will be at home. And then it came down to it and our governor, I live in Oregon. Our governor came out and said no, if your area is that meeting a certain criteria, then you have to do remote. And that was like three or four weeks before we opened. So all of our gear shifted. We had to throw in new systems. Nobody got any training the day before. Like, it was like the friday before we were still getting people into these new systems. Yeah, It's just a train records. Uh, so it was, yeah, it's a struggle.
+SPEAKER_L: Yeah I bet it is. That's I'm so I graduated a college in 2019 so I like just missed the train wreck and I was like, I'm so happy. I'm not so right now. I mean working from home is one thing, but school from home, it's just, that just sounds like a mess.
+SPEAKER_R: I actually, the last, uh, the last one of these, I did, I got a sophomore in college and she was like, this place is weird, it's like a ghost town. And she was explaining about like some of the sororities and frats were still having parties and how uncomfortable that made most people feel. And it was weird. Made me stop to think because like, a lot of the high school seniors last year are now freshman in college this year. They didn't get their graduation, they're they're not getting their college life. Yeah, it's got to be a weird time.
+SPEAKER_L: Mm I worked for before I went to a key, I worked at a marketing agency and we did hire like in higher ed and um we found that a lot of kids were just taking gap years, like that was their plan if they couldn't be on campus, they were like, I'm just
+SPEAKER_R: What?
+SPEAKER_L: going to not go to school, you know, especially their freshman because it's like, you know, they feel like they're missing out on, you know, all that college life. And so yeah, it's definitely, I think Kyra is going to have a tough time, I think moving forward, it will be interesting to see what happens.
+SPEAKER_R: I'm surprised. I think people would go more like online schools and just try to blow through it.
+SPEAKER_L: Yeah, you would think, but they just, especially we were finding out that they were just like if I can't, you know, be on campus with my friends and stuff, they didn't want to pay like they didn't want to pay to live on campus, you know, or live around the school because a lot of people got locked into like, you know, housing contracts and things and so people were just like, I'm just gonna, you know, go do something else for the year or some people I think are a lot of people going to go to community college. I'm hearing that's a big option for people right now. Um
+SPEAKER_R: that would make sense. Yeah,
+SPEAKER_L: yeah. So
+SPEAKER_R: so
+SPEAKER_L: are you, God.
+SPEAKER_R: no good.
+SPEAKER_L: Oh, it's gonna say so you're working, you're on slightly, you're not working from home right now?
+SPEAKER_R: Oh, I'm a fully at home. Um Right
+SPEAKER_L: you're full
+SPEAKER_R: before all of this had happened, um I went in for knee surgery and um when they hooked me up to all the heart monitor stuff, they realized there was an issue with my heart.
+SPEAKER_L: I don't know.
+SPEAKER_R: Right before all this happens, I go, hey, you have a heart condition. So
+SPEAKER_L: That's crazy,
+SPEAKER_R: yeah, so when this hit and they're like, yeah, if you have heart conditions or heart disease than your high risk, I was like, well, I'm higher risk now, so that sucks. So yeah, I've been since March 13th. I was, I've been at home and have set up this kind of like makeshift homes office and
+SPEAKER_L: Yeah, that's wild.
+SPEAKER_R: thankfully all the work I do, all the programming and user account stuff is, I don't have to be anywhere specific. And even the last year, I was largely at one of our high schools, just in one of their little closets as a tech room. And so as mostly remote already. So it wasn't that big of a transition. And even when we moved up to Oregon, I was working from home. So that was three years experience of being locked in a room and just working here in PJ pants. It wasn't that big of an issue for me.
+SPEAKER_L: that's me. So where'd you move? Where'd you live before? Oregon?
+SPEAKER_R: Uh, san Diego. I was down there for about 10 years
+SPEAKER_L: okay, that's
+SPEAKER_R: and
+SPEAKER_L: neat.
+SPEAKER_R: that's where I met my wife and she, she's from up here in a corvallis Oregon. And um, so that was part of the deal was, as we were dating, it was, if you're serious about this, I want to move back home, so you have to consider moving to Oregon. And it's like, I don't know, I've been in California boy in my whole life.
+SPEAKER_L: Oh that's neat. Where you're born there, you were born in Sandy, you,
+SPEAKER_R: Uh huh. I was actually born north of there, a little
+SPEAKER_L: it's
+SPEAKER_R: town called santa Maria. Just north of santa Barbara area.
+SPEAKER_L: pets need, so how how is California? I feel like I hear horror stories of the state of California, so if you want to dispel those myths or maybe confirmed them, I don't know.
+SPEAKER_R: Uh, it wasn't bad growing up growing up was nice. We had a small kind of rural agricultural kind of area. Our town was only 45 to 50,000 while I was there. And it was close to beaches like pismo beach and stuff like that. So it was, it was a really nice place to grow up. Like everybody in their hometown you feel like there's nothing to do there. So all of us were eager to move out. But yeah, it wasn't bad. Even san Diego wasn't bed. We've gone back there to visit a couple of times. What we, what we often miss is just the food and all of our friends that were down there. So, but even the last time we were down there, which was actually just about this time last year. Yeah, it was nice to visit, but his soap high price for everything and that's why we got out of san Diego. Mhm. We're paying SAn Diego prices to live in a desert because we are out in the East County so it's just ridiculous. We came up here and bought a house for the same mortgage price that we're paying for it half the square foot in an apartment. Yeah I think it was like 30 bucks extra month to own a house up here than it was to pay for that. Yeah.
+SPEAKER_L: yeah, it's crazy out west
+SPEAKER_R: Where are you at?
+SPEAKER_L: I am in york county pennsylvania, so yeah, so
+SPEAKER_R: Right.
+SPEAKER_L: um yeah, so I was born while I'm adopted, so I was born in Maryland, um spent the first three days of my life there before I was brought up here. Um Yes, I've lived here my whole life. Um It's also very rural. Um we had to put it in context, we had drive your tractor to school day, like that's how
+SPEAKER_R: That's
+SPEAKER_L: rural high school, that's actually,
+SPEAKER_R: great.
+SPEAKER_L: yeah, it was, so that's how that's a royal, it is. Um But yeah, and then I went to college um at Westchester University, which is outside of philadelphia um in a suburb, and then I graduated and I worked at a marketing agency in center city philadelphia for a year and then the pandemic happened and I was like, I should probably get out of philadelphia. So I came home, we went remote and I came home and then I was kept working for the agency until I found this job okay, back in july, and I jumped ship and so that's that's where I ended up.
+SPEAKER_R: So how many, it's fascinating that you work for IK for me for some reason how many are in like the marketing department for them?
+SPEAKER_L: Um to me I just started it's funny, I just started in august, started august 2nd and I to this day like I'm still in meetings with people that like I've never it's like a new person every every time like I'm still
+SPEAKER_R: Not
+SPEAKER_L: meeting
+SPEAKER_R: interesting.
+SPEAKER_L: everybody, it's um there's probably in our in the U. S. There's probably at least a couple dozen. And then Global um which is headquartered in Sweden, there's probably a couple 100. So it's it's a it's a massive, yeah it's a well everybody kind of fall, a lot of people fall under the marketing umbrella but they do different things within, so my team isn't that big but um overall everybody in marketing, it's it's a pretty big operation
+SPEAKER_R: And what do you guys focus on with your team?
+SPEAKER_L: I focused on. I'm an online content specialist. So what I do is I um I've been making up like I make updates to the website so when it's time for like a big, so when the website changes for black friday for example like I'll take on that project, so when you log on and you see like you know sale on this or whatever, I'm like the one that put that up there. Um It's updating copy and things like that and just looking at user flows and making sure, you know, customers can find things because if you ever interacted with the k. But our customer service is not very well renowned, so it's kind of, it's kind of we're trying to cut down on the number of people who have to call in and be on hold for like ever. Um So yeah that's it's just the e commerce and it was pretty slow to the e commerce world because we're so we're so focused on the in store experience that I mean our founder himself said nobody's ever going to buy a couch online. Um and so we literally like had to wait for this man to like die to like really be able to kind of start our online, you know venture. Um yeah we're pretty behind so it's it's less sophisticated than you think it is right here, but
+SPEAKER_R: that's what I noticed. So we've we've done IKEA since we got married. I mean most of our furniture was like for the first several years until we really started settling in and buying like actual oak and stuff. But um yeah like every time I tried to go to the website to try to find something more, research
+SPEAKER_L: and
+SPEAKER_R: something it was always just a grind. There's like forget it, let's just go to the store. But now when we live up here that store is our almost two hours away up in Portland.
+SPEAKER_L: Okay. Yeah, I was gonna say, I think video Portland store, yeah that's wow, how is Portland by the way?
+SPEAKER_R: Portland is it should be its own little state. It really should. It's so far removed from anything else in Oregon. The rest of Oregon is like all like hick blue collar kind of areas except for except for maybe like Corvallis and like the university areas. Uh So os you and you have are both kind of liberal, but everything else is very conservative and like Backwater and even some parts it's really weird
+SPEAKER_L: Yeah that's
+SPEAKER_R: but
+SPEAKER_L: it, yeah
+SPEAKER_R: and then there's Portland, it's like
+SPEAKER_L: its own reality,
+SPEAKER_R: it really is, my sister lives up there right now. Uh and she's like just taking it full on, just gone with it. So like for Covid, she shaved her hair and was like re branding herself, was like okay,
+SPEAKER_L: Okay. I guess the pandemic makes people do things they never thought they'd they'd be doing,
+SPEAKER_R: that's yeah, that's part of it. Yeah, it's interesting to say the least, but
+SPEAKER_L: Gosh.
+SPEAKER_R: we've gone up there and visited a handful of times. Even spent like a weekend or two up there, but it's one of those places we we like to visit once in a while, but we try to stay out of there. Yeah,
+SPEAKER_L: Yeah
+SPEAKER_R: but
+SPEAKER_L: she
+SPEAKER_R: me
+SPEAKER_L: said
+SPEAKER_R: and some of my friends, even we did uh what we call the fry walk, we found four different places that had good french fries. So we went up there and had like some ciders and french fries, teach one of these places with our kids.
+SPEAKER_L: oh wow. Is Portland like known for its french fries?
+SPEAKER_R: no,
+SPEAKER_L: No.
+SPEAKER_R: we just really wanted some french fries.
+SPEAKER_L: okay, so you decided that Portland is gonna be no first franchise? That's
+SPEAKER_R: these
+SPEAKER_L: just
+SPEAKER_R: are guys,
+SPEAKER_L: funny.
+SPEAKER_R: these are guys I work with two. So we've done a pizza off where we've gotten different pizzas from the neighborhoods and we've gotten doughnuts and so we just like having fun with food tasting different things. It was a fun day excuse
+SPEAKER_L: that is fun.
+SPEAKER_R: to get out of the house. Yeah.
+SPEAKER_L: that's funny. Yeah.
+SPEAKER_R: Yeah. All right. Okay.
+SPEAKER_L: So um so
+SPEAKER_R: Yeah.
+SPEAKER_L: you're in like a rural area? That's that's um that's
+SPEAKER_R: It's
+SPEAKER_L: interesting.
+SPEAKER_R: a it's about the same size as the place I grew up, which is why it was kind of nice and familiar. So
+SPEAKER_L: So how
+SPEAKER_R: it's
+SPEAKER_L: far?
+SPEAKER_R: its agricultural too and uh heavily into like grass seed and what's the other thing? Oh, he's on it, a lot of his limits around
+SPEAKER_L: interesting.
+SPEAKER_R: here.
+SPEAKER_L: So how how far is that like from California? Like from san Diego to,
+SPEAKER_R: Okay. When we drove up moving it was 28 hour days. So from san Diego to Sacramento was one day in Sacramento up to here was the second
+SPEAKER_L: that's
+SPEAKER_R: day. It wasn't too bad. It made for a long trip, but we had we had my in laws helping us and it was just us and two cats at the time, so it wasn't, it wasn't too bad. But
+SPEAKER_L: kids,
+SPEAKER_R: to get back down there is that's why we won't drive, we'll just take the flight. It's like
+SPEAKER_L: it's a wild, So do you have kids?
+SPEAKER_R: yeah, we have two kids now, they're our oldest is turning 10 and 16 days, okay, And our youngest is eight right now.
+SPEAKER_L: wow, that's how have they been adjusting to the new new reality of covid?
+SPEAKER_R: Uh huh. Its ups and downs. It's uh a lot of times we have a lot of fun and we can uh just enjoy being a family and whatnot. And then other times you can tell there's an emotional detachment almost because they're missing friends, They're missing that interactivity with kids their own age and just, you know, being goofy kids going around whacking people with sticks and you know, whatever, whatever they would be doing at school typically. Uh, so that's it comes and goes. So we try to be mindful of that, make sure that we're not on that end to where it's like, I just need some alone
+SPEAKER_L: Talk
+SPEAKER_R: time,
+SPEAKER_L: to.
+SPEAKER_R: leave me alone. Then we realized, no, we need to step back and really be there for everybody. And so like I said, it's like ups and downs and peaks and valleys kind of idea right now, they're doing pretty good. We started, we got them out of their school, There was a private school, uh, the last two years and we went to an online curriculum when we realized that their private school wasn't doing well. They didn't have a good online presence to begin with. Excuse me. And the end of last year was just really rough. Like how they transitioned to being at home was, uh, it was hard, it was difficult when a kid would have like 6 to 8 hours of work a day, it's just, there was too much. So we went with this other, uh, it's a christian private online school and has been really good. It's a good moderate amount of work, but still a strict curriculum. So that seemed to be good. But every now and then you can just tell it wears on him. You know, you wake up in the morning, you still got to get ready for school and then you go back into
+SPEAKER_L: Your
+SPEAKER_R: your bedroom at your desk is like, yeah, just wears on you And I can feel that too with my work, it was a really rough year for us to start with. Usually the beginning of school is really busy to begin with but like literally it was me sitting in this chair for eight straight hours hoping to take a half hour break for lunch and just answering emails and chats and doing video calls and it was just nonstop. It wasn't even sustainable, it was everybody was getting frustrated with each other and threatening to quit and it was awful
+SPEAKER_L: that is, yeah.
+SPEAKER_R: thankfully it's starting to mellow out but we're still at least another month or two away from it actually relaxing. Yeah.
+SPEAKER_L: Do they know are they going to be remote like the whole year or are they trying to go back in the spring?
+SPEAKER_R: Yeah. Yeah. It's the same thing that they were dealing with over the summer where they have a lot of pressure to reopen but our numbers are spiking right now so there's in an objective manner. I don't think there's anybody will open for this year but they keep giving some hope and false hope to all these people that are demanding that we reopen and why are we doing to our kids and stuff? It's like we're doing it so that we try to save lives. Try not to infect the entire city all at once.
+SPEAKER_L: Yeah. Yeah. I was um I still keep up with Westchester. I went to school and they originally um they didn't even try to go back full time or I mean even hybrid, they were just remote and people freaked out. Um But it's like you would have, it's like
+SPEAKER_R: you
+SPEAKER_L: they don't understand
+SPEAKER_R: know.
+SPEAKER_L: it, like they would have had to go home a couple weeks in, you know, it was never going to be normal. Um So they were just fully remote and then they just announced a couple days ago that they're going to be remote throughout the spring semester two. So a lot of people are upset, but yeah, I can see it. Yeah, it's just
+SPEAKER_R: I would hate to be our superintendent right now because she's having to dance and avoid all these minefields like none other. So she keeps coming out with, well if it's this by this date or if it's this by that date, then we'll do this. And right now it's gotten to the point where she said, even if um, let's say by like november, it's it's cleared up enough where we could open. She said we won't open until next year now because she doesn't want to reopen right before winter break just to close back down for two weeks and then it's just gonna throw everything into chaos. But yeah, I don't, I don't see us opening this year. I think we're going to be like this maybe even through 2021 honestly.
+SPEAKER_L: Yeah, I think so too. Yeah, it's interesting. Ik um they don't, when I first, my first day actually people were they have been remote for a while, but people were coming in to get their stuff and they're just they're redoing the entire office. Um and it's it's nobody's going to have like a dedicated cubicle or desk anymore, it's just gonna be like an open layout like conference rooms and so it's kind of just work from home indefinitely. Has I understand it? Um
+SPEAKER_R: What?
+SPEAKER_L: Which is definitely gonna be interesting because I mean as of March Olive spent more time working from home that I will in an office in my
+SPEAKER_R: Hey,
+SPEAKER_L: career so already, so it's it's definitely going to be interesting I think to be remote for I guess long haul. And I'm interested
+SPEAKER_R: they
+SPEAKER_L: to see like what other companies do if if they start just allowing people to stay permanently work from home or if they start calling people back at some point.
+SPEAKER_R: Yeah, I'd imagine we'll see it evolve coming from a tech side. I would imagine it won't be uncommon to have like a camera on your workstation, not just not just for conferencing, but just to be able to pull up somebody's camera and make sure they're still at their desk, you know? And not. Yeah, I have a feeling we're going to see more stuff like that come up.
+SPEAKER_L: Do you think it's gonna be pushed back on that? Like are people just
+SPEAKER_R: heavy
+SPEAKER_L: going to go
+SPEAKER_R: pushback. Yeah.
+SPEAKER_L: because I don't even know like I have nothing to hide other than not really working. I mean I don't really know. Yeah I can see
+SPEAKER_R: No.
+SPEAKER_L: that. That would be problematic.
+SPEAKER_R: Yeah. Also it'd be a quick way to be able to check into, you know, this would be able to pop in and pull up somebody's camera and say, hey, how's it going? So the reason I think about that though is during the roughest weeks that we had I just left a google meet on all day long while I was at my desk instead of giving me a phone call you could just pull into a google meeting there. I'd be I could help you out real quick.
+SPEAKER_L: Oh that's interesting.
+SPEAKER_R: Yeah and it worked really well. I was able to help dozens and dozens of people every time and just be able to kind of walk people through share my desktop, have them share their desktop whatever and there was no back and forth of. Do you have time to do this or when are you free or what are your available? It was just all it's the same as if I would have been at the school and they came and tracked me down. So it worked out really well.
+SPEAKER_L: it's pretty good.
+SPEAKER_R: We had talked about that three years ago. Even because we have the I. T. Side of things but we also have another version of I. T. Instructional technology and and they are at the district office where all we are at the other side of the town in another building. And I had always talked about we both have giant TVs in our room why don't we just put some webcams on And then if we ever need to talk to each other we just walk up to the webcam and start talking to each other.
+SPEAKER_L: pretty good idea.
+SPEAKER_R: They never took off but you know it's one of those things like
+SPEAKER_L: you
+SPEAKER_R: we have
+SPEAKER_L: were ahead
+SPEAKER_R: the technology.
+SPEAKER_L: of time. Yeah you were ahead of your time. Little little did they know
+SPEAKER_R: Yeah. Little did they know? Yeah
+SPEAKER_L: that's
+SPEAKER_R: but
+SPEAKER_L: it's interesting.
+SPEAKER_R: yeah I could see something like that come up where okay you have this position but this is one of the requirements we're going to have to have a camera on so that we can make sure that you're doing your job so that we can have that quick one on one time. Yeah. All right.
+SPEAKER_L: Yeah it hasn't been too bad of a Kia um with the trade. I mean I just I started work from home and I kiss so I I've never met most of my coworkers. Um And I don't think
+SPEAKER_R: And
+SPEAKER_L: I ever
+SPEAKER_R: for you?
+SPEAKER_L: will. I've seen my boss one time in person and that's it. So it's yeah, I don't think my interview was all remote, so the only thing I had to go, I had to go the the corporate offices in conshohocken pennsylvania, which is about 20
+SPEAKER_R: What?
+SPEAKER_L: minutes from philadelphia. Um So that's where the IK U. S. Headquarters is. Um and so I had to go and get my computer and my head an I. T. Issue. Actually, the the email was like you have to log into your laptop before you leave the network and I just did not do that. So I
+SPEAKER_R: No.
+SPEAKER_L: went up to get this computer and I get home and it's not working and I was like oh my God, I have to go back up to, I can't, so I had to like and my dad took me and I was like I don't ask my dad again, he's going to freak out, so I just like coordinated a like stealth train trip up to philadelphia and I made it was philadelphia's like 2.5 hour to new york, but I got there and all I had to do, I was still in the Uber and I was like how do you think I have to get out of the Uber, like I just have to be on the network, I think so I just sat in the Uber in front of the corporate office and logged in and it was like okay and the computer knew it was like a computer and it could function now and I was like can we just restart the trip and taking back the train station? She was like, yep, okay, that was, that was my, that's how I solved it, but I was like, I can't believe I had to do all that just to log into the computer because I didn't do it.
+SPEAKER_R: yeah, we have the same issue we've we've been handing out uh well some people just took their desktops home, some of the teachers and some of the staff were like forget it, I can just take it home and it all work right? I was like no it's not it's not gonna work, you need a couple of things first. But like yeah, some of them would take it home and be like why isn't it connecting to my network? Is like did you plug it into like one of the ethernet ports or you just using your wifi? Well, it's just on wifi. It should connect. Right? It's like, no, those don't have wifi, those are desktops, so we're going to have to do some stuff. But yeah, we have that same issue where if you don't log into our network first, you don't make all those handshakes and it doesn't build your local profile and let you onto it later. And we still have admin that do that. I'll just take a laptop and run with it. And it's like, no, come on back.
+SPEAKER_L: Yeah, it was just I I couldn't believe it, but yeah, other than that it's it's been fine. Um Have a delta, have me on a Dell, I don't know what you guys use, but it's pretty good.
+SPEAKER_R: We
+SPEAKER_L: I had a Mac at my agency but I I prefer Mac. I'm on a Mac now um like Die Hard Apple, but so it's been a transition but it hasn't been too bad. How about you?
+SPEAKER_R: Uh either is fine. Honestly for the district is whatever is cheap and affordable at the time that we were purchasing some. So it's always a matter of trying to figure out the best quality for the lowest price. Well, for me right now I'm on a surface pro from work and they work okay. But they they weren't meant to do four screens. I have the screen that I'm talking to and another one here then two on either side.
+SPEAKER_L: you're you have the whole set up? Okay.
+SPEAKER_R: that's a while I'm programming or doing something like that. I have to have like email code, a website that I'm looking up stuff. A test window. Yeah. So it's it's always a lot but it does give good radiant light for conference calls. Uh huh.
+SPEAKER_L: I I'm still that was like the whole big thing in my agency where it's like if we had like a spare extra screen, people would like fight over it and I've just never seen the appeal to have two screens. I haven't they gave me a desktop right here and I'm just like I don't really I just never I could never get into the dual screen life. I just I'm good with my just my standard laptop
+SPEAKER_R: Yeah. Dual screen became real important in my life or two jobs ago now it was we were doing technical editing and we we actually did analytics with it to see how much productivity it would save to have two screens up and then you could have your content and what you're editing kind of idea. And over like a month period of time we figured out that it would more than pay for itself and how much productivity we were able to save with it. And then just as I've gotten more and more into computer and technology and programming, it's just become like I I need at least three to do that too, is good, but three is more uh it just gives me that bigger range if I just had one of those big giant wrap around one so that
+SPEAKER_L: I've
+SPEAKER_R: would
+SPEAKER_L: seen
+SPEAKER_R: probably
+SPEAKER_L: those.
+SPEAKER_R: work too, it's really about real estate, the more space the better for what I'm doing.
+SPEAKER_L: Yeah I bet the end. So did you did you go to school for I. T. Or you like you did?
+SPEAKER_R: yeah, I've always been interested in it uh even back to like junior high when computers were a little more limited, but uh one of my brothers got heavily into it um in his twenties and thirties and did really well for himself and I was like I could do that, so I had him point me in the right direction, kind of did some schooling for it and then was stuck in a job that didn't require it and it was comfortable so. But after three years of being stuck at home here in Oregon, I started going a little crazy needing somebody to talk to. Like I'd get a telemarketer calling me up and I'll be like how was your day? Could you tell me something?
+SPEAKER_L: no
+SPEAKER_R: Yeah that was kind of like the last bit. I was like you know what, I need to get
+SPEAKER_L: that
+SPEAKER_R: out
+SPEAKER_L: was your
+SPEAKER_R: and meet
+SPEAKER_L: sign
+SPEAKER_R: some people. Yeah so it took a job with our local newspaper doing I. T. For them. And then that turned into a job with the school district where I've kind of elevated up into there. Now actually I just put in my application for director of technology for our school district because our bus got the boot with how badly this year went. That's mostly his fault. But it's still pretty bad.
+SPEAKER_L: well now you know what not to do at least if you get the job. Yeah.
+SPEAKER_R: And I was telling them what not to do and he wasn't listening. So there you.
+SPEAKER_L: Yeah that's, wow.
+SPEAKER_R: So
+SPEAKER_L: Well I hope you get it if you have it works out.
+SPEAKER_R: yeah, there's part of me that hopes for it in another part of me that's like maybe I don't want this.
+SPEAKER_L: Yeah there's yeah.
+SPEAKER_R: But we'll see.
+SPEAKER_L: So does your wife does she work?
+SPEAKER_R: Yes. Yeah. She does occupational therapy and she just moved from going to people's houses to do occupational therapy and now she's working for R. E. S. D. So she goes out to neighboring school districts and helps with him. But when this hit, they kind of hunker down to, so most of that is remote now too. So she's in the kitchen slash dining room area with her computer and I'm in here with my computer and then the kids
+SPEAKER_L: It's
+SPEAKER_R: both have little laptops and there's.
+SPEAKER_L: that's funny wow.
+SPEAKER_R: Yeah.
+SPEAKER_L: So she can do occupational therapy like remotely?
+SPEAKER_R: A large portion, yeah a large portion she can kind of like monitor the student behavior and see what's going on. But we're talking about um she's probably going to have to go in for some evaluations here and there. But a lot of the schools are remote. So it would be like her having to go to somebody's house or something to watch how the student is doing and that's not, yeah.
+SPEAKER_L: realistic. Yeah.
+SPEAKER_R: So it's mostly just for the sites where like sped students or whoever are actually in class that she might have to go in and do something. But all of her meetings and stuff, uh she's most mostly just able to do everything remotely and then give suggestions on how to help. So it's been good so far. It's we're really blessed and lucky to have our jobs where they were during all of this. Yeah. And that we were able to stay remote because her dad got diagnosed with cancer too. So he went into chemo during all of this. And then my heart condition, she has a little bit of a heart condition was
+SPEAKER_L: my gosh.
+SPEAKER_R: like worst case scenario for so were some of the more stringent people of what we're doing and how we're protecting ourselves and we know some of its overboard and a little crazy but it's like we don't want to risk it honestly.
+SPEAKER_L: Yeah. Yeah, I will wear my mask in honor of you Jeff, so I put it on, I'll think of Jeff.
+SPEAKER_R: Thanks.
+SPEAKER_L: That's, wow, that's lucky that they found your heart condition just from a knee surgery, I mean that's
+SPEAKER_R: It's
+SPEAKER_L: you're really
+SPEAKER_R: it's a
+SPEAKER_L: lucky.
+SPEAKER_R: very telltale thing. So with your heart monitor you usually get like the up and then down, you know like the kind of thing. Well mine goes up and then goes up again and then comes down. So as these little like bunny ears each time and what that is is my heart. You're supposed to have four different parts of your heart that all kind of fire. Like the electrical signal. Well, only one of mine is. So this one fires and then the rest contract afterwards. Just out of that muscle contraction of the electrical signals following through. So that little bunny ears, boom, boom. And it, so if that last one, the last one of the four isn't working, then the heart just stops. So, so any taxing of my heart is kind of scary at the moment.
+SPEAKER_L: Yeah is that like a recent, if it's too personal? But is that like a real, are they saying it's like a lifelong thing and you just found it or is it like is it something that developed later in life or they don't know?
+SPEAKER_R: Hard to say because like, I mean, I've I've been hooked up to other things, so I had to have been within the last year to that
+SPEAKER_L: Hello,
+SPEAKER_R: it happened. And yeah, it's just one of those things where they didn't know what it was. I've had a bunch of testing since and stress testing and stuff and it's weird my heart's not acting normal anymore, it's sometimes it just doesn't kick in. So like uh I went on a stress test and as I was on the treadmill I was sucking air just I couldn't catch my breath. And they said um they looked at the pulse and the pulse didn't get like I think it was like higher than like 80 beats per minute or something, and I was huffing and puffing,
+SPEAKER_L: ma'am.
+SPEAKER_R: and then as soon as I got off and sat down and started to relax, you saw the kick up to like 140 beats per minute, and I was like, that's weird. They're like yeah that's that is weird. It's like you're not supposed to say that you're the guys do the test, you should have seen stuff like this before,
+SPEAKER_L: Hey
+SPEAKER_R: like oh sorry. And
+SPEAKER_L: do
+SPEAKER_R: we've
+SPEAKER_L: you,
+SPEAKER_R: noticed that like once or twice other times,
+SPEAKER_L: wow. So what is it a fixable thing or is it just like a just don't overdo it for the rest of your life?
+SPEAKER_R: it's monitor it and see um after talking with cardiologist, it was it was about try to lose weight, try to get my blood pressure down and after six months we'll kind of review it and see where we're at. So that's what I've been doing, went into intermittent fasting and eating better and more home cooked food thankfully for the pandemic stuff. But uh it's it's slow going and we'll have to see like I I get on the elliptical machine now and will exercise and my heart kicks in every time. It's only been a couple of times where it hasn't and that wasn't during exercises, like doing our garden beds out back the same kind of instance where I start feeling like I'm not getting enough energy and I look at my pulse and sure enough it's it's just not kicking in. That's weird.
+SPEAKER_L: I did. Yeah.
+SPEAKER_R: But my my family has electrical issues with their heart. I'm the youngest of six and four of us have had issues. So.
+SPEAKER_L: Okay. So I guess it wasn't too surprising. None but still awful, but
+SPEAKER_R: It was when I, when I got it, I thought I was only the third one. So I was like, I was trying to give everybody heads up and then another one of my brothers was like, no, you're number four, I've had issues too. I was like, oh, that would have been helpful to know, you know?
+SPEAKER_L: Well that's yeah, that's interesting. That runs
+SPEAKER_R: So,
+SPEAKER_L: in the family.
+SPEAKER_R: so maybe you last two should probably go to the doctor sometimes. Syria just get checked out maybe
+SPEAKER_L: You don't
+SPEAKER_R: annually.
+SPEAKER_L: want to be,
+SPEAKER_R: I don't know.
+SPEAKER_L: wow. Well, I hope you're on the mend and I hope you can keep it under control and everything, so Yeah. Yeah,
+SPEAKER_R: Uh huh.
+SPEAKER_L: wow,
+SPEAKER_R: I think we hit our mark.
+SPEAKER_L: I think we did check the time. Yeah, I think this is the second one you've done, this is the second one I've done.
+SPEAKER_R: This is I think number five I've done, Yeah. Each one has always been fun and entertaining, so I just keep signing up for him.
+SPEAKER_L: Yeah, um this one I did, that was back in, that was back in the fall or now that was probably back in the spring and then I missed one and then this is I would have had three, but this is my second so I'm hoping I get more. I mean I think they're fun.
+SPEAKER_R: There are a lot of fun. I've never had a bad conversation. It's always been fun. Okay.
+SPEAKER_L: Yeah. I'll make sure they only pop up every once in a while, but I definitely I'll make sure I catch them. Yeah,
+SPEAKER_R: Very cool. There's a fun talking to
+SPEAKER_L: it
+SPEAKER_R: you,
+SPEAKER_L: was fun talking to Jeff. All right.
+SPEAKER_R: Stay safe.
+SPEAKER_L: You too right. Yeah.

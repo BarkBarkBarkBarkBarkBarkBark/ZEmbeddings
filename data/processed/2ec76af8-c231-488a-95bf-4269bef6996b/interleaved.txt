@@ -1,0 +1,264 @@
+SPEAKER_R: Hello.
+SPEAKER_L: Hello.
+SPEAKER_R: Hello. That was quick. How are you doing?
+SPEAKER_L: fine. And about you?
+SPEAKER_R: Yeah. Okay. Okay. Probably a little bit. Um This is always awkward how to get started a conversation like this.
+SPEAKER_L: Why
+SPEAKER_R: What?
+SPEAKER_L: do you think so?
+SPEAKER_R: So Well, it's just someone you've never met before. People to have a 25 minute conversation with them. I mean do you know you have a conversation you had to have a point of connection and then you just sort of thrown into it like this. There is no point of connection yet. No idea what things you guys have in common so
+SPEAKER_L: Well, it depends how you think. For example,
+SPEAKER_R: Thanks.
+SPEAKER_L: we are ready to have something in common. We are both members of prolific. And that also means that
+SPEAKER_R: So
+SPEAKER_L: we are interested in making money online and answering
+SPEAKER_R: look,
+SPEAKER_L: surveys. So that's that's something.
+SPEAKER_R: well not necessarily a money thing. I mean some people do it for college credit and stuff like that. Um
+SPEAKER_L: Oh really? You can, you can get college credit for answering
+SPEAKER_R: Only
+SPEAKER_L: service.
+SPEAKER_R: well specific surveys. It's obvious reading through the direction sometime of them that some people are doing it for credit. But it's not for its not general surveys, it's like I'd be one or two, maybe they don't do it through prolific. I don't know. Anyway. Many also could just be interested in, you know, advancing the cause of science. Mhm. Yeah.
+SPEAKER_L: Well personally I do it for the money to be honest because uh
+SPEAKER_R: Right.
+SPEAKER_L: even if I was interested in taking service, just let's say improve a product or service or something like that. Uh well,
+SPEAKER_R: What?
+SPEAKER_L: I have been in prolific for almost two years now. And yeah, I found about it on the Reddit beer money for um which had usually had read but I started working full time
+SPEAKER_R: Clock.
+SPEAKER_L: this year. So I am
+SPEAKER_R: back,
+SPEAKER_L: not a member of a lot of sites that I used to use before this. I didn't use just prolific. I use plenty of other sides to make money online like slack bucks or uh
+SPEAKER_R: hmm.
+SPEAKER_L: wrap points and plenty of others. And now I'm using basically prolific and Mturk which is from now on.
+SPEAKER_R: I think those are pretty much the best one. I've, I've tried using swag bucks and I've I've never really gotten much there. And all the prolific and mechanical turk are the only ones that I've, you know, been able to like uh get substantial or just any basically money through. Uh huh.
+SPEAKER_L: Yeah, because for the good thing about prolific is that when you get
+SPEAKER_R: What? Yeah.
+SPEAKER_L: even though it's not very often, at least not for me, you're almost guaranteed
+SPEAKER_R: Or
+SPEAKER_L: to be qualified. Uh huh. Unless
+SPEAKER_R: mm hmm.
+SPEAKER_L: the requester does something that he isn't supposed to
+SPEAKER_R: But
+SPEAKER_L: do, you're supposed to be qualified. And and with mturk you can still
+SPEAKER_R: Anything else?
+SPEAKER_L: be disqualified but it doesn't happen nearly as often compared to swag books or the other sides that I used.
+SPEAKER_R: yeah. Have you tried using user testing? Yeah,
+SPEAKER_L: I actually had a test this morning.
+SPEAKER_R: nah, they're like the opposite. You'll feel 100 different qualification surveys and you might look like for one of them. It's so frustrating.
+SPEAKER_L: I have sometimes had more than 20 screeners without qualifying for a single one of them. And the, the my main issue with user
+SPEAKER_R: Go with
+SPEAKER_L: testing
+SPEAKER_R: something.
+SPEAKER_L: is that they're screeners are, there are crap. I have received screeners asking me if I'm pregnant or if if I have demonstrated, I'm not kidding. I'm not kidding that they are so bad.
+SPEAKER_R: My
+SPEAKER_L: They are.
+SPEAKER_R: favorite,
+SPEAKER_L: So that.
+SPEAKER_R: my favorite is the one to ask, Do you make more than $100,000 a year? Yes or no? You answer. No. It says we're sorry you don't qualify. Yeah. I like
+SPEAKER_L: Now.
+SPEAKER_R: it fine if I'm rich. Sure I'll do user testing surveys for pocket change occasionally. Why not?
+SPEAKER_L: Yeah. So some surveys I have seen asking
+SPEAKER_R: Or
+SPEAKER_L: where are you a ceo of a company making more than 250,000 a year or something like that. Yeah. It doesn't make any sense at all. But yeah, the mainstreaming screener and the pregnant screener that
+SPEAKER_R: if
+SPEAKER_L: those are the worst ones I have ever received.
+SPEAKER_R: Yeah. Uh That's the uh you have from their correctly. Yeah. You do do a uh information report when you sign up with the user testing. It's been a while um and can get the information from that I mean
+SPEAKER_L: Yeah, they they they don't do it. They don't
+SPEAKER_R: But
+SPEAKER_L: do it. I keep getting tests asking me if I live in some far remote away country or something like that. They just don't do qualifications well. And the other thing
+SPEAKER_R: Good.
+SPEAKER_L: is that there are some tests that they actually ask you something like I don't know. Okay, so what gender are you, what age, what is your income? And then they make a very specific question that you of course you don't qualify. So why not
+SPEAKER_R: But
+SPEAKER_L: ask that question first? So that I don't have to answer all the other
+SPEAKER_R: Whatever. Yeah.
+SPEAKER_L: It will make much better sense if they actually ask you what they're looking for at the beginning.
+SPEAKER_R: My suspicion. I suspect it is that they actually well first either testing is doing this, they are offloading the effort of qualifying to the test taker instead of the people who are offering the tests. So in a way it's sort of encroaching into your time to do it that way. Uh Instead of coding up a system that would allow the people to be excluded ahead of time, they just they just figured well who just reject the people who don't don't qualify, you know so you have to sit and spend a half hour going. No no. Yes yes. No no yes sorry don't qualify. Okay. No no yes no no no no no no you don't qualify. You have to spend your own time to disqualify yourself and
+SPEAKER_L: I don't know. I have
+SPEAKER_R: look.
+SPEAKER_L: done test with you know like
+SPEAKER_R: No
+SPEAKER_L: conversation
+SPEAKER_R: I
+SPEAKER_L: test with them and with marketing companies that they're supposed to be the marketing companies for really big companies like Microsoft google Verizon
+SPEAKER_R: what?
+SPEAKER_L: whatever. And they keep making
+SPEAKER_R: That
+SPEAKER_L: mistakes
+SPEAKER_R: domestic.
+SPEAKER_L: like that. So I don't know. I just I just think that the screeners suck and they could do better. And if they use demographics then we will get less tests but we will be able to qualify for more of them.
+SPEAKER_R: Yeah. I also think that they're using the screeners the companies uh to get information on people without having to pay for it. I mean if if you fill up
+SPEAKER_L: All
+SPEAKER_R: information who you are, what you're sort of being what your job is etcetera and you don't qualify. And that's basically some information they've gotten on you, on the on the demographic without actually having to pay out on a survey.
+SPEAKER_L: Yeah. That there is more common on services like on swap books and that kind of stuff. But I don't think the customer on user testing really benefits for those more demographic questions that I don't know who has an idea.
+SPEAKER_R: Yeah. I don't actually know, but I wouldn't doubt it if it happened is my point. Yeah.
+SPEAKER_L: Yeah,
+SPEAKER_R: Okay.
+SPEAKER_L: I suppose so.
+SPEAKER_R: That's a good thing to talk about for eight minutes. Uh What else is there? Um What do you do watch? Why are you interested in anything right now? You're doing anything? Okay.
+SPEAKER_L: I said, uh, I started working heavily this year full time. So I work for uh,
+SPEAKER_R: That
+SPEAKER_L: as a cloud support engineer. So
+SPEAKER_R: What?
+SPEAKER_L: basically helping
+SPEAKER_R: No,
+SPEAKER_L: customers use the cloud, you know, running
+SPEAKER_R: now.
+SPEAKER_L: their virtual servers, companies, servers or anything else on the cloud instead of on their own data centers. And the good thing about that
+SPEAKER_R: Good.
+SPEAKER_L: line of employment is that it really hasn't stopped with coronavirus. Uh, there are a lot of companies actually their employees are working from home. Well, I am I am working from home. So, so they actually are relying more on the cloud now
+SPEAKER_R: Girl.
+SPEAKER_L: than last year. So business has been doing good.
+SPEAKER_R: Good.
+SPEAKER_L: And
+SPEAKER_R: And I
+SPEAKER_L: honestly, I can't complain because I have been working normally from home and actually I don't have to drive 30 40 minutes to go to the office.
+SPEAKER_R: yeah. Yeah. That is nice. How you just call it the cloud. Like it's some monolithic thing out there. Um The thing that I heard is whenever someone says the cloud, always in your mind, just imagine in it that's placed the words, someone else's computer.
+SPEAKER_L: Yeah I do agree. I mean the cloud is just basically computers running on the internet, that's that's all it is,
+SPEAKER_R: Yeah. Why don't you say servers? Other servers? I mean, because the Cloud sounds like a more impressive thing, I think?
+SPEAKER_L: nah I guess I mean I totally understand you but I guess using cloud actually tells you two things. Okay so there are computers that are remotely but where are they located? When
+SPEAKER_R: And
+SPEAKER_L: you say cloud then you understand that it's running on a data center, one of these companies and it's public. So it is instead if you will compare to just a regular server running on premises on a company. So that is why I don't really like the term cloud but now that I have been working with this for a while
+SPEAKER_R: Nothing.
+SPEAKER_L: I guess that I take a look at it as understanding what it is and where it is located. Both things with just one war, so it's not really that bad. It could be worse.
+SPEAKER_R: Yeah, those things describe web servers to though the way I the way I think what was cloud is, oh, it's it's a server that you don't interact with basically through a web page. It's like uh you know, basically programs do the communicating and the uploading of the information for you. You see what I mean?
+SPEAKER_L: Well for example on cloud providers you can run a website, so a website would be a very a
+SPEAKER_R: But
+SPEAKER_L: subset of what you can do on the cloud
+SPEAKER_R: that's the
+SPEAKER_L: and
+SPEAKER_R: problem,
+SPEAKER_L: the way you connect to it, it depends,
+SPEAKER_R: but
+SPEAKER_L: you can connect to it to a web browser or you can open, for example uh Ssh connection which is terminal based or you can use it, you can use Microsoft remote desktop protocol and
+SPEAKER_R: What?
+SPEAKER_L: get control of the server with the photographic a user interface and you will see the same screen as using your local computer. So there are plenty of ways you can even not connect to it at all and just run specific commands remotely. So there's plenty of ways to
+SPEAKER_R: What
+SPEAKER_L: interact
+SPEAKER_R: are you here?
+SPEAKER_L: with them.
+SPEAKER_R: Uh any case uh uh
+SPEAKER_L: What what do you do?
+SPEAKER_R: me, oh, I'm a writer, sort of four of a freelance writer, but actually have a book coming out in september uh
+SPEAKER_L: pretty nice.
+SPEAKER_R: uh No, it is nice and we'll see how well it does. It's weird. It's the content of the book I wrote over the course of several years. Um I wrote a number of articles for a website and I put them together into an e book in the pub, you know, hold them that way. And you know CRC Press approached me about it today, we want to do a print version of this. I thought that's nice. So so I spent two months getting it together, looking through the material and writing an index. Oh God the index. Oh I had to write a script in python to help me compile it. If anyone asks you to help them pilot index just run run away. It's A 550 page book. And I had to go through page
+SPEAKER_L: here
+SPEAKER_R: by page finding
+SPEAKER_L: here's
+SPEAKER_R: all
+SPEAKER_L: a small trick, have you ever heard of latex?
+SPEAKER_R: I know of latex. Yeah. It doesn't do indexing though I don't think. Yeah.
+SPEAKER_L: Well
+SPEAKER_R: Stock
+SPEAKER_L: uh I don't have tons of experience with it, I had
+SPEAKER_R: what?
+SPEAKER_L: to use it for college I believe and it was specifically on the leaks which is like a subset of latex that is more user friendly. But uh
+SPEAKER_R: You
+SPEAKER_L: so
+SPEAKER_R: just
+SPEAKER_L: so
+SPEAKER_R: heard it?
+SPEAKER_L: support early every person that writes a book, if they use
+SPEAKER_R: But what?
+SPEAKER_L: like that, it would do everything from them besides the writing. As long as you stick to the format, then it will automatically right the the index summary, the glow Cherie by
+SPEAKER_R: I
+SPEAKER_L: autobiography.
+SPEAKER_R: don't Yeah.
+SPEAKER_L: Uh everything like that, but it has a
+SPEAKER_R: Many
+SPEAKER_L: learning curve.
+SPEAKER_R: That's when I know of latex. I don't think it does content. I think it's a markup language and
+SPEAKER_L: it's kind of a market language to help you structure your document in this case a book. But From what I've seen
+SPEAKER_R: All right.
+SPEAKER_L: the little that I knew about it is that it's basically 10 times
+SPEAKER_R: What's
+SPEAKER_L: better compared
+SPEAKER_R: that?
+SPEAKER_L: to use writing a thesis on Microsoft Word or something like that and even more none of these. If you use the correct headings for the specific type of content it can it can generate and in this automatically for you as well.
+SPEAKER_R: Yes. I looked into to the words or my word processors. I use libre office actually. I looked into their index excuse but ultimately I would still have to go through the whole document and mark all tag all the index items myself. So ended up for me being just to think them out of effort, basically just manually compile an index. And I wrote a python script to help me do it. So it all worked out. Uh
+SPEAKER_L: I guess that latex will have
+SPEAKER_R: What?
+SPEAKER_L: worked better if you actually had started started to write the book from scratch with it instead of just trying to generate an index after you have finished all the writing.
+SPEAKER_R: Yeah. And I wrote the first of these articles like 13 years ago so yeah I had no idea what a baby in a print book at this point. Yeah.
+SPEAKER_L: Well that's something that you should feel very proud about because it's not easy writing a book and getting published. Of course
+SPEAKER_R: Yeah we'll see how well it does yeah in any case any case what else what else? Uh Just writing a little bit before on twitter actually for I connected about Are you family with the TV Show? Mystery Science? Theatre?
+SPEAKER_L: I have heard about it, but I haven't watched any episodes.
+SPEAKER_R: Yeah I run a week actually now biweekly twice a week. Uh Internet showing of mystery Science theater 3000 episodes. Uh where me and some friends twice a week we get together and we watch basically a bad movie and a guy in some
+SPEAKER_L: The Morning.
+SPEAKER_R: puppet robots who make fun of the movie. And shall we lasted a good while. There's a couple 100 episodes more than that now though, it keeps us going for a while.
+SPEAKER_L: Very nice.
+SPEAKER_R: Yeah and so we're going through the actually September one. The current owners of the property shout factory are doing a marathon of mystery science. The episodes about the Japanese giant monster Turtle Gamarra, which is sort of like just sort of like uh sort of like Godzilla's rival in a way. And yeah, everyone knows about Godzilla. No one knows about Gamarra
+SPEAKER_L: No,
+SPEAKER_R: because,
+SPEAKER_L: I I know about Godzilla and I think the main enemy
+SPEAKER_R: well
+SPEAKER_L: was Matra something called like that. I don't remember.
+SPEAKER_R: at first but author became an ally. But Godzilla and Mata, those are uh those are Toho to homemade those. Whereas Diet, he made the camera movies. They're they're different companies, different cinematic universes, so to speak. Yeah and Gamma is weird. Godzilla, you look at Godzilla and you think dragon, you know, it's obvious a monster like Godzilla can cause some serious property damage. He's got breath, you know, he can swing monsters around by their tails. Um Yeah he goes to the water, he's, you know, he's got power, whereas Gamarra is a giant turtle. If not, uh at first it would seem to be a very destructive kind of monster. But glamorous trick is that he can pull his arms legs and head inside of his shell and fire shoots out from all directions and that propels them in the air and he spins through the air like a frisbee. Yeah.
+SPEAKER_L: doesn't sound plausible at all.
+SPEAKER_R: No, it doesn't. Another
+SPEAKER_L: three at least call cilla. You thought? Okay so he's a giant Liza so there are iguanas so he's just a large you wanna and okay he can breathe fire so it sounds like more logical. I don't know.
+SPEAKER_R: Yeah. Well, they're not these movies are not on mystery science theater because they're good in any case. Um So got all kinds of weird things with camera. Camera is the friend of human Children for some reason, despite the fact that they're basically microscopic to him. Um But now again, we're loved Children just while he destroys their cities. You know, he's all cozy and friendly with little Kenny who little kitty has had a hard life. He's living with foster parents. Apparently his real parents died and his only solution life is his pet turtle Tibby. But as foster parents don't like to be, I think Kenny is kind of obsessed with him. All he does is draw pictures of to be, you know, in school and he's always been in time with him. So they said we're going to get rid of Tibby, you're gonna, you're gonna get rid of your turtle if you don't stop all this turtle nonsense. And little Kenny is sad and then he goes outside to give a tearful goodbye to Tibby and Gamarra who was like 1000 times bigger than to be shows up and it's, it's kind of ridiculous. And because
+SPEAKER_L: it sounds like, yeah.
+SPEAKER_R: yeah, because Kenny is friend with camera, the military response to camera lets him into their top secret meetings because apparently he has some angle on camera they think and the kidneys. Although no don't kill game where I know humorous friend of Children namely it really doesn't hate us. Greenwell glamorous knocking over buildings. It's yeah, it's pretty big.
+SPEAKER_L: south to survey.
+SPEAKER_R: Yeah. Actually the first they made a series of these movies, they were popular enough, they made about half at least a half dozen. And um they get sillier. The first three D. M. R. Movies are pretty are actually played straight the second movie, Gamer versus Paragon doesn't have any kids at all. But then in the 4th movie get vs Chiron comes along and the move in they started chasing kids. So they gave Gamber a theme song and they played up the friend and Children angle a lot more and they became quite goofy. Anyway
+SPEAKER_L: Well there were good for at the beginning
+SPEAKER_R: you're right
+SPEAKER_L: and then there seems to be worse.
+SPEAKER_R: are much much worse. You have no idea how goofy a movie can be until you're seeing him reverses chiron. It's anyway, I am blabbing really But it was a productive blah. We're up to 22 minutes
+SPEAKER_L: Yeah I mean
+SPEAKER_R: I'm
+SPEAKER_L: it's just fine. My my
+SPEAKER_R: sorry
+SPEAKER_L: other
+SPEAKER_R: with
+SPEAKER_L: my other hobbies are just, well I do like watching tv and I basically watch
+SPEAKER_R: I'm sorry what?
+SPEAKER_L: most of the superhero
+SPEAKER_R: I'm
+SPEAKER_L: shows.
+SPEAKER_R: you
+SPEAKER_L: So for example I finished Arrow and now I'm seeing and watching flesh and then I see supper girl and I think I'm going to see the Bad woman when I try to see all the D. C. Shows and I see all the marvel movies so usually
+SPEAKER_R: You
+SPEAKER_L: that's what I do.
+SPEAKER_R: aren't getting tired of superheroes? Yeah.
+SPEAKER_L: Well not really
+SPEAKER_R: Okay.
+SPEAKER_L: I I don't have
+SPEAKER_R: What?
+SPEAKER_L: much time for anything else. I used to be a pretty heavy video gamer but now with work and all of that I maybe play once or twice a week and that's it.
+SPEAKER_R: Yeah. Yeah it makes me sound like a snob but I don't watch much tv besides mystery science theater these days, it's back in college. Uh we couldn't afford cable one semester and I just felt out of the habit of watching tv even when we started affording cable again, you know, I just like most of this stuff isn't really that good anyway, so I just got out of the habit of watching tv. It's just no, now I read web pages and braille, social media all the time. Yeah, that's much better.
+SPEAKER_L: That's that sounded sarcastic. Uh huh.
+SPEAKER_R: Uh And I played games video games a bit but most of the things like uh pinball simulation I like pinball a lot. Uh huh.
+SPEAKER_L: I used to be pretty good that Pinball that windows included back in Windows 95 I think.
+SPEAKER_R: Space Cadet. Yeah.
+SPEAKER_L: Yeah especially there that was that was really good.
+SPEAKER_R: Okay. But no there's been no no video pinball game that really compares to a little pinball machine. In my in my experience it's not just like the rules or stuff like that. Video games are locked to a frame rate right? They don't update faster than the screen because that's the fastest that you can see, right? I mean uh maybe 5060 frames a second. That's what the game targets. That's you know and so the game engine internally run at that speed. But real pinball doesn't run at a fixed frame rate So you could actually get sub 60th of a second response times. And that's actually important in pinball and video pinball discovered often. Um depending on how the ball rolls down the flipper, there's some shots you can't make because if you think about it, each frame, the ball exists a discrete point in the game simulation, right? And sometimes those discrete points don't line up with the shot you want to make. And um that's often a big problem because they'll be important shots at the make of the table didn't consider this and you just can't make them even though you could make them easily on a real machine. Yeah,
+SPEAKER_L: No that's interesting.
+SPEAKER_R: yeah, yeah, you sound so thrilled. Uh
+SPEAKER_L: Yeah no I mean I mean I never analyzed pinball like
+SPEAKER_R: of
+SPEAKER_L: that.
+SPEAKER_R: things
+SPEAKER_L: I I
+SPEAKER_R: like
+SPEAKER_L: do
+SPEAKER_R: that.
+SPEAKER_L: enjoy the games but I haven't played I haven't played any people games in a long time so but I don't remember that there were a few good pinball games besides that basically that, wow. Even on the ponds, I think,
+SPEAKER_R: yeah. If you ever get a chance to spend some time with a real pin, but there are some recreations of them uh in video form. Uh That's the pinball arcade, that's what they call themselves. By far, Sight Studios has a good collection of recreations of physical pinball tables and like computer and video game formats. Um If you get a chance probably twilight zone and Adam's family are a good machine but I don't think they have those uh easily available because they're the licenses are expensive for these machines. Yeah like Adam and family you have to pay money does he? PBS to use their their their indica their characters and images and touch. Um any case. Um it's 426 now I think that's been 25 minutes. You'd like to stop here. Yeah.
+SPEAKER_L: Yeah. I
+SPEAKER_R: Yeah.
+SPEAKER_L: have some stuff to do anyway. And this survey is kind of long. This is the third time that I have done the, the video, the video thing.
+SPEAKER_R: This is the fourth for me. That's the last one for this round. Yeah.
+SPEAKER_L: yeah. Okay.
+SPEAKER_R: Yeah.
+SPEAKER_L: Well, it was nice talking to you and learning more about people.
+SPEAKER_R: Yeah. I hope I haven't bored you too much. It's just
+SPEAKER_L: No.
+SPEAKER_R: these are the things that is that
+SPEAKER_L: that
+SPEAKER_R: the things that I'm thinking right
+SPEAKER_L: That's
+SPEAKER_R: now, so.
+SPEAKER_L: that's that's just fine. The 25 minutes were over quick. So thank you and hope you have a nice great rest of your day.
+SPEAKER_R: You too. You too. Goodnight.
+SPEAKER_L: So yeah. Bye.

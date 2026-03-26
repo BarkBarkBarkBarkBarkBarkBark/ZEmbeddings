@@ -1,0 +1,281 @@
+SPEAKER_L: Hello.
+SPEAKER_R: Hi,
+SPEAKER_L: How are you doing?
+SPEAKER_R: I'm all right, how are you?
+SPEAKER_L: I'm pretty good. I just started a timer to make sure Richard time. So so so where are you from? Where do you live?
+SPEAKER_R: I'm from pennsylvania, Where are you from?
+SPEAKER_L: Alabama? So pretty uh pretty big role in the election I guess. Not really big role but kind of dramatic in the fashion that you know turned out that's exciting to be there or what happened I guess. Right. Uh huh. So what do you do?
+SPEAKER_R: What do I do? Uh Right now, Not much. I actually quit my job a couple weeks back uh and I'm currently unemployed. Yeah.
+SPEAKER_L: So you're taking prolific surveys? You are a professional surveyor.
+SPEAKER_R: Yeah. Right now I guess so.
+SPEAKER_L: Well
+SPEAKER_R: How about you?
+SPEAKER_L: oh I'm I actually work for Nasa, I'm a flight controller for the space station.
+SPEAKER_R: Wow, that's that's pretty impressive.
+SPEAKER_L: Yeah I enjoy it's a it's kind of a during job of mine I guess. Um What were you doing before you quit?
+SPEAKER_R: Before I quit. I was it was a retail job, which was always supposed to be a temporary thing after I graduated college and then from how I was there for two years and it was like, well there's a whole thing. I live with my parents and my mom is like high risk and I didn't want to go back to my retail job and you
+SPEAKER_L: totally
+SPEAKER_R: know,
+SPEAKER_L: understandable so.
+SPEAKER_R: it was just kind of like, well I never meant to stay at this job this long anyway, so I don't miss it too much.
+SPEAKER_L: Okay. So what's your degree in?
+SPEAKER_R: My degree is in art and Art history. Um My dream job would be working in a museum. Um That's kind of what I would like to do currently. No not all museums are open right now and I'm like well I guess I'm not gonna do that right now but
+SPEAKER_L: Well it'll I'm sure it'll all pass hopefully sooner rather than later. So
+SPEAKER_R: hopefully.
+SPEAKER_L: big news with the vaccine the other day So and so
+SPEAKER_R: that yeah that that is pretty pretty big news.
+SPEAKER_L: boom.
+SPEAKER_R: I um. Yeah. Yeah.
+SPEAKER_L: So my wife was, she was an art major there for about a year or so. She ended up getting her degree in education. But she well so six, we went to the we actually went to Denver earlier this year to the Denver art museum. They had good blanket on the guy's name. Did all the saturday evening post are
+SPEAKER_R: Oh is that norman Rockwell?
+SPEAKER_L: norman rocco. Yeah. Really cool. Some.
+SPEAKER_R: Yeah that's awesome. I I don't know I love like going to museums and seeing all the different like exhibits and stuff because
+SPEAKER_L: What?
+SPEAKER_R: like I really don't have like one specific kind of art that I like. I like everything I really do so like it's always just so just so neat.
+SPEAKER_L: So are you a practitioner, do you like paint or anything or you
+SPEAKER_R: I
+SPEAKER_L: just,
+SPEAKER_R: do I do paint. Um I was technically I was technically a studio art focus um with my degree that but that was I could never I could never choose that. That was really like they were like pick one and I was like okay fine I'll do a studio. But um yeah I like to paint um I mostly paint what I call like weird portraits for like people but I do things that are unusual with it so
+SPEAKER_L: Yeah it's pretty cool like I'm like caricatures but not really,
+SPEAKER_R: sort of yeah sort of yeah
+SPEAKER_L: Mhm.
+SPEAKER_R: um
+SPEAKER_L: Uh huh. Mhm.
+SPEAKER_R: Yeah so I don't know can you tell me a little bit about your job? I think that's like really interesting and I don't know a lot of what it entails.
+SPEAKER_L: So have you seen the movie Apollo 13.
+SPEAKER_R: Yes a long time ago.
+SPEAKER_L: Okay. Well basically that what the guys on the ground were doing. Um so Houston still was in charge of you know the crew and vehicle and all. I'm in Alabama, Huntsville Alabama. We do we're the payloads basically the science experiments. So my specific position operations controller basically like coordinating all the resources that you know the uh huh they need for the science experiments I guess. Like whether like some of them are crew attended, some of them, you know crew just installs and the scientists on the ground just commanded the payloads and uh get the science done. They needed that way. But yeah, we basically do the science on the space station. Yeah.
+SPEAKER_R: That's
+SPEAKER_L: Work
+SPEAKER_R: interesting. That is it's really cool.
+SPEAKER_L: a funny kind of funny anecdote. Like I always knew I wanted to work for Nasa. My dream job when I was a kid was to be an astronaut and I didn't really pan out. Um But anyway, when I was uh me and my brother were younger
+SPEAKER_R: No.
+SPEAKER_L: we were watching Apollo 13 and I was talking about how I wanted upcoming astronaut. And of course my brother made a Big Brother comment like you know, they don't put just anybody in the as an astronaut, the ones aren't good enough end up with the flight controllers here. I am. Yeah.
+SPEAKER_R: no mm did you ever like did you ever try to be an astronaut or?
+SPEAKER_L: Um I've put in my application and all but it just kind of I don't know like it's gotten so you know like popular anymore. Like I mean it was always popular idea of being an astronaut but like back in the nineties say that get like 2000 applications but now it's in like the tens of thousands. So mm And I'm sure even if I got past like the application phase, you know like high blood pressure or something would keep me out, you know, it's Yes. So
+SPEAKER_R: Yeah still though I mean wow
+SPEAKER_L: yeah, I really enjoy it. I kind of, when I graduated college was kind of spending my well I say spinning my wheels there. I was I had good jobs but
+SPEAKER_R: what?
+SPEAKER_L: never really enjoyed any of them. Do you know? I wanted to work for Nasa so it kind of fell into my lap two years ago and here I am.
+SPEAKER_R: Yeah what what did you get your degree in?
+SPEAKER_L: civil engineering. Mhm. So it's not really much to do it space or anything. I don't know if you know much about civil engineering but it's
+SPEAKER_R: All
+SPEAKER_L: either like municipalities and like roads and water and all that good stuff. So where'd you go to school, anywhere big or? Yeah.
+SPEAKER_R: no I actually it's it's a local colleges Lebanon Valley College um Which I mean my dad went there and so it was kind of yeah. How about you?
+SPEAKER_L: Right. University of Alabama. Right. But
+SPEAKER_R: Yeah
+SPEAKER_L: whereabouts in pennsylvania do you live?
+SPEAKER_R: so I uh I live in Lebanon pennsylvania which is central to its actually if you know like lancaster Amish country, it's one county over from Lancaster.
+SPEAKER_L: I know very little about the geography of pennsylvania. I went to philadelphia once that
+SPEAKER_R: Well that was that I actually grew up in philadelphia so it was like my parents were like from Lebanon
+SPEAKER_L: Time.
+SPEAKER_R: where I live Central P. A. And then like when I was like a baby we moved to philadelphia and so I grew up there and then came back here and this is where I went to school
+SPEAKER_L: man.
+SPEAKER_R: and everything. But yeah philadelphia I like philadelphia. I would I would move back there.
+SPEAKER_L: And
+SPEAKER_R: It's the thing I thought about.
+SPEAKER_L: yeah, I thought it was pretty neat like we just did, you know, touristy stuff like constitution hall and all, but I really enjoyed it. Yeah.
+SPEAKER_R: I have
+SPEAKER_L: Honey.
+SPEAKER_R: never been to Alabama.
+SPEAKER_L: Uh yeah, you know, if you never have a reason to come, that would not be surprising to me.
+SPEAKER_R: What?
+SPEAKER_L: I really enjoy living here with uh Huntsville area that north Alabama and it's kind of uh as close to Silicon Valley as Alabama can get I guess if you go further south, you know, you'll get into the stereotype area, but this area is pretty nice. Yeah.
+SPEAKER_R: Yeah. I I haven't done much traveling at all. I haven't gotten very far south, I haven't gotten very far west, just kind of like a circle around pennsylvania is all over.
+SPEAKER_L: Yeah, that's I'm kind of the same way, that's probably my biggest regret before, you know, like I got married or anything, you wish you would have traveled more and same, but we're slowly but surely checking things off the list, so it's all good. Mhm.
+SPEAKER_R: I was before this
+SPEAKER_L: All
+SPEAKER_R: year
+SPEAKER_L: that
+SPEAKER_R: was everything that turned out to be, I was going to like do some traveling this year and I was going to visit some friends because I have friends that live all over and I was going to, it's kind of doing some stuff, but then, you know,
+SPEAKER_L: Yeah, covered in 2020 in general. So
+SPEAKER_R: Yeah, yeah, so I'll see evening. Hmm.
+SPEAKER_L: Oh, I was saying we're like, if you could just pick up and travel anywhere right now, what's your number one place right now?
+SPEAKER_R: Oh man. Um I that's a hard decision. I would, I mean I would probably, I was planning on visiting the west coast because I have friends in California and I have friends in Oregon, like one of those two places and then I would like visit my friends and then hang out and you know, like see all the stuff that's there. Um but like anywhere anywhere I don't know like because I've never even I've never even left the United States like so I would definitely like to like go somewhere in europe or Asia or something to
+SPEAKER_L: Yeah. We were the only been international once we went on a cruise that stopped in Havana, I was kind of neat, definitely a bunch of places in europe I want to go to.
+SPEAKER_R: give me just a second. Still
+SPEAKER_L: All
+SPEAKER_R: have a house phone and okay, someone else will answer that. Sorry.
+SPEAKER_L: I'm actually kind of interesting candy, you still have a long line.
+SPEAKER_R: It's yeah, my mom's in her. Six
+SPEAKER_L: Mm hmm. Fair point. I'm pretty sure my parents do so Mhm.
+SPEAKER_R: um
+SPEAKER_L: Um Oh, I was in the middle of the Oh yeah, there's one thing
+SPEAKER_R: europe.
+SPEAKER_L: that I've come up with, there are like so many places in europe I want to go to. Like Ireland is probably my number one choice. But there are a whole lot of places, you know in this country that I've never seen, that. Really cool and it's a whole lot cheaper so that's yeah, yeah, so original in europe, if you had a if.
+SPEAKER_R: Oh man. Um I always wanted to visit France when I mean yeah,
+SPEAKER_L: there,
+SPEAKER_R: I still I still would like to and like um like all the museums there and everything. Um So that's probably my number one for europe, but
+SPEAKER_L: but
+SPEAKER_R: honestly like pretty much anywhere I really would go, pretty much any.
+SPEAKER_L: yeah, I get that. I'm pretty much the same way I'd say next on my list is probably somewhere pacific northwest like Seattle or Portland or something, but you know, holding up a minute because covid civil unrest, once all that passes and which I guess is technically pacific southwest to you know our Canadian friends. But yeah,
+SPEAKER_R: Um Mhm.
+SPEAKER_L: yeah,
+SPEAKER_R: Do you have any pets?
+SPEAKER_L: I have three. I have uh well they're all dogs um one's an american bulldog basset mix and once uh not exactly sure what she is, she has some sort of rhodesian ridgeback in her, so and the other one is a yorkie,
+SPEAKER_R: The hug you?
+SPEAKER_L: I love them all, but three dogs are way too many. What about you?
+SPEAKER_R: I have two caps. Yeah. I um the I mean they're cats. What one wants a black cat? Ones in black and white cat? Um But uh But yeah I like dogs too. Like um when I was growing up we had like both like we had a dog and a cat and so I don't really consider myself like a cat person. Like I like both.
+SPEAKER_L: Yeah. Yeah. I mean caterpillar, I'm indifferent about them. I'm definitely, you know, a dog person, I don't pay cats or anything. So you know me and cats are cool I guess. Well
+SPEAKER_R: But yeah I I would definitely like I would have like in the future like I would have a dog again. I like
+SPEAKER_L: keeping
+SPEAKER_R: I like
+SPEAKER_L: up.
+SPEAKER_R: small dogs though. Probably like your yorkie.
+SPEAKER_L: Oh yeah, yeah my wife likes to you know small dogs. The yorkie was the reason we ended up with three dogs as one was hers and to our mind before we got married and then the brady bunch of animals now I guess. But yeah, we decided that we're always going to have one big dog and one small dog that no more of this three dogs nonsense. It's right. Mhm,
+SPEAKER_R: Yeah.
+SPEAKER_L: mm.
+SPEAKER_R: Yeah dogs are nice. Yeah.
+SPEAKER_L: yeah.
+SPEAKER_R: Um
+SPEAKER_L: Okay. Okay.
+SPEAKER_R: So what kind of stuff are you interested in? Like tv movies? Video games. Yeah.
+SPEAKER_L: Um We actually, well I actually have two kids now. We, I just got home from the hospital yesterday with
+SPEAKER_R: Uh huh. Oh my gosh, congratulations.
+SPEAKER_L: thank you, thank you. So I don't really get to watch much other than, you know, toy store and stuff anymore. It seems like it's kind of regressed because he was really in our oldest was really into Toy Story and Monsters inc which I like Toy Story and monsters inc I mean not after 38 times, but now it's just like some weird kids show with cars on amazon prime that you know, it is what it is anyway, that being said, don't really get much time to watch the movies and stuff I want to anymore, but I did watch joker the other night. I really like
+SPEAKER_R: mm. Yeah that was a good one.
+SPEAKER_L: Mhm. What about you? What uh what are your hobbies
+SPEAKER_R: Um Okay well I like to paint, I really like
+SPEAKER_L: I think?
+SPEAKER_R: I like movies I like in the before times. I was always like I would see like a movie a week at the theater and I would like see movies opening week and everything. Um I'm so like movies love them. Uh
+SPEAKER_L: Mhm.
+SPEAKER_R: And I mean what else do I do?
+SPEAKER_L: Have
+SPEAKER_R: I I mean I'm I write I'm like an aspiring writer always firing. Uh
+SPEAKER_L: Uh huh.
+SPEAKER_R: So that's fun. I mostly write like like fantasy type stuff. Uh
+SPEAKER_L: are we talking like Lord of the Ring Dragons and all that fantasy or like,
+SPEAKER_R: More like um I do stuff
+SPEAKER_L: so
+SPEAKER_R: like set
+SPEAKER_L: that
+SPEAKER_R: in like modern times, more like urban fantasy stuff. Like if you ever um like the dressed in files kind of you ever heard of that? That's a
+SPEAKER_L: never heard of him though? Oh
+SPEAKER_R: But yeah more like stuff set in like modern day in lake cities and stuff but with like monsters and magic and stuff.
+SPEAKER_L: that's pretty cool.
+SPEAKER_R: Yeah. You know, I'd eventually like to uh finished a novel
+SPEAKER_L: but
+SPEAKER_R: and like maybe get published. But
+SPEAKER_L: he beat Oh
+SPEAKER_R: I haven't done that yet. I have finished anything to like the level of but hey, maybe maybe someday I just got to keep working on it.
+SPEAKER_L: Yeah, I mean, you know, I guess practice makes perfect and I'm sure tons of rejection is involved in trying to get so tenacity or something. I don't know. That's, that's my motivational speech I guess. So.
+SPEAKER_R: Well. Thank you.
+SPEAKER_L: I'm never really was much of a reader until a few years ago, my New Year's Resolution said I was going to read 10 books. This was last year. Yeah, I surpassed that by two books. So most of what I read, like I really like john Steinbeck I discovered, but most of what I read like nonfiction stuff like horrible stuff and all that good stuff, so Mhm. So do you read much?
+SPEAKER_R: I do I haven't been weirdly, you'd think I have all this time to read now, but for some reason I just haven't had the attention span to read.
+SPEAKER_L: More. Mm hmm.
+SPEAKER_R: I do
+SPEAKER_L: No.
+SPEAKER_R: read I also read a lot of fantasy, but I'm
+SPEAKER_L: I mean
+SPEAKER_R: with what
+SPEAKER_L: what?
+SPEAKER_R: I read, I read all sorts like you know more Lord of the Rings type stuff and more of like the stuff like I write. And I
+SPEAKER_L: All
+SPEAKER_R: also I read like a little bit of nonfiction. I I like um with nonfiction I'm more like like books
+SPEAKER_L: What?
+SPEAKER_R: that are like collections of like essays or like collections of, because if it's one really long burke nonfiction book on one topic, I can't it doesn't hold my interest long enough, but if it has like different stuff in it that I can read. Um But yeah, I don't know, I want to start reading more again for some reason you think it's like all the time in the world you think I'd be reading more, but Mhm.
+SPEAKER_L: Mhm. Yeah. There's always something to take up your time I guess. I actually, I haven't, I haven't been reading much here lately. Like I'm grad school. I just finished like my uh nine out of 10 classes. It's a team class program. I just finished my class. That class started like there was so much reading involved. I was just, you know, I don't know, too burned out on it to pick up. Last book I finished was Frankenstein Actually, I uh figured, you know, kind of a sci fi nerds. So the original sci fi book started off kind of slow, but I really ended up liking it.
+SPEAKER_R: You know that is that is the one that I would like to read and it's also just kind of funny to me because the last book I finished was actually dracula
+SPEAKER_L: Oh, that's
+SPEAKER_R: so
+SPEAKER_L: why I'm the artist.
+SPEAKER_R: kind of in the same in the same vein. Um Yeah,
+SPEAKER_L: Yeah.
+SPEAKER_R: I I enjoyed it, it was like um dracula was like kind of like different than I expected a little bit, but
+SPEAKER_L: I
+SPEAKER_R: it was
+SPEAKER_L: would take the same about frank and son. Yeah.
+SPEAKER_R: but but it was still really enjoyable and also really enjoyable like having like because I watch a lot of like horror movies and I've watched a whole lot of different like adaptations of dracula. So it was like kind of interesting finally reading like the original source material.
+SPEAKER_L: Yeah. So what's your favorite quarter movie? Mm
+SPEAKER_R: I'm into like eighties horror movies mostly. Uh I feel like uh okay, hard to pick just one. Uh but like Hell raiser, The Lost Boys and Bright Night, the original 85 version, not the remake
+SPEAKER_L: I've never actually heard of Bright Night.
+SPEAKER_R: fright Night.
+SPEAKER_L: Right night. Okay. I've heard of it but never seen
+SPEAKER_R: It's a it's a it's a vampire movie,
+SPEAKER_L: and
+SPEAKER_R: it's a
+SPEAKER_L: we
+SPEAKER_R: vampire
+SPEAKER_L: have,
+SPEAKER_R: movie and it's kind of kind of goofy in some ways, but I really like it.
+SPEAKER_L: Really like Lost Boys? I've never actually like Hell raiser. I've seen bits and pieces of never actually sat down and watched from the Hellraiser movies, but I've definitely like flipped on it on tv and cut pieces of it,
+SPEAKER_R: I
+SPEAKER_L: so
+SPEAKER_R: definitely with Hellraiser um I think the first two of them are on like an entirely different level than the rest of them. So definitely like if you wanted to
+SPEAKER_L: What,
+SPEAKER_R: sit down and watch a Hellraiser movie, watch like
+SPEAKER_L: What?
+SPEAKER_R: watch the first one because after the second one, I think like the quality just like drops uh
+SPEAKER_L: so if I guess if I had to pick a horror franchise that's, you know, like my favorite as campy as they are the friday the 13th and uh as far as movie quality goes, I would probably say the first ones that you know better as far as plot goes. But I gotta say is they go on to me it gets better just because they get like so over the top and can't being ridiculous.
+SPEAKER_R: Yeah, I mean like, you know like Jason's in like space during one of
+SPEAKER_L: yeah, you know that we're actually supposed to do, I don't know whatever happened to this, but they were supposed to be sequel to that one. Uh it was a sequel to that one and Freddie versus Jason, Jason, I guess kind of a mash up where Freddy and Jason are in space on that space station and uh Ash from the Evil that is there,
+SPEAKER_R: wow, that'd be cool.
+SPEAKER_L: That would have been awesome.
+SPEAKER_R: Yeah, it really would have. Oh my gosh, I am. Yeah,
+SPEAKER_L: like
+SPEAKER_R: no, I definitely, I mean Evil Dad, I love Evil Dad too. So that's really good.
+SPEAKER_L: I like the original series because you know, you can't go wrong with Bruce Campbell um actually went and saw the remake in the theaters and I just needed like some eye bleach after that one. That was, that was exhausting. That was rough,
+SPEAKER_R: Mm Oh my gosh.
+SPEAKER_L: don't get me wrong, but it was, I just felt impure after watching that and it was the trip.
+SPEAKER_R: Oh man. Yeah, that one was, I honestly remember very little from the remake, but I think that's good. I think it's good that I remember very little of like, I definitely saw it, but I'm like but yeah,
+SPEAKER_L: Sorry,
+SPEAKER_R: I am.
+SPEAKER_L: go on.
+SPEAKER_R: Oh, I was just gonna say that actually one of my like hobbies and the before times was uh I would go to like these horror conventions. So like, you know if you like a comic con but for for horror movies and so like those are always really fun. And there's always like, you know like actors and stuff
+SPEAKER_L: Not
+SPEAKER_R: from the movies. It's always just kind of cool to like I don't just hear what because they do like Q. And A's and stuff and just hear what they have to say because they had like a couple different guys that played Jason at those shows. So it's cool to just like hear them talk about like the stunts and stuff that
+SPEAKER_L: You
+SPEAKER_R: they did.
+SPEAKER_L: mean, um, he said something that reminded me of something, oh yeah, they actually had our local convention center, uh, this was a few weeks ago, they had a night with Bruce Campbell, like uh, evil dad and then day afterwards I didn't go to it because, you know, Covid times and all, but I wish I would have been able to that would have been really cool. Okay.
+SPEAKER_R: would have been cool. I never actually met him. I was like I was at an event that he like EMC at one of the at one of the conventions that he I've always thought he would be really cool to like me.
+SPEAKER_L: Yeah, he seems like a very down to earth person. I'm sorry. You, one of these that like every Oscar season, you know, has to watch, you know, all the nominees and stuff or.
+SPEAKER_R: You know what? Not really? Um Because I am more into like genre stuff. I mean I I do. Yeah. No, I I've never I've never been one of those
+SPEAKER_L: All
+SPEAKER_R: I know people that are, but for me because compared to that like most of the movies I like or trash compared to the
+SPEAKER_L: mm. I in my opinion, which I don't really watch especially anymore. Don't really watch too many new movies, but most of the, you know like Best Picture Winners and like Oscar winners and stuff are way overrated. Yeah, but I know I'm no movie critics of who am I to say? I did watch parasite not too long ago and I ended up really liking that one.
+SPEAKER_R: I still haven't seen it, I've been meaning to watch it and I still haven't. So it was good.
+SPEAKER_L: Mhm. Yeah, I really liked it. It was on one of my streaming services on this amazon prime, but it may have been
+SPEAKER_R: What? I think I might have seen it on prime, but I'm not sure. I'd have to double check.
+SPEAKER_L: yeah, I watched I didn't watch uh another reason I watched this was on an airplane, but I forget what year this was I guess it was about six years ago or so when Birdman was all the hype. I'll give it a try. I just I mean it wasn't a bad movie, but I just don't see what was so special about it,
+SPEAKER_R: Yeah, I did I did watch Birdman and I remember being a little disappointed. Like I kind of thought it was born
+SPEAKER_L: what? Yeah, it was like it was like I don't know and if you really like this movie, I mean no offense, but like Fight club, like I don't know, everybody acts just like the deepest thing. You know if you don't like it, it's just because you don't understand it. No, it was just an okay movie that's kind of how I felt about Birdman, so
+SPEAKER_R: Oh man, I like I like I like to fight club a lot when I was a teenager but uh I don't know anymore, you know what I mean?
+SPEAKER_L: Mhm. There are a bunch of movies that I liked when I was a teenager that I kind of want to go back and watch, but at the same time I don't really want to run those good memories because I kind of doubt they hold up. I probably just like them because you know, I thought they were cool and edgy and stuff like the two the two uh they're sticking out from er butterfly effect and Donnie Darko. But uh I may just preserve those memories.
+SPEAKER_R: Yeah, I will say that when you were like a movie I liked as a teenager and but I might have just thought it was cool and edgy. The first movie that came into my brain was Donnie dark. It's so uh yeah. Yeah. I don't know. I don't know. Sometimes I do think it's good to like I I very much I re watch movies all the time, but sometimes I don't know. Sometimes sometimes you just want to keep those memories intact.
+SPEAKER_L: Yeah, So if you had to pick one, what's your favorite movie?
+SPEAKER_R: Uh huh. That's really hard. That's a really hard question.
+SPEAKER_L: Totally understand? Mm.
+SPEAKER_R: And my answer to that question,
+SPEAKER_L: What?
+SPEAKER_R: which might not 100% be true. But usually when people ask, what's your favorite movie, I say pacific rim the movie with the giant aliens in the giant robots.
+SPEAKER_L: You know, never seen that one.
+SPEAKER_R: I like it. I'm a big fan of Guillermo Del Toro, who is the director. He also did like Hellboy and Pan's Labyrinth and the shape of water.
+SPEAKER_L: I'd love to Oh boy, by the way, But
+SPEAKER_R: Oh my gosh, I love Hellboy. Hellboy is like one of my favorites things ever. I could go on about Hellboy but that I oh my gosh!
+SPEAKER_L: No.
+SPEAKER_R: Love Hellboy Love. I've met Ron Perlman. It was like
+SPEAKER_L: What?
+SPEAKER_R: the one of the best moments
+SPEAKER_L: What?
+SPEAKER_R: of my life but specific room uh it
+SPEAKER_L: Yeah.
+SPEAKER_R: it's directed by Guillermo Del Toro. Um It
+SPEAKER_L: No,
+SPEAKER_R: has
+SPEAKER_L: no.
+SPEAKER_R: a really good cast. I
+SPEAKER_L: And
+SPEAKER_R: think the characters are really interesting. The monster designs and the robot designs are really cool and it has a really good soundtrack. So natural recommendation for pacific rim. What's your
+SPEAKER_L: what
+SPEAKER_R: favorite movie?
+SPEAKER_L: same predicament you're in? Um I my default answer is usually gladiator or airplane completely the movies, but
+SPEAKER_R: Oh my gosh, airplane. I love you.
+SPEAKER_L: mm hmm. Rocky is up there believe it or not, we got super cheesy, but one of my favorite movies, Rocky Four specifically, but I like all of them.
+SPEAKER_R: When when you were in philadelphia, did you go to the steps of the art museum?
+SPEAKER_L: I actually almost put on my shirt this morning I bought from it from vendor just outside the steps, so. Mhm. But anyway, um it has actually been 30 minutes so I could probably stay here all day and talk about movies. I do have a three day old baby to tend to. Oh,
+SPEAKER_R: that's much more important. All right.
+SPEAKER_L: really, enjoyed the conversation, so
+SPEAKER_R: Yeah, me too.
+SPEAKER_L: um yeah, I'll watch pacific rim some time and think of you and be looking for your novel.
+SPEAKER_R: All right. Thanks.
+SPEAKER_L: All right, we'll talk to you later.

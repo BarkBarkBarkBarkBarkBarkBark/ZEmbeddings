@@ -1,0 +1,693 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hey, can you hear me?
+SPEAKER_R: Yes, here, sorry,
+SPEAKER_L: No worries. How's your day going so far?
+SPEAKER_R: it's going bad, can't complain. How about yours?
+SPEAKER_L: Not too bad. I've taken it pretty easy. Do you have the day off?
+SPEAKER_R: Um So I work at home, so it's kind of on my own time sort of thing. How about
+SPEAKER_L: I'm working,
+SPEAKER_R: you?
+SPEAKER_L: I'm working from home right now too, but it's like full time like call center work. So
+SPEAKER_R: Check out
+SPEAKER_L: like
+SPEAKER_R: there.
+SPEAKER_L: um and yeah, I've got today off for the Indigenous Peoples Day. Yeah, so I'm just taking it easy. Uh I woke up kind of late. Um really all I have to do today is clean my apartment a little bit. Yeah.
+SPEAKER_R: days are always really nice.
+SPEAKER_L: Yes, it's like you get enough done that you feel accomplished, but mostly you can kind of relax.
+SPEAKER_R: Well exactly, exactly.
+SPEAKER_L: Yeah. Give any plans for the day.
+SPEAKER_R: Um plans for the day. Um I like to do this kind
+SPEAKER_L: I
+SPEAKER_R: of
+SPEAKER_L: do,
+SPEAKER_R: stuff like prolific kind of related stuff or other websites to like um amazon mturk and um these are testing and some other stuff like that, so I'll probably be doing a bunch of that today, so
+SPEAKER_L: Oh, nice. So you do like a whole slew of like make money online, type stuff? Yeah,
+SPEAKER_R: Okay.
+SPEAKER_L: I went on a bench, like that's how I ended up on prolific. I kind of went on a similar like looking at how to do that a few months ago and I ended up kind of getting burned out on all the rest of the survey sites personally. Um But yeah, I set up an M took account but I haven't used it. Do you like that at all?
+SPEAKER_R: Um so lately the last few weeks have been a bit slow, but I know like a few weeks ago there was, it was pretty fun, like there was an interesting variety of things to do. One moment I'm writing songs on like, you know, if um if I think it's a good song if they're going to do well,
+SPEAKER_L: reading
+SPEAKER_R: another moment.
+SPEAKER_L: it. I think you could writing and I was like,
+SPEAKER_R: Oh no, no, I'm not writing now. We're reading, reading somebody's song that they that they wrote or composed
+SPEAKER_L: jesus.
+SPEAKER_R: and then another moment I am like I'm learning about the stock market and I'm running I'm doing a um like a faux um stock experience and then I'm getting whatever money I make at the end, they translated into a bonus, so
+SPEAKER_L: Okay. I got here
+SPEAKER_R: just kind of like fun stuff like that. And then like another moment I'm getting paid to go over actual actual jury cases, jury duty, so it's really interesting. It's really
+SPEAKER_L: wait,
+SPEAKER_R: interesting.
+SPEAKER_L: you can do that too mturk as well.
+SPEAKER_R: They offer that sometimes. Yeah.
+SPEAKER_L: Okay, cool. Because that was something I ran into like a few sites then I sort of set myself up on like with mock jury stuff because I looked kind of interesting, you know, at least you're kind of helping somebody because they get something out of it too. Right? Um Yeah, you can, there's dedicated sites for that kind of stuff for fake jury. Um
+SPEAKER_R: I didn't know that.
+SPEAKER_L: Yeah, there's a few, I think the ones I ran into our the jury on like verdict dot com and jury test networks, The three of my bookmarks right now. Okay.
+SPEAKER_R: that's pretty cool.
+SPEAKER_L: Yeah, so they'll actually just pay you like um I don't know if it's like really good per hour or what, but at least it's interesting. Right? Um
+SPEAKER_R: Yeah. What, what do you
+SPEAKER_L: appreciate
+SPEAKER_R: say they were filled
+SPEAKER_L: it.
+SPEAKER_R: again? Any jury and then what else?
+SPEAKER_L: The jury online verdict. Uh huh.
+SPEAKER_R: Um let me just get that in really quick
+SPEAKER_L: Problem. And then there's
+SPEAKER_R: moment.
+SPEAKER_L: like a jury test dot net, which I think might be like a sort of job board type deal. Yeah, that's cool. Maybe I need to put more time into uh I'm Turkey because I mean I like I did all the effort of signing up and then I kind of didn't hear anything from them for like a month. Yeah, they were like, okay, thanks for reaching out. And then a month later I just got a message like, okay, you've been accepted. So
+SPEAKER_R: Oh right. Some years.
+SPEAKER_L: Yeah, and I've heard various things from people, Some people like, yeah, they'll just ignore you for a while. Some people say they hear in like three days.
+SPEAKER_R: Oh I heard like right away like I think within the next day, so that's to me, that's just bizarre.
+SPEAKER_L: Yeah, they kind of just let me hang. And so by the time the email came through my momentum, I kind of uh like I said, I've kind of gotten just into my group of just doing prolific and like it's politics been well worth my time. Um
+SPEAKER_R: uh no prolific been pretty good. I also like user testing a lot. Have you heard of that one?
+SPEAKER_L: Yeah, I've, so that's like the, you're like doing the user interfaces right
+SPEAKER_R: That's the one where, yeah, you're, you're, you're revealing
+SPEAKER_L: chesting
+SPEAKER_R: your review. Yes.
+SPEAKER_L: out websites and stuff right? Yeah, that's when I ran across and haven't also bothered to ah take the time well. So for me, I'm working full time. So it's like all
+SPEAKER_R: Well that
+SPEAKER_L: of this
+SPEAKER_R: makes
+SPEAKER_L: stuff
+SPEAKER_R: sense.
+SPEAKER_L: is like, yeah, it's sort of side side stuff or like I was kind of looking into ways I could um prolific works for because I can do prolific while I'm taking phone calls on the parts of the calls that are like pretty mindless and I do 100 times a day.
+SPEAKER_R: hmm.
+SPEAKER_L: And so I can be kind of like half as doing surveys about half past, but like, you know, like doubling back and forth and I just make a couple extra bucks on top of my work, you know? So
+SPEAKER_R: Truck is very much the same way. I think you would like that site. Yeah,
+SPEAKER_L: that's I think part of what appealed about it was like that and uh we heard of click workers,
+SPEAKER_R: click workers. No, I haven't.
+SPEAKER_L: it's a similar idea that I haven't bothered again take a lot of time in doing. But the thing is that they send your similar like um rate these two or someone even like are these two pictures, different pictures and you just have to say yes or no, like some of it I think is just training bots and stuff like that.
+SPEAKER_R: Yeah. Yeah, that's what Mturk does some of that too, So
+SPEAKER_L: Yeah. And then um happen might be something to work. Look uh look into as well. It's like similar types of remote jobs and like tasks, but again, I've just kind of slacked on it because I don't know, I got a lot going on, you know?
+SPEAKER_R: only a full time job definitely will do that.
+SPEAKER_L: yeah, for sure. But it's been nice uh ever since they shifted. Yeah, like the Covid that that kind of just forced the issue for them to get a set up with tele work, but it's a job that's like perfectly suited to tell where it's like call center work, right? So I'm on a computer, I'm on the phone anyway, so like I might as well be comfortable and at home so you know, um Yeah, it's been nice. I just, I don't have to commute, but the rest of my job is practically the same. It's
+SPEAKER_R: I
+SPEAKER_L: like a the
+SPEAKER_R: Not
+SPEAKER_L: goods
+SPEAKER_R: having the
+SPEAKER_L: chip.
+SPEAKER_R: working commuting is like the best ever. Especially like I live a little bit out in the boonies. So usually a drive to somewhere for work would be like 25 minutes half an hour at the very least so.
+SPEAKER_L: Gotcha. Yeah, I'm in like a pretty urban area I'm in. I live in Portland um in like northwest neighborhood, so it's like pretty, it's a lot of bars and stuff going on, but it's not like the downtown downtown with lake the skyscrapers, which is where I work. So I'm definitely considered living downtown. It's very like I live above a bar right? Like it is very like kind of busy and like not really residential, but it's not like I said, skyscrapers. Um
+SPEAKER_R: Nothing.
+SPEAKER_L: And so my yeah, current job or like most of downtown I can get to and like, you know, it's not too bad. It's like 15 2025 minutes on a bus. But it adds up with like walking to the bus, waiting for the bus, getting on the bus, going in, walking to the bus stop on the other end, which is a little bit farther and walk. You know, it all adds up and it's an hour plus on your day that you don't get paid for. It really is. And I've heard of people doing like, like I have a friend who went to UBC and he'd commute like an hour or two on the train every day to go to school, which is a little different because you're not like getting somewhere and working for eight hours right? You're going to some classes and studying and stuff and you can study on the train but still like I couldn't fact,
+SPEAKER_R: Oh no, it's,
+SPEAKER_L: no, I
+SPEAKER_R: I
+SPEAKER_L: couldn't do
+SPEAKER_R: would
+SPEAKER_L: that.
+SPEAKER_R: get car sick up girl.
+SPEAKER_L: Yeah. Yeah. And I like trains better than buses and I like buses better than driving but still, yeah, it's definitely nice.
+SPEAKER_R: so
+SPEAKER_L: No.
+SPEAKER_R: how, how have you been experiencing the wildfires? I'm from Washington by the way, so
+SPEAKER_L: Okay. Um Yeah, here they were bad until a few weeks ago. It was like just two weeks of of ah Smoky Hill at least
+SPEAKER_R: yeah, Oh my goodness, it was just like gray outside.
+SPEAKER_L: because
+SPEAKER_R: It
+SPEAKER_L: we
+SPEAKER_R: was
+SPEAKER_L: didn't get hit by any actual, well there were fires like in Clackamas and then there was a fire out on Mount Hood etcetera. So
+SPEAKER_R: you.
+SPEAKER_L: there was plenty of smoke but in terms of like I didn't have any evacuation concerns anything because we're so in the city. Right. Um
+SPEAKER_R: that's good.
+SPEAKER_L: Did you have to worry about anything like that?
+SPEAKER_R: Um they started evacuating part of our city, so I was like
+SPEAKER_L: it's very stuff. Yeah, I was really thankful. At least I don't have to deal with that part. But but yeah, lots of smoke. I think what happened was the link, you know westward smoke comes off the mountains, whatever carries it. And then the smoke coming in, the winds coming in from the ocean. Kind of trap it, right? And so yeah, it was just about two weeks of length, bad air like sitting inside and using filters and stuff.
+SPEAKER_R: Oh for real, for real because otherwise the smoke would just seep into our house, it was just, it was crazy.
+SPEAKER_L: Yeah, it was gross. You're like walking around outside and it smells like a campfire or bonfire. My worry is like we
+SPEAKER_R: get
+SPEAKER_L: don't even know how bad it was for our lungs you know? Who knows? Maybe in 2030 years it's gonna be a spat of like higher cancer rates and stuff and the people that. Yeah,
+SPEAKER_R: I
+SPEAKER_L: I mean it's.
+SPEAKER_R: know, I was like really just keeping the homeless people in my prayers. I was like, oh my goodness, like I
+SPEAKER_L: What
+SPEAKER_R: can
+SPEAKER_L: do you
+SPEAKER_R: only
+SPEAKER_L: do?
+SPEAKER_R: imagine what they had to go through during the few weeks.
+SPEAKER_L: Especially because all your stuff is now covered in so.
+SPEAKER_R: Oh, for real, for real. My, my, even just the side
+SPEAKER_L: foot
+SPEAKER_R: of my
+SPEAKER_L: management.
+SPEAKER_R: window was covered in ashes and it's just, it was horrible.
+SPEAKER_L: Yeah. We got a little lucky on that. I didn't notice a ton of uh of actual residue or in stuff but yeah. That's really ugly.
+SPEAKER_R: Yeah, we have we have to go through and wash all our clothes because it just, it smelt like we were at a campfire, we're just inside the house all day so.
+SPEAKER_L: that's awful. Yeah we we just we just shut our windows on our little apartment and like dealt with being really stuff getting kind of hot for a few weeks because it was either that or like have airflow but like taste the smoke
+SPEAKER_R: Yeah. Yeah. I know. It was
+SPEAKER_L: no fun. Um Yeah it's definitely scary stuff and I don't know it feels like it's only gonna get worse next year and like well this year
+SPEAKER_R: though.
+SPEAKER_L: kind of felt that came out of nowhere because you always expected to happen in California and there's always some wildfires right? But this was just like I mean it's
+SPEAKER_R: It's
+SPEAKER_L: always kind
+SPEAKER_R: hard.
+SPEAKER_L: of luck of the draw too right. Right Like there's the there's the conditions themselves like okay it's really dry right now it's easy for a fire to start but if you're lucky and nobody is an idiot then like honestly. Right
+SPEAKER_R: Well and I think, I think from what I heard in the news, one of the fires that started in California was due to a gender reveal party. It was like, are you kidding me? Like
+SPEAKER_L: like really?
+SPEAKER_R: Exactly like like my my sister, she just had she had her baby back in um she just had her her baby in february january, not february,
+SPEAKER_L: I've been
+SPEAKER_R: january
+SPEAKER_L: waiting.
+SPEAKER_R: but uh but for her gender reveal party, she just had cupcakes and they had the color inside so I was like
+SPEAKER_L: How
+SPEAKER_R: you
+SPEAKER_L: hard
+SPEAKER_R: don't
+SPEAKER_L: is that?
+SPEAKER_R: have to go
+SPEAKER_L: You
+SPEAKER_R: do
+SPEAKER_L: don't
+SPEAKER_R: huge things.
+SPEAKER_L: fireworks like. Yeah I didn't it must have been an actual like pyrotechnics display or something right? Like
+SPEAKER_R: it was
+SPEAKER_L: who
+SPEAKER_R: something
+SPEAKER_L: knows
+SPEAKER_R: like that or a smoke bomb that just went wrong.
+SPEAKER_L: which like they would kind of want to do right like fireworks.
+SPEAKER_R: Yeah, I really think so.
+SPEAKER_L: Yeah I mean if, you know any year docs or anything like they all have a million horror stories for fourth of july and stuff. Explosives are dangerous surprise, surprise, right? Yeah.
+SPEAKER_R: Yeah. Even if they are just a smoke bomb they can still be citrus
+SPEAKER_L: Yeah. Especially in like if they mishandled or or like something goes wrong with the the thing itself. Yeah, I mean it's just like it's just you should be aware of where you live and the fact that it's really dry and there's a lot of like literal tinder sitting on the ground. Maybe you shouldn't be setting off fireworks, wow. So yeah, it's hard to say what to do about that. Exactly, but it
+SPEAKER_R: just have
+SPEAKER_L: does
+SPEAKER_R: emergency
+SPEAKER_L: feel.
+SPEAKER_R: stuff packed up in case anything gets worse.
+SPEAKER_L: Yeah, what is that? Um Yeah, I'm just hoping maybe next year it will be a so lucky. You know, there's a few months of like of course it's gonna be dry, right? It's no way of getting around that. It's been harder every year, but hopefully it's like maybe some people in their lesson or something, I'm not too optimistic, but
+SPEAKER_R: I mean
+SPEAKER_L: you know,
+SPEAKER_R: it's
+SPEAKER_L: you
+SPEAKER_R: like
+SPEAKER_L: keep
+SPEAKER_R: an ideal
+SPEAKER_L: fingers crossed
+SPEAKER_R: world people would be more careful. But
+SPEAKER_L: and hopefully we're out of the worst of it this year. I think it seems like we are.
+SPEAKER_R: I think so too. I
+SPEAKER_L: not
+SPEAKER_R: feel
+SPEAKER_L: gonna
+SPEAKER_R: like,
+SPEAKER_L: win.
+SPEAKER_R: I feel like it's still important to prepare though because a part of me also feels like things might just get words everything
+SPEAKER_L: that's impossible.
+SPEAKER_R: that's been going on this year in general and so crazy.
+SPEAKER_L: Yeah, that's true. It sort of felt like a got a tv show or something
+SPEAKER_R: Oh I know right
+SPEAKER_L: sort of
+SPEAKER_R: and
+SPEAKER_L: surreal. Uh huh.
+SPEAKER_R: Somebody somebody put it really well there like it's almost like a little kid telling a telling, trying
+SPEAKER_L: like
+SPEAKER_R: to come up with a horror story or
+SPEAKER_L: make
+SPEAKER_R: talking
+SPEAKER_L: it,
+SPEAKER_R: about their past day you know like and then all the toilet paper ran out and then there was all these murdered murder abuse. Everybody
+SPEAKER_L: Yeah, it's a post like
+SPEAKER_R: got
+SPEAKER_L: that was like
+SPEAKER_R: and scared
+SPEAKER_L: whoever
+SPEAKER_R: of dying
+SPEAKER_L: is writing this plot line for this year is messy, like
+SPEAKER_R: so
+SPEAKER_L: why they introduce
+SPEAKER_R: much.
+SPEAKER_L: Hornsby's and do nothing with them. Link
+SPEAKER_R: Wait
+SPEAKER_L: murder hornets.
+SPEAKER_R: ain't alright in World War Three rumors of World War Three and just the elections coming up. Oh my goodness. Did you watch the presidential debate? That was was the set?
+SPEAKER_L: I'm s yeah,
+SPEAKER_R: I
+SPEAKER_L: come
+SPEAKER_R: was so
+SPEAKER_L: on geriatric
+SPEAKER_R: shocked.
+SPEAKER_L: old man. Yeah.
+SPEAKER_R: Oh my goodness. Yeah. No I was just like you're making me lose faith in this country.
+SPEAKER_L: Yeah, it's a mixed bag of like I try and keep my optimism because I know I know your average person is well intentioned and and good, you know, I mean your average american is nice, friendly and like cares for other people, right? Like you pick someone in the crowd, they're probably going to be, you know, carrying an empathetic all right, like um but that doesn't necessarily Yeah, the issue is is that those those
+SPEAKER_R: the
+SPEAKER_L: people
+SPEAKER_R: ones
+SPEAKER_L: aren't
+SPEAKER_R: that are
+SPEAKER_L: represented
+SPEAKER_R: the loudest.
+SPEAKER_L: in our government. Yeah,
+SPEAKER_R: Yeah. The ones that have a louder voice are the ones that are crazy
+SPEAKER_L: yeah, the yeah, the extremely loud minority that like to call themselves the silent majority, which is like a wonderful a little
+SPEAKER_R: paint
+SPEAKER_L: bit
+SPEAKER_R: us.
+SPEAKER_L: of hypocrisy, but
+SPEAKER_R: I know.
+SPEAKER_L: it's it's just the whole platform is built on projection. It's like essentially anything they say, they're probably doing themselves. Um
+SPEAKER_R: hmm.
+SPEAKER_L: But I think the larger underlying issues aren't really um it's not really with like the people of the voters, it's with uh the government and more importantly the big money interests that inform that government's actions and inform our media outlets, actions, interpretations of things etcetera etcetera. It's all about like big international corporations that have more influence and power than our countries actually do at this point. You know I mean like like like if you really look at the situation that's what's going on is like the the state like the nation's day, right? Like uh usa or whatever they all right trump trump is a perfect example of this. He's trying to push back against it by doing like tariffs and stuff and being like, oh we're all about make like make it in America and stuff. But in the current international like like economy, all you do is is scare companies away because they
+SPEAKER_R: though?
+SPEAKER_L: can afford to move but the workers can't. Right? And so the factory leaves and then now you've just completely screwed some small town that like everybody works at the factory, right? So it's yeah, the reality is just that money is the is the problem. It's the it's that the people who, quote unquote, represent us within a representative democracy, don't actually represent the populations. If you just look at the demographics, it's all off like demographics of the Senate or the house versus
+SPEAKER_R: though?
+SPEAKER_L: like the actual country, it's like age wise, race wise, gender wise, they don't match up.
+SPEAKER_R: Well yeah
+SPEAKER_L: They just don't
+SPEAKER_R: it makes you wonder like how many people are actually voting for the smaller stuff to um for example
+SPEAKER_L: not a lot.
+SPEAKER_R: like who's voting for the state governor. You know if you take a look at the population yeah you might have more people voting for president, but if nobody's really voting for the governor's, they have a good, you know, they have a louder voice when it comes to choosing the president, so.
+SPEAKER_L: Yeah, not even governors, you talk about mayors and councils, like city council people and those are the people that write the police budgets. Those are the people that choose how much money goes to infrastructure within like, local politics is incredibly important. And they've they've got everybody fixated around this idea that as long as you vote every four years, you're you're, you know, you're doing your part and like, you'll be, your voice will be heard and it's so clear that that's
+SPEAKER_R: No,
+SPEAKER_L: not the case, right?
+SPEAKER_R: no, definitely not,
+SPEAKER_L: So
+SPEAKER_R: definitely not.
+SPEAKER_L: yeah, it's like, it's all a voting down ballot getting involved locally where you can, and like direct action, protest, etcetera. Um Yeah, you're absolutely right. I think a lot of people ignore. There's other elections too. It's not like this only the general election, right? Like, or even, or even not only the midterms, like in 2018, those elections every year for like, local stuff. And in fact, our voter participation for even the general election is pretty abysmal. It's like didn't like 60% or less,
+SPEAKER_R: or something like that. Yeah.
+SPEAKER_L: there's a large chunk of this nation that literally just says, oh, I don't do politics, sorry,
+SPEAKER_R: Well even even people that were registered to vote but didn't vote,
+SPEAKER_L: and they
+SPEAKER_R: there
+SPEAKER_L: just
+SPEAKER_R: was
+SPEAKER_L: don't bother.
+SPEAKER_R: huge subject. Yeah.
+SPEAKER_L: Yeah, which is just like, well, again,
+SPEAKER_R: Well,
+SPEAKER_L: part of that is like, there's a lot of voter disenfranchisement. There's a lot of people who very purposefully, their their polls have been shut down and there where they get removed from the voter registration, like crazy stuff like that happens in this country. Um or they just get targeted by ads. There was a whole thing about the trump campaign. Um and of course is one of those things that would be like absolutely groundbreaking for any other administration, but it kind of just was one more thing on the long list of, but essentially they targeted a bunch of facebook ads very clearly intended towards, I don't know how they do this exactly what we like phone lists or phone book somehow, but effectively they targeted black voters in Southern states with like, there's no point avoiding, you shouldn't bother to vote, don't vote kind of like targeted facebook ads. Yeah,
+SPEAKER_R: That's awesome.
+SPEAKER_L: yeah, like so like voter disenfranchisement and like that it's core to the Republican policy because if you actually had a majority vote, if you didn't have an electoral college, they would never get elected. If you didn't have gerrymandering, they would never get elected on a local level either. Right? Like effectively at this point they're just grasping onto power that they don't have any right to own anymore. And that's why it's getting so scary because they realize that if this country takes on any semblance of actual democracy, then they lose power and they're desperate to maintain that power because that power means that they get to keep maintain their own statue right in their own money or for trump personally. It means that he doesn't get arrested or,
+SPEAKER_R: Just kidding.
+SPEAKER_L: or worse assassinated. Like the real thing we need to worry about is he owes hundreds of millions of dollars to who knows who. And if you're smart enough to read between the lines, it's most likely that it's uh Russia Germany Turkey. Yeah. You know you name a dictatorship, you probably are money from them. Saudi Arabia. 100%. Um Yeah, which is why the whole thing with cash oggi and all that was such a mess because trump is personally involved. Like if he doesn't step in on behalf of the prince, then he as a person gets screwed and so he has to follow his own interests. And that's
+SPEAKER_R: it's just unfortunate.
+SPEAKER_L: I mean it's just obscene. Like you can't you can't get um you can't get a low level security clearance if you owe too much debt, especially to a foreign entity. So I don't understand how we like just allow people to be president without the same
+SPEAKER_R: Without the same requirements.
+SPEAKER_L: greening, right? You think like we like we absolutely sorry, there's no way around it. We need to see all of your documents, your tax documents and you need to prove that you owe money to absolutely nobody that that could influence your decision making
+SPEAKER_R: You're
+SPEAKER_L: because otherwise,
+SPEAKER_R: not going to be arrested.
+SPEAKER_L: yeah, otherwise you're otherwise you're effectively compromised, right? Like, you can be blackmailed with that debt and follow your own personal interest versus the interest of
+SPEAKER_R: The
+SPEAKER_L: nation.
+SPEAKER_R: country. Yeah.
+SPEAKER_L: And so
+SPEAKER_R: And
+SPEAKER_L: that's the real underlying issue, and the fact that they're willing to do anything to maintain their power at this point is scary.
+SPEAKER_R: it really is what surprises me is that nobody has really been um I mean, I guess, I guess it's more the media, but you would wonder why the media wouldn't either at this point um just bring up more attention to third party candidates and I like, I know a lot of people are like, oh, it's just republicans or democrats, it's going to be one way or the other, but it's like if you if you think about it, like we had a president Lincoln, you know, he was a Blinken, he was uh he was Republican, but back then that was the third party and he was voted in as a third party and that's and he actually made um republicans mainstream because it was, I forget, it was the wigs, the wig party and the confederate party, I think back then. So
+SPEAKER_L: Yeah, the republicans back then were what you might consider liberals at this point. They were those proponents of like, of, like, um yeah, because when they say republicans, they were talking about, like, pushing representative democracy versus those, because back then it was more of the monarchy versus that kind of thing, right? Yeah,
+SPEAKER_R: Yeah.
+SPEAKER_L: you're absolutely right. Um but yeah, but that doesn't reflect the current landscape, which I think is somewhat intentional, like you said with the media, because yeah, it's just not really valuable to to vote the party. It and there's so many narratives about that, it's just like that's tossing where your vote, etcetera, etcetera.
+SPEAKER_R: I think
+SPEAKER_L: And
+SPEAKER_R: if everybody focused on a really good third party candidate though, you know, I I think there would be a good shot.
+SPEAKER_L: Yeah. I mean, I mean, like, Bernie is technically an independent, right, And he uh he ran in the Democratic Party because he thought that was the best idea. And in one hand, maybe he was right, because it gave him the platform we needed and infrastructure, but underhand that is same party completely screwed him out of his nominations twice. So,
+SPEAKER_R: I
+SPEAKER_L: like,
+SPEAKER_R: know.
+SPEAKER_L: um, I mean, and again, that's that's just the power of money in politics. The fact the matter is that he noticed he knows what's going on, he's willing to take on those interests. And your average rep isn't no matter what side of the aisle there. So that's that's the real issue to this whole to party thing, is that it's kind of all a facade. Yeah. It's like they don't want you to be able to choose a third party that actually represents you a little bit better. They want to just give you an illusion of choice between years. You know? One old white guy, here's another one which one is better, it's obvious which was better, but is he a good choice? Yeah. You know?
+SPEAKER_R: Well, and then it just seems like they're getting so extreme nowadays to where it's just like complete polar opposites. Where it's like okay, you know republicans and democrats, it used to be more of a a range where you would
+SPEAKER_L: Well
+SPEAKER_R: land.
+SPEAKER_L: is that Yeah, at least on a personal level, definitely. Yeah. Um I think that's sort of just like forced the issue, like that's what people are talking when they mentioned divisiveness, is that like at this point you either are for trump or you're not if you are you you're either extremely ignorant or you are, you know, a big right, Like
+SPEAKER_R: Are
+SPEAKER_L: if we're
+SPEAKER_R: you want
+SPEAKER_L: getting
+SPEAKER_R: to
+SPEAKER_L: down
+SPEAKER_R: watch
+SPEAKER_L: to
+SPEAKER_R: the
+SPEAKER_L: it.
+SPEAKER_R: world burn?
+SPEAKER_L: Yeah, exactly. Well they really do. They get off on that
+SPEAKER_R: I
+SPEAKER_L: shit, They're like fuck everybody else I've got. Mine is really what it is.
+SPEAKER_R: For real
+SPEAKER_L: It's fucked.
+SPEAKER_R: though.
+SPEAKER_L: Yeah it's completely fucked. Um But uh But yeah I mean if we're if we're being real, if we were to revamp everything, if we were going to try and do a like to make a go at an actual representative democracy right in the right and then the theme of what the states is supposed to be right then and you'd be exactly right. We want to look more like europe, we'd have you know six parties. Er So and then I think the other thing that would be really important would be to have um like tiered balance. So you say this is my first candidate, my second, it's my third. And then what they do is they will like um then eliminate candidates based on that, it makes sense.
+SPEAKER_R: No that yeah
+SPEAKER_L: And then they give
+SPEAKER_R: that makes
+SPEAKER_L: everyone
+SPEAKER_R: sense like
+SPEAKER_L: and then they
+SPEAKER_R: like
+SPEAKER_L: give everyone
+SPEAKER_R: you're
+SPEAKER_L: another chance to vote, you know what I mean? And so that that eliminates the issue of quote, unquote wasting your vote on third parties, because if you're third party candidate doesn't get through to the next round, you can then cast your vote for the, you know what I mean? So it would be the equivalent of, like, we have an actual general election right now. Like, right now, you can still vote for a Green Party candidate, you can still vote for a, um, you know, we don't even have any other really good party country.
+SPEAKER_R: I think
+SPEAKER_L: It's kind of a
+SPEAKER_R: I think
+SPEAKER_L: bad data,
+SPEAKER_R: now then the third um the first the 1st 3rd party candidate that has the most attention right now I think is jo jorgensen.
+SPEAKER_L: Mm. Isn't
+SPEAKER_R: So
+SPEAKER_L: that Green or is that Liberty arian?
+SPEAKER_R: libertarian I think.
+SPEAKER_L: Yeah, but they just have a tendency to discredit themselves, you know what I mean? And many people not take them so seriously. Yeah. Well, I I just speak to general, I I don't know, there's been a couple of libertarian candidates that I've just had, like, gaffes and moments of, like, not that's not important, but
+SPEAKER_R: no. Well and like I know I need to do a little bit more research to on that but I I think I think she's going she's trying to go for a kind of bringing our troops back and more focused on defending the U. S. Border and then um kind of kind of in a way being more like Switzerland in that sense. Or is either Switzerland or Sweden I forget which one. But
+SPEAKER_L: Being neutral effectively. Like, you just mean, like, a shift in international policy to be more neutral,
+SPEAKER_R: Going to be more neutral. Yeah
+SPEAKER_L: well, all about that,
+SPEAKER_R: I know
+SPEAKER_L: since we are.
+SPEAKER_R: I know it's like I say it's pros I see it comes to but um and then and then I think I think um in doing that in doing that then there wouldn't be a need to build them all or whatever either you know and
+SPEAKER_L: Well,
+SPEAKER_R: just because you have more people back here but there were some other stuff too. It was kind of interesting so at least it sounded better than at least is not better than whatever it was hey?
+SPEAKER_L: yeah. You do get to a point where you're kind of willing to grasping straws out there. I
+SPEAKER_R: and it wasn't anything like extreme or or super out there so.
+SPEAKER_L: yeah, I might worry about libertarians, is that they um the, I mean, the anti state, which I'm often on board with, personally, just for context, I'm pretty far left, um and
+SPEAKER_R: No
+SPEAKER_L: uh but they're not, I don't know, they don't they're, like, perfectly happy with, like, free market economy,
+SPEAKER_R: thank you.
+SPEAKER_L: which I take issue with. Um especially like if you're going to have a free market economy and you're gonna have capitalism, um Which, you know, I'd rather we just not, but if we're gonna we need to have state regulation involved, so if you're going to tear down all the state, which is the problem, which is what's happening right now, which is what I'm speaking to is like, states have been effectively neutered and now unable to control business is the corporations of all the cards in their hands, because of the international nature of the economy, right? Um Yeah, but yeah, if you're going to tear down the state's ability to regulate corporations that and like, do nothing about that, and just allow it, like, you're just gonna end up with like, and even worse version of, like, grandpa and unfettered capitalism than we have now, which is like, tearing apart our our world, our climate. Like, so that's my concern with most libertarian, um because that's often where libertarians land is there, like, secretly anarcho capitalists are like, or just or just there, like, very much just like, anti a lot of them are one issue voters are like, I'm going to vote for the party, that's not going to take my guns, and I'm not going to care much about anything else. You know, I mean, like, so they're willing to vote just because they want to keep their guns, and they don't think about the impact that that might have on people
+SPEAKER_R: on
+SPEAKER_L: that
+SPEAKER_R: everything
+SPEAKER_L: are
+SPEAKER_R: rooms
+SPEAKER_L: less fortunate to them. Yeah. Um, but candidates, um, you know, I'm willing to to actually hear what they have to say, right, because they might just be running on that party because it's a it's the one that fits the best right. It's the best option for what the um but yeah, we should have we should have six parties, we should have tiered voting, we should lose the Electoral College. There's a million things we can do to make, effectively the system we have improved, which I think are all worth doing because it's a step in the right direction. Um, they
+SPEAKER_R: I agree I agree I have to look at her. I know, I think she wanted to do some and I think she wanted to to have things a little bit more open though. Like there'd be more protection around the borders, but have things more open for global trade as well. So I have to, I have to look, I have to look at her stuff again and see um, you know, just double check and make sure I have all my facts straight. But, but yeah, no, I, I do agree with you. Otherwise I typically typically have not really interested in libertarian parties, but under the circumstances, I
+SPEAKER_L: yeah, I understand.
+SPEAKER_R: personally, I
+SPEAKER_L: And I've
+SPEAKER_R: personally
+SPEAKER_L: heard I've heard.
+SPEAKER_R: am an independent and I'm just kind of in the center. I'm not, you know, like bleeding
+SPEAKER_L: yeah. I call
+SPEAKER_R: one
+SPEAKER_L: myself,
+SPEAKER_R: way or the other.
+SPEAKER_L: I call myself an Independent because I'm farther left than any party. We have. What I mean? I give you force me to vote, I I fall democrat, but, um, or Green, I was I was a big Bernie Sanders proponent. There's a few things I think he's a little soft on, but I understand he's working within a system, but then ultimately, I um, question whether that's the most effective way to to actually make the change that needs to happen in terms of um actually stopping. I just I have I have doubt that that without radically changing the way that we do both our economics especially and a government um that we have any hope of uh of combating climate change in the way that we need to, which is to effectively like lose fossil fuels 30 years ago, right?
+SPEAKER_R: I know.
+SPEAKER_L: Like and stop deforestation, etcetera, etcetera, etcetera. There's no incentives do that within the current system. And I have doubts that, like I mentioned earlier, the states have enough leverage that even if we got the right people in power, that they could actually put their foot down on those corporations. And so that's why I lean more towards like, I think we need to um yeah, like direct action like I was talking about earlier, I would like uh um
+SPEAKER_R: Mm hmm,
+SPEAKER_L: I think the most effective thing that people do is is like pipeline protests, stuff like that. Like, like those people being there, being willing to put their bodies on the line does more for the climate change cause then pretty much any ballot you and I could cast
+SPEAKER_R: That's very true.
+SPEAKER_L: just because of the way it's set up. I feel like because I don't want the balance to be effective kind of like it's just the idea that if you work within the framework of the current system, you're only going to you're going to make change. I mean like we have obviously right like, like women can vote now like the amount of this country has serious race issues as well as as being
+SPEAKER_R: It's like why is that still an issue today? Even if it just doesn't get, I don't get it.
+SPEAKER_L: well, it's because because of the reality of of the country and the way that people of color are treated, it's like
+SPEAKER_R: It's just so crazy. I I
+SPEAKER_L: like
+SPEAKER_R: just don't get it.
+SPEAKER_L: yeah, I think it's one of those things where this country was built on a foundation of those ideas, You know what I mean? Like the economic, this country's economic well was built off the back of flavors that's just a reality. And so that impacts the way that we perceive and treat people of color going forward. Because once you've established this like, because any sort of slavery, there's an underlying like dehumanization there, you can't treat somebody like that without not thinking of them as a person. I don't think anyone's soul could, could live that way and be like that's a person and I'm gonna enslave them, right? Because that's the ultimate, like, you know, you're taking away
+SPEAKER_R: It's
+SPEAKER_L: that
+SPEAKER_R: disgusting.
+SPEAKER_L: you're taking away their person heard right? Completely.
+SPEAKER_R: Yeah. You're taking away their agency, their freedom to choose.
+SPEAKER_L: exactly. Which is, which is who we are, right. It's um, so there's this level of dehumanization, like in order to to like enslave somebody, you have to decide first that they're not people, they're cattle, right? You have to take that perspective as horrible as that is, right. It's
+SPEAKER_R: I know.
+SPEAKER_L: the reality of the way that those people think about it and that. And it's hard to get away from that within the time frame of, you know, 250 years since we actually established this country. 400 years since slavery started, right? It's hard, it's really hard to just I mean, like we could do it and that's what that's what the movement is all about, is actually pushing the changes that actually shift the sexual changes to mean that being a person of color in this country is not being a second class citizen, right?
+SPEAKER_R: Exactly.
+SPEAKER_L: And those are the realities of this country because of how it was built, how it was made. And and of course it's going to continue to be propagated because those in doesn't benefit, don't want to give up those benefits. So I think that's a perfect example of the kind of thing where there was not really kind of tearing things down and starting from scratch, It's hard, You're never really going to lose that element of white supremacy just because it's so built into this nation's like core. But again, I don't think it is in the sense of like average person, you pick off the street, you can ask them a series of questions and say, hey, do you think that, you know, certain races of people are better than others by nature? Most of them will say no, right? Do you believe? Like there's a certain set of questions that could kind of indicate to you that somebody probably takes that sort of like,
+SPEAKER_R: mindset.
+SPEAKER_L: it's like the, yeah, it's like we want to protect the white race, sort of like really ugly neo Nazi. And of course, it's all a spectrum, right? Like you can be
+SPEAKER_R: Oh, even infected. Because I also see people who are like, oh, you know as whites, we have to pay for the crimes of our forefathers. It was like, no, you don't have to just
+SPEAKER_L: No.
+SPEAKER_R: establish peace. Let's just all be equal. And it's not, you know, just wipe
+SPEAKER_L: I
+SPEAKER_R: that off.
+SPEAKER_L: think that those people are trying to reconcile the whole, like when you're used to privilege and you lose it, it feels like, uh, you're being oppressed when you've never actually been oppressed, you have no idea what that. And
+SPEAKER_R: Thank
+SPEAKER_L: I mean, I
+SPEAKER_R: you actually.
+SPEAKER_L: can say that too. I don't really have a clue, but I can at least seem to emphasize better. Um, but yeah, exactly. It's like, it's just like the reality of of this country, is that those is this like, you know, this structure, this power structure of white supremacy and patriarchy and all this stuff. I think to lose that, we're gonna have to make some real radical changes. And I think,
+SPEAKER_R: You
+SPEAKER_L: and
+SPEAKER_R: know,
+SPEAKER_L: I think, I think the the clock, the climate change clock is the most pressing.
+SPEAKER_R: depressing.
+SPEAKER_L: It's all connected like, to address climate change. We need to address capitalism to just capitalism. We need to address race issues, right? Like, it's all in different acted right?
+SPEAKER_R: And right now too, it's not just like, I mean blacks are the most prevailing ones, but then we also have asians getting a lot of bad rep. and so same with a lot of people as well.
+SPEAKER_L: I mean, yeah, we have we have border camps, like, I mean, that's a whole other thing is is, um, is if you want to talk about a national policy, right? Like, yeah, our international policy is not based on an actual desire to help people. All right. There's a lot of narratives around like, oh, we need to step in because these weapons of mass destruction or everything, which was obviously a line that's the whole thing. But, like, most of our wars are motivated by the fact that there's a, you know, uh, an industrial, um, complex built around more. Like if we didn't have, if we weren't at war, our country would be as well as effectively, and I would, um, and they would have an impact our entire economy and our stock market is built on, on first that industrial complex, the fact that we are at war, so that there's all of this taxpayer money going to these contracts to build tanks and planes and drones and bombs. And you name it, right? It's just the circle of of of they get paid to build tanks, they use that money to donate to politicians so that those politicians don't pass legislation that removes their ability to do this, and then they use their ability to then get those contracts because they were buying politicians to continue to do so. Right? So it's a cycle. And without ever actually tearing that down at the base of it, we're never going to be a peaceful nation again. It's the same problem of it being so built into the structure of our country of, of like, because from the very, very start of this country, we were colonizing native lands and colonizing those peoples. So that's a whole other thing we need to talk about is like, it's not
+SPEAKER_R: Thanks.
+SPEAKER_L: just the treatment of indigenous african peoples, but the treatment of indigenous american peoples and the actual genocide that occurred and is still occurring today.
+SPEAKER_R: Is still occurring today and
+SPEAKER_L: Those
+SPEAKER_R: to me.
+SPEAKER_L: people, those people still exist. They live among us. They're not, it's not just some story we get to tell one. Yeah, I'm still pissed. I ever heard a story about columbus came over from europe and he probably blah blah when he did. But like can we talk about the fact that he murdered and raped thousands of people maybe with our kids. I mean like maybe you don't wanna address it quite that way, but like maybe we shouldn't have a national holiday around the guy. I'm just saying, imagine how you would feel if you were jewish and there was like a
+SPEAKER_R: Actually.
+SPEAKER_L: Hitler day,
+SPEAKER_R: Yeah. That would be really
+SPEAKER_L: I wouldn't be happy. And not only that, but you're still living under the power structures of, you know what I mean, is still being oppressed by that very person, like what that represents, right? When columbus
+SPEAKER_R: I know,
+SPEAKER_L: represents,
+SPEAKER_R: I know and then I just like just thinking to how you're talking about the border and immigration is just a pain. It's just a huge pain like that system is just so messed up. Like people are like, there's so many legal immigrants is like, well, have you ever tried immigrating to the U. S. Before? Um Like with
+SPEAKER_L: it's
+SPEAKER_R: me, with me, Yeah with me um I'm I'm biracial, I'm half white and half Latina. My mom immigrated from peru to marry my dad and um fortunately she was lucky enough that she was able to get um she was able to get in fairly quickly because she was marrying my dad. But for like my, my Abuela for her to come in that took about, I think six years give or take her to legally immigrate. And then, um, for my aunt who came in when I was 16 that took, that took a little, that took like 16 years because she, she put in the paperwork the same time my grandma did at the
+SPEAKER_L: it's
+SPEAKER_R: same
+SPEAKER_L: expensive.
+SPEAKER_R: time my mom did and she didn't get the okay until I was 16. So, so that's like 16 years just for her to be illegal immigrant. And it's like some people are running away from bad from bad circumstances. They don't have 16 years too, you know, too late.
+SPEAKER_L: And the word, and the worst part is that the, those bad circumstances were created by the very imperialism we're talking about. You know, there's
+SPEAKER_R: Thanks.
+SPEAKER_L: there was plenty of examples of coups and um like we've had our hand in south America for the last 100 years and we've overthrown plenty of leaders that would have taken care of that people much better than the ones that we replaced them with. You know, and that's that's led
+SPEAKER_R: Two.
+SPEAKER_L: to, that leads to bolsonaro, that leads to, you know, I mean when I was uh he's another symptom just like trump is of this much broader trend across the world. Trump isn't unique. We're seeing fascist pop up all over the place. Um and I think it's really, really important. I think that people kind of look outside of the american political bubble and consider the international trends because everything that's happening this country is informed by those and they're happening there too. But yeah, I 100% agree. It's it's a complete disgrace to like, yeah, use your army to make situations shit in other countries and then get mad at people who want to escape those situations for wanting to come to your country and like try and give themselves a better life because you messed up their life where they are from like and then and then the whole border wall issue is is just a, it was like a red herring effectively just because like,
+SPEAKER_R: It just seems like to me it seems like a huge waste of money.
+SPEAKER_L: well, so first of all, if you actually ask people who work on the border, how can we make this border more secure? Like if your goal is I want less people to cross the border without permission. One of the worst ways to do that is to build a concrete wall at this point with the technology that we have, you gain more from being able to see across the border and see people coming than you do from having a concrete wall that people can scale. Anyways. The amount of money that we would have to maintain in that wall over the course of the thousands and thousands of miles across the Rio grande, that is our border, like it's
+SPEAKER_R: That,
+SPEAKER_L: billions of dollars a year just to maintain a wall that does absolutely nothing. Because the vast majority of illegal immigration, um, is people who get a visa can't get a fully approved and perfectly reasonably choose to stay in the country rather than going back to all right. Like. So yeah. You know, I'm stuck in this country and I'm illegal. Next more puke when people call people that, but like,
+SPEAKER_R: I know, right.
+SPEAKER_L: yeah, but okay, fine. You're you're an illegal, no, I don't want to use it. But you're you're you're standing in in in the states is not a legal standard or whatever, right? You put it that way. Um, who can blame them? I don't
+SPEAKER_R: Oh yeah. No. Exactly. Exactly.
+SPEAKER_L: No.
+SPEAKER_R: And like I said, it's it's not like they're making it easy to be a legal citizen either, so.
+SPEAKER_L: Exactly. Yeah. So you get a visa, you come over here, you try and become legal. It cost you hundreds of thousands of dollars and time and hassle and documents and etcetera and then you don't manage it. Yeah. What do you do? Do you go back to your home that you had to run run away from? Or even worse right? Like or even even in like less severe situations, right? Even if it is just you made a move because your family is here now or or whatever right? You just, you don't have much to go back to write. Like even if it's not dangerous, even if it's not, whatever those situations do exist, it's important acknowledge them. But but it's also important to say that even if that's not the case, I think those people still also deserve to be here. You shouldn't have to be under threat of sort of gun point to one of live with your family, right? Like I I think it's pretty um and and and it gets really, yeah, I just think it's really gross how um just the way that we talk about politics in this country sort of reduces those people to ah an issue, you know what I mean? It's like, like I
+SPEAKER_R: And
+SPEAKER_L: heard
+SPEAKER_R: the next
+SPEAKER_L: that from
+SPEAKER_R: thing
+SPEAKER_L: some people
+SPEAKER_R: is really bringing much attention to
+SPEAKER_L: about
+SPEAKER_R: to like
+SPEAKER_L: the debates.
+SPEAKER_R: what's going on with ice and everything too.
+SPEAKER_L: Well, there's that. Yeah, I mean, ices the gestapo, right? Like holy fuck, the fact that people can just get pulled over and disappeared because they're not legal.
+SPEAKER_R: That's scary.
+SPEAKER_L: More than scary dude. Like people happens in these communities, it happens in Oregon all the times. Um like wood burning is very latino, like 50% Latinos and um ice is very active. They're very terrifying way
+SPEAKER_R: And the worst part is some, I'm sure that some of the people, you know, there's a percentage of people that are taken that are U. S. Born and everything and they're still, you know, they, I still find some excuse to deport them back or what else?
+SPEAKER_L: took some where they've literally never been point or, or in some cases with a place where they don't even speak the language, you know, some people are so Americanized. Yeah.
+SPEAKER_R: Exactly. Like I'm lucky I've grown up learning both languages, but I couldn't.
+SPEAKER_L: Not everyone does.
+SPEAKER_R: Yeah. No. Exactly. Well
+SPEAKER_L: Yeah. And even so you, do you really want to get sent back to peru like have you ever lived there? Have you ever like,
+SPEAKER_R: I visited family a few times there and I've been, every time I'd be there being about three weeks I
+SPEAKER_L: but even
+SPEAKER_R: think
+SPEAKER_L: so
+SPEAKER_R: it's wrong
+SPEAKER_L: who would want to be, You wouldn't want exactly wanted to be deported right. Like you have a life here. You're living, you're in America
+SPEAKER_R: like
+SPEAKER_L: and
+SPEAKER_R: I
+SPEAKER_L: like you'd be ridiculous.
+SPEAKER_R: have, I have a place I know where I could go, but again you're talking about like the whole country where in the country am I going to be deported back to if I'm deported back to lima, I'm lucky but I'm deported somewhere like like Cusco then I'm toast.
+SPEAKER_L: That's a very good point. Or or even the stories of them like sending women back to the wrong country
+SPEAKER_R: That's so crazy.
+SPEAKER_L: or Yeah, like not to mention child separations in the world. It's just all cruelty for the sake of cruelty to try and discourage people from coming to the border, tell you what it is. Because they know that they know they can't do it through legal methods. So they they're just they make it as horrible as an experience as they possibly can and hope that that helps somehow. What I mean, help us by in their perspective, less people coming. That's all they want, right? If we're talking about ice or whatever, you know what I mean? Right? They're going to make the experience of trying to get across the border as miserable as possible so that less people try, Right? Yeah. It's just gross. Absolutely disgusting.
+SPEAKER_R: It is, it's like how
+SPEAKER_L: I
+SPEAKER_R: do they even go through the hiring process there?
+SPEAKER_L: are you are you were bullied when you were bullied in school. You hate brown people with a passion. All right. You're fired. God,
+SPEAKER_R: So we're hopeful
+SPEAKER_L: You know, the sad reality though, is that, um, you know, dentists require more training nurses require more training than a police officer or, uh, or a border patrol agent. I mean, maybe border patrol and stuff is a little more army and there's a little more stuff, but it's highly boot camp and like some horrible sensitivity training that does nothing. And then like, right? Like I'm just
+SPEAKER_R: you
+SPEAKER_L: saying like, at least in like, I know police officers for a fact, there's less certification involved in like becoming a hairdresser. Like it's ridiculous.
+SPEAKER_R: well and I know I know they do have to go through some processes. Um What way back when I was 16 I had
+SPEAKER_L: What?
+SPEAKER_R: I did a thing where we got to work with some local, it was like a almost like a summer camp thing but it was like learning about criminal justice and stuff like that and and uh we worked we worked at this local police department and we're and we have the police officers, they're teaching us now, those those were really good officers. They give me a really good impression um growing up. Um and I mean likewise, I've had my experiences with awful officers too. But
+SPEAKER_L: systemic issue rather than a personal issue.
+SPEAKER_R: yeah. Yeah, but I remember them showing us to like videos of like, you know, this is what we had to go through in order to get our certification. We had to get taste. We had to be exposed to pepper spray in the face and different things like that. And it just, I guess it just made me wonder how can people still like after experiencing like, okay, this is what it feels like to be taste. This is what it feels like to be sprayed in the face, you know, and and stuff like that and still be like still give people another, you know, somebody else a hard time. Or you know, or just abuse their power abuse authority over people just because you know, it's like it's like you shouldn't, you have empathy and no like this, you know, this stuff sucks. I should only use it if I absolutely have to.
+SPEAKER_L: Maybe we
+SPEAKER_R: No.
+SPEAKER_L: should extend extend the empathy training too, like racial sensitivity issues somehow somehow make them um it's obviously easier to do with the taser. Like okay, we're going to figure out how to make you, what does it taste or feel like? Alright, here you go. Right, but you can figure out a way to um do a similar thing with um you know what it's like to be pulled over for no reason other than the color of your skin or whatever.
+SPEAKER_R: You
+SPEAKER_L: Like
+SPEAKER_R: know.
+SPEAKER_L: what it's like to be bothered every time you're walking home because they think you're in the wrong neighborhood or what it's like to be detained and searched for X reasons, right? I mean who knows what that would actually look like. But effectively the same sort of empathy training, The same logic of like okay before you taste someone you should know what it feels like. Could somehow we applied to power banks? I don't know. But um
+SPEAKER_R: Like our, our officers are so awesome. They actually had there because they had to do video recordings of those casings. They showed us their personal videos getting days. I
+SPEAKER_L: it sounds awful
+SPEAKER_R: I
+SPEAKER_L: everybody.
+SPEAKER_R: know but like, like, I mean I mean they haven't set up so it's a lot nicer. Like they have each, each officer would have like to officers on their side to hold them because they're going to drop and
+SPEAKER_L: And they've got like a little pad or whatever, like
+SPEAKER_R: yeah, they have, they have episodes nice. But it's still just like, oh my goodness. And one of the officers that it was like, it's like, it's like the worst few seconds of your life.
+SPEAKER_L: Well yeah, because you're like completely out of control. Your muscles are doing stuff. Yeah.
+SPEAKER_R: Hey,
+SPEAKER_L: And it probably hurts like hell to
+SPEAKER_R: I'm sure, I'm sure, definitely just so uncomfortable.
+SPEAKER_L: I once had a like a nerve test done on my legs really like stab your muscles with needles and then like zap them. And then um and it's it's
+SPEAKER_R: goodness.
+SPEAKER_L: a yeah, it's a very interesting feeling because you can feel the electricity one through your nerve branches and you can kind of feel the shape of them. They're like little trees and your feet almost. So
+SPEAKER_R: Whoa.
+SPEAKER_L: it's really weird.
+SPEAKER_R: That's crazy.
+SPEAKER_L: Yeah, hard to describe,
+SPEAKER_R: And this,
+SPEAKER_L: but that's like
+SPEAKER_R: No
+SPEAKER_L: that's like 11 millionth of the voltage, right? That's
+SPEAKER_R: young
+SPEAKER_L: just
+SPEAKER_R: matter.
+SPEAKER_L: they're sending enough because it's just a task. They're sending just enough electricity to see if the nerves you act properly is all it is. So they're not, not exactly a taser, but even that was uncomfortable, annoying. Thanks. It's some weird combination of like painful and ticklish and like, like stings but not really. Yeah. Uh
+SPEAKER_R: It's definitely a different feeling altogether.
+SPEAKER_L: Yeah, well, I mean I don't I don't know like what's the point? Like the cops don't even use their taste as they go straight to shooting. It seems like
+SPEAKER_R: Oh, I know. Right.
+SPEAKER_L: it's like maybe we need to. Well, I mean that's a whole other topic of
+SPEAKER_R: good.
+SPEAKER_L: the gun issue, but like british cops don't carry guns and they do just fine. It's a very different country and the british population has a lot less guns so that's part of it. But like.
+SPEAKER_R: I think that's the case in Japan too. Although they and they're a lot more strict on that stuff. But you still see people like you still hear about fanatics going and using like alternatives like box cutters and stuff like that to attack people.
+SPEAKER_L: Yeah but you know what? Dude, some crazy fucks trying to kill people. I'd rather than have a box cutter than an I. R. 15
+SPEAKER_R: That's very true.
+SPEAKER_L: like.
+SPEAKER_R: Very true. Yeah.
+SPEAKER_L: Uh But yes that does happen. Um But I don't know. Yeah I think uh you know you have a well trained police force that knows how to do like restraints and disarms that you can handle that a lot better than someone with a gun. Because how do you handle someone with a gun is another gun most likely at
+SPEAKER_R: Story
+SPEAKER_L: beth
+SPEAKER_R: true.
+SPEAKER_L: and then you're shooting at a crowd as a cop, which is never a good idea,
+SPEAKER_R: No, I know
+SPEAKER_L: it's just ugly. And what even scares me the most is or even more is that people are like well I'm going to carry my gun so that if a shooter shows up, then I can like be the hero and defend it. It's like, no,
+SPEAKER_R: for me at
+SPEAKER_L: like
+SPEAKER_R: this time it's like I wouldn't
+SPEAKER_L: you're
+SPEAKER_R: even
+SPEAKER_L: not
+SPEAKER_R: do that
+SPEAKER_L: trained,
+SPEAKER_R: to be the zero.
+SPEAKER_L: you don't know what you're doing.
+SPEAKER_R: I would do that just to protect myself.
+SPEAKER_L: Keep
+SPEAKER_R: And
+SPEAKER_L: your
+SPEAKER_R: even
+SPEAKER_L: gun at
+SPEAKER_R: then,
+SPEAKER_L: home.
+SPEAKER_R: even then I have to tell you like, my, my dad always told me like, you shouldn't have a knife on you unless you know how to use it. Because if you don't know how to use it, then that's just you giving more ammo to the person who's attacking you in the first place.
+SPEAKER_L: that's yeah, it's a very good point. Here's here. You want to know
+SPEAKER_R: yeah, pretty much, pretty much. Are you trying to strangle me? Oh, here's an ivy.
+SPEAKER_L: like
+SPEAKER_R: This is where
+SPEAKER_L: here,
+SPEAKER_R: you
+SPEAKER_L: let
+SPEAKER_R: laugh.
+SPEAKER_L: me help you out. Yeah, that is absolutely a great point. Um, yeah, I mean personally, it's like it gets scary. Especially I'm on, I'm really on edge right now with the proud boys comment because that was just a street called the action for White supremacist militias.
+SPEAKER_R: I
+SPEAKER_L: Like,
+SPEAKER_R: know. I know
+SPEAKER_L: and they
+SPEAKER_R: that
+SPEAKER_L: took it as such. They were all celebrating and happy and like getting ready. And so the experts, expert experts, the holocaust experts type
+SPEAKER_R: two.
+SPEAKER_L: fascist academics are making statements of like be careful like that statement combined with the current environment is likely to actually lead to increased violence over the next three months to a year. So it's, it's a very real warning and
+SPEAKER_R: Like
+SPEAKER_L: it's scary
+SPEAKER_R: I said,
+SPEAKER_L: stuff.
+SPEAKER_R: the best thing we can do right now is just prepare and make sure you're stocked up on food and water and make sure you're stocked up on things you can do if you're, you know, if you ever have to quarantine more and not just because of, not just because of the coronavirus, but just because of all the crazy that's going on right now.
+SPEAKER_L: Yeah, there's an active shooter outside or something. Right?
+SPEAKER_R: I feel like right now that's like the best thing everybody can do right now just
+SPEAKER_L: Pro
+SPEAKER_R: stock up on food, stock up on extra savings and everything and you know
+SPEAKER_L: Try
+SPEAKER_R: just
+SPEAKER_L: and try and get to know your neighbors a little bit. Maybe build up like communities of support and
+SPEAKER_R: definitely, definitely.
+SPEAKER_L: local resources. That's it. That's the other thing I have like, and we moved into this apartment building a year ago. New neighborhood. I've like seen a couple of my neighbors around. I don't know their names. I don't know who they are. You know, there there is that same aspect of like when it comes to worse. So I really had to ask for help. I would write.
+SPEAKER_R: Yeah. Yeah but it wouldn't hurt to just kind of
+SPEAKER_L: Get to know them.
+SPEAKER_R: get to know them. Yeah and and just build up skills in your free time whenever possible to I mean apartments, it's harder to have like a garden for example but I know I know they've been trying to do um I forget what they call it but it's kind of like a vertical gardens, it's like a vertical type of gardening where you can do that even inside your apartment so that might be something to look into.
+SPEAKER_L: I've seen some little like um yeah, well the one I saw, it seemed like it was kind of like a, you'd have to buy like specialized pods for their unit or whatever, which I was like, okay, so this is like, I'm buying your system and then I'm stuck buying, you're
+SPEAKER_R: your
+SPEAKER_L: kind of like
+SPEAKER_R: stuff.
+SPEAKER_L: the Kruger of coffee. Um But but it was the same idea was like a little planter you could sit on, it's like a plant size, you can put in your kitchen or something and you could have like five or six different light bulb spots for veggies, you can go tomatoes, cucumbers or whatever. Um Yeah, we've been doing at least um we're actually, my girlfriend's been doing a lot of uh baking and that kind of stuff,
+SPEAKER_R: good.
+SPEAKER_L: but we have a lot of plans, but not very many useful plants. Yeah, my mom is a garden in Clackamas Milwaukee.
+SPEAKER_R: that's nice.
+SPEAKER_L: She's working on um retrofitting your whole place to be uh like native and indigenous plant and animal focused.
+SPEAKER_R: Oh that's awesome.
+SPEAKER_L: Yeah so she tore out all the grass and stuff or didn't she like frozen? Apparently you just cover your grass in the winter it kills itself. And then she had people come in and they did a lot of like stone and gravel work but not to like completely dominate everything. And then and then she has a bunch of raised beds for like garden stuff but then she's also going to fill in the rest of it with indigenous native plants because um they're better for the local wildlife. Yeah they encourage the indigenous bugs and lizards and birds and be an
+SPEAKER_R: those
+SPEAKER_L: etcetera.
+SPEAKER_R: are simple, I love seeing those.
+SPEAKER_L: Yeah so it's a work in progress at the moment but it's coming along nicely in them.
+SPEAKER_R: That's great.
+SPEAKER_L: A nice little project for her. Yeah she's uh you know she's retired and so I went back up to Portland two years back and I just got in her house and she's just working away at it.
+SPEAKER_R: Oh that's wonderful. That's wonderful. I love taking care of gardens, it's so relaxing. I mean it's work obviously, but
+SPEAKER_L: Yeah. It's on our, it's on our list were like, you know, young twenties couple that just moved to Portland. So we're like, yeah,
+SPEAKER_R: I step
+SPEAKER_L: it's more of a long term plan for us, but it's very much on our list to have a place. That's um, I want some chickens, I want a little garden because I, uh, my middle school was a farm school. Yeah. Which do you know what Montessori is like the, whatever your monastery is an educator.
+SPEAKER_R: it sounds kind of familiar but describe it to me just in case.
+SPEAKER_L: Well, so um, the history is that Maria Montessori was an italian educator in the 18 hundreds or so, but she built this whole like philosophy about education that was centered on like one is very individualized the to the people. So like every kid gets you move at their own pace and learn excel at
+SPEAKER_R: no,
+SPEAKER_L: the things that they find that they're good at and etcetera, it's way less standardized freedom. And then the other big thing is that especially once you hit, um, you know, people best since you best sensation around like middle school age that you have a good amount of physical activity built in to your
+SPEAKER_R: to
+SPEAKER_L: schooling.
+SPEAKER_R: me,
+SPEAKER_L: And so most Montessori schools are just elementary schools, but I was lucky to have one of the, I went to a montessori middle school and high school. And so for the elementary school, it's like freeform classrooms, kind of like, you can wander around and you spend your time how you choose based on a bunch of assignments and then like just keep a diary of how you spend your time as an elementary kid, Like you're, you're tasked with choosing how to spend your time and recording that free. Um And then once you get into seventh grade it's it's closer to um like a standard middle school right classrooms and desks more like lectures and stuff but they still try and um you know work with kids on an individual basis because it's a much smaller school. Um Not necessarily like one on one teaching but it's just like letting people go at their own pace. But the big thing was that for the physical activity aspect instead of P. E. We had farm work because their school was literally on a farm. So. Yeah and so we did like well when my brother was there a few years before me it was um I think even more intensive they were really involved in four H. And stuff. Which makes a lot of sense. So not everyone did four age but some kids would have their own animals as well that they got to keep on the farm and do four inch with. So my brother got to raise and keep a pig. Um which was kind of hard, but like good learning experience for him with like, because eventually it was slaughtered and he had to sell the meat and he made money off of that, but I think he would have preferred not to take the money. Yeah,
+SPEAKER_R: just
+SPEAKER_L: I
+SPEAKER_R: keep the public
+SPEAKER_L: think if he'd had the choice, he's going to discuss the pig, but um I think it was a good learning experience for him. And uh yeah, like 800 bucks for his pigs. We did a good job I guess. But
+SPEAKER_R: and
+SPEAKER_L: anyways.
+SPEAKER_R: then
+SPEAKER_L: Um So yeah, like when I was in seventh grade, I got to be like that one of the like chicken managers because that's the other big thing is like there's an actual adult who runs the farm on the, on a larger scale, but kids are assigned. So they were like a couple of chicken managers, a couple goat managers and a couple pig managers. And so they have special responsibilities of like making sure that those animals are taken care of, right? So you're kind of like the, and so I was like the chicken health guy. So I was the one who sprayed all the wounds down with the blue stuff,
+SPEAKER_R: thanks.
+SPEAKER_L: like cleaned out the pens for the, because we had a little chicken infirmary in the, in the barn, we take them away from all the other chickens when they're getting to beat up because chickens are assholes.
+SPEAKER_R: they can be. Yes.
+SPEAKER_L: Um, yeah, so the poor little chickens in the bottom of the pecking order that are getting attacked and beat up on, we'd take him away and tend to the wounds and stuff, blah, blah. Long story short, I just thought it was a really valuable experience and something I want to get back into. Its just sort of a lacking opportunity at the moment living in a 500 square foot apartment
+SPEAKER_R: Yeah. Yeah. Yeah, not for real,
+SPEAKER_L: room.
+SPEAKER_R: but
+SPEAKER_L: So.
+SPEAKER_R: I mean I guess I guess, I mean it's not farm related but still just being able to stock up even on like things like top ramen and stuff like that, I mean it's super, it's super um true, but it's it's
+SPEAKER_L: We're having
+SPEAKER_R: just something
+SPEAKER_L: a lot of canned goods and dried goods, a lot of the basics, you have a lot of flour and etcetera. You know if your flour and you can access eggs and you can make dough and then you can make pasta, then you can make bread and then you can make etcetera. Alright. Like
+SPEAKER_R: I know,
+SPEAKER_L: the
+SPEAKER_R: pretty
+SPEAKER_L: basic,
+SPEAKER_R: much
+SPEAKER_L: it's Yeah.
+SPEAKER_R: get the basic stone. I mean even for bread you don't necessarily need egg as long as you have.
+SPEAKER_L: Yeah, that's true. Yeah. Um Yeah, we've been doing a lot of bread bacon, which is fun. Um And then we made uh her birthday a few weeks back. I made fresh pasta filled
+SPEAKER_R: Running.
+SPEAKER_L: positives which was like, I mean we thought it was gonna be a lot of work but it was not because we did everything from scotch effectively with like yeah the filling. And then we made the dough and then we rolled out the dough and then we folding the raviolis and it took us hours. But it was pretty bomb and
+SPEAKER_R: That's
+SPEAKER_L: we made
+SPEAKER_R: That's
+SPEAKER_L: like 40 ravioli. So we only ravioli for like a week and a half.
+SPEAKER_R: That's the best means
+SPEAKER_L: I don't know,
+SPEAKER_R: we have no problem with.
+SPEAKER_L: it wasn't so bad. One of those meals though where you like you almost spend so much time cooking and you get to sit down and eat your almost not hungry anymore.
+SPEAKER_R: Oh, I know right like
+SPEAKER_L: I'm feeling,
+SPEAKER_R: that and like egg rolls to, they can take care of me
+SPEAKER_L: we even bother right
+SPEAKER_R: kind of have to make a whole day set aside a whole day just for making those.
+SPEAKER_L: Or break it up and do some of the prep beforehand
+SPEAKER_R: Mhm. Yeah. For real.
+SPEAKER_L: because that's what we did a week later. We tried it again with butternut squash and there we did um we did the feeling like the night before and in the past in the morning of so then when we were actually making it all we had to do was the um put into the folding in the cooking. So it's like that just that much faster. Uh Make it easy on yourself.
+SPEAKER_R: Yeah. Well I hate to I hate to cut things because I'm having a great time talking with you. But I should probably go check on my sister and make sure she doesn't need any help with her with my nephew. So so just just realizing what time it was. I know she like she was having something going on around 2 30 so I just wanted to right now it's two and 9 to 10.
+SPEAKER_L: Okay. We have run a bit long. Alright well nice talking to you.
+SPEAKER_R: You're talking to you too. I wish you and your girlfriend the best of luck with everything.
+SPEAKER_L: Yeah. Thanks a lot. You well you stay safe. Okay.
+SPEAKER_R: Thank you too.
+SPEAKER_L: All right, we'll do
+SPEAKER_R: Bye.

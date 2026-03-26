@@ -1,0 +1,123 @@
+Yes. Yeah. Mhm. Uh huh. No, mm. Yeah. Yeah. Mhm. Yeah. Hey,
+but hurry up.
+Good thank you. Good, good to meet you.
+I am on the east Coast in Delaware
+here.
+Oh okay. Northern Virginia. What part?
+Yeah, I used to live briefly in Centerville, worked in Fairfax.
+Okay. Yeah.
+Okay, got it.
+Yeah that would
+Quite
+a while ago I think it was right after college. So I think I lived there in 94-95. No,
+no.
+You know so much has changed. So so different
+Yes,
+okay. Lot of, I mean very so I say yes but one thing I noticed it was not extremely multiracial, it was very white. Um but the asian population would have been second unlike where I am now or where I held from before which is here um where there was a large african american population. Just did not see that in northern Virginia. At least the area where we were. So
+no change.
+wow. Yeah. You guys were interesting. I have my my sons and I were watching uh The election results. It was interesting uh very early on Virginia was one of those states where it was like only 5% reported but they had already called it for providing Yeah.
+I have not heard of that one
+but
+parents
+you're kidding,
+you're going to mention the northern Virginia.
+that's funny. I mean imagine where you are, you've probably been over this way to beaches and so with Delaware is just three counties. New Castle County is up north which is where warming is in the more dense area and then Sussex are the more rural ones and it's the same divide, it's the
+same.
+It
+Of
+What
+will,
+you know? Well you know it's you know uh so biden from Delaware? Right so
+so he uh you know one thing that he has said is he wants to get back to you know working together which agreed we're so polarized
+and everybody at opposite ends we need to find
+that
+absolutely
+world has changed.
+thank
+you
+so what do you what do you do?
+Um who do you so you work privately or work for yourself or
+contractor?
+Your
+boy by a company. Got it. Yeah so I and I actually worked my most most recent previous career I worked 10 years for government I. T. Um But not a not a not an I. T. Guy myself.
+I was
+more on the uh kind of account management customer relative. So
+having to bridge that gap between the business and the I. T. And the language.
+No I didn't. So actually so there is a within the state of Delaware there's an executive branch agency called the Department of Technology and Information. And they served as the central I. T. Arm of state government. They handle the network and the email and active directory. And they do a lot of project management. They exercise governance over policies. And so all of the state agencies have to work with D. T. I. And so they created basically an internal account management team that was responsible for managing the relationship between D. T. I. And those other agencies. So I managed the team that was involved with that like
+you know Department of Transportation of Department of Transportation had a specific need. They had one person within the tea that they would go to that would then cordoning internal resources. So because I got I got into that job not for having a technical background but for having more of the sales and account management kind of your prior
+finance.
+It was a business major finance and I don't want to get NBA yep. So just really all about you're dealing with people.
+So.
+For
+for weeks at least.
+Absolutely. Yeah. So so I left uh in february, I left this state government and came back into the private sector and now I am managing a small business
+that does, it's basically a building inspection. So have sectors that do inspections for building plumbing,
+electrical, H. V. A. C. Work. It's a new work. It's about 20 people, you know, just three small offices and to go from government and the level of projects dealing there to what I mean. Dude, we got here, I got here we had one email address. Everybody was sharing one email addressed. It's like, yeah, we're going to change. Mhm.
+So we're
+with G suite.
+so and
+you know,
+so where I came from, we had we were Microsoft and had converted to
+so when I came over, you know, so I'm also heavily involved in um K. 12 school districts and that when I was with D. T. I. That was actually one thing that I was working with was all the school districts in the state. And you know, they had moved to um education had moved more towards the G suite, especially for students and counts largely for the sharing aspect of things, being able to share things a lot easier. So I I kind of decided to go that path and to give it a try. Dangerous.
+It
+was more knowing what I was coming from there and what I had heard about G. Suite than myself being um a Gmail user myself. G suite
+try
+to.
+Yeah. And so we and one thing that really helped was that like our one email address was
+an AOL account so we don't even have nobody's using
+that you can.
+So how did it work before we got G. Suite or how did it work,
+facts. Yes.
+Yeah.
+For for 10 years in government I. T. I couldn't have told you where a fax machine was right. I if I needed a fax machine I couldn't have even found and then I got here and it's like holy cow now I know where they all were. We had him here and we were using them all. Um But yeah very very paper based very manual processes and and really just trying to change all of that, I mean, so I just within the last two weeks I bought a half rack, I bought two in Iraq's which is I bought two in Iraq ups, I've got I bought a firewall, the vendor has that, but so I've gotten all of this stuff in december 2nd and third is when they're going to be coming and setting all not far, you know, because we, I mean, so I have a have a server here, that's our file server, but it's also storing our Quickbooks instant
+and you know, they've got a backup tape drive and every night they pulled the tape out and they take it home and put a
+new one in but it's never been tested, so
+so we are going to start doing offsite replication cloud through our so certainly having left the state I t I had quite a few connections and I was able to say which vendor I had liked working with the most, so I brought the room, they're going to start working with us on that. I'd like to potentially get to the point to where my Quickbooks instance is hosted. Um I haven't heard good things so that you know you have you can either run an on prem or you can have them host it or they have an online version. Um I haven't heard good things about the online version um because I guess you lose some of the functionality but
+but I'd like to get to the point of having them hosted because it scares, ought to be having this server here. Right.
+You won't,
+I have a contractor, I mean I'm the I. T. Guy here now and which also scares me if I know more intimidating But yeah so uh somebody that I had worked with over the last 10 years when different customer agencies needed things I kind of brought them in or but yeah we've uh You know we were we were running our business on a three Mag DSL line and
+it's like yeah the moment anybody opened a video or something, everybody else just slipped right down.
+What?
+Yeah, wow.
+You think
+well that's really now? Yeah.
+For
+lot else.
+Yeah. Absolutely. Yeah and that that's who I ended up going, who we ended up going with here, we were on we work with Verizon for phone and DSL and we switched over to Comcast business and and it's been a world of difference,
+is that right?
+They
+don't
+out.
+I wonder how much there will be continued investment in that versus how much we'll see things start to switch more to wireless
+well,
+So how long have you been doing the prolific thing?
+I think my first one was last august, just a little over a year, You know, I think I'm about 1000 as well
+at that time.
+Yeah, I mean there's, there's so many options, do you do
+you do anything else? I mean, I I started mturk
+What?
+I'm very late.
+That sleep,
+correct.
+wow, that's fine. I've never heard the travel hacking, Yeah, that's right.
+That,
+Very much doubt.
+Yeah, I so I've done the credit card saying a little bit of opening one to get the the the cash bonus or what happened.
+One thing I did here is I started doing it with bank accounts. Um
+Yep. So I think at one point in August I think I had account at 12 different banks. Um but I think for this year like five grand in bonus so it really
+work
+well
+and
+it's a lot to keep Draco because
+basque no
+sk. Yeah interesting.
+Well thank you.
+Well
+I guess we probably passed our time. Right
+I thought
+I thought that's what I heard. Well you
+just
+did
+thank you very much
+take care
+see you

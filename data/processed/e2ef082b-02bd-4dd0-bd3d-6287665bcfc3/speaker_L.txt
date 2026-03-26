@@ -1,0 +1,75 @@
+Oh yeah. Okay mm. Yeah it's just okay. Mhm. Yeah. Mhm. Yeah. Mhm. Yeah. Okay. Yeah. What? Okay. Uh huh. Oh yeah. Okay. Yeah. Yeah. Yeah. Okay. Oh yeah mm. But Uh huh. Uh huh. I'm, yeah. Okay. Okay. Oh. Oh okay. Yeah. Yeah. Okay. What? Yes. Mhm. Okay. You are so there. Mhm mm. Mhm. Yeah. Yeah mm. Okay. Yeah. Yeah. Oh yeah. Mhm. I think mhm. Yeah. Yeah.
+Yeah. I had to try it a couple of times myself. You have not a problem. I spent a couple of minutes. All right. So pardon my appearance, I I just came in from a run under the sweltering hot where
+we are.
+Mhm.
+no I I participate in in some of these uh you know prolific studies. Usually just kind of anonymous surveys for
+science but never something where you you know, I talked to a human being.
+Yeah. And uh I don't think I've done one where I talked to a person certainly not go have an unstructured conversation, you know? Um So
+yeah.
+Yeah. Yeah. So uh yeah, what what what's what sorts of things do you like to talk about?
+What?
+Bye.
+Okay.
+It is, yeah. And if, you know, if you run into somebody on the train, you know, and you might talk to somebody on the train for 25 minutes. But usually there's there's a there's a queue, you know, like I noticed like, oh you're you're reading about the white sox or you know, something like that and then um you know, start to or I I noticed you're listening to a certain kind of music and start from there, but
+You probably know some person in common or Yeah.
+Right.
+Mhm,
+Yeah,
+Okay.
+Yeah. So, so tell me a bit about yourself, are you working, are you are you taking time off? What's the
+What kinds of freelance work do you do with metadata? What
+kind of metadata?
+yeah.
+Okay. Is this like how they have algorithms now trying to write news articles and um is it that that that type of thing, or?
+No?
+Mhm.
+What?
+I don't know, I'm I'm constantly impressed, especially some of the natural language types of applications. It blows me away some of the things that just seemed to work and work almost every time that I do them, uh it blows me away that on my phone I can trace a pattern on a keyboard. And even though that could define multiple, many multiple words, especially if you account for the fact that I'm not terribly accurate, you know, swiping around and uh it seems to infer like oh yeah this would be a logical word for you to say given what you've already said or that I can speak into a voice remote and um um even even a company is as objectively terrible as Comcast and everything else they do um
+like never once have I muttered anything into the remote and it didn't come back exactly with what I said, you know, I mean that's pretty good. Uh
+Yeah, yeah and you know, I think, I think some of it is because yes, certainly like google for instance, they've got such a massive amount of of you know, test cases they picked up over the years and it also blows me away. You can start typing almost any search query and and it starts guessing, you know, you put one word in and it starts like uh and presumably my guess is for me are sort of customized to what it knows about me and it would maybe give you different things, but it just blows me away how how good some sometimes it's humorous they becomes was like, wow,
+Yeah. Yeah, for sure. For sure. Yeah, I do I do a fair amount of I guess you'd say data work myself, although I'm more it is a more into management now than actually working with with the data myself. But a lot a lot of, a lot of our, yeah, a lot of our clients are interested in extracting um, you
+know, uh information out of unstructured sources and and and and and things of that sort, you know, so like um um you know, uh here's a now here's a form where companies are required to disclose in any format they see fit, but you know, they're they're required to like put this on public record and you know, we would actually like to turn that into a systematic database um of the bits of information in there. Um Yeah, yeah, it's uh just sort of seeing how that space has evolved in 15 years or so. It's it's um quite impressive. Right.
+Thank you.
+Yeah, yeah, it is, it is, it's fascinating. Uh yeah, what
+before,
+a lot lots of different domains, so, you know, I work in an academic environment and, and so um it uh yeah, the, yeah, the domains can, can, can, can range anywhere. I I think I probably started with uh yeah, trying to, you know, years and years ago you're trying to extract different information out of, you know, like say say Ebay listings, you know. Um so so you can get lots of structured information about how the bidding for a certain item went. But then there's this unstructured part of, you know, how, you know, what what what attributes of the object did the person mentioned when they described it. And so so let's get you into natural language a little bit. And other times it might be like financial disclosures with the Securities and Exchange Commission or um
+so you know, people, people interested in, you know, finance and accounting type of questions want to, you know, they, you know, they have kind of like bottom line in fact just recently, you know someone was asking um you know like I want to I want to capture, you know what what firms are saying recently about their coronavirus related business risks. You know like what what are they saying in these disclosures? And are they writing down,
+you know, are they are they saying that we think sales are going to be down or you know, we're gonna lose employees or we're going to you
+know, you know, lots and lots of different impacts. But uh so you're helping them think through that. You know, sometimes people get really ambitious and they they say you know, I
+want
+to I want to go on the chinese equivalent of twitter,
+you
+know like see who's who you know how you know stuff about different, you know korean pop bands are propagating on, you know, sign away poet. I really well I'm not sure I could do that in english and let alone I don't
+you know, I I've got very limited mandarin. It's hi.
+hmm.
+all
+Yeah.
+Yeah. Yeah, it's come a long way and yeah, I think uh you know people systematically collecting all of the, you know, a lot of the, you know in the old days you would you would try to figure out the rules of I spent
+a lot of time where I would I would stare at a piece of paper and I would say like okay like I understand what this is sound literate, you know, and I can look at this and I can see there's a table there and I know that that number means a certain thing um you know because I've spent my whole life learning how to read faint, you know? And um and now I'm able to do it and I'm trying to think, you know about how how how do I write instructions for a machine to how do I turn off this and then break, break what I'm doing down into sort of like it's a simple 21 step process, you know? But now it's it's like, you know, and so much of our interpretation is based on the fact that you have this this built up knowledge, you know that when you see Wisconsin it is a place, it is a it is is in this location relevant to other things. And um and that gives you all of these clues. When you're reading anything unfamiliar, you can start to like, oh that must be what they mean and um the fact that now these uh I think these these big these big data big tech companies are able to amass enough of that common knowledge based on having seen all of our search queries and you know you read a few billion emails, you learn how people make sentences and Yeah. Yeah.
+Well.
+Mhm. Mhm.
+Uh That's good. Uh Yeah, so what kind of things do you, you know outside of working, what what what kind of hobbies do you have?
+thank
+you.
+And
+maybe next year
+I like music a lot. Also in fact it just um just just over the weekend I started reading a biography of musician that I I liked a lot when I was growing up and sort of this fan boy who I think I think it was quite similar to me, maybe a little bit younger, but just sort of like worship this band in the way, like um sort of found a little niche in his life where he tracked the all of the principles down and, and uh, you know, talked him into having interviews and you can I meet your family, can I see your letters, things like that, and um and it's just like, I can't uh I can't even put it down. I I yeah,
+it's about uh it's about this guy steve killed me. He was the lead singer for a band called The Church out of Australia.
+Uh, they were kind of big in the eighties and then they've been hanging around for a long time, but, you know, um I guess that was the heyday. Um and
+then uh you know, um yeah it was a band that wasn't that popular at the time, you know they had a couple of you know I guess a couple of things on the radio that you might have heard but um but yeah like if you were really into them, like if you were into them you were really into them and uh yeah mm.
+a little bit yeah snob.
+But I'm
+paul
+yeah it's a it's a great it's a great thing to be interested in and I'm you know, I'm bummed we have uh I live in the Chicago area and we have
+uh this uh sort of three day uh music festival called Riot fest. It's like my one big indulgence now that I've got a kid and you know, I can't really go out as much as I used to. But um that's the one thing where it's like okay for these three days just you know like take all my calls I'm I'll see you monday and uh um yeah that's that's been uh well canceled but they optimistically said no no no we just rescheduled it for like this weekend in 2021
+you know your tickets are now are going to be honored when we have it then and you know hopefully
+that will be able to go forward and you know um Yeah.
+you know one day it will come back and it will be
+a really sweet thing when it does because I think we'll all appreciate what we've we've been missing but but you know I agree it's um yeah for a long time I remember years ago I noticed you know I would look on the T. V. And you know so many channels and you'd see like oh wow there are these channels that are just you know like you can watch this performance that was recorded, you know um and I think that's great. I'll record and we let me I'll watch johnny Cash, I'll watch you know, this band that I like. And uh every time you know you just sit down in your living room on your T. V. Set and you turn it on, you like this is kind of boring. I don't uh
+you know this is this is not quite as interesting to me, it's just like putting putting it on the stereo and just like what watching this is not is not doing it for me. And I and
+I think it's because you miss the uh you know all the physical aspects like having the, you know like you like feel the bass shake your chest and you know, it was like um that's kind of cool or having a crowd just sort of do what it does spontaneously, you know, that's uh that's a special thing. Um
+Absolutely. Well, you know, I think we're at the time where we can go and uh we'll fill out our survey now, right?
+Yeah. I had a really nice time talking with you though.
+Well
+this is great. It's totally painless. You have that
+you have a great evening. Okay,

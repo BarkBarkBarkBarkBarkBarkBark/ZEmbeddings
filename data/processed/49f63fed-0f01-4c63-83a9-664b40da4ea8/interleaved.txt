@@ -1,0 +1,306 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hey how are you?
+SPEAKER_R: Good. Are you
+SPEAKER_L: I'm pretty good. What's your name?
+SPEAKER_R: Kenneth
+SPEAKER_L: Hey Kenneth. I'm bess.
+SPEAKER_R: best?
+SPEAKER_L: Yes B. E. S. S.
+SPEAKER_R: Uh huh. Nice to meet you.
+SPEAKER_L: Yeah you too.
+SPEAKER_R: Is this your first time doing one of these?
+SPEAKER_L: It's my second.
+SPEAKER_R: Second base? Fifth time?
+SPEAKER_L: that's cool. Have they all been like close together or have they been spread out?
+SPEAKER_R: The first two were a couple weeks ago and then they messaged me again so I've been doing a couple again. Yeah,
+SPEAKER_L: has the experience been like? Mhm.
+SPEAKER_R: I think it's pretty interesting. Um Meeting random people talking to. Uh huh.
+SPEAKER_L: that's cool. Where are you from?
+SPEAKER_R: I'm from Long Island. What
+SPEAKER_L: I'm
+SPEAKER_R: are
+SPEAKER_L: from
+SPEAKER_R: you
+SPEAKER_L: Georgia.
+SPEAKER_R: Georgia? It's a store warm ish
+SPEAKER_L: Yeah still pretty warm. It I'm actually
+SPEAKER_R: course.
+SPEAKER_L: on vacation right now so I'm at the beach so it's quite your. Yeah. Yeah
+SPEAKER_R: It just got like super cold here in the past couple of days, Everything.
+SPEAKER_L: yeah definitely not definitely not. It'll probably be like hot at Halloween.
+SPEAKER_R: Mhm. That's nice. Yeah.
+SPEAKER_L: Mhm. So what do you do?
+SPEAKER_R: Uh right now I just graduated from college at the start of the year, like right before Covid and everything. Um So I'm still looking for work. But
+SPEAKER_L: It's good timing. Yeah.
+SPEAKER_R: I was a school for computer Engineering. We're looking for like software jobs type stuff.
+SPEAKER_L: You like code like development? Okay.
+SPEAKER_R: What are you?
+SPEAKER_L: Um I work in like child welfare, social work flight government, state agency. Child welfare. Yeah so
+SPEAKER_R: Do you work
+SPEAKER_L: it,
+SPEAKER_R: with kids like directory?
+SPEAKER_L: well so like I started I've been with my agency or in the field um like nine years so I started out like kind of front line I guess you know go out knock on people's doors and investigate kind of stuff. Um And then I moved up to a supervisor and now I'm the director of my county office, so less like fieldwork, hands on stuff and more people management and a little bit of that stuff and you know handling problems and building relationships and that kind of stuff so.
+SPEAKER_R: hm. It's interesting.
+SPEAKER_L: Yeah. Um Yeah we've been teleworking since March, which is, it's a really weird field to try to make remote, yeah
+SPEAKER_R: like it.
+SPEAKER_L: I guess you know at least you're you're in a field that is more remote friendly. My husband's in, well he was he did like a like a tech company in Atlanta. Um and then he was out of work in january and spent a lot of time looking for remote jobs in the tech industry. So there's a lot out there so hopefully you'll kind of like,
+SPEAKER_R: fingers crossed.
+SPEAKER_L: yeah, like what, it's not really, my clearly I'm very different field from what he is and what you are, but uh what, what languages do you program it?
+SPEAKER_R: Uh mainly like C plus plus and python. Um Yeah, in college I had some co ops which are like internships um and that is the stuff we used there. Uh So
+SPEAKER_L: Okay. I'm vaguely, I mean I don't know anything about coding, but uh, you know, he has, it wants to learn more of the developer side of things and python is like the coding language he would like to learn. So
+SPEAKER_R: Yeah, it's really popular.
+SPEAKER_L: there. Cool, so you live alone, you live with other people,
+SPEAKER_R: Uh Yeah, right now I'm staying with my parents after college, but uh I think I'm on Long Island right now and a lot of jobs are in like new york city and stuff. Um So I might end up going to the city. Yeah.
+SPEAKER_L: How long would that, could you commute, How long is that from you?
+SPEAKER_R: It's funny they say is uh I forget the exact numbers of like distance. It's like a couple of miles and then time it's like five hours and like um so yeah, probably look to live somewhere in like queens. Um
+SPEAKER_L: Oh,
+SPEAKER_R: because I'm in the middle of Long Island, so it
+SPEAKER_L: what,
+SPEAKER_R: would be too far for commuting. Yeah. What about you?
+SPEAKER_L: Um well obviously have my husband and then we have three Children, all
+SPEAKER_R: List?
+SPEAKER_L: girls and their seven and 5 and one, so that's our household composition. It's kind of loud and crazy and chaotic usually.
+SPEAKER_R: Have they been doing like online classes?
+SPEAKER_L: Yeah. So my my two older our school system, initially they were going to do like virtual option, but then the school board changed that plan a little bit before school started and decided to do virtual only. So um they've been doing virtual, we have like a learning like a pod style learning group at our house because um I don't know how to come up with something and I'm teleworking and I have my youngest child and then both of them have school. So my mom is a retired teacher, so she came over every day and we had like 14 kids including my at my house every day doing their online stuff. Um but we're on fall break right now and when we go back, they decided to do, you can return if you want to or you can continue virtual. So they're going to go back in person after this week.
+SPEAKER_R: Hm Please.
+SPEAKER_L: Yeah. It's interesting like applying kindergarten to online virtual
+SPEAKER_R: Four.
+SPEAKER_L: stuff, but they do everything through google, meet google classroom, so it's fairly easy for us to figure out,
+SPEAKER_R: Mm. Imagine it would be hard for a teacher
+SPEAKER_L: come on.
+SPEAKER_R: to coordinate a bunch of young kids or community.
+SPEAKER_L: It's interesting to see kind of how they progressed from when the very, when the very first started to, you know, just this last week, my older child is in second grade and we had several second graders in our pod and they definitely most of them, which my child is pretty bright and most of the kids, we had our pretty sharp. Um So they kind of figured it out, you know, they got pretty good kind of had, you know, expectations and rules and make sure you mute your mic, so they're not all talking over each other and it got much more efficient I think as it went along. Yeah.
+SPEAKER_R: So you have plans for the vacation or just relaxing by the beach?
+SPEAKER_L: There's a couple things like we're planning to do, we went to the beach yesterday today we went um to like pull on the playground. Um I kind of mostly just that going out to eat shell kind of stuff. A dog or a cat. Uh huh.
+SPEAKER_R: Small dog.
+SPEAKER_L: What's
+SPEAKER_R: I think she
+SPEAKER_L: your dog's
+SPEAKER_R: uh I gotta let her out. She insisted on coming in here.
+SPEAKER_L: that's okay. Go for it. Mhm. Yeah.
+SPEAKER_R: Yeah. Yeah. Uh if I keep my door closed, she scratches at it to come in and then she comes in, she got to go out. He's policy like that
+SPEAKER_L: What's her name
+SPEAKER_R: molly.
+SPEAKER_L: molly?
+SPEAKER_R: And I have another dog koda.
+SPEAKER_L: Well it's just coming back. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: we have two dogs and two cats so I get
+SPEAKER_R: Please.
+SPEAKER_L: it.
+SPEAKER_R: What kind of dogs?
+SPEAKER_L: Um We have I don't know if she's are my dog lux is just like a but I don't know maybe like Pitbull rhodesian ridgeback near dogs. Really pretty. Um And then we have like a £5 yorkie. They're
+SPEAKER_R: We're
+SPEAKER_L: they're a fun little duo. Yeah.
+SPEAKER_R: Of of they're both the same breed maltese yorkie mix. More keys.
+SPEAKER_L: More keys. I'm working Mindy. So you play guitar? There's yours mm.
+SPEAKER_R: Have three guitars. one is like electric, acoustic, electric and acoustic guitar but um I only actually got one of them for myself. The other two were my mom and my brother both used to play but then they stopped so they gave it to me
+SPEAKER_L: Well you know I'll
+SPEAKER_R: Dick.
+SPEAKER_L: take them. Right. That's cool. Do you like are you in a band you play with other people or you just,
+SPEAKER_R: Uh Yeah I just do self taught of I remember in high school all of my friends started a band but there are so many guitar players already so
+SPEAKER_L: The market is just like full of guitar players. So what kind of music are you into?
+SPEAKER_R: Uh for guitar I do a lot of classical like finger picking style. Um Haven't done as much with the electric guitar.
+SPEAKER_L: Okay. What do you like to listen to? Like what are your favorite bands?
+SPEAKER_R: Yeah. Um I listened to a lot of like random stuff online, like
+SPEAKER_L: Every
+SPEAKER_R: they usually
+SPEAKER_L: that's
+SPEAKER_R: can't find them on Spotify and stuff, it's like SoundCloud. Um It was genres like lo fi hip hop um stuff like that.
+SPEAKER_L: All right.
+SPEAKER_R: What do you listen to?
+SPEAKER_L: Um Well it always get someone else when people are like I like everything because I think that's I don't know not true so I don't
+SPEAKER_R: If
+SPEAKER_L: like everything. Uh I grew up on like mainstream country music and I still listen to a good bit of country but then I just like other other things like um you're listening to cohesion Cambria. Okay well it's kind of like progressive rock kind of mentally I'm not really good genres. Um But you should look them up, they're
+SPEAKER_R: Cody and
+SPEAKER_L: Co heat and Cambria.
+SPEAKER_R: cokie.
+SPEAKER_L: Co C. O. H. E. D. In Cambria.
+SPEAKER_R: Mhm. Pick them out. Oh.
+SPEAKER_L: the singer has like the most fabulous hair. It's like this big uh Yeah they also have like uh kind of comic books, graphic novels that go with their albums that the singer writes the stories for. So that's
+SPEAKER_R: Good.
+SPEAKER_L: kind of different, interesting. Um So I really like that um There's a band called ludo that's not super popular and they really weren't even together, have you ever heard of them? Okay, so they're like, I don't know, it's been like maybe Like when I was in college which was 32 now, so how do you know 10 years ago? Um they were kind of big then big ish. Um Then they haven't really been a thing anymore and then a couple years ago they started doing these like, yeah Halloween reunion shows, needed them for like two years in a row, and like they're from ST louis so they do it in ST louis and people come there really kind of weird, I don't know how to how to exploit their kind
+SPEAKER_R: lot
+SPEAKER_L: of
+SPEAKER_R: of musicians are,
+SPEAKER_L: Yeah, like uh that's kind of funny and fantastical and just um I am kind of spooky in a fun way and it's hard to explain. But we went, my husband and I went last year to ST louis um for their they call it how ludo, wayne ludo, Halloween. Um little concert weekend and they had three shows last year and they had a different theme um and the one that we went to was like an eighties prom themed concerts, everybody dressed in tacky eighties kind of prom stuff. Um And they seemed the whole show as if it was a prom and then there's like, plot. It's kind of a lot, but look them up because they're they're a good time to
+SPEAKER_R: and I was called
+SPEAKER_L: ludo L. U. D. O.
+SPEAKER_R: The Media after. Uh huh.
+SPEAKER_L: yeah, it's kind of weird stuff, but I don't have any musical talent, like I played piano as a child and I hated it. Yeah,
+SPEAKER_R: hmm.
+SPEAKER_L: hated it. It was like pulling teeth. Um But I really enjoy music like very and it's like, I always have a song in my head like, at all times whether I'm
+SPEAKER_R: No,
+SPEAKER_L: conscious of it or not,
+SPEAKER_R: three.
+SPEAKER_L: and yeah. Yeah, like I just if I'm in the car, I have to have music, I do listen to podcast sometimes, but I don't know, I'm just, my husband doesn't mean he hasn't dislike music. He just doesn't like music, which is the only person I've ever met like that.
+SPEAKER_R: Yeah, it's
+SPEAKER_L: Like who
+SPEAKER_R: rare.
+SPEAKER_L: does that? Like? I know right. It's like he doesn't understand it, like it doesn't it does nothing for him. And even if I'm like, oh adam you need to listen to the song is really good. He'll like forget that he's supposed to be listening to it like part way room, want to start it over because I know he just like turns it out, it's strange. Um But you don't have any musical talent, I'd say. I wouldn't say mm
+SPEAKER_R: Yeah, it was tough. I tried to learn piano at one point but I could never get the coordination like both hands.
+SPEAKER_L: Yeah, I think I don't know, I think musical talent is something you have to be like predisposed to almost and I don't I don't know that I I am. Mhm. Mhm.
+SPEAKER_R: Mhm
+SPEAKER_L: Yeah, that's my um I chatted with somebody yesterday for my first chat and I think she also maybe had a guitar in the background. Uh but we didn't talk about it so I don't know, it feels hers or somebody else's. Mhm
+SPEAKER_R: what else have you been doing the past? The quarantine time?
+SPEAKER_L: Um I don't know, it all just runs together just like time, it's like on a different wavelength. Um Yeah, I mean just like working from home and juggling my girls school and let me go to the gym still, so you know, that's good. I've been able to not have commute time so I've got more time to do other things, so that's kind of nice.
+SPEAKER_R: Yeah, it's one of the nice things about the remote kind of hope that like sticks after. Yeah.
+SPEAKER_L: In some ways, yeah. So um you're in tv her movies?
+SPEAKER_R: Um I remember watching a lot recently uh I watched avatar, The Last Airbender.
+SPEAKER_L: Okay. My seven year old has recently gotten really into that.
+SPEAKER_R: mm Yeah I watched it like probably six times over. It's one of my favorite shows. Um I think I got popular again because the netflix picked it up. Um But
+SPEAKER_L: Oh.
+SPEAKER_R: we convinced uh
+SPEAKER_L: Yeah,
+SPEAKER_R: have three siblings, two older brothers and one younger sister and we all love the show and we finally convinced my parents to watch it too and they really liked it so I definitely recommend it.
+SPEAKER_L: Yeah, I said, like I said, she's like super into it all of a sudden and we have to decide who in our family is what kind of bender. But I don't, I haven't watched it and I don't like I think maybe I would like the the content but I don't know what it is about anything anime or anime ish style animation but it just does not work for me, like I just can't do it. My husband likes it but it's not for me.
+SPEAKER_R: Yeah my parents off the same way but when it's called My Daughter
+SPEAKER_L: maybe I could get past it. I don't know. What else do you watch or have you watched?
+SPEAKER_R: um we're watching Enemy uh so um some popular show is Attack on titan, my hero, academia like superhero kind of Germans, what are you?
+SPEAKER_L: Um We started Game of Thrones um but then we've kind of been off of it for like a month or so because my husband started a new job and it's been less than we haven't had as much time to do things like watch tv but we had started Game of Thrones. Um I don't know I like to binge things. Netflix kind of stuff about Sherlock.
+SPEAKER_R: I've seen episodes my parents are watching it, not
+SPEAKER_L: It's
+SPEAKER_R: all of
+SPEAKER_L: good.
+SPEAKER_R: it
+SPEAKER_L: Sure looks really good. Uh Yeah I know a lot of things I like I like tv I don't watch as many movies um but I do like to to binge some tv when I can.
+SPEAKER_R: I never watched
+SPEAKER_L: That's
+SPEAKER_R: Game of Thrones but everyone else in my family did and I know they had the same
+SPEAKER_L: I
+SPEAKER_R: reaction
+SPEAKER_L: don't
+SPEAKER_R: as
+SPEAKER_L: know
+SPEAKER_R: a lot of people
+SPEAKER_L: what
+SPEAKER_R: online to like the whole
+SPEAKER_L: happened.
+SPEAKER_R: ending. Uh
+SPEAKER_L: don't know how it ends in downtown.
+SPEAKER_R: I don't know either.
+SPEAKER_L: Yeah I definitely saw the sentiment that people were just outrage. Yeah. Yeah I feel like we're like really late to get on the game of Thrones bus. But my husband's listened to all the the audio books for all the books so he kind of knows where things are going for a lot of it and I'm just kind of going in blind.
+SPEAKER_R: mm Yeah they're still waiting on the authors a horse, like the real ending. Mhm.
+SPEAKER_L: then we just we just forget how the show ended and we'll just go with whatever George comes up with. Yeah this certainly the other shows um watched fleabag on Prime I think it's on Prime.
+SPEAKER_R: Third of it?
+SPEAKER_L: No it's only two seasons and like I thought I wasn't going to like it but like 15 seconds into the first episode and we were like this is fabulous and it was so good, so good. Um It's kind of a quirky dark comedy kind of thing. Um Yeah I don't know trying to think what else like a million things probably, but it's not as much lately to what other hobbies do you have?
+SPEAKER_R: uh because I have a lot of free time with like quarantine and stuff. Um I've been looking into wed crafting is one of them um Like I oh I have this that I made before
+SPEAKER_L: it's
+SPEAKER_R: the school and I wanted to make a uh an ocarina which is like a wind instrument, but it's proving to be a lot more difficult than I thought um Because
+SPEAKER_L: Yeah.
+SPEAKER_R: you
+SPEAKER_L: Just
+SPEAKER_R: have to
+SPEAKER_L: right for the Mhm.
+SPEAKER_R: Uh Unlike my third attempt at making one um
+SPEAKER_L: That's pretty
+SPEAKER_R: I asked
+SPEAKER_L: committed.
+SPEAKER_R: her,
+SPEAKER_L: You're willing to try greed.
+SPEAKER_R: Um also made, I started doing home brew. Um I brought a beer kit and a wine kit that I haven't gotten to try them out yet. It takes like a month for each of them, but
+SPEAKER_L: it's kind of a delayed gratification sort of hobby there
+SPEAKER_R: yeah, but I'd
+SPEAKER_L: usually.
+SPEAKER_R: be interested to see how it comes out and then you get to like test things by making adjustments, suiting them to how you like. It would be interesting
+SPEAKER_L: Yeah my cousin's husband got into that and I think initially he was making mostly wine and then at some point I think he started just making a lot of kombucha so. Yeah.
+SPEAKER_R: I always hear about computer, I don't really know like what it is.
+SPEAKER_L: Yeah. I don't know the idea just sounds gross to me like I've never tried it because I just feel like it was just tastes terrible so I'm the same like it's just kind of this thing I'm vaguely aware of. Yeah. Mhm.
+SPEAKER_R: Uh huh.
+SPEAKER_L: Okay. That's cool. Those are interesting. Quarantine hobbies to pick up.
+SPEAKER_R: There and it's gotten really popular online but with baking during quarantine um I made my own bread with like flowers I
+SPEAKER_L: makes
+SPEAKER_R: mean
+SPEAKER_L: me like sour like can I get yourself right,
+SPEAKER_R: I wonder
+SPEAKER_L: it
+SPEAKER_R: what
+SPEAKER_L: was good.
+SPEAKER_R: yeah, it came out pretty good. She's crying again. Such
+SPEAKER_L: You mean
+SPEAKER_R: a she's such
+SPEAKER_L: Let me need this one.
+SPEAKER_R: Yeah Maui, you were all right.
+SPEAKER_L: Yeah. Yeah. Yeah. Where are you know?
+SPEAKER_R: Yeah, she's bossy. Uh Yeah, it came out pretty good. Um I wonder what it is about quarantine that makes everyone want to make bread.
+SPEAKER_L: Yeah. I don't know I guess maybe because there was that initial like can't find what you need at the grocery store, you know apocalyptic kind of vibe. And so everybody started getting into you know old school self sustaining kinds of hobbies. Yeah,
+SPEAKER_R: Mhm.
+SPEAKER_L: I didn't I didn't try to make any bread but yeah sour dough has been a thing and then everybody's making that coffee like you like, whip it and it's frothy. I don't even know if that's called, Have you seen that online? Everybody's Yeah.
+SPEAKER_R: Like a lot to kind of.
+SPEAKER_L: Oh no, I mean it's I don't know, they like stir it for like some exorbitant amount of time and it like almost becomes like fluffy.
+SPEAKER_R: Hm
+SPEAKER_L: I don't know, I don't know what it's called, but I've seen that being
+SPEAKER_R: Dinner.
+SPEAKER_L: kind of trendy food stuff.
+SPEAKER_R: Never heard of that. Um
+SPEAKER_L: I'm doing that stuff. Oh
+SPEAKER_R: Mhm. Banana bread is another big one.
+SPEAKER_L: definitely made some banana bread mostly it's because like be by bananas and then nobody eats the bananas and then I don't want to waste so make banana bread, but my girls really like it, so it works out well.
+SPEAKER_R: please.
+SPEAKER_L: Go do you do a lot of cooking just in general?
+SPEAKER_R: Um mm I think my family mainly does like we'll cook once or twice a week and uh sort of a big family, it's me have three siblings and my parents we kind of do like a factory line of just like chopping vegetables and everything.
+SPEAKER_L: it's nice thing. I like do stuff together. Yeah.
+SPEAKER_R: But uh not so much the every time I see recipes online it's more like specific or refined kind of steps.
+SPEAKER_L: We do a lot of like um like subscription box kind of meal kit delivery things. Um Like Hello Fresh usually. Hello Fresh and blue apron. Um And then we found every plate which is like cheaper and just as good, so we pretty much do that now. Can we get like three meals a week from that I missed? We just get to like to feed to like me and my husband and we just pick something else for the kids because they don't always want to eat whatever we're eating. Um Well that's been really fun. I feel like it gives us like variety instead of just making like the same few go with what, you know, kind of things living
+SPEAKER_R: hm.
+SPEAKER_L: in that for several years though.
+SPEAKER_R: Yeah, I was interested in tricking those out at one point. Sounds good I
+SPEAKER_L: Well
+SPEAKER_R: think.
+SPEAKER_L: if you want to go with the cheaper option, I'd recommend every plate. Yeah.
+SPEAKER_R: Mm.
+SPEAKER_L: Sprinkle yeah. What else? What else? What's um so like the people that you've talked to? Has it been like a lot of variety and the kinds of people like it there? How do they, is it just random? Do you think how they pair people up or is there some?
+SPEAKER_R: That was one of the things I was wondering too is like if there's any specific uh thing they're looking for when matching people. But yeah, I don't know. I feel like uh a lot of the people I've talked to we're in kind of like a similar situation as I am like looking for work because of covid and then prolific has like studies and stuff, but uh yeah, I don't know how they pair people.
+SPEAKER_L: It's just been kind of all over the place the people you compared with. Okay. I thought because the one I did yesterday, my first one um we were like very similar. Like
+SPEAKER_R: Hm
+SPEAKER_L: I'm 32 and she was 33 and we're both like white women in the southeast with kids. Like it just felt very like OK maybe they try to match people as identically as they can, but then you are more different. So I don't know. There went my hypothesis. How long? Human new prolific.
+SPEAKER_R: Yeah. Uh about three or 4 months. Uh
+SPEAKER_L: one month then I heard
+SPEAKER_R: one month.
+SPEAKER_L: about it on reddit and was like if this should be fun.
+SPEAKER_R: uh He's read it. Yeah, the same sleep.
+SPEAKER_L: What all do you like on Reddit? What are you into and read it? Such a vast wonderland?
+SPEAKER_R: Uh I use separate livestream fails a lot. I watch twitch streamers. Um so it's like video game content and stuff.
+SPEAKER_L: What games are you in here? Mhm.
+SPEAKER_R: I was just looking at getting a VR game, I have a VR headset. Um it's a VR horror game and I usually don't play hard games, but I feel like I got to try the virtual reality experience at least once. So yeah,
+SPEAKER_L: that's
+SPEAKER_R: What's the credits do you go on?
+SPEAKER_L: Um lately I've gotten really into our skincare addiction um because I don't know, I've had like face issues lately and so I've been like I'm going to learn how to like really and like its comprehensive, there's a lot on their uh so I've been doing that a good bit um and then just kind of like a bunch of the just regular stuff that it pre loads. Um I follow like the mid century modern so I read it
+SPEAKER_R: I never heard of that one.
+SPEAKER_L: okay. I don't know, it's you know like mid century like furniture and architecture and housewares and art and things because I'm into that anyway. Um
+SPEAKER_R: Mhm.
+SPEAKER_L: Yeah,
+SPEAKER_R: Mhm.
+SPEAKER_L: lately there's have kind of been but I peru's
+SPEAKER_R: Yeah. That's cool. That's what's nice about read it. It's like can specify whatever subreddit is you want.
+SPEAKER_L: Yeah. Yeah. I know. It's like very personalize double I guess.
+SPEAKER_R: Yeah. I found that like any time I'm looking for opinions on stuff I always add like reddit to the google surface because mhm. I
+SPEAKER_L: Sometimes
+SPEAKER_R: trust,
+SPEAKER_L: you have to and other people have weighed in.
+SPEAKER_R: yeah, I trust like people voting and commenting rather than like one article about like recommending stuff.
+SPEAKER_L: Yeah. Yeah. I felt like lots of internet search results are going to be very like sponsored, but if you're right red, it's more Yeah. I guess crowdsourced information. Yeah. Oh, cool.
+SPEAKER_R: Yeah.
+SPEAKER_L: Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: All right. Yeah.
+SPEAKER_R: Yeah,
+SPEAKER_L: I think
+SPEAKER_R: I think we're
+SPEAKER_L: we probably have we hit her 25 minutes probably. Okay. No. Well, cool. I'm
+SPEAKER_R: it's nice meeting
+SPEAKER_L: you
+SPEAKER_R: you.
+SPEAKER_L: to Kenneth. It's been a fun conversation
+SPEAKER_R: Yeah. Best of
+SPEAKER_L: with.
+SPEAKER_R: luck.
+SPEAKER_L: We're a job search.
+SPEAKER_R: Thank you.
+SPEAKER_L: Yeah. You'll find something before.
+SPEAKER_R: Keep it up.
+SPEAKER_L: Yeah. I know. That's a hard game. The job hunt work. Yeah.
+SPEAKER_R: Which?
+SPEAKER_L: All right. We'll take care.
+SPEAKER_R: Thank you. You too.
+SPEAKER_L: All right. Bye.

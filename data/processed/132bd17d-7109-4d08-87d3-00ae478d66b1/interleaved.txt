@@ -1,0 +1,250 @@
+SPEAKER_R: Hello?
+SPEAKER_L: Hey good morning.
+SPEAKER_R: More than a
+SPEAKER_L: It's
+SPEAKER_R: hit felt.
+SPEAKER_L: why I mean what's your name?
+SPEAKER_R: I'm Alex
+SPEAKER_L: Alexander Russell.
+SPEAKER_R: nice to meet you
+SPEAKER_L: You too man. Right
+SPEAKER_R: you at?
+SPEAKER_L: uh columbus Ohio.
+SPEAKER_R: Oh cool, I'm from Baltimore Maryland.
+SPEAKER_L: Oh cool both of these clubs Yeah
+SPEAKER_R: That's probably why we're giving six
+SPEAKER_L: yeah man the last person I spoke with I did a seven a.m. Session and she was she was in California so it was really
+SPEAKER_R: well.
+SPEAKER_L: early for. Yeah
+SPEAKER_R: Yeah.
+SPEAKER_L: she was a student she just woke up and she I mean she was really groggy so it wasn't much of a conversation. Yeah.
+SPEAKER_R: Yeah.
+SPEAKER_L: Yeah.
+SPEAKER_R: How more
+SPEAKER_L: What do you do and what do you do in Baltimore?
+SPEAKER_R: I go to school? Yeah. So yeah, I'm in school right now, it's not
+SPEAKER_L: What
+SPEAKER_R: fun.
+SPEAKER_L: do you study you?
+SPEAKER_R: computer science.
+SPEAKER_L: Oh nice. I'm actually my day job. I'm an I. T. Director director ready for pharmaceutical company. A lot
+SPEAKER_R: Mhm.
+SPEAKER_L: of work man. Uh huh.
+SPEAKER_R: sounds like a lot of work. Yeah, just
+SPEAKER_L: So what are you gonna go into I can't go into like programming or
+SPEAKER_R: yeah, I want to be a cell. Um Although I am developing a video game right now and uh I'm not sure if I want to pursue game development, but yeah, I know, I know I want to program just I don't want to do like financial stuff because you know that's just kind of soulless but yeah, yeah,
+SPEAKER_L: Mhm.
+SPEAKER_R: I just I know that I like coding but yeah, not not so sure exactly what type of company I want to work for yet.
+SPEAKER_L: Very cool. So you're developing a game you said you're working with a team or you just are you
+SPEAKER_R: Well
+SPEAKER_L: taking this town by yourself?
+SPEAKER_R: last
+SPEAKER_L: How
+SPEAKER_R: year I
+SPEAKER_L: did
+SPEAKER_R: was
+SPEAKER_L: you have
+SPEAKER_R: doing my school's club, video game making club and I was on a team when we made a game. And then once coronavirus started happening, I, we finished it
+SPEAKER_L: With wounds?
+SPEAKER_R: and that was bored. So I just
+SPEAKER_L: Well,
+SPEAKER_R: started making my own. And yeah, it's just, it's been over the past few months. It's like nothing special. So it's a pixel games. So like I've been, hey, taking all that. But uh, yeah, it's cool. So it's hopefully
+SPEAKER_L: That's awesome.
+SPEAKER_R: something I can inject into like a website I'm gonna make so I can show employers and all that. Yeah,
+SPEAKER_L: Very cool. It's gonna be a lot of fun.
+SPEAKER_R: I hope so.
+SPEAKER_L: Yeah, I worked too. I imagine. I mean everything going into developing a game. I know every time I get to the end of the game and I finally finished the game, all the credits that role by, it's like watching a movie. How many people go into making a video game. Yeah.
+SPEAKER_R: are like mega million dollar blockbusters. This would be more akin to an indie film, you know? Uh huh.
+SPEAKER_L: national.
+SPEAKER_R: What kind of games
+SPEAKER_L: What
+SPEAKER_R: to
+SPEAKER_L: I mean?
+SPEAKER_R: play?
+SPEAKER_L: I like adventure games, like, um, like
+SPEAKER_R: Yeah.
+SPEAKER_L: puzzle games, you know, ones that make you think try, like they give you puzzles and try to try and solve them. Um, I really loved, like my favorite series was Siberia from mart's stock Scotland. Um,
+SPEAKER_R: Yeah.
+SPEAKER_L: I also like this one game called uh, sanitarium, basically you wake up, uh, an operating table like your, you died somehow and you have to figure out what happened to you. So you you walk around and figure out you know where you're at, what your purpose is.
+SPEAKER_R: Yes. Yeah. Have you heard of Milos principle?
+SPEAKER_L: All right, what you want to come.
+SPEAKER_R: The Talos principle? So it's kind of like a it's a puzzle game where it's kind of like a bunch of these like levels that you you play through and you're like this robot guy who's having this, like I talked to you the whole time like through some intercom kind of like portal
+SPEAKER_L: I mean, yeah.
+SPEAKER_R: Except there's no like portal gun mechanics, it has its own set of mechanics and then they release them as you progress. Yeah, it's a great one, you know, it's really because it's it's it's kind of like a traditional, I don't know, physical, one of his physical puzzle things where like they give you a book and you construct the puzzle and then you have to solve the puzzle, it's like kind of that, so yes, they give you certain aspects that you have to change within the level to complete a complete it, so it's cool.
+SPEAKER_L: Just look after that. Yes. I haven't well I've had time to do much. We are right about the time when the pandemic it, my company um we actually have a third party who manages our network management, damage our servers or they did. Um
+SPEAKER_R: It's like an eight of
+SPEAKER_L: Yeah, I mean all our shirts were like Nicolo, we actually grounded all the hardware for them, but they actually managed anytime we needed to have a grade or Mhm. Um Anything like that. Um They would manage those but anyway um when they're text uh let a trojan in through the back door. Um and it spread across all of their clients servers. Uh We got lucky Um They stopped it before we did too much damage, We know there's any data. Um But we had to yeah, obviously we're we had to migrate ourselves away from from them. So that was in february And we're right now in Phase two of the migration, we're staying up Nutanix servers, alan the new vendor. So we're almost through it, man, uh keeps me busy. I don't have time for anything else, you know?
+SPEAKER_R: New project, yeah my my uncle, he has neighborhood thanks contracting company and uh I think it was last year where they got caught by ransomware, like all their computers got ransom weird and he had to talk to the federal like FBI or whatever and they basically told them like yeah don't don't pay them because it's just like don't pay them because they probably just don't care about your stuff. Uh
+SPEAKER_L: I don't get your data back either way
+SPEAKER_R: because if you pay them then they'll probably lives messed with you anyway, so it's like and
+SPEAKER_L: time.
+SPEAKER_R: that was it like they couldn't really do anything which is kind of crazy, I mean not really crazy, I mean if you're smart enough you can kind of attack people I guess and not uh have a trace. But yeah, techy people are crazy. The good ones and the bad ones.
+SPEAKER_L: Yeah, man. And I don't know if these I don't know if these guys realize what kind of collateral damage they're actually doing when they hit. Because I mean if we if we would have gotten hit harder than we did if we hadn't caught it. I mean we were being able to supply our patients with medication and allow our
+SPEAKER_R: Because
+SPEAKER_L: patients we you know services they need life sustaining medication. Like uh there's this drug called dub unity and the patient needs to actually have is to keep his heart running
+SPEAKER_R: How
+SPEAKER_L: his or her heart
+SPEAKER_R: about
+SPEAKER_L: running. Um If they don't get it they could die pretty
+SPEAKER_R: All
+SPEAKER_L: easily. I don't know these people that don't don't care or white but it's pretty
+SPEAKER_R: Yeah, it's problem. I
+SPEAKER_L: Well uh
+SPEAKER_R: feel like they're just uh away
+SPEAKER_L: occupation.
+SPEAKER_R: from religion. There's there's so much distance or they just don't see the collateral damage. So it's like it's easier to empathize with something if you're closer to the exposure or whatever. But yeah, people.
+SPEAKER_L: Their reasons former. Yeah. So you said you're in school but are you taking classes all online now or do you actually go to a question?
+SPEAKER_R: I'm out of my school, but uh Yeah, I'm taking
+SPEAKER_L: because
+SPEAKER_R: them all online. Um Yeah, as far as my programming
+SPEAKER_L: different.
+SPEAKER_R: classes, gum is taking to uh on data strip, the other ones on assembly. So uh assembly
+SPEAKER_L: because.
+SPEAKER_R: one more fun. Uh Yeah, it's just really cool. We made that like a calculator through like logic gates and stuff, It was really interesting, you know, just like I just love it when I learned more about technology, so it becomes less magic. Yeah, it's like I I took a networking class in high school and after that I was like, you know the whole of the World Wide Web, like that name actually makes sense, like that's like it's really cool. Yeah.
+SPEAKER_L: Yeah. You know if when I first started getting I. T. O. As well a little intimidating because I didn't know you know I'm going to say you don't know what it is It just it just works somehow and it's like magic, right? But then you start learning about it like it's not that big of a deal.
+SPEAKER_R: mm. Yeah, that's really
+SPEAKER_L: Yes. I took a little bit programming in college. I took uh she plus uh and some sequel classes um ironically I don't do any programming whatsoever. I can't
+SPEAKER_R: Do
+SPEAKER_L: remember.
+SPEAKER_R: you remember State Local? Yeah,
+SPEAKER_L: Well, you know what I think might even see sharp. It's
+SPEAKER_R: that's a
+SPEAKER_L: ago.
+SPEAKER_R: demon. Or scripting is in CCRC Sharp, but I'm using a unity game engine. What?
+SPEAKER_L: But yeah, it's weird. I don't uh don't use anything. I've never used anything I learned in college. It's weird. Yeah.
+SPEAKER_R: I've been forced to take more money. This general education stuff like I because my school is
+SPEAKER_L: All right.
+SPEAKER_R: focused on rhythm making us well rounded, so I've taken like anthropology, philosophy, uh
+SPEAKER_L: Mhm,
+SPEAKER_R: I think of anything else on the top of my head, but I took like a bible study class last semester. That was really interesting just looking at kind of the bible through a historical lens because we don't really have all that. Uh There's really only one source we have for the jewish bible to like kind of corroborate stuff. There was this one like roman general like it wasn't it's not even like a guy from the actual like biblical times, it was a guy who was closer to it than we were and he wrote about it. So like that's the only source we have, which is kind of crazy. Mhm. Yeah. Uh How have you been keeping up with this pandemic? Like have you been stuck in your house? Where have you uh
+SPEAKER_L: Well, not really. Um You know, you say I'm in healthcare, we do especially home infusion. So basically when a patient is released from the hospital and they need like antibiotics um we'll get the script from the doctor will compound it at our facility and then we will send it to the patient's house and then we'll initial meet them out there to infuse it. Um So I'm technically considered an essential worker. Um And I mean although I could do a lot of my work from home, I don't because the internet pipe is a little bit larger had to work so um it's easier for me, you know, we're done there. Um.
+SPEAKER_R: do you have any like having people there medicine or something like that? Like is that something that's eventful or just the job I guess? Mhm.
+SPEAKER_L: cut out a little bit with being having.
+SPEAKER_R: Like any like stories I guess because you said you have to like get people their medicine and stuff like that or you know, like anything that's but if you're I don't know.
+SPEAKER_L: Uh Not really when I first started out believe it or not, I was actually a delivery driver. I drove, I actually told the medication too the patient's houses and I got to meet a lot of patients and you get to know them fairly well, you know. Um You can't really talk about a whole lot of stuff because of hipAA compliance
+SPEAKER_R: All
+SPEAKER_L: and stuff like that. So you gotta be careful what you bring up. Um But uh um some of these some of these patients are really poor. Um They live in project housing and trailer parks, Things like that. It's really hard to the sea sometimes. But you know, you do what you can, you try and help out as much as possible when you deliver stuff. I remember this one, it's one
+SPEAKER_R: Something
+SPEAKER_L: patient was in a wheelchair. You just actually Got two Little Chair and his apartment complex didn't have a ramp going up to his door. Yeah. Yeah. Do something about this. Um His neighbors were, you know, they currently do anything for him. He wanted to help but they couldn't. But uh we were finally able to put pressure on that property owners to to build a ramp for. Um which is kind of cool.
+SPEAKER_R: Ready. I wonder if it will ever get up
+SPEAKER_L: yeah. Yeah. Well he did have a lot of neighbors and again, it was like a small community, they
+SPEAKER_R: lt
+SPEAKER_L: all watched out for each other. So, uh, but still there's nobody there. Okay, an emergency or something, you know, he wouldn't be able to get out of his house or back into his house. Yeah. But anyway, um,
+SPEAKER_R: Yeah.
+SPEAKER_L: um, I guess I've been going into the office for the most part. Um, I
+SPEAKER_R: Mhm
+SPEAKER_L: once challenged written, started opening up. I've been traveling a little bit because I do have to go to other branches. We have branches all across the country. Um, and I do remember I went to go to, zero Kansas Kansas City. Um,
+SPEAKER_R: Mhm.
+SPEAKER_L: and they had a pretty high rate. Um, there were about 15%. My company mandates, you know, if you come back from an area that's about 15%, you have to quarantine for 14 days,
+SPEAKER_R: All
+SPEAKER_L: forget tested, Julia tested. Um, but while I was waiting for the results, I had to pretty much stay in a hotel room because my wife works for the same company and we couldn't be in the same, the same move together, paying much all she would have to do the same thing. Um, So that kind of sucked. Yeah.
+SPEAKER_R: Did it
+SPEAKER_L: It
+SPEAKER_R: take a lot of with their results?
+SPEAKER_L: wasn't too long at all. Um there's actually, it took me longer to find a place that would actually where I could get tested at. Yeah.
+SPEAKER_R: I was always a few months ago.
+SPEAKER_L: yeah, this is probably, well, that's probably about six weeks ago maybe. Mm
+SPEAKER_R: Yeah. I got to live like this for my school. So like it was like once when I got here and then a few weeks after that, I got tested again. My first test
+SPEAKER_L: Thank
+SPEAKER_R: just
+SPEAKER_L: you.
+SPEAKER_R: never got the results. They never sent it to me. So I was like, okay. If I was positive, they probably would have said something.
+SPEAKER_L: Okay. Oh yeah, I hate that about that because I know like a lot of times ago doctors and they'll say if you don't hear from us, that's good news. What does that mean? Just call me and tell me that's negative you know?
+SPEAKER_R: but my second test I got really quickly and it was negative so that was cool. But uh yeah,
+SPEAKER_L: Thanks
+SPEAKER_R: crazy time. Mhm.
+SPEAKER_L: I
+SPEAKER_R: Great.
+SPEAKER_L: guess I think that you know again we still do you know we go out to the grocery store and everything. We never had
+SPEAKER_R: What?
+SPEAKER_L: quarantine in our house for any length of time. I think that the most um and we still have our jobs to which was I mean we're in a we both work for the pharmacy so we have you know we're gonna not be not working. My friends are in the restaurant industry and they lost their jobs and their scraping by. Uh huh
+SPEAKER_R: a little bit better. I got released, so yeah. Yeah. I mean there's really more or anybody had a theater anymore, so, wow.
+SPEAKER_L: Um
+SPEAKER_R: Yeah.
+SPEAKER_L: I think the worst thing well from for me and it's not that bad um from a huge pinball player and we used to I used to be on a couple of leagues and I really miss that. Oh and they just actually started opening up the bars where we have the pinball pinball machines. Yeah but still no leaks because you still have to maintain social distancing
+SPEAKER_R: What?
+SPEAKER_L: and you can't really have leagues have had those in place. Yeah.
+SPEAKER_R: So how does, how you competition here for that? Like you have teams or is it just like yourself in the league against other people?
+SPEAKER_L: Um For the most part it depends on the on the league, for the most part you're playing against other people by yourself. Um And generally there's um you need at least four machines because you play around the four and each person well you know before four people together and each person will pick a machine that they want to play. So you play each game and then It's a weighted so if you come in first to get three points 2nd place two points, their face one and 4.0. And then at the end of the session 10 weeks whoever has those points gets into the finals and then you go from there. But
+SPEAKER_R: Have you ever
+SPEAKER_L: then what's
+SPEAKER_R: in the finals?
+SPEAKER_L: that?
+SPEAKER_R: Have you ever gotten to find me? Mhm.
+SPEAKER_L: I've got I've gotten I got a few trophies. I'm actually it's actually uh it's supreme big pretty big organizations called F. P. A. Um
+SPEAKER_R: Yeah.
+SPEAKER_L: And they actually tracked All the tournaments if you belong to this this group and they rank everybody. And that was actually I was actually I was actually ranked 7, 750 out of 45,000 people in the world. I got a buddy here who lives down the street, His name is Trent and he's actually ranked 5th in the world. Man, this kid is incredible. I learned so much from now on,
+SPEAKER_R: So like
+SPEAKER_L: I
+SPEAKER_R: what the strategy
+SPEAKER_L: was crying.
+SPEAKER_R: I go to playing pinball? Because I mean, I guess when I'm playing it's just like don't let the ball go down. I mean, so like is their strategy to like getting it to go where you want it to go? Mhm.
+SPEAKER_L: Yeah that's that's the whole thing is there's two strategies. one strategy is you have to control the ball, right? So um
+SPEAKER_R: Uh huh.
+SPEAKER_L: uh and I'm okay at it, you know, I can catch the ball on one flipper, you know? And then I could move it to the other flipper if there's a ramp on the right hand side and I can't get it from the right hand side, I can move the ball from one to the other clipper and then shoot it up that ramp or or through the through an alley or something that wherever it needs to go. Um But now, the way that stearns making their pinball games, um the strategy about how you get your points is really important. There's all these different modes and you have to do something, you have to do all these things before you can get all like the jack box and stuff like that, and it's it's kind of complicated. Um You don't really know what to do at first
+SPEAKER_R: The
+SPEAKER_L: because
+SPEAKER_R: people,
+SPEAKER_L: I don't give you instruction right? Uh But
+SPEAKER_R: Mhm.
+SPEAKER_L: there's an online community where like um like a lot of better players in the world will figure out and then I'll post tips and stuff so that's why you should look at.
+SPEAKER_R: it's always good to hear something. What's, so
+SPEAKER_L: what's
+SPEAKER_R: what's like the coolest thing you've ever played? Like, I think
+SPEAKER_L: the Cause
+SPEAKER_R: the
+SPEAKER_L: game?
+SPEAKER_R: coolest
+SPEAKER_L: It
+SPEAKER_R: machine,
+SPEAKER_L: wasn't
+SPEAKER_R: you played like the theme or whatever?
+SPEAKER_L: My favorite is Adam's family. I don't know if you've ever played them all before but Adam Sandler was made back in the early 90s. Um I still have a fun man. Um uh Raul uh
+SPEAKER_R: Uh huh.
+SPEAKER_L: and the guy who played uh
+SPEAKER_R: Yeah.
+SPEAKER_L: main character in the Arms movies, Ro johnson johnson also sustained though anyway he does the voices on there and it's funny it's love, it's life on
+SPEAKER_R: I played a star trek machine one. I don't know how many star trek
+SPEAKER_L: please.
+SPEAKER_R: machines they are, but it had like a uh like a light panel thing with a bunch of lights, but it would play in a way so that you would look animated so like there would be many games on it while you're playing, so like you'd use the two, the two buttons to like move a spaceship or something like it was pretty it was really interesting. Uh That's probably the coolest
+SPEAKER_L: Good.
+SPEAKER_R: one I played. Yeah that that Star trek machine. I don't know if you
+SPEAKER_L: I'm trying to think that's probably the latest one by Stern. I know that I know of three Star Trek machines. One was made by billy Williams back in the Early 80s, which was it was an okay machine. Um And then there was another one made by Stern. Uh and The early 90s star trek next generation one
+SPEAKER_R: that could have been that one that one
+SPEAKER_L: broke.
+SPEAKER_R: it was probably that one it was that one of my friend's house and his dad had bought it so they had it for years. Yeah, it seems seems more like a 90s machine than an 81 was a little pressure. I don't know.
+SPEAKER_L: Yeah. Yeah. Somebody's somebody's pinball machines and I have one, it's an older one, it's Comet, she's sitting right next to it but it's old and I need some work. They're so expensive and I paid like $800 for this one. And if you want like one of the new machines, I mean you're gonna be dropping $4 or $5,000.
+SPEAKER_R: So what's the purpose of that like whether people have some crazy new Teccamore man? Is it just because they're new
+SPEAKER_L: just because they're new in demand. And I mean actually there's a lot of work that goes into developing a new machine. Um So yeah in order to recoup all the costs that go into developing it because I mean it takes turn you know, probably a good year before they can put it to market while designing. You know there's just like a designing a building. I mean there's so many people that go into designing a pinball machine And that two p.m. so you know once you once they reach the market and. Uh huh. And you can get used machines after market Cheaper. Not a whole lot cheaper but cheaper. $333,030 $500.
+SPEAKER_R: How like
+SPEAKER_L: Hi
+SPEAKER_R: well liberal are then
+SPEAKER_L: far.
+SPEAKER_R: in the way that like do our used machines like do they break down a lot? It's expensive
+SPEAKER_L: And
+SPEAKER_R: to repair them. Is it easy to repair yourself?
+SPEAKER_L: um seeing that's that's the thing with pinball I don't know a whole lot about the working I mean I can repair like replace the rubbers and um if anything goes wrong on the lanes you know store a new part and swap it off. As far as like the electronic go. I have no idea. I got a bunch of friends though so I think you know if I already get some more machines they have to come over and fix every once a while. If it should break down. I don't really lying no how they work because I think that would take some of that magic out right?
+SPEAKER_R: Yeah.
+SPEAKER_L: Take so much fun out of the game. I just find it you know right so try not to know too much about bathroom.
+SPEAKER_R: I get that definitely does run the lad. All right. Well, it was nice. It was nice to meet and talk to
+SPEAKER_L: Hey
+SPEAKER_R: you.
+SPEAKER_L: you too man
+SPEAKER_R: Yeah, I'm over in columbus. Maybe. I'll see you. Probably not. What
+SPEAKER_L: you
+SPEAKER_R: up?
+SPEAKER_L: never know man columbus there's there's a lot of people in columbus but I run into so many people I haven't seen I mean I'll run into
+SPEAKER_R: What?
+SPEAKER_L: so I ran in somebody the other day Hansen in 10 years there are you coming to columbus? It's cool down it's a lot of fun you know?
+SPEAKER_R: Yeah. My dad, I think a town from around
+SPEAKER_L: and
+SPEAKER_R: Cleveland, it's blanking. It's blanking, but it was like this small, it was a small town, like a few miles away from Cleveland or something. And then he moved to florida. But yeah, that's like my only exposure I've had to. Ohio, yeah.
+SPEAKER_L: Cool.
+SPEAKER_R: All right.
+SPEAKER_L: man. Hey good luck
+SPEAKER_R: Thank
+SPEAKER_L: in your in your computer endeavors
+SPEAKER_R: you.
+SPEAKER_L: if you do well
+SPEAKER_R: Likewise. Mhm.
+SPEAKER_L: take care of

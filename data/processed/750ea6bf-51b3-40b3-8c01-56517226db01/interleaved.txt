@@ -1,0 +1,483 @@
+SPEAKER_R: Yeah. Mhm. Hello? No.
+SPEAKER_L: Hi.
+SPEAKER_R: Hello how are you?
+SPEAKER_L: how are you? Yeah.
+SPEAKER_R: Good how are you?
+SPEAKER_L: Yeah I'm doing good. Happy
+SPEAKER_R: What?
+SPEAKER_L: friday.
+SPEAKER_R: Yeah happy friday thank goodness. It's friday. I don't know except for the it's just hot every day so.
+SPEAKER_L: It's hard right now. Yes. Yeah.
+SPEAKER_R: where are you?
+SPEAKER_L: I'm in California.
+SPEAKER_R: Uh Well it's not hot thing it's hot they're not like
+SPEAKER_L: Today because
+SPEAKER_R: texas.
+SPEAKER_L: I live in the fly family as a really hot down here.
+SPEAKER_R: Where do you live? Say it again.
+SPEAKER_L: Live close to the farm area
+SPEAKER_R: I don't know. Oh you do like what's the biggest city here? You
+SPEAKER_L: is morgan hill in santa there.
+SPEAKER_R: san Jose that's northern that northern
+SPEAKER_L: Yeah. I know
+SPEAKER_R: birth.
+SPEAKER_L: in California
+SPEAKER_R: Mhm. Did you feel the earthquake?
+SPEAKER_L: now the earthquake it down south with the L. A. Area. Is that sound?
+SPEAKER_R: Well that's good. You didn't I'm glad you didn't get hurt by it.
+SPEAKER_L: Yeah, but there's a lot of earthquake around here too, you know the last couple
+SPEAKER_R: it's
+SPEAKER_L: of months. It's like five or six of them in this area. Yeah.
+SPEAKER_R: wow that's scary.
+SPEAKER_L: And
+SPEAKER_R: Is it? Where do you immediately get scared or what
+SPEAKER_L: now
+SPEAKER_R: what
+SPEAKER_L: most
+SPEAKER_R: do
+SPEAKER_L: of
+SPEAKER_R: you?
+SPEAKER_L: them are really my only like three oyo something like that. I don't even feel it. Yeah because sometimes I sleep at night and I don't even feel
+SPEAKER_R: But
+SPEAKER_L: it said even
+SPEAKER_R: that
+SPEAKER_L: money. He said he didn't
+SPEAKER_R: well
+SPEAKER_L: feel
+SPEAKER_R: that's
+SPEAKER_L: that. I
+SPEAKER_R: the kind of have
+SPEAKER_L: don't know
+SPEAKER_R: I got some listen to big one? You don't want to be asleep but then uh that's good. And where are you from?
+SPEAKER_L: Yeah. I came from Vietnam.
+SPEAKER_R: The big one?
+SPEAKER_L: He just
+SPEAKER_R: That's
+SPEAKER_L: didn't.
+SPEAKER_R: right well welcome to America
+SPEAKER_L: Yeah I've been here for like 16 years old. Still.
+SPEAKER_R: Have you
+SPEAKER_L: We're expecting
+SPEAKER_R: did you
+SPEAKER_L: you.
+SPEAKER_R: learn english when you came here?
+SPEAKER_L: I got a little bit of english when I came here. Yes. I study at college a little bit.
+SPEAKER_R: Oh your dad. Well you do very well,
+SPEAKER_L: Well talking is not really my you know I'm not talking to people. I normally can try to avoid conversation. I don't know how to talk because I'm not
+SPEAKER_R: No.
+SPEAKER_L: I'm not living in America. I don't go to high school here so I don't really have any fans. So I don't know. I just had
+SPEAKER_R: no. Right well who do you
+SPEAKER_L: I
+SPEAKER_R: live with?
+SPEAKER_L: live in my family. We have my wife and tweak it.
+SPEAKER_R: Uh three Kids, How Old Are They?
+SPEAKER_L: My first daughter, 12 2nd daughter 11 and my son turned eight on july 25th.
+SPEAKER_R: uh July 25
+SPEAKER_L: Yeah. He's attended places.
+SPEAKER_R: that's so cool.
+SPEAKER_L: Yeah. Thank you.
+SPEAKER_R: Mhm That's we, I have three sons but they're all older, the youngest is 17,
+SPEAKER_L: 17.
+SPEAKER_R: so so I'm I'm almost through all that, but you're never
+SPEAKER_L: So
+SPEAKER_R: through all that,
+SPEAKER_L: which which state are you coming from?
+SPEAKER_R: I'm in texas.
+SPEAKER_L: But take this my I forgot my coworker. He retired from working and he moved to take that. But I forgot the name of the city. Is that the little town? It's not Houston is something like I forgot the names.
+SPEAKER_R: A small town
+SPEAKER_L: Yeah that's a smooth
+SPEAKER_R: or
+SPEAKER_L: now in texas. Yeah.
+SPEAKER_R: There's, I had,
+SPEAKER_L: me.
+SPEAKER_R: I did not know that we had five of the majors of the, I guess five of the top 10 I think I saw something biggest cities in
+SPEAKER_L: I
+SPEAKER_R: the
+SPEAKER_L: mean
+SPEAKER_R: US are in texas but I had no clue it was that like I'm outside of
+SPEAKER_L: bo Dallas there are a lot of Vietnamese people moving from California. They moved detective Houston Houston texas.
+SPEAKER_R: Really? To Houston?
+SPEAKER_L: Yeah there's a get
+SPEAKER_R: What,
+SPEAKER_L: me
+SPEAKER_R: why why do they go
+SPEAKER_L: be
+SPEAKER_R: there
+SPEAKER_L: cheaper
+SPEAKER_R: or?
+SPEAKER_L: and then you know to buy how cheaper and then they have a lot of more
+SPEAKER_R: well yeah
+SPEAKER_L: opportunity.
+SPEAKER_R: California,
+SPEAKER_L: You gotta help. Yes.
+SPEAKER_R: the real estate is so expensive.
+SPEAKER_L: Yes he's carried
+SPEAKER_R: I didn't know that. I don't know how y'all can
+SPEAKER_L: No.
+SPEAKER_R: work. I mean how you can have a home or a place to live and feed your family. I don't know how you do that. That
+SPEAKER_L: you
+SPEAKER_R: is
+SPEAKER_L: have to work
+SPEAKER_R: that's
+SPEAKER_L: freedom.
+SPEAKER_R: uh and they eat I know that they like to eat because my son's yeah that's just what they do. They don't care what it is. Usually either doesn't want to eat it. But does your wife work?
+SPEAKER_L: now mr Hunter got the kid because I had three
+SPEAKER_R: That's
+SPEAKER_L: of them
+SPEAKER_R: good.
+SPEAKER_L: so nobody take care of the kids for me. So that's
+SPEAKER_R: that
+SPEAKER_L: why that's
+SPEAKER_R: I understand.
+SPEAKER_L: why I want to appease up every day that you
+SPEAKER_R: that's that's,
+SPEAKER_L: and I go Uber you know like
+SPEAKER_R: you
+SPEAKER_L: people
+SPEAKER_R: do.
+SPEAKER_L: around men are
+SPEAKER_R: And
+SPEAKER_L: working
+SPEAKER_R: then
+SPEAKER_L: another pattern. Doctor.
+SPEAKER_R: where do you what do you do? What's your main and
+SPEAKER_L: I'm a printer. I'm doing the printing and mailing you know the at the appetizing stuff. Postcard on newsletter magazine.
+SPEAKER_R: that's what you do, that's your main
+SPEAKER_L: you recommend
+SPEAKER_R: job
+SPEAKER_L: to,
+SPEAKER_R: and then you do Uber and then what else did you say?
+SPEAKER_L: Because to do the mailing you need to address it but you need the name and the address is. So I do a database for that. For the milk. No.
+SPEAKER_R: wow. Well gosh
+SPEAKER_L: So I do mostly mailing and printing so that my mandate.
+SPEAKER_R: wow that's all day long. Do you do it out of your home out of your house or do you go
+SPEAKER_L: I
+SPEAKER_R: to,
+SPEAKER_L: had to work at the Sprint Stock in a Prince Song. So
+SPEAKER_R: Okay. Well yeah, I guess you would have to can't print out of your house too.
+SPEAKER_L: so now I'm at home because I cannot run a machine now you can sell the in flight now. Yeah
+SPEAKER_R: And y'all are is your family been safe from
+SPEAKER_L: they
+SPEAKER_R: the virus? That's
+SPEAKER_L: are doing
+SPEAKER_R: good.
+SPEAKER_L: fine. The kid looked you know they meet the friend they cannot go to school. So they did the online Learning Black. But I think last last one last thing is that they did all a learning and then at the upcoming one Skorney close to. Mhm.
+SPEAKER_R: Are they were doing well? It's all changing At at first they were going to give the kids optionality of one in school. He'll be a 12th grade senior. But now now there they're not doing well. They're doing online solely until I guess after Labor day and then they're going to then they say you can do either one, you can have your choice. But I don't know if it will end up like that. You know, things change really quickly anymore. Did your kids like being at home? And are they going nuts?
+SPEAKER_L: They're going not to run your well and anyway,
+SPEAKER_R: But Yeah. Yeah, I guess
+SPEAKER_L: but
+SPEAKER_R: so. Yeah. You have to keep them busy. Yeah. Well that is
+SPEAKER_L: So are you because
+SPEAKER_R: I am not, I currently don't work, but I take care of. I did, sorry, I can't get this situated. Um, I stayed home because I have, well my oldest son is autistic and then I have a middle son and then I, my youngest son has a, wow.
+SPEAKER_L: Yeah.
+SPEAKER_R: It's called hypothesis Fatemi A but it's, it's like rickets is the term, you might know rickets and I had that or I have that. I passed it to him so I kind of two special needs Children. And so I ended up getting tired of lots of doctors. So it's hard to hold down a job and take off all the time,
+SPEAKER_L: But
+SPEAKER_R: you know, to
+SPEAKER_L: you
+SPEAKER_R: go to the
+SPEAKER_L: have
+SPEAKER_R: doctor.
+SPEAKER_L: to spend a lot of time with your kids. You have to take care of them every day. Right. Mhm.
+SPEAKER_R: So
+SPEAKER_L: I've never seen this sense.
+SPEAKER_R: my oldest one has a job now and he works at tom thumb. I don't know if you're safe, way Safeway. It's, we have
+SPEAKER_L: What?
+SPEAKER_R: a down here.
+SPEAKER_L: I'm a
+SPEAKER_R: It's
+SPEAKER_L: fool.
+SPEAKER_R: called tom thumb. Stupid
+SPEAKER_L: So
+SPEAKER_R: name of the story. So
+SPEAKER_L: what is do you have what is the famous burger restaurant in to the Dallas area?
+SPEAKER_R: Yeah. Do we have one?
+SPEAKER_L: Yeah. What is the most five East burger one over there? You got in California? And my kids love eating out. You know they left it in Alberta.
+SPEAKER_R: That's well. Okay. No event my sister lived in it
+SPEAKER_L: How
+SPEAKER_R: was in phoenix
+SPEAKER_L: are
+SPEAKER_R: I
+SPEAKER_L: we?
+SPEAKER_R: guess she did outside of phoenix. And so when she did that, she she has a flight attendant for Southwest Airlines and so she's moved all around but she would always be going home from work and driving through in and out burger. I was like what is what is in and out burger. We finally got one like five years ago. I love it.
+SPEAKER_L: Like
+SPEAKER_R: It
+SPEAKER_L: that
+SPEAKER_R: is so wonderful.
+SPEAKER_L: the one in every week every time. So you want a burger So you don't know. I don't want my you know one meeting.
+SPEAKER_R: I love them. You know my husband doesn't or my boys. Well they like, well you wouldn't have heard what a burger. Have you ever heard of that?
+SPEAKER_L: You don't have a
+SPEAKER_R: I
+SPEAKER_L: correspondence?
+SPEAKER_R: think it's a texas thing. But
+SPEAKER_L: What? Me?
+SPEAKER_R: the burgers are probably, they're not twice the size of in and out but they're bigger so they like those. But I love in and out burger. I could go to that five days a week, I could eat that every single that is so good. So I couldn't believe when I finally heard that they were building those here. It took forever to get on here.
+SPEAKER_L: Do you have
+SPEAKER_R: But
+SPEAKER_L: any Vietnamese restaurant around your house in Dallas?
+SPEAKER_R: No well I don't know. Yeah I don't know but I don't know. I wouldn't know what
+SPEAKER_L: Thank
+SPEAKER_R: to get if
+SPEAKER_L: you.
+SPEAKER_R: I went so tell me what to eat because I loved I love chinese, I love asian, I love any of it but I can't go too spicy. So you gotta
+SPEAKER_L: I
+SPEAKER_R: you
+SPEAKER_L: won't
+SPEAKER_R: got to tell
+SPEAKER_L: forget
+SPEAKER_R: me something that won't knock
+SPEAKER_L: them.
+SPEAKER_R: me down.
+SPEAKER_L: You know everybody know about a new job but I
+SPEAKER_R: But
+SPEAKER_L: don't really recommend a little suit because the way they could be in America is really different. You know, compared to traditional in Vietnam. So it's not really the correct way. So have you ever heard of the Right. Right. But actually yeah, something like that. Right. Um Actually grill pop and they've been shot. Those of,
+SPEAKER_R: I
+SPEAKER_L: you
+SPEAKER_R: could do that.
+SPEAKER_L: can try next time you want to go and try rice for mutually. Yeah.
+SPEAKER_R: Uh I will because I love
+SPEAKER_L: What?
+SPEAKER_R: I love that. Now. Is your wife Vietnamese? So Yeah. Oh my gosh,
+SPEAKER_L: He took
+SPEAKER_R: I can't
+SPEAKER_L: it
+SPEAKER_R: eat
+SPEAKER_L: from
+SPEAKER_R: that.
+SPEAKER_L: me last week. Yeah.
+SPEAKER_R: gosh,
+SPEAKER_L: You
+SPEAKER_R: I
+SPEAKER_L: don't
+SPEAKER_R: can eat
+SPEAKER_L: have
+SPEAKER_R: all
+SPEAKER_L: another
+SPEAKER_R: the time.
+SPEAKER_L: suit, right?
+SPEAKER_R: yeah, are you what
+SPEAKER_L: And we're there.
+SPEAKER_R: is that called? What's it called?
+SPEAKER_L: It's far far too soon. Yes.
+SPEAKER_R: okay, I've seen that, I just didn't know how you say
+SPEAKER_L: No.
+SPEAKER_R: how you said it box. Okay. And you put different things in
+SPEAKER_L: You're gonna
+SPEAKER_R: there
+SPEAKER_L: have to be
+SPEAKER_R: so
+SPEAKER_L: there
+SPEAKER_R: it's
+SPEAKER_L: before
+SPEAKER_R: not.
+SPEAKER_L: or chicken, but mostly are like fuck the flavor of pork flavor better. Right. Yeah. Mom give
+SPEAKER_R: That's
+SPEAKER_L: me your chicken.
+SPEAKER_R: a do your kids eat good stuff, are they good eaters?
+SPEAKER_L: No. My son like americans, he like there
+SPEAKER_R: I'm
+SPEAKER_L: and
+SPEAKER_R: sure it's fat. Sure.
+SPEAKER_L: He doesn't live rice. He doesn't want to chew anything long long for him. So he just want to put things like burger or pita.
+SPEAKER_R: Well yeah.
+SPEAKER_L: Yeah. Somebody level. Yeah.
+SPEAKER_R: that's a kid that that's how they do they uh they would eat that the rest of their life if you let them to. Probably.
+SPEAKER_L: They can eat it every day. You like french fry and beat the role. Chicken nugget.
+SPEAKER_R: Oh yeah. Oh yeah, and when they're at home and not at school I think they just want to eat. E I mean it seems like it's not that they're bored but I don't know, it's more accessible. You
+SPEAKER_L: No.
+SPEAKER_R: can go in the kitchen or you want something so but they can go outside. Is it nice
+SPEAKER_L: I
+SPEAKER_R: there? Like what's the temperature there where you live?
+SPEAKER_L: that's it. Right.
+SPEAKER_R: What is the temperature where you live?
+SPEAKER_L: What a night.
+SPEAKER_R: Mhm. Really?
+SPEAKER_L: Yeah.
+SPEAKER_R: Mm.
+SPEAKER_L: So always when you need to
+SPEAKER_R: that's
+SPEAKER_L: humble.
+SPEAKER_R: that's disappointing. I thought it would be like 70
+SPEAKER_L: Now
+SPEAKER_R: something.
+SPEAKER_L: it's 70 AM, but when the sun came out in the afternoon is going to get any hotter. So in the morning and now because it's the valley, you know, the single Silicon Valley. So it's so in the morning and night come down. But you know, it really hot. Um
+SPEAKER_R: so it's a Silicon Valley so that's where that I didn't know where that was. It's outside of san Jose.
+SPEAKER_L: Yes, I do cynical guy.
+SPEAKER_R: So now okay so you've lived here how long you said 16
+SPEAKER_L: 16.
+SPEAKER_R: years
+SPEAKER_L: Yes. I've been with 16, 16 years.
+SPEAKER_R: did you meet your wife here or
+SPEAKER_L: No,
+SPEAKER_R: there
+SPEAKER_L: we actually met in Vietnam.
+SPEAKER_R: You did and and you took her away from her parents and flew her across the earth to somewhere else? Do you ever go back?
+SPEAKER_L: Actually, I have never been back to them now. Yeah. See I came here to live and four. I never do. That
+SPEAKER_R: Yeah why didn't you go why haven't you been
+SPEAKER_L: happened
+SPEAKER_R: back?
+SPEAKER_L: family here. So everybody here, My mom,
+SPEAKER_R: your parents
+SPEAKER_L: Yeah. Member parent is
+SPEAKER_R: they are
+SPEAKER_L: my,
+SPEAKER_R: here to,
+SPEAKER_L: my parents here. So.
+SPEAKER_R: you have brothers and sisters. They're all here, wow, that's really cool. So did you all come together,
+SPEAKER_L: No, my mom,
+SPEAKER_R: whatever?
+SPEAKER_L: my mom came fast and they see sponsor me and my parent, my brother and everything. So my brother campus.
+SPEAKER_R: that is really cool. That's very interesting.
+SPEAKER_L: So you lit the whole lie in the tech to uh
+SPEAKER_R: I've lived, yes, actually not too far from here. These
+SPEAKER_L: look.
+SPEAKER_R: are suburbs of Dallas. I was born in one called Garland. It's a suburb of Dallas. And then where I live now is almost a suburb of garland. It just all just spreads out farther and farther. But I, my parents are here, so my mother passed away recently but
+SPEAKER_L: Thank you.
+SPEAKER_R: I never wanted to move away from, you know, I I want want to debate with them. So
+SPEAKER_L: So what, what is the every household price over there? He thought it,
+SPEAKER_R: what are the prices?
+SPEAKER_L: yeah, we got a California. It's so basic, you know, let's take it from
+SPEAKER_R: And if
+SPEAKER_L: the house.
+SPEAKER_R: it's awful there, I worked in a bank probably 15 years ago, 20 years ago. And well it's longer than that. I can get lost in my time, but I was amazed at the housing
+SPEAKER_L: But
+SPEAKER_R: prices. Um our house here would probably a praise for 200 I don't know, 225, but I could almost promise in California, you couldn't live there for less than 500,000. It's and it's not a big house, but y'all's prices are so it's because people I know I've known three people that I've met different ways that have sold their moves from California and they can buy a huge house here. Just huge.
+SPEAKER_L: that's what I think, that's what I'm gonna do next. I tell you my house and I'm gonna move to something else like take that or Louisiana, What I mean,
+SPEAKER_R: where?
+SPEAKER_L: maybe Virginia, No,
+SPEAKER_R: I don't know about Virginia.
+SPEAKER_L: maybe Washington this season, I need to move
+SPEAKER_R: I'd
+SPEAKER_L: Hello
+SPEAKER_R: love to go there.
+SPEAKER_L: to the area that there's a lot of the dumbest people, you know that you think so, it's something like Houston take that. There's a lot of people,
+SPEAKER_R: don't
+SPEAKER_L: people.
+SPEAKER_R: go to him. There's nothing in Houston. They're not going to Houston. I'm just telling you texas is so just, I don't know if I would love to live where I could travel and it kind of like history. So see something historical or at least like California. You can see beauty. You know here we just have land and land and concrete and a few lakes and it's just dull. Of course Houston has nasa but
+SPEAKER_L: No.
+SPEAKER_R: I don't know Virginia. Somewhere over there. You can drive so many states and places you know and your kids you could show them so much
+SPEAKER_L: But
+SPEAKER_R: that just from there that would be great. I don't know what how much the cost of living is there?
+SPEAKER_L: Yeah. Well, it's not cheaper than California,
+SPEAKER_R: Mhm. Well that's probably true. You're probably at the at the top there. But how old are your parents?
+SPEAKER_L: It's, my father is 72 and my mother is 62 so
+SPEAKER_R: This
+SPEAKER_L: they have
+SPEAKER_R: is
+SPEAKER_L: to maintain your distance. No. Oh
+SPEAKER_R: So what they
+SPEAKER_L: no.
+SPEAKER_R: would you take them with you or they
+SPEAKER_L: Now they live in different house. We don't get together. Okay.
+SPEAKER_R: they you would feel okay moving.
+SPEAKER_L: So I can't move anywhere I want because I looked stupid and they did my family's away.
+SPEAKER_R: Well I know but I know you can but you want to
+SPEAKER_L: Well
+SPEAKER_R: it doesn't bother you.
+SPEAKER_L: it will depend on the job. You know if I get a good job over there then I can move. But right now it can't can't do anything. Yeah.
+SPEAKER_R: Well wow. So what's in san Jose is it? It's not on the coast is it san Jose? I don't know my California.
+SPEAKER_L: It's close to san Francisco
+SPEAKER_R: Is it like how far?
+SPEAKER_L: Like 45 million ways. Yeah. What
+SPEAKER_R: Oh.
+SPEAKER_L: if I'm asked way?
+SPEAKER_R: Oh man I went to san Francisco once. My sister. The same sister lived in Novato
+SPEAKER_L: What?
+SPEAKER_R: Novato and this was when I was very young but I got to go there. It's just it's beautiful. I've always wanted to go back because it's cool. It's so cool,
+SPEAKER_L: The tax.
+SPEAKER_R: it's so nice
+SPEAKER_L: What? You speak?
+SPEAKER_R: to to go out at not and it be cool
+SPEAKER_L: Mhm.
+SPEAKER_R: but just here we have hot like nine months and then we have three months of, well maybe I'm exaggerating it's pretty hot most of the time but we have a winter but it doesn't last very long and
+SPEAKER_L: Yes you ask.
+SPEAKER_R: we just need
+SPEAKER_L: He's not
+SPEAKER_R: more of the other seasons. We just don't have. We have so much summer here. It gets starts getting hot and uncomfortable in May and lasts until
+SPEAKER_L: Hi.
+SPEAKER_R: probably november.
+SPEAKER_L: So do you have a lot of places tom with storm over there? Four.
+SPEAKER_R: Yeah we can we can get a lot of storms. It's we there's mm I think in the past five or 10 years there's been more tor Matic tornadoes than I've ever really experienced. But there, I don't know, you know, cycle of the
+SPEAKER_L: neat.
+SPEAKER_R: earth, global warming, I don't know, but I know that it is um, it does seem to be more, more that way, but it's Gary, there was a tornado
+SPEAKER_L: But
+SPEAKER_R: in our, our little town
+SPEAKER_L: You
+SPEAKER_R: a few years ago on christmas, I think it was christmas night or a couple of days after christmas. It was, it, it's just so amazing how, You know, my sister lived on one street and the next street over demolished. You know, it's amazing. And it went for blocks, you know, but it just stopped right at her house. She had
+SPEAKER_L: What?
+SPEAKER_R: a ceiling fan come through her closet, but that was the only thing she had, but it's just, it's amazing the damage it does. It's, it's really scary to know that if that's hitting you, you're not really getting away.
+SPEAKER_L: So you
+SPEAKER_R: You
+SPEAKER_L: don't
+SPEAKER_R: could,
+SPEAKER_L: have snow? You take that right? There's no snow integrity.
+SPEAKER_R: no, it's hmm, we didn't have any snow last year. I'm not sure it snowed the year before. Yeah, It when I was young, I'm 54, I can remember when I was 10 or younger or even 15 or younger. We had lots of snow and then, yeah, this cycle, I guess the, I don't know, I don't know what makes that, but um, not near my son's didn't near see the snow growing up that I saw growing up. But uh, we're lucky if every four or five years we get a few flakes, but rarely does it stick. So, and then it, I'm not really a big fan of snow
+SPEAKER_L: Whoo.
+SPEAKER_R: either, so I just complain every way. But I just wanted to be really nice all the time.
+SPEAKER_L: But yeah,
+SPEAKER_R: It doesn't
+SPEAKER_L: we don't
+SPEAKER_R: seem
+SPEAKER_L: have
+SPEAKER_R: to.
+SPEAKER_L: snow in California independent.
+SPEAKER_R: You
+SPEAKER_L: This
+SPEAKER_R: don't have.
+SPEAKER_L: No, I have to go to reno in labor to that. That's the closest from living.
+SPEAKER_R: because that's the mountains. Is it mountains? Have your kids ever seen snow?
+SPEAKER_L: Yes. We we we travel in driving that withdraw their way one time research.
+SPEAKER_R: You flew to reno? Oh man, what's that like?
+SPEAKER_L: He's I don't like really because it's very wet, you know when when you burned out it really wet and warm water so it's uh so every you don't want to live in anywhere near snow but when it burns yeah,
+SPEAKER_R: that's a mess.
+SPEAKER_L: she I guess
+SPEAKER_R: That's
+SPEAKER_L: it's very dark.
+SPEAKER_R: Yeah and it it takes a long time for that
+SPEAKER_L: And then
+SPEAKER_R: to
+SPEAKER_L: you have
+SPEAKER_R: clear
+SPEAKER_L: it cleaned up and everything
+SPEAKER_R: up.
+SPEAKER_L: is
+SPEAKER_R: Yeah I don't want to do that now at all. I'd like to have it once a year or so. I can look at it but no I don't I wouldn't want to live in it. But then again I get really tired of 100 degrees or 95 or you know all that. So I guess I'm just never happy but maybe one day maybe I'll grow up and move away and moved to California. That's the place where you go. I just got to find the right place. I didn't know san Diego
+SPEAKER_L: Now.
+SPEAKER_R: is very cool. I thought it would because it's so far south. I thought it would be very hot. But I've heard it has a very cool climate. I've never been there but I'd like to. Have you been to san Diego?
+SPEAKER_L: I've been to a while but you know I've been uh ahem Disneyland area but I traveled to san Diego.
+SPEAKER_R: So so where when you moved to the us you came
+SPEAKER_L: Sounds
+SPEAKER_R: to san Jose. Really? That's
+SPEAKER_L: And
+SPEAKER_R: so
+SPEAKER_L: then I traveled to Disneyland so I draw my car too. Disneyland around area have been to Universal Studio, but I haven't never been to legal land in san Diego now, I haven't been there. Yeah.
+SPEAKER_R: Oleg lego. I
+SPEAKER_L: it
+SPEAKER_R: didn't know that
+SPEAKER_L: in san Diego.
+SPEAKER_R: bo
+SPEAKER_L: And what's funny?
+SPEAKER_R: that's what I want to go to California.
+SPEAKER_L: Yeah California. I had a lot of play for travel but.
+SPEAKER_R: They do. I went there with my husband and I went on a cruise Like 10 years ago maybe
+SPEAKER_L: Like
+SPEAKER_R: and we flew to L. A. And took it the crews out of there and what's the Catalina Island
+SPEAKER_L: Just blowing
+SPEAKER_R: and
+SPEAKER_L: alley.
+SPEAKER_R: stop there and then went down to Mexico and whatever. But it was beautiful. It was beautiful. Very pretty. I
+SPEAKER_L: No.
+SPEAKER_R: could live there. I could live there maybe. I wouldn't I can't afford to live there but I would live there. Let's just put it that way. But anyway. Well it's been a pleasure talking to you.
+SPEAKER_L: Yes. Not to miss you. Yeah.
+SPEAKER_R: What what is your name?
+SPEAKER_L: Can be fun.
+SPEAKER_R: Say it again. What
+SPEAKER_L: I'm fun.
+SPEAKER_R: can chi eaten?
+SPEAKER_L: I h I n it.
+SPEAKER_R: K. H. A. N. N. And then P. H. A. N.
+SPEAKER_L: You actually you
+SPEAKER_R: Nice to meet
+SPEAKER_L: all
+SPEAKER_R: you.
+SPEAKER_L: right? Nice Emilio. Thank you. Thanks for the time. Goodbye.
+SPEAKER_R: Thank you. Bye. I don't know how to uh.

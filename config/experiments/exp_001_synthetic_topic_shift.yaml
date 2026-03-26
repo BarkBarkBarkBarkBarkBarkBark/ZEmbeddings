@@ -1,0 +1,28 @@
+# ═══════════════════════════════════════════════════════════════════════
+# Experiment 001 — Synthetic Topic-Shift Detection
+# ═══════════════════════════════════════════════════════════════════════
+# Purpose:  Validate boundary detection on synthetic conversations with
+#           known, hand-crafted topic shifts (dogs → airplanes → dogs).
+#           Ground truth boundaries are embedded in the transcript so we
+#           can measure precision/recall of the detector.
+# ═══════════════════════════════════════════════════════════════════════
+
+experiment:
+  name: "exp_001_synthetic_topic_shift"
+  description: >
+    Baseline experiment: embed a synthetic multi-topic conversation,
+    compute full metric suite, and verify that Kalman-filter innovations
+    spike at known topic boundaries.
+  source: "data/synthetic/topic_shift_001.txt"
+
+# Override defaults for this experiment
+window:
+  size: 10
+  stride: 1
+
+kalman:
+  mode: "scalar"
+  innovation_threshold: 2.5   # slightly more sensitive for synthetic data
+
+boundary:
+  k_sigma: 1.5
