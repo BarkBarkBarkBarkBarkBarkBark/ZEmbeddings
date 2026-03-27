@@ -27,46 +27,6 @@
                 </section>
 
                 <section>
-                    <h2>Controls</h2>
-                    <div class="control-grid">
-                        <label>
-                            <span>Window size</span>
-                            <input id="window-size" type="number" min="2" step="1">
-                        </label>
-                        <label>
-                            <span>Stride</span>
-                            <input id="stride" type="number" min="1" step="1">
-                        </label>
-                        <label>
-                            <span>k-σ</span>
-                            <input id="k-sigma" type="number" min="0.1" max="10" step="0.1">
-                        </label>
-                        <label>
-                            <span>EMA α</span>
-                            <input id="ema-alpha" type="number" min="0.01" max="0.99" step="0.01">
-                        </label>
-                        <label>
-                            <span>Kalman mode</span>
-                            <select id="kalman-mode">
-                                <option value="scalar">scalar</option>
-                                <option value="vector">vector</option>
-                            </select>
-                        </label>
-                        <label>
-                            <span>Replay pace (ms)</span>
-                            <input id="pace-ms" type="range" min="40" max="1000" step="20" value="160">
-                            <strong id="pace-readout">160</strong>
-                        </label>
-                    </div>
-                    <div class="button-row">
-                        <button id="recompute-btn" class="primary">Recompute</button>
-                        <button id="play-btn">Play</button>
-                        <button id="stop-btn">Stop</button>
-                        <button id="reset-view-btn">Reset view</button>
-                    </div>
-                </section>
-
-                <section>
                     <h2>Schema</h2>
                     <div id="schema-browser" class="schema-browser"></div>
                 </section>
@@ -82,27 +42,69 @@
                         </div>
                         <div id="step-readout" class="pill muted">step 0</div>
                     </div>
-                    <canvas id="trajectory-canvas"></canvas>
+                    <canvas id="trajectory-canvas" aria-label="Three-dimensional PCA projection of the embedding trajectory"></canvas>
+                    <div class="embedding-strip-wrap">
+                        <div class="embedding-strip-header">
+                            <h3>Embedding signature <span class="muted">(reduced)</span></h3>
+                            <p id="embedding-strip-note" class="muted small"></p>
+                        </div>
+                        <div class="embedding-strip-canvas-wrap">
+                            <canvas id="embedding-strip" width="640" height="56" aria-label="Heat strip of sampled reduced embedding components for the current window"></canvas>
+                            <div id="embedding-strip-tooltip" class="embedding-strip-tooltip" hidden></div>
+                        </div>
+                    </div>
                 </section>
 
                 <section class="panel metrics-panel">
                     <h2>Live variables</h2>
                     <div class="metric-grid">
-                        <div class="metric-card"><span>Windows</span><strong id="metric-windows">—</strong></div>
-                        <div class="metric-card"><span>Boundaries</span><strong id="metric-boundaries">—</strong></div>
-                        <div class="metric-card"><span>Mean velocity</span><strong id="metric-velocity">—</strong></div>
-                        <div class="metric-card"><span>Path length</span><strong id="metric-path">—</strong></div>
-                        <div class="metric-card"><span>Kalman dₘ</span><strong id="metric-kalman">—</strong></div>
-                        <div class="metric-card"><span>Accel dₘ</span><strong id="metric-kalman-accel">—</strong></div>
-                        <div class="metric-card"><span>EMA drift</span><strong id="metric-ema">—</strong></div>
-                        <div class="metric-card"><span>Return cluster</span><strong id="metric-return">—</strong></div>
+                        <div class="metric-card" data-metric="windows" role="group" tabindex="0" aria-describedby="metric-label-windows">
+                            <span class="metric-label" id="metric-label-windows">Windows</span>
+                            <strong id="metric-windows" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-windows"></span>
+                        </div>
+                        <div class="metric-card" data-metric="boundaries" role="group" tabindex="0" aria-describedby="metric-label-boundaries">
+                            <span class="metric-label" id="metric-label-boundaries">Boundaries</span>
+                            <strong id="metric-boundaries" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-boundaries"></span>
+                        </div>
+                        <div class="metric-card" data-metric="velocity" role="group" tabindex="0" aria-describedby="metric-label-velocity">
+                            <span class="metric-label" id="metric-label-velocity">Velocity</span>
+                            <strong id="metric-velocity" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-velocity"></span>
+                        </div>
+                        <div class="metric-card" data-metric="path" role="group" tabindex="0" aria-describedby="metric-label-path">
+                            <span class="metric-label" id="metric-label-path">Path length</span>
+                            <strong id="metric-path" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-path"></span>
+                        </div>
+                        <div class="metric-card" data-metric="kalman" role="group" tabindex="0" aria-describedby="metric-label-kalman">
+                            <span class="metric-label" id="metric-label-kalman">Kalman dₘ</span>
+                            <strong id="metric-kalman" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-kalman"></span>
+                        </div>
+                        <div class="metric-card" data-metric="kalmanAccel" role="group" tabindex="0" aria-describedby="metric-label-kalman-accel">
+                            <span class="metric-label" id="metric-label-kalman-accel">Accel dₘ</span>
+                            <strong id="metric-kalman-accel" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-kalman-accel"></span>
+                        </div>
+                        <div class="metric-card" data-metric="ema" role="group" tabindex="0" aria-describedby="metric-label-ema">
+                            <span class="metric-label" id="metric-label-ema">EMA drift</span>
+                            <strong id="metric-ema" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-ema"></span>
+                        </div>
+                        <div class="metric-card" data-metric="return" role="group" tabindex="0" aria-describedby="metric-label-return">
+                            <span class="metric-label" id="metric-label-return">Return cluster</span>
+                            <strong id="metric-return" class="metric-value">—</strong>
+                            <span class="metric-qual" id="metric-qual-return"></span>
+                        </div>
                     </div>
                     <div class="spark-grid">
-                        <div><label>Velocity</label><canvas id="spark-velocity" width="340" height="56"></canvas></div>
-                        <div><label>Acceleration</label><canvas id="spark-acceleration" width="340" height="56"></canvas></div>
-                        <div><label>Kalman dₘ</label><canvas id="spark-kalman" width="340" height="56"></canvas></div>
-                        <div><label>Accel dₘ</label><canvas id="spark-kalman-accel" width="340" height="56"></canvas></div>
-                        <div><label>EMA drift</label><canvas id="spark-ema" width="340" height="56"></canvas></div>
+                        <div><label>Velocity</label><canvas id="spark-velocity" width="340" height="56" aria-hidden="true"></canvas></div>
+                        <div><label>Acceleration</label><canvas id="spark-acceleration" width="340" height="56" aria-hidden="true"></canvas></div>
+                        <div><label>Kalman dₘ</label><canvas id="spark-kalman" width="340" height="56" aria-hidden="true"></canvas></div>
+                        <div><label>Accel dₘ</label><canvas id="spark-kalman-accel" width="340" height="56" aria-hidden="true"></canvas></div>
+                        <div><label>EMA drift</label><canvas id="spark-ema" width="340" height="56" aria-hidden="true"></canvas></div>
                     </div>
                 </section>
 
@@ -115,14 +117,93 @@
                         </div>
                         <div id="boundary-badge" class="pill muted">stable</div>
                     </div>
-                    <div id="attention-window" class="attention-window">Attention window will appear here.</div>
-                    <div id="stream-text" class="stream-text"></div>
+                    <div id="attention-window" class="attention-window" aria-live="polite">Attention window will appear here.</div>
+                    <div id="stream-text" class="stream-text" aria-label="Replay stream of new tokens per window"></div>
                     <details class="transcript-details">
                         <summary>Full transcript (<span id="transcript-token-hint">tokens</span>)</summary>
                         <pre id="full-transcript" class="full-transcript"></pre>
                     </details>
                 </section>
             </main>
+        </div>
+
+        <div id="floating-console" class="floating-console" role="region" aria-label="Bottom panel: parameters and replay controls">
+            <div class="floating-console-header">
+                <h2>Console</h2>
+                <button type="button" id="console-toggle" class="console-toggle" aria-expanded="true" aria-controls="console-body">Hide</button>
+            </div>
+            <div id="console-body" class="floating-console-body">
+                <p class="console-blurb muted small">
+                    Causal <strong>linear</strong> Kalman (constant-velocity model); at fixed Q and R the update is the standard Kalman gain.
+                    The <strong>gain</strong> dial scales the correction term (K·y) for interactive tuning. Full EKF for nonlinear observations is planned.
+                </p>
+                <div class="dial-grid" role="group" aria-label="Kalman covariance and gain">
+                    <div class="dial-card">
+                        <label id="lbl-dial-q" for="dial-q" class="dial-label">Process noise Q</label>
+                        <input type="range" id="dial-q" min="0" max="100" value="50" class="dial-range fat-dial"
+                            aria-labelledby="lbl-dial-q"
+                            title="Diagonal process noise scale. Higher Q: looser predictions, different innovation balance.">
+                        <div class="dial-readout" id="dial-q-readout" aria-live="polite">—</div>
+                    </div>
+                    <div class="dial-card">
+                        <label id="lbl-dial-r" for="dial-r" class="dial-label">Measurement noise R</label>
+                        <input type="range" id="dial-r" min="0" max="100" value="50" class="dial-range fat-dial"
+                            aria-labelledby="lbl-dial-r"
+                            title="Diagonal measurement noise. Higher R: trust observations less.">
+                        <div class="dial-readout" id="dial-r-readout" aria-live="polite">—</div>
+                    </div>
+                    <div class="dial-card">
+                        <label id="lbl-dial-k" for="dial-k" class="dial-label">Update gain (K·y scale)</label>
+                        <input type="range" id="dial-k" min="0" max="100" value="50" class="dial-range fat-dial"
+                            aria-labelledby="lbl-dial-k"
+                            title="Multiplies the Kalman correction. 1.0 is standard; lower damps; higher reacts faster.">
+                        <div class="dial-readout" id="dial-k-readout" aria-live="polite">—</div>
+                    </div>
+                    <div class="dial-card">
+                        <label id="lbl-dial-thr" for="dial-threshold" class="dial-label">Innovation threshold</label>
+                        <input type="range" id="dial-threshold" min="0" max="100" value="50" class="dial-range fat-dial"
+                            aria-labelledby="lbl-dial-thr"
+                            title="Mahalanobis distance cutoff for Kalman violations. Lower = more boundaries flagged.">
+                        <div class="dial-readout" id="dial-threshold-readout" aria-live="polite">—</div>
+                    </div>
+                </div>
+                <div class="control-grid">
+                    <label title="Number of tokens in each causal sliding window (right edge = current time). Larger windows = more context per embedding.">
+                        <span>Window size</span>
+                        <input id="window-size" type="number" min="2" step="1" aria-label="Sliding window size in tokens">
+                    </label>
+                    <label title="Token step between consecutive windows. Lower = finer time resolution and more windows; higher = cheaper, coarser trajectory.">
+                        <span>Stride</span>
+                        <input id="stride" type="number" min="1" step="1" aria-label="Stride between windows in tokens">
+                    </label>
+                    <label title="Boundary sensitivity: flag when velocity exceeds the running mean plus k times the running standard deviation (after warmup).">
+                        <span>k-σ</span>
+                        <input id="k-sigma" type="number" min="0.1" max="10" step="0.1" aria-label="Boundary detector k sigma">
+                    </label>
+                    <label title="One-sided EMA smoothing of embeddings. Higher α adapts faster to new text; lower α keeps a longer memory of prior context.">
+                        <span>EMA α</span>
+                        <input id="ema-alpha" type="number" min="0.01" max="0.99" step="0.01" aria-label="EMA alpha smoothing">
+                    </label>
+                    <label title="Kalman filter tracks cosine distance (scalar) or reduced embedding (vector).">
+                        <span>Kalman mode</span>
+                        <select id="kalman-mode" aria-label="Kalman filter mode">
+                            <option value="scalar">scalar</option>
+                            <option value="vector">vector</option>
+                        </select>
+                    </label>
+                    <label title="Delay between replay frames in the UI only — does not change the model or saved metrics.">
+                        <span>Replay pace (ms)</span>
+                        <input id="pace-ms" type="range" min="40" max="1000" step="20" value="160" aria-label="Replay pace milliseconds">
+                        <strong id="pace-readout" aria-live="polite">160</strong>
+                    </label>
+                </div>
+                <div class="button-row">
+                    <button type="button" id="recompute-btn" class="primary" title="Re-run the pipeline with the current parameters">Recompute</button>
+                    <button type="button" id="play-btn" title="Replay windows over WebSocket; requires a successful Recompute first">Play</button>
+                    <button type="button" id="stop-btn" title="Stop replay">Stop</button>
+                    <button type="button" id="reset-view-btn" title="Reset 3D camera">Reset view</button>
+                </div>
+            </div>
         </div>
     </div>
 

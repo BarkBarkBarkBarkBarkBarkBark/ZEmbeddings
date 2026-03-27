@@ -2,6 +2,13 @@
 Kalman filter for semantic trajectory prediction.
 ==================================================
 
+This module implements a **linear** constant-velocity Kalman filter with
+linear observations. For that model the filter is **exact**. A full **Extended
+Kalman Filter (EKF)** reduces to the same update when ``f`` and ``h`` are
+linear; EKF is needed for nonlinear ``h`` (e.g. sphere-constrained embeddings).
+**update_gain_scale** (default 1.0) scales the correction ``K y`` for interactive
+tuning; at 1.0 behaviour matches the standard filter.
+
 Implements two modes:
 
 Scalar mode
@@ -94,6 +101,8 @@ def run_scalar_kalman(
     r_scale = kp["measurement_noise_scale"]
     p0_scale = kp["initial_covariance_scale"]
     threshold = kp["innovation_threshold"]
+    gain_scale = float(kp.get("update_gain_scale", 1.0))
+    gain_scale = max(0.0, min(gain_scale, 4.0))
 
     N = len(cosine_distances)
 
@@ -144,8 +153,9 @@ def run_scalar_kalman(
 
         # ── Update ────────────────────────────────────────────────────
         K = P_pred @ H.T / S          # 2×1
-        x = x_pred + K.flatten() * y
-        P = (np.eye(2) - K @ H) @ P_pred
+        Ks = gain_scale * K
+        x = x_pred + Ks.flatten() * y
+        P = (np.eye(2) - Ks @ H) @ P_pred
 
         filtered[t] = x[0]
 
@@ -183,6 +193,8 @@ def run_vector_kalman(
     r_scale = kp["measurement_noise_scale"]
     p0_scale = kp["initial_covariance_scale"]
     threshold = kp["innovation_threshold"]
+    gain_scale = float(kp.get("update_gain_scale", 1.0))
+    gain_scale = max(0.0, min(gain_scale, 4.0))
 
     N, dim = embeddings.shape
     state_dim = 2 * dim  # [position, velocity]
@@ -249,11 +261,11 @@ def run_vector_kalman(
         K_pos = P_pred[:dim] / S_diag
         K_vel = P_pred[dim:] / S_diag
 
-        x[:dim] = x_pred[:dim] + K_pos * y
-        x[dim:] = x_pred[dim:] + K_vel * y
+        x[:dim] = x_pred[:dim] + gain_scale * (K_pos * y)
+        x[dim:] = x_pred[dim:] + gain_scale * (K_vel * y)
 
-        P_diag[:dim] = (1.0 - K_pos) * P_pred[:dim]
-        P_diag[dim:] = (1.0 - K_vel) * P_pred[dim:]
+        P_diag[:dim] = (1.0 - gain_scale * K_pos) * P_pred[:dim]
+        P_diag[dim:] = (1.0 - gain_scale * K_vel) * P_pred[dim:]
 
         filtered[t] = x[:dim]
 
@@ -330,6 +342,8 @@ def run_acceleration_kalman(
     r_scale = kp["measurement_noise_scale"]
     p0_scale = kp["initial_covariance_scale"]
     threshold = kp["innovation_threshold"]
+    gain_scale = float(kp.get("update_gain_scale", 1.0))
+    gain_scale = max(0.0, min(gain_scale, 4.0))
 
     N = len(acceleration)
 
@@ -371,8 +385,9 @@ def run_acceleration_kalman(
             violations[t] = True
 
         K = P_pred @ H.T / S
-        x = x_pred + K.flatten() * y
-        P = (np.eye(2) - K @ H) @ P_pred
+        Ks = gain_scale * K
+        x = x_pred + Ks.flatten() * y
+        P = (np.eye(2) - Ks @ H) @ P_pred
 
         filtered[t] = x[0]
 

@@ -18,6 +18,10 @@ data/raw/
 data/processed/
 data/processed/*.npz
 data/processed/*.parquet
+results/coverage/
+results/metrics/
+results/reports/
+
 
 # ─── IDE ─────────────────────────────────────────────────────────────
 .vscode/

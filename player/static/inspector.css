@@ -1,4 +1,6 @@
 :root {
+    /* Reserved space so page content clears the fixed bottom console (synced by JS). */
+    --console-dock-reserve: 300px;
     --bg: #0d1117;
     --panel: #161b22;
     --card: #1c2128;
@@ -27,6 +29,7 @@ body {
     flex-direction: column;
     gap: 12px;
     padding: 12px;
+    padding-bottom: var(--console-dock-reserve);
 }
 
 .topbar, .panel {
@@ -63,7 +66,8 @@ body {
     display: grid;
     grid-template-columns: 320px minmax(0, 1fr);
     gap: 12px;
-    min-height: calc(100vh - 104px);
+    flex: 1;
+    min-height: 0;
 }
 
 .sidebar {
@@ -245,28 +249,37 @@ button:disabled {
 
 .metric-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 10px;
 }
 
 .metric-card {
     background: var(--card);
+    border: 1px solid var(--border);
     border-radius: 8px;
     padding: 10px 12px;
     display: flex;
     flex-direction: column;
-    gap: 6px;
+    gap: 4px;
 }
 
-.metric-card span {
-    color: var(--muted);
-    font-size: 0.76rem;
+.metric-card .metric-label {
+    font-size: 0.72rem;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
+    color: var(--muted);
 }
 
-.metric-card strong {
-    font-size: 1.2rem;
+.metric-card .metric-value {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text);
+}
+
+.metric-card .metric-qual {
+    font-size: 0.72rem;
+    color: var(--accent);
+    min-height: 1em;
 }
 
 .spark-grid {
@@ -380,7 +393,187 @@ button:disabled {
     word-break: break-word;
 }
 
+.embedding-strip-wrap {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+}
+
+.embedding-strip-header h3 {
+    margin: 0 0 4px;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.embedding-strip-canvas-wrap {
+    position: relative;
+    max-width: 100%;
+}
+
+#embedding-strip {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 72px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    cursor: crosshair;
+}
+
+.embedding-strip-tooltip {
+    position: absolute;
+    pointer-events: none;
+    bottom: 100%;
+    left: 0;
+    margin-bottom: 6px;
+    padding: 6px 10px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.78rem;
+    color: var(--text);
+    white-space: nowrap;
+    z-index: 5;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+}
+
+.embedding-strip-wrap.boundary-flash {
+    animation: embBoundaryFlash 0.35s ease-out;
+}
+
+@keyframes embBoundaryFlash {
+    from { box-shadow: 0 0 0 2px rgba(248, 81, 73, 0.6); }
+    to { box-shadow: none; }
+}
+
+
+
+/* Bottom dock: fixed above page scroll (content gets padding via --console-dock-reserve) */
+.floating-console {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-height: min(48vh, 640px);
+    z-index: 1000;
+    background: var(--panel);
+    border: none;
+    border-top: 1px solid var(--border);
+    border-radius: 0;
+    box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding-bottom: env(safe-area-inset-bottom, 0);
+}
+
+.floating-console-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    background: rgba(22, 27, 34, 0.95);
+}
+
+.floating-console-header h2 {
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+.console-toggle {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 6px;
+    padding: 4px 10px;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.console-toggle:hover {
+    border-color: var(--accent);
+}
+
+.floating-console-body {
+    flex: 1;
+    min-height: 0;
+    padding: 12px 14px 14px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.floating-console-body.collapsed {
+    display: none;
+}
+
+.console-blurb {
+    line-height: 1.4;
+    margin: 0;
+}
+
+.dial-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.floating-console .dial-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.floating-console .control-grid {
+    grid-template-columns: repeat(auto-fit, minmax(148px, 1fr));
+}
+
+.dial-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.dial-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+}
+
+.dial-range.fat-dial {
+    width: 100%;
+    height: 14px;
+    accent-color: var(--accent);
+    cursor: pointer;
+}
+
+.dial-readout {
+    font-family: ui-monospace, monospace;
+    font-size: 0.85rem;
+    color: var(--green);
+    text-align: center;
+}
+
+#play-btn.play-btn-nudge {
+    animation: playNudge 0.5s ease;
+}
+
+@keyframes playNudge {
+    0%, 100% { transform: scale(1); }
+    40% { transform: scale(1.08); box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.5); }
+}
+
 @media (max-width: 1200px) {
+    .floating-console .dial-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
     .layout {
         grid-template-columns: 1fr;
     }
@@ -395,5 +588,11 @@ button:disabled {
     .transcript-panel {
         grid-column: 1;
         grid-row: auto;
+    }
+}
+
+@media (max-width: 640px) {
+    .floating-console .dial-grid {
+        grid-template-columns: 1fr;
     }
 }

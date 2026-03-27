@@ -47,6 +47,10 @@ class PreviewRequest(BaseModel):
     k_sigma: float | None = None
     ema_alpha: float | None = None
     kalman_mode: str | None = None
+    process_noise_scale: float | None = None
+    measurement_noise_scale: float | None = None
+    update_gain_scale: float | None = None
+    innovation_threshold: float | None = None
 
 
 @dataclass
@@ -54,6 +58,13 @@ class PreviewComputation:
     result: PipelineResult
     source_label: str
     cache_hit: bool
+
+
+def _ensure_kalman_defaults(params: dict[str, Any]) -> None:
+    params.setdefault("kalman", {})
+    for key, val in PARAMS["kalman"].items():
+        params["kalman"].setdefault(key, copy.deepcopy(val))
+
 
 
 @app.get("/")
@@ -94,6 +105,7 @@ async def recompute(request: PreviewRequest) -> dict[str, Any]:
         raise HTTPException(status_code=400, detail="Source transcript not found for selected run")
 
     params = copy.deepcopy(run_meta["params"])
+    _ensure_kalman_defaults(params)
     params.setdefault("experiment", {})
     params["experiment"]["source"] = source_label
     params["experiment"]["name"] = run_meta["name"]
@@ -108,6 +120,14 @@ async def recompute(request: PreviewRequest) -> dict[str, Any]:
         params["ema"]["alpha"] = max(0.01, min(0.99, float(request.ema_alpha)))
     if request.kalman_mode is not None:
         params["kalman"]["mode"] = request.kalman_mode
+    if request.process_noise_scale is not None:
+        params["kalman"]["process_noise_scale"] = max(1e-12, float(request.process_noise_scale))
+    if request.measurement_noise_scale is not None:
+        params["kalman"]["measurement_noise_scale"] = max(1e-12, float(request.measurement_noise_scale))
+    if request.update_gain_scale is not None:
+        params["kalman"]["update_gain_scale"] = max(0.0, min(4.0, float(request.update_gain_scale)))
+    if request.innovation_threshold is not None:
+        params["kalman"]["innovation_threshold"] = max(0.1, float(request.innovation_threshold))
 
     if params == run_meta["params"]:
         try:
@@ -211,6 +231,7 @@ def discover_runs() -> list[dict[str, Any]]:
             continue
 
         params = payload.get("params") or copy.deepcopy(PARAMS)
+        _ensure_kalman_defaults(params)
         summary = payload.get("summary") or {}
         name = (
             payload.get("experiment")
@@ -382,11 +403,24 @@ def build_preview(run_meta: dict[str, Any], source_label: str, result: PipelineR
             "k_sigma": result.params["boundary"]["k_sigma"],
             "ema_alpha": result.params["ema"]["alpha"],
             "kalman_mode": result.params["kalman"]["mode"],
+            "kalman_innovation_threshold": float(
+                result.params["kalman"].get("innovation_threshold", 3.0)
+            ),
+            "kalman_process_noise_scale": float(
+                result.params["kalman"].get("process_noise_scale", 1e-4)
+            ),
+            "kalman_measurement_noise_scale": float(
+                result.params["kalman"].get("measurement_noise_scale", 1e-2)
+            ),
+            "kalman_update_gain_scale": float(
+                result.params["kalman"].get("update_gain_scale", 1.0)
+            ),
         },
         "summary": summary,
         "trajectory_3d": coords,
         "timeseries": timeseries,
         "frames": frames,
+        **_embedding_meta_from_reduced(result.embeddings_reduced, frames),
         "transcript_text": result.transcript.raw_text,
         "replay": {
             "kind": "offline",
@@ -455,6 +489,7 @@ def build_saved_preview(
     source_input: str,
     source_label: str,
 ) -> dict[str, Any]:
+    _ensure_kalman_defaults(run_meta["params"])
     payload = yaml.safe_load(Path(run_meta["path"]).read_text(encoding="utf-8")) or {}
     transcript = tokenize(source_input, run_meta["params"])
     _ensure_minimum_windows(transcript, run_meta["params"])
@@ -469,7 +504,7 @@ def build_saved_preview(
     summary = payload.get("summary", {})
     threshold = float(run_meta["params"]["kalman"].get("innovation_threshold", 3.0))
     coords = project_embeddings(reduced)
-    frames = build_frames_from_timeseries(transcript, timeseries, threshold)
+    frames = build_frames_from_timeseries(transcript, timeseries, threshold, reduced=reduced)
     return {
         "run": {
             "id": run_meta["id"],
@@ -482,6 +517,18 @@ def build_saved_preview(
             "k_sigma": run_meta["params"]["boundary"]["k_sigma"],
             "ema_alpha": run_meta["params"]["ema"]["alpha"],
             "kalman_mode": run_meta["params"]["kalman"]["mode"],
+            "kalman_innovation_threshold": float(
+                run_meta["params"]["kalman"].get("innovation_threshold", 3.0)
+            ),
+            "kalman_process_noise_scale": float(
+                run_meta["params"]["kalman"].get("process_noise_scale", 1e-4)
+            ),
+            "kalman_measurement_noise_scale": float(
+                run_meta["params"]["kalman"].get("measurement_noise_scale", 1e-2)
+            ),
+            "kalman_update_gain_scale": float(
+                run_meta["params"]["kalman"].get("update_gain_scale", 1.0)
+            ),
         },
         "summary": {
             "windows": summary.get("n_windows", transcript.n_tokens),
@@ -498,6 +545,7 @@ def build_saved_preview(
         "trajectory_3d": coords,
         "timeseries": sanitize_timeseries(timeseries, threshold),
         "frames": frames,
+        **_embedding_meta_from_reduced(reduced, frames),
         "transcript_text": transcript.raw_text,
         "replay": {
             "kind": "offline",
@@ -551,6 +599,7 @@ def build_frames_from_timeseries(
     transcript,
     timeseries: dict[str, Any],
     threshold: float,
+    reduced: np.ndarray | None = None,
 ) -> list[dict[str, Any]]:
     frames: list[dict[str, Any]] = []
     previous_end = -1
@@ -590,6 +639,10 @@ def build_frames_from_timeseries(
             "kalman_violation": (kalman_mahalanobis[i] if i < len(kalman_mahalanobis) else None) is not None and (kalman_mahalanobis[i] if i < len(kalman_mahalanobis) else 0.0) > threshold,
             "kalman_accel_violation": (kalman_accel_mahalanobis[i] if i < len(kalman_accel_mahalanobis) else None) is not None and (kalman_accel_mahalanobis[i] if i < len(kalman_accel_mahalanobis) else 0.0) > threshold,
         })
+        if reduced is not None and i < reduced.shape[0]:
+            frames[-1]["embedding_chip"] = embedding_chip(reduced[i])
+        elif "embedding_chip" not in frames[-1]:
+            frames[-1]["embedding_chip"] = []
     return frames
 
 
@@ -600,6 +653,39 @@ def display_path(path: Path) -> str:
         return str(path)
 
 
+EMBEDDING_CHIP_MAX = 64
+
+
+def embedding_chip(row: np.ndarray, max_dims: int = EMBEDDING_CHIP_MAX) -> list[float]:
+    """Evenly sample up to *max_dims* components from a reduced embedding row for JSON payloads."""
+    vec = np.asarray(row, dtype=np.float64).ravel()
+    n = int(vec.shape[0])
+    if n == 0:
+        return []
+    if n <= max_dims:
+        return np.round(vec, 6).tolist()
+    idx = np.linspace(0, n - 1, max_dims, dtype=int)
+    return np.round(vec[idx], 6).tolist()
+
+
+def _embedding_meta_from_reduced(reduced: np.ndarray, frames: list[dict]) -> dict[str, Any]:
+    if reduced.size == 0 or not frames:
+        return {
+            "embedding_chip_len": 0,
+            "embedding_source_dim": 0,
+            "embedding_note": "",
+        }
+    source_dim = int(reduced.shape[1])
+    chip_n = len(frames[0].get("embedding_chip") or [])
+    return {
+        "embedding_chip_len": chip_n,
+        "embedding_source_dim": source_dim,
+        "embedding_note": (
+            f"{chip_n} of {source_dim} reduced dimensions (evenly sampled)."
+        ),
+    }
+
+
 def build_frames(result: PipelineResult) -> list[dict[str, Any]]:
     frames: list[dict[str, Any]] = []
     previous_end = -1
@@ -607,12 +693,14 @@ def build_frames(result: PipelineResult) -> list[dict[str, Any]]:
         delta_ids = result.transcript.token_ids[previous_end + 1 : window.end_token + 1]
         delta_text = decode_tokens(result.transcript.encoding_name, delta_ids)
         previous_end = window.end_token
+        emb_row = result.embeddings_reduced[i] if result.embeddings_reduced.size else np.array([])
         frames.append({
             "index": i,
             "window_text": window.text,
             "delta_text": delta_text,
             "start_token": window.start_token,
             "end_token": window.end_token,
+            "embedding_chip": embedding_chip(emb_row) if emb_row.size else [],
             "velocity": safe_value(result.metrics.velocity[i]),
             "acceleration": safe_value(result.metrics.acceleration[i]),
             "jerk": safe_value(result.metrics.jerk[i]),

@@ -90,6 +90,7 @@ PARAMS: dict[str, Any] = {
         "initial_covariance_scale": 1.0,   # P₀ diagonal scale
         "innovation_threshold": 3.0,       # Mahalanobis cutoff
         "mode": "scalar",                  # "scalar" | "vector"
+        "update_gain_scale": 1.0,          # scales K·y update; 1.0 = standard filter
     },
 
     # ── Semantic cloud ────────────────────────────────────────────────
