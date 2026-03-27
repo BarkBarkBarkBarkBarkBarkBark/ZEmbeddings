@@ -161,18 +161,23 @@ def compute_metrics(
     for t in range(1, N):
         cum_path[t] = cum_path[t - 1] + (cos_dist[t] if not np.isnan(cos_dist[t]) else 0.0)
 
-    # ── 6. Boundary detection (k-sigma on velocity) ───────────────────
+    # ── 6. Boundary detection (k-sigma on velocity, CAUSAL) ─────────────
+    #    At each step t, compute running mean & std from min_samples..t
+    #    so that only past information is used (no future leakage).
     boundary_flags = np.zeros(N, dtype=bool)
-    # Use a causal running mean & std for velocity
-    valid_v = velocity[min_samples:]
-    valid_v = valid_v[~np.isnan(valid_v)]
-    if len(valid_v) > 0:
-        mu_v = np.mean(valid_v)
-        sigma_v = np.std(valid_v)
+    for t in range(min_samples, N):
+        if np.isnan(velocity[t]):
+            continue
+        # Collect all valid velocities from min_samples up to and including t
+        past_v = velocity[min_samples:t + 1]
+        past_valid = past_v[~np.isnan(past_v)]
+        if len(past_valid) < 2:
+            continue
+        mu_v = np.mean(past_valid)
+        sigma_v = np.std(past_valid)
         threshold = mu_v + k_sigma * sigma_v
-        for t in range(min_samples, N):
-            if not np.isnan(velocity[t]) and velocity[t] > threshold:
-                boundary_flags[t] = True
+        if velocity[t] > threshold:
+            boundary_flags[t] = True
 
     # ── 7. Fixation & return detection ────────────────────────────────
     return_flags = np.zeros(N, dtype=bool)

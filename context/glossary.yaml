@@ -1,0 +1,229 @@
+<![CDATA[# ═══════════════════════════════════════════════════════════════════════
+# ZEmbeddings — Glossary of Domain Terms
+# ═══════════════════════════════════════════════════════════════════════
+# Definitions of all domain-specific terms used in the codebase.
+# Each entry includes: definition, units (if applicable), typical range,
+# and cross-references to MANIFESTO.md sections and source modules.
+# ═══════════════════════════════════════════════════════════════════════
+
+terms:
+
+  # ── Geometry & Space ───────────────────────────────────────────────
+
+  semantic_space:
+    definition: >
+      The high-dimensional vector space in which text embeddings live.
+      For OpenAI text-embedding-3-small, this is a 1536-dimensional
+      unit hypersphere (all vectors are L2-normalised).
+    manifesto_section: "2.2"
+    modules: [embeddings]
+
+  embedding:
+    definition: >
+      A fixed-length vector representation of a text window, produced
+      by a language model. Nearby vectors represent semantically similar
+      text. In this project, embeddings are always L2-normalised.
+    units: "dimensionless (unit vector)"
+    dimensions: "1536 (full) or 256 (reduced)"
+    modules: [embeddings, pipeline]
+
+  cosine_distance:
+    definition: >
+      d = 1 - cos(θ) = 1 - (e_t · e_{t-1}). Primary distance metric.
+      For L2-normalised vectors, the dot product equals cosine similarity.
+    units: "dimensionless"
+    range: "[0, 2]"
+    manifesto_section: "4.1"
+    modules: [metrics]
+
+  euclidean_distance:
+    definition: >
+      ||e_t - e_{t-1}||₂. Secondary distance metric. Related to cosine
+      distance for normalised vectors: d_L2 = sqrt(2 * d_cos).
+    units: "dimensionless"
+    range: "[0, 2]"
+    manifesto_section: "4.1"
+    modules: [metrics]
+
+  semantic_cloud:
+    definition: >
+      The region of embedding space where measured similarity is
+      indistinguishable from random noise. In high dimensions, random
+      unit vectors concentrate near orthogonality (cos_sim ≈ 0 ± 1/√d).
+    manifesto_section: "2.4"
+    modules: [metrics]
+    related_params: [semantic_cloud.similarity_floor]
+
+  similarity_floor:
+    definition: >
+      Cosine similarity threshold below which we cannot claim two
+      embeddings are meaningfully related. Set empirically at ~0.30.
+    units: "dimensionless"
+    typical_value: 0.30
+    manifesto_section: "2.4"
+    param_key: "semantic_cloud.similarity_floor"
+
+  # ── Kinematics (trajectory metrics) ────────────────────────────────
+
+  semantic_velocity:
+    definition: >
+      First derivative of the cosine distance series. Measures the
+      instantaneous rate of semantic displacement per step.
+    units: "cosine distance / step"
+    manifesto_section: "4.2"
+    modules: [metrics]
+    interpretation: "High velocity = rapid topic change"
+
+  acceleration:
+    definition: >
+      Second derivative of cosine distance. Measures how the velocity
+      is changing — is the speaker beginning to shift topic, or
+      settling into one?
+    units: "cosine distance / step²"
+    manifesto_section: "4.2"
+    modules: [metrics]
+    interpretation: "Positive acceleration = topic shift onset"
+
+  jerk:
+    definition: >
+      Third derivative of cosine distance. Captures the onset or offset
+      of an acceleration — the 'snap' of a topic change beginning or
+      ending.
+    units: "cosine distance / step³"
+    manifesto_section: "4.2"
+    modules: [metrics]
+    interpretation: "Jerk spike = sharp boundary between semantic regimes"
+
+  cumulative_path_length:
+    definition: >
+      L_t = Σ d_i^cos from i=0 to t. Total cosine distance traversed
+      through semantic space up to step t.
+    units: "cumulative cosine distance"
+    manifesto_section: "4.8"
+    modules: [metrics]
+    interpretation: "Higher = more semantic ground covered (more 'wandering')"
+
+  # ── EMA (exponential moving average) ───────────────────────────────
+
+  ema_centroid:
+    definition: >
+      ē_t = α·e_t + (1-α)·ē_{t-1}. A causal, one-sided running average
+      of the embedding trajectory. Represents 'where the conversation
+      has been recently'.
+    units: "embedding vector (same dim as input)"
+    manifesto_section: "4.4"
+    modules: [metrics]
+    related_params: [ema.alpha]
+
+  ema_drift:
+    definition: >
+      Cosine distance between the current embedding and the EMA centroid.
+      Measures how far the current utterance has strayed from the
+      running conversational context.
+    units: "cosine distance"
+    modules: [metrics]
+    interpretation: "High drift = speaker departed from recent context"
+
+  # ── Kalman filter ──────────────────────────────────────────────────
+
+  innovation:
+    definition: >
+      y_t = z_t - H·x̂_{t|t-1}. The difference between the observed
+      measurement and the Kalman filter's prediction. Large innovations
+      signal unexpected semantic movement.
+    units: "same as measurement (cosine distance or embedding vector)"
+    manifesto_section: "4.5"
+    modules: [kalman]
+
+  mahalanobis_distance:
+    definition: >
+      d_M = sqrt(y_t^T · S_t^{-1} · y_t). A scale-normalised measure
+      of innovation magnitude that accounts for the filter's uncertainty.
+      When d_M exceeds the threshold, a violation is flagged.
+    units: "dimensionless (standard deviations)"
+    manifesto_section: "4.5"
+    modules: [kalman]
+    related_params: [kalman.innovation_threshold]
+
+  violation:
+    definition: >
+      A Kalman filter event where the Mahalanobis distance exceeds the
+      threshold. Indicates the speaker departed from the predicted
+      semantic trajectory — a candidate topic boundary.
+    modules: [kalman]
+    related_params: [kalman.innovation_threshold]
+
+  constant_velocity_model:
+    definition: >
+      The Kalman filter's transition assumption: x̂_{t+1} = x_t + v_t.
+      'The speaker will keep going in the same semantic direction.'
+      Violations of this assumption are exactly what we detect.
+    manifesto_section: "4.5"
+    modules: [kalman]
+
+  # ── Boundary / fixation / return detection ─────────────────────────
+
+  semantic_boundary:
+    definition: >
+      A detected transition between semantic regimes (topics).
+      Flagged when velocity exceeds μ + kσ (causal running stats)
+      or when the Kalman filter reports a violation.
+    manifesto_section: "4.6"
+    modules: [metrics, kalman]
+    related_params: [boundary.k_sigma, boundary.min_samples]
+
+  fixation:
+    definition: >
+      Semantic perseveration — the speaker remains locked on one topic
+      with near-zero velocity for an extended run (≥5 steps).
+    manifesto_section: "4.7"
+    modules: [metrics]
+    interpretation: "Cognitive 'stuckness' or deliberate deep focus"
+
+  topic_return:
+    definition: >
+      The speaker revisits a previous topic cluster. Detected when
+      cos(e_t, centroid_k) > return_threshold for any historical
+      cluster centroid c_k.
+    manifesto_section: "4.7"
+    modules: [metrics]
+    related_params: [semantic_cloud.return_threshold]
+    interpretation: "Episodic memory retrieval — circling back to an earlier idea"
+
+  # ── Tokenisation ───────────────────────────────────────────────────
+
+  causal_window:
+    definition: >
+      A sliding window of W consecutive tokens ending at position t:
+      window_t = tokens[t-W+1 : t+1]. Strictly causal — no future
+      tokens are ever included.
+    manifesto_section: "3"
+    modules: [tokenizer]
+    related_params: [window.size, window.stride]
+
+  posturing:
+    definition: >
+      The process of transforming raw corpus data (CSV transcripts,
+      JSON metadata) into plain text files ready for embedding.
+      Produces three variants per conversation: speaker_L, speaker_R,
+      and interleaved.
+    modules: [ingest]
+    context_reference: "context/ingestion_strategy.yaml"
+
+  # ── Corpus ─────────────────────────────────────────────────────────
+
+  backbiter_format:
+    definition: >
+      The primary transcript format from the conversation corpus.
+      Consolidates backchannels (e.g. 'uh-huh', 'yeah') into the
+      primary speaker's turn, producing semantically coherent
+      utterances suitable for embedding.
+    modules: [ingest]
+
+  analysis_mode:
+    definition: >
+      Which subset of turns to embed for a given conversation.
+      Three modes: speaker_L (left channel only), speaker_R
+      (right channel only), interleaved (all turns with labels).
+    modules: [ingest, pipeline]
+]]>

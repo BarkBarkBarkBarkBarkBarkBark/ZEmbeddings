@@ -127,6 +127,15 @@ PARAMS: dict[str, Any] = {
         "results_metrics": "results/metrics",
         "results_reports": "results/reports",
     },
+
+    # ── Experiment metadata (not tuneable — set per experiment) ────────
+    # This section is populated by YAML experiment configs.
+    # It is NOT a tuneable parameter — it stores metadata about the run.
+    "experiment": {
+        "name": "",
+        "description": "",
+        "source": "",
+    },
 }
 
 

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZEmbeddings — Live Semantic Trajectory</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header>
+            <h1>⚡ ZEmbeddings <span class="subtitle">Live Player</span></h1>
+            <div class="status" id="status">Disconnected</div>
+        </header>
+
+        <!-- Main grid -->
+        <div class="grid">
+            <!-- 3D Trajectory (left, large) -->
+            <div class="panel panel-3d" id="panel-3d">
+                <h2>Semantic Trajectory</h2>
+                <canvas id="trajectory-canvas"></canvas>
+                <div class="controls">
+                    <button id="btn-reset-view" title="Reset camera">⟲</button>
+                    <span id="point-count" class="dim">0 points</span>
+                </div>
+            </div>
+
+            <!-- Metrics (right) -->
+            <div class="panel panel-metrics">
+                <h2>Live Metrics</h2>
+                <div class="metric-grid">
+                    <div class="metric-card">
+                        <label>Windows</label>
+                        <span id="m-windows" class="metric-value">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Path Length</label>
+                        <span id="m-path" class="metric-value">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Mean Velocity</label>
+                        <span id="m-velocity" class="metric-value">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Boundaries</label>
+                        <span id="m-boundaries" class="metric-value fire">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Kalman Violations</label>
+                        <span id="m-kalman" class="metric-value">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Accel Violations</label>
+                        <span id="m-accel" class="metric-value fire">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Cloud μ(sim)</label>
+                        <span id="m-cloud-mean" class="metric-value">—</span>
+                    </div>
+                    <div class="metric-card">
+                        <label>Cloud σ(sim)</label>
+                        <span id="m-cloud-std" class="metric-value">—</span>
+                    </div>
+                </div>
+
+                <!-- Sparklines -->
+                <h3>Timeseries</h3>
+                <div class="sparkline-container">
+                    <div class="sparkline-row">
+                        <label>Velocity</label>
+                        <canvas id="spark-velocity" class="sparkline" width="300" height="40"></canvas>
+                    </div>
+                    <div class="sparkline-row">
+                        <label>Acceleration</label>
+                        <canvas id="spark-acceleration" class="sparkline" width="300" height="40"></canvas>
+                    </div>
+                    <div class="sparkline-row">
+                        <label>Kalman d_M</label>
+                        <canvas id="spark-kalman" class="sparkline" width="300" height="40"></canvas>
+                    </div>
+                    <div class="sparkline-row">
+                        <label>Accel d_M</label>
+                        <canvas id="spark-kalman-accel" class="sparkline" width="300" height="40"></canvas>
+                    </div>
+                    <div class="sparkline-row">
+                        <label>EMA Drift</label>
+                        <canvas id="spark-ema" class="sparkline" width="300" height="40"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Transcript (bottom) -->
+            <div class="panel panel-transcript">
+                <h2>Transcript</h2>
+                <div id="transcript" class="transcript-text">
+                    <span class="dim">Press "Start" to begin recording...</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls bar -->
+        <footer>
+            <button id="btn-start" class="btn-primary">🎙 Start</button>
+            <button id="btn-stop" class="btn-secondary" disabled>⏹ Stop</button>
+            <button id="btn-reset" class="btn-secondary">↻ Reset</button>
+            <span class="dim" id="audio-status"></span>
+            <!-- Text input fallback -->
+            <input type="text" id="text-input" placeholder="Or type text here..."
+                   class="text-input" />
+            <button id="btn-send" class="btn-secondary">Send</button>
+        </footer>
+    </div>
+
+    <!-- Three.js (CDN) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -30,7 +30,7 @@ import numpy as np
 from zembeddings.tokenizer import tokenize, windows_to_texts, TokenizedTranscript
 from zembeddings.embeddings import embed_texts
 from zembeddings.metrics import compute_metrics, TrajectoryMetrics, semantic_cloud_stats
-from zembeddings.kalman import run_kalman, KalmanResult
+from zembeddings.kalman import run_kalman, run_acceleration_kalman, KalmanResult
 from zembeddings.io import (
     read_transcript,
     write_metrics_yaml,
@@ -53,6 +53,7 @@ class PipelineResult:
         embeddings_reduced: np.ndarray,
         metrics: TrajectoryMetrics,
         kalman: KalmanResult,
+        kalman_accel: KalmanResult,
         cloud_stats: dict[str, float],
         experiment_name: str,
     ):
@@ -62,6 +63,7 @@ class PipelineResult:
         self.embeddings_reduced = embeddings_reduced
         self.metrics = metrics
         self.kalman = kalman
+        self.kalman_accel = kalman_accel
         self.cloud_stats = cloud_stats
         self.experiment_name = experiment_name
 
@@ -72,6 +74,7 @@ class PipelineResult:
             f"boundaries={self.metrics.n_boundaries} "
             f"returns={self.metrics.n_returns} "
             f"kalman_violations={self.kalman.n_violations} "
+            f"accel_violations={self.kalman_accel.n_violations} "
             f"path_length={self.metrics.total_path_length:.4f}>"
         )
 
@@ -112,13 +115,21 @@ def run_pipeline(
         All intermediate and final data, inspectable interactively.
     """
     # ── 0. Resolve source ─────────────────────────────────────────────
-    source_path = Path(source)
-    if source_path.is_file():
+    source_str = str(source)
+    is_file = False
+    if "\n" not in source_str and len(source_str) < 1024:
+        try:
+            source_path = Path(source_str)
+            is_file = source_path.is_file()
+        except (OSError, ValueError):
+            is_file = False
+
+    if is_file:
         text = read_transcript(source_path)
         if experiment_name is None:
             experiment_name = source_path.stem
     else:
-        text = str(source)
+        text = source_str
         if experiment_name is None:
             experiment_name = "inline"
 
@@ -158,6 +169,11 @@ def run_pipeline(
     print(f"   Kalman ({kal.mode}): {kal.n_violations} violations "
           f"(threshold={kal.threshold})")
 
+    # ── 4b. Kalman on acceleration (context-change detector) ──────────
+    kal_accel = run_acceleration_kalman(met.acceleration, params)
+    print(f"   Kalman (acceleration): {kal_accel.n_violations} violations "
+          f"(threshold={kal_accel.threshold})")
+
     # ── 5. Semantic cloud stats ───────────────────────────────────────
     cloud = semantic_cloud_stats(embeddings_full)
     print(f"   Cloud: mean_sim={cloud['mean_pairwise_sim']:.4f}, "
@@ -178,6 +194,7 @@ def run_pipeline(
             "total_path_length": met.total_path_length,
             "kalman_mode": kal.mode,
             "kalman_violations": kal.n_violations,
+            "kalman_accel_violations": kal_accel.n_violations,
             "cloud_mean_sim": cloud["mean_pairwise_sim"],
             "cloud_std_sim": cloud["std_pairwise_sim"],
             "boundary_indices": boundary_indices,
@@ -196,6 +213,8 @@ def run_pipeline(
             "cumulative_path": met.cumulative_path.tolist(),
             "kalman_innovation": kal.innovation_norms.tolist(),
             "kalman_mahalanobis": kal.mahalanobis_distances.tolist(),
+            "kalman_accel_innovation": kal_accel.innovation_norms.tolist(),
+            "kalman_accel_mahalanobis": kal_accel.mahalanobis_distances.tolist(),
             "boundary_flags": met.boundary_flags.tolist(),
             "return_flags": met.return_flags.tolist(),
             "return_cluster_id": met.return_cluster_ids.tolist(),
@@ -212,7 +231,7 @@ def run_pipeline(
     # ── 8. Store to pgvector ──────────────────────────────────────────
     use_db = store_db if store_db is not None else params["database"]["enabled"]
     if use_db:
-        _store_to_db(params, experiment_name, transcript, met, kal,
+        _store_to_db(params, experiment_name, transcript, met, kal, kal_accel,
                      embeddings_full, embeddings_reduced, metrics_dict)
 
     # ── Done ──────────────────────────────────────────────────────────
@@ -223,6 +242,7 @@ def run_pipeline(
         embeddings_reduced=embeddings_reduced,
         metrics=met,
         kalman=kal,
+        kalman_accel=kal_accel,
         cloud_stats=cloud,
         experiment_name=experiment_name,
     )
@@ -231,7 +251,7 @@ def run_pipeline(
 
 
 def _store_to_db(
-    params, experiment_name, transcript, met, kal,
+    params, experiment_name, transcript, met, kal, kal_accel,
     embeddings_full, embeddings_reduced, metrics_dict,
 ):
     """Store results in pgvector (guarded import)."""

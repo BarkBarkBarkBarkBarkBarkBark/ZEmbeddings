@@ -302,3 +302,88 @@ def run_kalman(
         return run_vector_kalman(embeddings_reduced, params)
     else:
         raise ValueError(f"Unknown Kalman mode: {mode!r}")
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  Kalman on acceleration (2nd derivative of cosine distance)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+def run_acceleration_kalman(
+    acceleration: np.ndarray,
+    params: dict[str, Any],
+) -> KalmanResult:
+    """Run a scalar Kalman filter on the acceleration (2nd derivative).
+
+    This models the *rate of change of velocity* as a constant-value
+    process.  A spike in the Mahalanobis distance means the acceleration
+    itself is surprising — analogous to a neuron that fires when the
+    *context is changing*, not just when the position shifts.
+
+    Think of it as: the regular Kalman on distance detects topic shifts;
+    this one detects the *onset and offset* of topic shifts — the event
+    boundary signal that could cue hippocampal resetting.
+
+    State vector: x = [acceleration, jerk]ᵀ  (2×1)
+    """
+    kp = params["kalman"]
+    q_scale = kp["process_noise_scale"]
+    r_scale = kp["measurement_noise_scale"]
+    p0_scale = kp["initial_covariance_scale"]
+    threshold = kp["innovation_threshold"]
+
+    N = len(acceleration)
+
+    # Transition matrix (constant-velocity model on acceleration)
+    F = np.array([[1.0, 1.0],
+                  [0.0, 1.0]])
+    H = np.array([[1.0, 0.0]])
+    Q = q_scale * np.eye(2)
+    R = np.array([[r_scale]])
+    x = np.array([0.0, 0.0])
+    P = p0_scale * np.eye(2)
+
+    innovations = np.full(N, np.nan)
+    mahal = np.full(N, np.nan)
+    predicted = np.full(N, np.nan)
+    filtered = np.full(N, np.nan)
+    violations = np.zeros(N, dtype=bool)
+
+    for t in range(N):
+        z = acceleration[t]
+        if np.isnan(z):
+            predicted[t] = np.nan
+            filtered[t] = np.nan
+            continue
+
+        x_pred = F @ x
+        P_pred = F @ P @ F.T + Q
+
+        y = z - (H @ x_pred)[0]
+        S = (H @ P_pred @ H.T + R)[0, 0]
+
+        innovations[t] = y
+        predicted[t] = x_pred[0]
+
+        d_m = abs(y) / np.sqrt(S) if S > 0 else 0.0
+        mahal[t] = d_m
+
+        if d_m > threshold:
+            violations[t] = True
+
+        K = P_pred @ H.T / S
+        x = x_pred + K.flatten() * y
+        P = (np.eye(2) - K @ H) @ P_pred
+
+        filtered[t] = x[0]
+
+    return KalmanResult(
+        mode="acceleration",
+        innovations=innovations,
+        innovation_norms=np.abs(innovations),
+        mahalanobis_distances=mahal,
+        predicted_states=predicted,
+        filtered_states=filtered,
+        violation_flags=violations,
+        threshold=threshold,
+        n_violations=int(violations.sum()),
+    )

@@ -1,0 +1,171 @@
+<![CDATA[# ═══════════════════════════════════════════════════════════════════════
+# ZEmbeddings — Architecture Reference
+# ═══════════════════════════════════════════════════════════════════════
+# Machine-readable description of the project's module structure,
+# dependency graph, data flow, and entry points.
+# Intended audience: AI agents, CI/CD, documentation generators.
+# ═══════════════════════════════════════════════════════════════════════
+
+project:
+  name: zembeddings
+  version: "0.1.0"
+  python: ">=3.10"
+  source_root: src/zembeddings
+  ground_truth: MANIFESTO.md
+
+# ── Module dependency graph ──────────────────────────────────────────
+# Each module lists what it imports from within the project.
+# External deps (numpy, scipy, etc.) are not listed here.
+modules:
+  params:
+    file: src/zembeddings/params.py
+    depends_on: []
+    role: "Single source of truth for all tuneable parameters"
+    key_exports: [PARAMS, get_params, load_params, save_params, describe_params]
+    notes: >
+      Every other module receives params as a dict argument.
+      PARAMS is never mutated — always deep-copied via get_params().
+
+  tokenizer:
+    file: src/zembeddings/tokenizer.py
+    depends_on: []
+    role: "Causal sliding-window tokenisation using tiktoken"
+    key_exports: [tokenize, windows_to_texts, token_count, Window, TokenizedTranscript]
+    notes: >
+      Strictly causal: window_t = tokens[t-W+1 : t+1].
+      No future tokens are ever visible.
+
+  embeddings:
+    file: src/zembeddings/embeddings.py
+    depends_on: []
+    role: "Dual-backend embedding (OpenAI API or local sentence-transformers)"
+    key_exports: [embed_texts, load_cached_embeddings]
+    notes: >
+      Results cached to .npz files keyed by SHA-256 of (model, dims, texts).
+      Local backend uses Matryoshka-style truncation for reduced dims.
+
+  metrics:
+    file: src/zembeddings/metrics.py
+    depends_on: []
+    role: "Full kinematic metric suite on embedding trajectories"
+    key_exports: [compute_metrics, TrajectoryMetrics, pairwise_cosine_matrix, semantic_cloud_stats]
+    notes: >
+      All computations are strictly causal.
+      Boundary detection uses causal running mean/std (not global stats).
+
+  kalman:
+    file: src/zembeddings/kalman.py
+    depends_on: []
+    role: "Kalman filter for trajectory prediction and boundary detection"
+    key_exports: [run_scalar_kalman, run_vector_kalman, run_kalman, KalmanResult]
+    notes: >
+      Two modes: scalar (on cosine distance series) and vector (on reduced embeddings).
+      Constant-velocity transition model. Mahalanobis distance flags violations.
+
+  io:
+    file: src/zembeddings/io.py
+    depends_on: []
+    role: "YAML and Markdown I/O for experiment results"
+    key_exports: [write_metrics_yaml, write_report_markdown, read_transcript]
+    notes: >
+      All output files are timestamped to prevent overwrites.
+      Markdown reports include ASCII sparkline visualisations.
+
+  pipeline:
+    file: src/zembeddings/pipeline.py
+    depends_on: [tokenizer, embeddings, metrics, kalman, io]
+    role: "End-to-end experiment orchestrator"
+    key_exports: [run_pipeline, PipelineResult]
+    notes: >
+      Chains: tokenize → embed → metrics → kalman → write outputs.
+      Optionally stores results in pgvector.
+
+  ingest:
+    file: src/zembeddings/ingest.py
+    depends_on: []
+    role: "Corpus ingestion — parse metadata, transcripts, write postured text"
+    key_exports: [ingest_conversation, walk_conversations, parse_metadata, parse_backbiter_transcript, validate_conversation, IngestionResult]
+    notes: >
+      Parses the no_media corpus structure (UUID directories).
+      Writes speaker_L.txt, speaker_R.txt, interleaved.txt per conversation.
+
+  database:
+    file: src/zembeddings/database.py
+    depends_on: []
+    role: "pgvector storage layer (optional, gated behind extras)"
+    key_exports: [create_schema, insert_conversation, insert_speaker, insert_turns, insert_experiment, insert_embeddings, insert_metrics, find_similar]
+    notes: >
+      Requires PostgreSQL + pgvector extension.
+      Schema: conversations → speakers → turns, experiments → embeddings → metrics.
+
+# ── Data flow stages ─────────────────────────────────────────────────
+pipeline_stages:
+  - stage: 1_tokenise
+    input: "raw text (str)"
+    output: "TokenizedTranscript with causal windows"
+    module: tokenizer
+    params_used: [window.size, window.stride, window.encoding]
+
+  - stage: 2_embed
+    input: "list[str] (window texts)"
+    output: "dict with 'full' (N×1536) and 'reduced' (N×256) ndarrays"
+    module: embeddings
+    params_used: [model.backend, model.name, model.dimensions_full, model.dimensions_reduced, model.batch_size]
+
+  - stage: 3_metrics
+    input: "ndarray (N×dim) embeddings"
+    output: "TrajectoryMetrics dataclass with 15+ metric arrays"
+    module: metrics
+    params_used: [derivatives.method, derivatives.edge_order, ema.alpha, boundary.k_sigma, boundary.min_samples, semantic_cloud.similarity_floor, semantic_cloud.return_threshold]
+
+  - stage: 4_kalman
+    input: "full embeddings, reduced embeddings, cosine distance series"
+    output: "KalmanResult with innovations, Mahalanobis distances, violations"
+    module: kalman
+    params_used: [kalman.mode, kalman.process_noise_scale, kalman.measurement_noise_scale, kalman.initial_covariance_scale, kalman.innovation_threshold]
+
+  - stage: 5_output
+    input: "metrics dict + params"
+    output: "YAML file + Markdown report"
+    module: io
+    params_used: [paths.results_metrics, paths.results_reports]
+
+  - stage: 6_store_optional
+    input: "all pipeline outputs"
+    output: "rows in pgvector database"
+    module: database
+    params_used: [database.*]
+
+# ── Entry points ─────────────────────────────────────────────────────
+entry_points:
+  python_api:
+    - function: run_pipeline
+      module: pipeline
+      description: "Run full analysis on a text file or string"
+    - function: compute_metrics
+      module: metrics
+      description: "Compute metrics on pre-embedded data"
+    - function: run_kalman
+      module: kalman
+      description: "Run Kalman filter on pre-computed data"
+
+  scripts:
+    - script: scripts/run_experiment.py
+      description: "CLI to run an experiment from a YAML config"
+      usage: "python scripts/run_experiment.py config/experiments/exp_001.yaml"
+    - script: scripts/generate_conversations.py
+      description: "Generate synthetic test transcripts"
+      usage: "python scripts/generate_conversations.py"
+    - script: scripts/ingest_conversations.py
+      description: "Ingest corpus from no_media directory"
+      usage: "python scripts/ingest_conversations.py /path/to/no_media"
+    - script: scripts/setup_database.py
+      description: "Create pgvector schema"
+      usage: "python scripts/setup_database.py"
+
+  shell_scripts:
+    - script: scripts/run_tests.sh
+      description: "Run test suite with beautiful terminal output"
+    - script: scripts/run_experiment.sh
+      description: "Run default experiment with display"
+]]>

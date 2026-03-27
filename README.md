@@ -1,168 +1,194 @@
+
+
 # ZEmbeddings
 
-**Trajectory analysis in semantic embedding space.**
+### *When someone speaks, how does meaning move?*
 
-Embed conversation transcripts with OpenAI's `text-embedding-3-small`,
-then compute kinematic metrics — velocity, acceleration, jerk — plus
-Kalman-filter boundary detection and fixation/return classification to
-characterise how meaning *moves* during natural speech.
+**Quantify the trajectory of thought through semantic space.**
 
-Read [MANIFESTO.md](MANIFESTO.md) for the full scientific rationale and
-references.
+---
+
+## The Problem
+
+You have conversation transcripts — hours of natural speech — and you
+want to answer questions that **no word-count or sentiment tool can
+touch:**
+
+- *Where exactly does the speaker change topic?*
+- *How erratic is this conversation compared to that one?*
+- *Did the speaker return to an earlier idea, or is this new?*
+- *How much semantic ground did they cover in 10 minutes?*
+
+These are geometric questions about **trajectories through meaning
+space**, and they need geometric answers.
+
+## What ZEmbeddings Gives You
+
+Every utterance gets embedded into a 1536-dimensional semantic manifold.
+Then we treat that sequence of points as a *trajectory* and apply the
+tools of classical mechanics:
+
+| Metric | What it measures | Neuroscience analogy |
+|--------|-----------------|---------------------|
+| **Semantic velocity** | Rate of topic change per step | Attention shift speed |
+| **Acceleration** | Is the speaker *beginning* to shift? | Onset of context switch |
+| **Jerk** | Onset/offset of a shift — the "snap" | Event boundary signal |
+| **Kalman innovation** | Surprise vs. predicted trajectory | Prediction error |
+| **Kalman on acceleration** | Surprise in the *rate of change* | Context-change neuron |
+| **EMA drift** | How far from the running context | Working memory deviation |
+| **Cumulative path** | Total distance through meaning-space | Cognitive effort proxy |
+| **Boundary flags** | Binary: topic changed here | Hippocampal reset cue |
+| **Fixation flags** | Speaker stuck on one idea | Perseveration detector |
+| **Return flags** | Speaker revisited a past topic | Episodic memory retrieval |
+
+Every computation is **strictly causal** — at time *t* we use only the
+past and present, never the future. This mirrors the constraint a
+biological listener operates under.
+
+> *"The path through meaning-space is itself meaningful."*
+> — [MANIFESTO.md](MANIFESTO.md)
 
 ---
 
 ## Quick Start
 
 ```bash
-# 1. Clone & enter
+# 1. Clone & install
 cd ZEmbeddings
-
-# 2. Create a virtual environment
 python -m venv .venv && source .venv/bin/activate
-
-# 3. Install
 pip install -e ".[dev]"
 
-# 4. Add your OpenAI key
-cp .env.example .env   # then edit .env
+# 2. Configure (OpenAI key for API embeddings, or use local models for free)
+cp .env.example .env && $EDITOR .env
 
-# 5. Generate synthetic data & run first experiment
+# 3. Generate synthetic test data & run your first experiment
 python scripts/generate_conversations.py
 python scripts/run_experiment.py config/experiments/exp_001_synthetic_topic_shift.yaml
+
+# 4. Or use the one-liner shell scripts
+./scripts/run_tests.sh              # Run full test suite with coverage
+./scripts/run_experiment.sh          # Run default experiment with live display
 ```
+
+### Free local embeddings (no API key needed)
+
+```python
+from zembeddings.params import get_params
+from zembeddings.pipeline import run_pipeline
+
+p = get_params(**{"model.backend": "local"})  # uses all-MiniLM-L6-v2, ~80 MB
+result = run_pipeline("data/synthetic/topic_shift_001.txt", params=p)
+```
+
+---
 
 ## Interactive Parameter Editing
 
-Every tuneable knob lives in a single dictionary.  Open a Python REPL
-and explore before running:
+Every tuneable knob lives in a single Python dictionary. Open a REPL
+and explore:
 
 ```python
 from zembeddings.params import PARAMS, get_params
 
-# Inspect defaults
-PARAMS["window"]          # {'size': 10, 'stride': 1, ...}
-PARAMS["kalman"]          # {'process_noise_scale': 0.0001, ...}
+PARAMS["window"]    # {'size': 10, 'stride': 1, 'encoding': 'cl100k_base'}
+PARAMS["kalman"]    # {'process_noise_scale': 0.0001, ...}
 
 # Override for a run
-p = get_params(**{"window.size": 20, "kalman.mode": "vector"})
+p = get_params(**{"window.size": 20, "kalman.mode": "vector", "ema.alpha": 0.5})
 
 # Or load from YAML
 from zembeddings.params import load_params
 p = load_params("config/experiments/exp_001_synthetic_topic_shift.yaml")
 ```
 
-Then pass `p` to the pipeline:
-
-```python
-from zembeddings.pipeline import run_pipeline
-results = run_pipeline("data/synthetic/topic_shift_001.txt", params=p)
-```
-
-## Project Layout
-
-```
-├── MANIFESTO.md            ← Scientific rationale & references
-├── config/
-│   ├── default.yaml        ← Default parameters (mirrors PARAMS dict)
-│   └── experiments/        ← Per-experiment YAML overrides
-├── context/
-│   └── ingestion_strategy.yaml  ← Full ingestion plan (machine-readable)
-├── src/zembeddings/
-│   ├── params.py           ← Central parameter dictionary
-│   ├── tokenizer.py        ← Causal sliding-window tokenisation
-│   ├── embeddings.py       ← OpenAI + local embedding backends
-│   ├── metrics.py          ← Velocity, acceleration, jerk, boundaries
-│   ├── kalman.py           ← Scalar & vector Kalman filters
-│   ├── database.py         ← pgvector storage & retrieval
-│   ├── pipeline.py         ← End-to-end orchestration
-│   ├── ingest.py           ← Corpus ingestion & text posturing
-│   └── io.py               ← YAML / Markdown readers & writers
-├── scripts/
-│   ├── run_experiment.py
-│   ├── generate_conversations.py
-│   ├── ingest_conversations.py  ← Ingest no_media corpus
-│   └── setup_database.py
-├── data/                   ← raw / synthetic / processed
-├── results/                ← metrics (YAML) + reports (Markdown)
-└── tests/
-```
-
 ---
 
-## Database Schema
+## Repo Map
 
-All tables are created idempotently by `scripts/setup_database.py`.
-The schema lives in [`src/zembeddings/database.py`](src/zembeddings/database.py).
+Every file, what it does, and where it fits in the pipeline.
+
+### Core Library (`src/zembeddings/`)
+
+| Module | Role | Key Functions / Classes |
+|--------|------|------------------------|
+| [`params.py`](src/zembeddings/params.py) | **Single source of truth** for all parameters | `PARAMS`, `get_params()`, `load_params()` |
+| [`tokenizer.py`](src/zembeddings/tokenizer.py) | Causal sliding-window tokenisation | `tokenize()`, `Window`, `TokenizedTranscript` |
+| [`embeddings.py`](src/zembeddings/embeddings.py) | OpenAI API + local sentence-transformers | `embed_texts()`, `.npz` caching |
+| [`metrics.py`](src/zembeddings/metrics.py) | Full kinematic metric suite | `compute_metrics()` → `TrajectoryMetrics` |
+| [`kalman.py`](src/zembeddings/kalman.py) | Kalman filter boundary detection | `run_scalar_kalman()`, `run_vector_kalman()` |
+| [`pipeline.py`](src/zembeddings/pipeline.py) | End-to-end orchestrator | `run_pipeline()` → `PipelineResult` |
+| [`io.py`](src/zembeddings/io.py) | YAML metrics + Markdown reports | `write_metrics_yaml()`, `write_report_markdown()` |
+| [`ingest.py`](src/zembeddings/ingest.py) | Corpus parsing & text posturing | `ingest_conversation()`, `walk_conversations()` |
+| [`database.py`](src/zembeddings/database.py) | pgvector storage & ANN search | `create_schema()`, `insert_*()`, `find_similar()` |
+
+### Pipeline Data Flow
 
 ```
-┌─────────────────────┐
-│   conversations      │
-├─────────────────────┤       ┌──────────────────────┐
-│ id            SERIAL │──┐   │   speakers            │
-│ convo_uuid    TEXT   │  │   ├──────────────────────┤
-│ session_id    TEXT   │  ├──▶│ id             SERIAL │──┐
-│ created_at    TSTZ   │  │   │ conversation_id INT   │  │
-│ duration_seconds DBL │  │   │ user_id        TEXT   │  │
-│ n_turns       INT    │  │   │ channel        TEXT   │  │
-│ n_words       INT    │  │   │ n_turns        INT    │  │
-│ metadata      JSONB  │  │   │ n_words        INT    │  │
-│ ingested_at   TSTZ   │  │   │ survey_data    JSONB  │  │
-└─────────────────────┘  │   │ demographics   JSONB  │  │
-                          │   └──────────────────────┘  │
-┌─────────────────────┐  │                              │
-│   turns              │  │   ┌──────────────────────┐  │
-├─────────────────────┤  │   │   experiments          │  │
-│ id            SERIAL │  │   ├──────────────────────┤  │
-│ conversation_id INT  │◀─┤   │ id             SERIAL │  │
-│ speaker_id    INT    │◀─┼──▶│ conversation_id INT   │◀─┘
-│ turn_index    INT    │  │   │ speaker_id     INT    │
-│ start_time    DBL    │  │   │ name           TEXT   │
-│ stop_time     DBL    │  │   │ description    TEXT   │
-│ utterance     TEXT   │  │   │ analysis_mode  TEXT   │
-│ backchannel   TEXT   │  │   │ params         JSONB  │
-│ backchannel_count INT│  │   │ created_at     TSTZ   │
-│ n_words       INT    │  │   └──────────────────────┘
-│ is_question   BOOL   │  │            │
-│ has_overlap   BOOL   │  │            ▼
-└─────────────────────┘  │   ┌──────────────────────┐
-                          │   │   embeddings           │
-                          │   ├──────────────────────┤
-                          │   │ id             SERIAL │
-                          │   │ experiment_id  INT    │
-                          │   │ window_index   INT    │
-                          │   │ window_text    TEXT   │
-                          │   │ start_token    INT    │
-                          │   │ end_token      INT    │
-                          │   │ embedding_full vector │
-                          │   │ embedding_reduced vec │
-                          │   │ created_at     TSTZ   │
-                          │   └──────────────────────┘
-                          │
-                          │   ┌──────────────────────┐
-                          │   │   metrics              │
-                          │   ├──────────────────────┤
-                          │   │ id             SERIAL │
-                          │   │ experiment_id  INT    │
-                          │   │ window_index   INT    │
-                          │   │ cosine_distance  DBL  │
-                          │   │ velocity         DBL  │
-                          │   │ acceleration     DBL  │
-                          │   │ jerk             DBL  │
-                          │   │ ema_drift        DBL  │
-                          │   │ kalman_innovation DBL │
-                          │   │ is_boundary     BOOL  │
-                          │   │ is_return       BOOL  │
-                          │   │ is_fixation     BOOL  │
-                          │   │ …               …     │
-                          │   └──────────────────────┘
-                          │
-    conversations ─1:N─▶ speakers ─1:N─▶ turns
-    conversations ─1:N─▶ experiments ─1:N─▶ embeddings
-                                       ─1:N─▶ metrics
+  raw text / corpus
+        │
+        ▼
+  ┌─────────────┐   tokenizer.py     ┌─────────────┐
+  │  Tokenise   │──────────────────▶│   Windows    │
+  └─────────────┘                    └──────┬──────┘
+                                            │
+  ┌─────────────┐   embeddings.py    ┌──────▼──────┐
+  │   Embed     │◀──────────────────│  Window texts│
+  └──────┬──────┘                    └─────────────┘
+         │
+         ▼
+  ┌─────────────┐   metrics.py       velocity, acceleration, jerk,
+  │  Metrics    │──────────────────▶ EMA drift, boundaries, fixation,
+  └──────┬──────┘                    returns, cumulative path
+         │
+         ▼
+  ┌─────────────┐   kalman.py        Mahalanobis distance,
+  │   Kalman    │──────────────────▶ innovation norms,
+  └──────┬──────┘                    violation flags
+         │
+         ▼
+  ┌─────────────┐   io.py            YAML (machine) +
+  │   Output    │──────────────────▶ Markdown (human)
+  └─────────────┘
 ```
 
-Full DDL: [`src/zembeddings/database.py` § `_SCHEMA_SQL`](src/zembeddings/database.py)
+### Configuration
+
+| File | Purpose |
+|------|---------|
+| [`config/default.yaml`](config/default.yaml) | Default parameters (mirrors `PARAMS` dict) |
+| [`config/experiments/*.yaml`](config/experiments/) | Per-experiment parameter overrides |
+| [`.env.example`](.env.example) | Template for API keys and DB credentials |
+
+### Scripts
+
+| Script | Purpose |
+|--------|---------|
+| [`scripts/run_experiment.py`](scripts/run_experiment.py) | Run one experiment from a YAML config |
+| [`scripts/generate_conversations.py`](scripts/generate_conversations.py) | Create synthetic test transcripts with ground-truth boundaries |
+| [`scripts/ingest_conversations.py`](scripts/ingest_conversations.py) | Parse & ingest the no_media corpus |
+| [`scripts/setup_database.py`](scripts/setup_database.py) | Create pgvector schema (optional) |
+| [`scripts/run_tests.sh`](scripts/run_tests.sh) | One-command test suite with coverage display |
+| [`scripts/run_experiment.sh`](scripts/run_experiment.sh) | One-command experiment runner with display |
+
+### Context & Documentation
+
+| File | Audience |
+|------|----------|
+| [`MANIFESTO.md`](MANIFESTO.md) | **Ground truth** — scientific rationale, metric definitions, references |
+| [`context/architecture.yaml`](context/architecture.yaml) | Machine-readable module dependency graph & data flow |
+| [`context/glossary.yaml`](context/glossary.yaml) | Domain terms with definitions and units |
+| [`context/conventions.yaml`](context/conventions.yaml) | Coding rules, naming patterns, test expectations |
+| [`context/ingestion_strategy.yaml`](context/ingestion_strategy.yaml) | Full corpus ingestion plan |
+| [`.agent-hints.md`](.agent-hints.md) | Quick-reference for AI copilots |
+
+### Data
+
+| Directory | Contents |
+|-----------|----------|
+| `data/synthetic/` | 3 synthetic transcripts + ground-truth JSON manifests |
+| `data/processed/` | Postured text files from corpus ingestion |
+| `results/metrics/` | YAML metric time-series from experiment runs |
+| `results/reports/` | Markdown experiment reports with sparklines |
 
 ---
 
@@ -173,32 +199,53 @@ Full DDL: [`src/zembeddings/database.py` § `_SCHEMA_SQL`](src/zembeddings/datab
 Uses `text-embedding-3-small` with native Matryoshka dimensionality
 reduction (1536-d full, 256-d reduced).
 
-| Scope | Conversations | API Tokens | Cost |
-|-------|--------------|------------|------|
-| 1 speaker, 1 convo | 1 | ~65K | < $0.01 |
-| 1 speaker, 1/10 sample | 165 | ~12M | ~$0.24 |
-| All 3 modes, 1/10 sample | 165 | ~51M | ~$1.03 |
-| All 3 modes, full corpus | 1,655 | ~514M | ~$10.29 |
+| Scope | Conversations | Est. Cost |
+|-------|--------------|-----------|
+| 1 speaker, 1 conversation | 1 | < $0.01 |
+| All 3 modes, 10% sample | 165 | ~$1.03 |
+| All 3 modes, full corpus | 1,655 | ~$10.29 |
 
-### Local models (free, 8 GB Mac)
+### Local models (free, runs on 8 GB Mac)
 
-```python
-p = get_params(**{"model.backend": "local"})
-# optionally pick a model:
-p = get_params(**{"model.backend": "local", "model.local_model": "all-mpnet-base-v2"})
+| Model | Dimensions | Size | Notes |
+|-------|-----------|------|-------|
+| `all-MiniLM-L6-v2` | 384 | ~80 MB | Fast baseline |
+| `all-mpnet-base-v2` | 768 | ~420 MB | Best quality/size |
+| `nomic-ai/nomic-embed-text-v1.5` | 768 | ~550 MB | Long context |
+
+```bash
+pip install sentence-transformers  # one-time install
 ```
 
-| Model | Dimensions | Size | Quality | Speed |
-|-------|-----------|------|---------|-------|
-| `all-MiniLM-L6-v2` | 384 | ~80 MB | Good baseline | ★★★ |
-| `all-mpnet-base-v2` | 768 | ~420 MB | Best quality/size | ★★☆ |
-| `nomic-ai/nomic-embed-text-v1.5` | 768 | ~550 MB | Long context | ★★☆ |
+---
 
-Requires `pip install sentence-transformers`.  Uses Apple Silicon MPS
-acceleration by default (falls back to CPU).
+## Testing
+
+```bash
+./scripts/run_tests.sh                      # Pretty terminal display
+.venv/bin/python -m pytest tests/ -v        # Standard pytest
+.venv/bin/python -m pytest tests/ --cov     # With coverage
+```
+
+---
+
+## The Science
+
+Read [MANIFESTO.md](MANIFESTO.md) for the full scientific rationale,
+including:
+
+- Why **causal-only** computation matters (biological plausibility)
+- Why **cosine distance** is the right metric on the embedding hypersphere
+- How the **Kalman filter** models expected semantic trajectory
+- What the **semantic cloud threshold** means in high dimensions
+- All 11 academic references
+
+> *This document is the ground truth for the project's scientific logic.
+> If the code disagrees with the manifesto, the code has a bug.*
 
 ---
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
+]]>

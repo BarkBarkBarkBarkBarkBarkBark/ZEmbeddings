@@ -154,6 +154,7 @@ def write_report_markdown(
         ("jerk", "Jerk"),
         ("ema_drift", "EMA Drift"),
         ("kalman_mahalanobis", "Kalman Mahalanobis"),
+        ("kalman_accel_mahalanobis", "Kalman Accel Mahalanobis"),
     ]
 
     lines += ["## Trajectory Sparklines", ""]

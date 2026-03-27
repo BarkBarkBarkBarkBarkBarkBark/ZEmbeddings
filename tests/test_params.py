@@ -26,6 +26,7 @@ class TestParams:
         expected = {
             "model", "window", "ema", "boundary", "kalman",
             "semantic_cloud", "derivatives", "database", "paths",
+            "experiment",
         }
         assert expected == set(PARAMS.keys())
 

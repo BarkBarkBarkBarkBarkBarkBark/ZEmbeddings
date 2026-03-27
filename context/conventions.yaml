@@ -1,0 +1,108 @@
+<![CDATA[# ═══════════════════════════════════════════════════════════════════════
+# ZEmbeddings — Coding Conventions & Project Rules
+# ═══════════════════════════════════════════════════════════════════════
+# Rules for contributors (human and AI) working on this codebase.
+# ═══════════════════════════════════════════════════════════════════════
+
+# ── Ground truth ─────────────────────────────────────────────────────
+ground_truth:
+  rule: >
+    MANIFESTO.md is the scientific ground truth.
+    If the code disagrees with the manifesto, the code has a bug.
+  file: MANIFESTO.md
+
+# ── Parameter system ─────────────────────────────────────────────────
+parameters:
+  single_source: >
+    All tuneable values live in PARAMS dict (src/zembeddings/params.py).
+    YAML configs deep-merge over these defaults.
+  never_mutate: >
+    PARAMS is never mutated. Always use get_params() which returns
+    a deep copy. Pass the copy to pipeline functions.
+  override_flow:
+    - "1. PARAMS dict (Python defaults)"
+    - "2. config/default.yaml (mirrors PARAMS exactly)"
+    - "3. config/experiments/<name>.yaml (per-experiment overrides)"
+    - "4. get_params(**{'dot.notation': value}) at the REPL"
+  experiment_metadata: >
+    Experiment YAML files may include an 'experiment' section with
+    name, description, and source. This is pipeline metadata, not
+    a tuneable parameter — it is read by scripts/run_experiment.py
+    but does not correspond to a PARAMS key.
+
+# ── Causality invariant ──────────────────────────────────────────────
+causality:
+  rule: >
+    Every computation must be strictly causal. At time t, only
+    information from steps 0..t is available. No future tokens,
+    no bidirectional smoothing, no look-ahead, no global statistics
+    computed over the full series then applied retroactively.
+  applies_to:
+    - "Sliding windows (tokenizer.py)"
+    - "EMA centroid (metrics.py)"
+    - "Boundary detection — uses causal running mean/std (metrics.py)"
+    - "Kalman filter — predict-then-correct, no RTS smoother (kalman.py)"
+  manifesto_section: "2.1"
+
+# ── Code style ───────────────────────────────────────────────────────
+style:
+  language: python
+  min_version: "3.10"
+  type_hints: >
+    Use from __future__ import annotations at the top of every module.
+    Use PEP 604 union syntax (X | Y) rather than Union[X, Y].
+  docstrings: >
+    Every public function and class has a numpy-style docstring with
+    Parameters, Returns, and optionally Notes sections.
+  module_docstrings: >
+    Every module starts with a multi-line docstring explaining its
+    purpose, with a Usage example and Reference section.
+  imports: >
+    Heavy dependencies (openai, sentence_transformers, psycopg2) are
+    imported lazily inside functions, not at module level. This keeps
+    the core library importable without optional dependencies.
+  box_drawing: >
+    Section headers in source files use ━━━ box-drawing characters
+    for visual separation. This is a stylistic choice, not a rule.
+
+# ── Naming conventions ───────────────────────────────────────────────
+naming:
+  modules: "snake_case.py"
+  classes: "PascalCase (e.g. TrajectoryMetrics, KalmanResult)"
+  functions: "snake_case (e.g. compute_metrics, run_pipeline)"
+  params_keys: "snake_case with dots for nesting (e.g. 'window.size')"
+  output_files: "{experiment_name}_{YYYYMMDD_HHMMSS}.{yaml|md}"
+  data_dirs: "UUID strings for conversation directories"
+
+# ── File organisation ────────────────────────────────────────────────
+file_organisation:
+  core_library: "src/zembeddings/ — importable Python package"
+  scripts: "scripts/ — standalone CLI scripts (not part of the package)"
+  configs: "config/ — YAML parameter files"
+  context: "context/ — machine-readable project documentation"
+  tests: "tests/ — pytest test modules"
+  data: "data/{raw,synthetic,processed} — input and cached data"
+  results: "results/{metrics,reports} — experiment output"
+
+# ── Testing ──────────────────────────────────────────────────────────
+testing:
+  framework: pytest
+  location: tests/
+  naming: "test_{module_name}.py"
+  no_api_calls: >
+    Tests must never call external APIs (OpenAI, PostgreSQL).
+    Use synthetic embeddings (random L2-normalised vectors) and
+    mock/patch where needed.
+  no_disk_writes: >
+    Tests should use tmp_path fixture for any file I/O.
+    Never write to the project's data/ or results/ directories.
+  coverage_goal: "All public functions in src/zembeddings/"
+
+# ── Error handling ───────────────────────────────────────────────────
+errors:
+  rule: >
+    Raise ValueError for invalid parameter combinations.
+    Raise EnvironmentError for missing API keys or DB connections.
+    Use logging.warning for recoverable issues (missing files, etc.).
+    Never silently swallow exceptions.
+]]>

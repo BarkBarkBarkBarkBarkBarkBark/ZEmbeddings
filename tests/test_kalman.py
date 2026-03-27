@@ -16,6 +16,7 @@ from zembeddings.kalman import (
     run_scalar_kalman,
     run_vector_kalman,
     run_kalman,
+    run_acceleration_kalman,
 )
 
 
@@ -116,3 +117,72 @@ class TestKalmanDispatcher:
         p = get_params(**{"kalman.mode": "vector"})
         result = run_kalman(emb_full, emb_red, series, p)
         assert result.mode == "vector"
+
+
+class TestAccelerationKalman:
+    """Tests for the 2nd-derivative Kalman filter (context-change neuron)."""
+
+    def test_output_shape(self):
+        """Output arrays match input length."""
+        series = _smooth_then_spike(50)
+        result = run_acceleration_kalman(series, PARAMS)
+        assert result.mode == "acceleration"
+        assert result.innovations.shape == (50,)
+        assert result.mahalanobis_distances.shape == (50,)
+        assert result.violation_flags.shape == (50,)
+
+    def test_first_value_nan(self):
+        """First value should be NaN (distance[0] is NaN → accel[0] is NaN)."""
+        series = _smooth_then_spike(50)
+        result = run_acceleration_kalman(series, PARAMS)
+        assert np.isnan(result.innovations[0])
+
+    def test_spike_onset_detected(self):
+        """A sudden jump should produce a Mahalanobis spike on acceleration."""
+        series = _smooth_then_spike(50, spike_at=25)
+        p = get_params(**{"kalman.innovation_threshold": 2.0})
+        result = run_acceleration_kalman(series, p)
+        assert result.n_violations >= 1
+        # The acceleration spike should be near the velocity spike
+        violation_indices = np.where(result.violation_flags)[0]
+        assert any(24 <= idx <= 27 for idx in violation_indices)
+
+    def test_smooth_series_no_violations(self):
+        """Constant series → zero acceleration → no violations."""
+        series = np.full(60, 0.02)
+        series[0] = np.nan
+        p = get_params(**{"kalman.innovation_threshold": 5.0})
+        result = run_acceleration_kalman(series, p)
+        assert result.n_violations == 0
+
+    def test_linear_trend_no_violations(self):
+        """Linear increase in distance → constant velocity → zero accel."""
+        series = np.linspace(0.01, 0.20, 60)
+        series[0] = np.nan
+        p = get_params(**{"kalman.innovation_threshold": 5.0})
+        result = run_acceleration_kalman(series, p)
+        # Constant velocity ⇒ ~0 acceleration ⇒ no violations
+        assert result.n_violations <= 1  # allow small edge effect
+
+    def test_double_spike_two_events(self):
+        """Two spikes should produce at least two violation clusters."""
+        rng = np.random.default_rng(42)
+        series = 0.02 + np.abs(rng.normal(0, 0.003, 80))
+        series[0] = np.nan
+        series[25] = 0.5
+        series[55] = 0.5
+        p = get_params(**{"kalman.innovation_threshold": 2.0})
+        result = run_acceleration_kalman(series, p)
+        viol = np.where(result.violation_flags)[0]
+        # Should have violations in two distinct regions
+        assert len(viol) >= 2
+        assert any(v < 40 for v in viol) and any(v > 40 for v in viol)
+
+    def test_nan_propagation(self):
+        """NaN mid-series should not crash; output NaN at that position."""
+        series = _smooth_then_spike(40)
+        series[10] = np.nan
+        result = run_acceleration_kalman(series, PARAMS)
+        assert result.innovations.shape == (40,)
+        # Positions depending on NaN should propagate NaN
+        assert np.isnan(result.innovations[10])
