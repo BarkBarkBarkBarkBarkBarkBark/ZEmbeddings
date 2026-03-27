@@ -129,6 +129,12 @@ def main():
     for i, (uuid, transcript_path) in enumerate(conversations, 1):
         label = f"[{i}/{len(conversations)}] {uuid[:12]}…"
         try:
+            params["experiment"] = {
+                "name": uuid,
+                "description": f"Corpus replay ({args.posture})",
+                "source": str(transcript_path),
+                "posture": args.posture,
+            }
             result = run_pipeline(
                 str(transcript_path),
                 params=params,

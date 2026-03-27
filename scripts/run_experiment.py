@@ -60,6 +60,9 @@ def main(config_path: str | None = None) -> None:
             sys.exit(1)
 
     experiment_name = params.get("experiment", {}).get("name", config.stem)
+    params.setdefault("experiment", {})
+    params["experiment"]["name"] = experiment_name
+    params["experiment"]["source"] = str(source_path)
 
     print(f"╔══════════════════════════════════════════╗")
     print(f"║  ZEmbeddings — Experiment Runner         ║")

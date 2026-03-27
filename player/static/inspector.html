@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZEmbeddings Inspector</title>
+    <link rel="stylesheet" href="/static/inspector.css">
+</head>
+<body>
+    <div id="app">
+        <header class="topbar">
+            <div>
+                <h1>ZEmbeddings <span>Inspector</span></h1>
+                <p class="sub">Replay tokenized speech, retokenize, re-metric, and inspect semantic trajectories.</p>
+            </div>
+            <div class="status-group">
+                <span id="server-status" class="pill ok">ready</span>
+                <span id="db-status" class="pill muted">db unknown</span>
+            </div>
+        </header>
+
+        <div class="layout">
+            <aside class="sidebar panel">
+                <section>
+                    <h2>Runs</h2>
+                    <div id="run-list" class="run-list"></div>
+                </section>
+
+                <section>
+                    <h2>Controls</h2>
+                    <div class="control-grid">
+                        <label>
+                            <span>Window size</span>
+                            <input id="window-size" type="number" min="2" step="1">
+                        </label>
+                        <label>
+                            <span>Stride</span>
+                            <input id="stride" type="number" min="1" step="1">
+                        </label>
+                        <label>
+                            <span>k-σ</span>
+                            <input id="k-sigma" type="number" min="0.1" max="10" step="0.1">
+                        </label>
+                        <label>
+                            <span>EMA α</span>
+                            <input id="ema-alpha" type="number" min="0.01" max="0.99" step="0.01">
+                        </label>
+                        <label>
+                            <span>Kalman mode</span>
+                            <select id="kalman-mode">
+                                <option value="scalar">scalar</option>
+                                <option value="vector">vector</option>
+                            </select>
+                        </label>
+                        <label>
+                            <span>Replay pace (ms)</span>
+                            <input id="pace-ms" type="range" min="40" max="1000" step="20" value="160">
+                            <strong id="pace-readout">160</strong>
+                        </label>
+                    </div>
+                    <div class="button-row">
+                        <button id="recompute-btn" class="primary">Recompute</button>
+                        <button id="play-btn">Play</button>
+                        <button id="stop-btn">Stop</button>
+                        <button id="reset-view-btn">Reset view</button>
+                    </div>
+                </section>
+
+                <section>
+                    <h2>Schema</h2>
+                    <div id="schema-browser" class="schema-browser"></div>
+                </section>
+            </aside>
+
+            <main class="main-grid">
+                <section class="panel trajectory-panel">
+                    <div class="panel-header">
+                        <div>
+                            <h2>Embedding trajectory</h2>
+                            <p id="run-source" class="muted">No run selected.</p>
+                        <p id="replay-note" class="muted small"></p>
+                        </div>
+                        <div id="step-readout" class="pill muted">step 0</div>
+                    </div>
+                    <canvas id="trajectory-canvas"></canvas>
+                </section>
+
+                <section class="panel metrics-panel">
+                    <h2>Live variables</h2>
+                    <div class="metric-grid">
+                        <div class="metric-card"><span>Windows</span><strong id="metric-windows">—</strong></div>
+                        <div class="metric-card"><span>Boundaries</span><strong id="metric-boundaries">—</strong></div>
+                        <div class="metric-card"><span>Mean velocity</span><strong id="metric-velocity">—</strong></div>
+                        <div class="metric-card"><span>Path length</span><strong id="metric-path">—</strong></div>
+                        <div class="metric-card"><span>Kalman dₘ</span><strong id="metric-kalman">—</strong></div>
+                        <div class="metric-card"><span>Accel dₘ</span><strong id="metric-kalman-accel">—</strong></div>
+                        <div class="metric-card"><span>EMA drift</span><strong id="metric-ema">—</strong></div>
+                        <div class="metric-card"><span>Return cluster</span><strong id="metric-return">—</strong></div>
+                    </div>
+                    <div class="spark-grid">
+                        <div><label>Velocity</label><canvas id="spark-velocity" width="340" height="56"></canvas></div>
+                        <div><label>Acceleration</label><canvas id="spark-acceleration" width="340" height="56"></canvas></div>
+                        <div><label>Kalman dₘ</label><canvas id="spark-kalman" width="340" height="56"></canvas></div>
+                        <div><label>Accel dₘ</label><canvas id="spark-kalman-accel" width="340" height="56"></canvas></div>
+                        <div><label>EMA drift</label><canvas id="spark-ema" width="340" height="56"></canvas></div>
+                    </div>
+                </section>
+
+                <section class="panel transcript-panel">
+                    <div class="panel-header">
+                        <div>
+                            <h2>Streaming text</h2>
+                            <p class="muted">Colored tokens appear during <strong>Play</strong> (replay). Full source is below.</p>
+                            <p id="replay-estimate" class="muted small"></p>
+                        </div>
+                        <div id="boundary-badge" class="pill muted">stable</div>
+                    </div>
+                    <div id="attention-window" class="attention-window">Attention window will appear here.</div>
+                    <div id="stream-text" class="stream-text"></div>
+                    <details class="transcript-details">
+                        <summary>Full transcript (<span id="transcript-token-hint">tokens</span>)</summary>
+                        <pre id="full-transcript" class="full-transcript"></pre>
+                    </details>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="/static/inspector.js"></script>
+</body>
+</html>

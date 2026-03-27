@@ -48,6 +48,8 @@ PARAMS: dict[str, Any] = {
         "dimensions_reduced": 256,
         "max_tokens_per_input": 8192,
         "batch_size": 2048,  # max inputs per API call (OpenAI)
+        # Persist .npz under paths.data_processed (same text+model → skip API)
+        "cache_embeddings": False,
         # local-only settings (ignored when backend="openai")
         "local_model": "all-MiniLM-L6-v2",
         "local_batch_size": 256,

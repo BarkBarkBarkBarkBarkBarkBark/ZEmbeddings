@@ -12,6 +12,8 @@ model:
   dimensions_reduced: 256
   max_tokens_per_input: 8192
   batch_size: 2048
+  # true = reuse data/processed/*.npz when inputs match (saves API $)
+  cache_embeddings: false
 
 window:
   size: 10          # tokens per window

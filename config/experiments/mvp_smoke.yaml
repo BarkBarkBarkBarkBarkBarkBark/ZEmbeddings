@@ -1,0 +1,10 @@
+# MVP smoke: no API key, tiny synthetic transcript (see MANIFESTO — causal pipeline only).
+experiment:
+  name: "mvp_smoke_fixation"
+  description: "Fast local run on fixation_test.txt"
+  source: "data/synthetic/fixation_test.txt"
+
+model:
+  backend: local
+  device: cpu
+  cache_embeddings: false

@@ -1,12 +1,13 @@
 """
-OpenAI embedding client with batching and caching.
-===================================================
+OpenAI embedding client with batching and optional disk cache.
+==============================================================
 
 Handles:
 1. Loading the API key from ``.env``
 2. Batching window texts into single API calls (up to 2048 per call)
 3. Requesting both **full** (1536-d) and **reduced** (256-d) embeddings
-4. Caching results to ``.npz`` on disk so we never re-embed the same text
+4. Optional ``.npz`` cache under ``paths.data_processed`` when
+   ``params["model"]["cache_embeddings"]`` is true (or ``use_cache=True``)
 
 Reference
 ---------
@@ -145,7 +146,7 @@ def embed_texts(
     texts: list[str],
     params: dict[str, Any],
     *,
-    use_cache: bool = True,
+    use_cache: bool | None = None,
 ) -> dict[str, np.ndarray]:
     """Embed a list of texts at both full and reduced dimensionality.
 
@@ -164,8 +165,9 @@ def embed_texts(
         One string per sliding window.
     params : dict
         Full PARAMS dict.
-    use_cache : bool
-        If *True*, look for / write a ``.npz`` cache file.
+    use_cache : bool, optional
+        If set, overrides ``params["model"]["cache_embeddings"]``.
+        If *None*, uses the YAML/Python default (usually *False* for MVP).
 
     Returns
     -------
@@ -174,6 +176,9 @@ def embed_texts(
         ``"reduced"`` – ndarray of shape ``(N, dims_reduced)``
         ``"texts"``   – the input texts (echoed back for alignment)
     """
+    if use_cache is None:
+        use_cache = bool(params["model"].get("cache_embeddings", False))
+
     backend: str = params["model"].get("backend", "openai")
     model_name: str = params["model"]["name"]
     dims_full: int = params["model"]["dimensions_full"]

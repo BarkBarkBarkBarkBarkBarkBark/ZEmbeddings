@@ -9,6 +9,7 @@
 #    ./scripts/run_experiment.sh                                          # default: exp_001
 #    ./scripts/run_experiment.sh config/experiments/exp_001_synthetic_topic_shift.yaml
 #    ./scripts/run_experiment.sh --list                                   # list available configs
+#    ./scripts/run_experiment.sh --inspect                                # launch local inspector after success
 #
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 set -euo pipefail
@@ -29,6 +30,66 @@ MAGENTA='\033[0;35m'
 RESET='\033[0m'
 
 VENV=".venv/bin/python"
+INSPECT=0
+INSPECT_PORT=8766
+
+free_port() {
+    local port="$1"
+    local pids
+    pids=$(lsof -ti tcp:"$port" -sTCP:LISTEN 2>/dev/null || true)
+
+    if [[ -z "$pids" ]]; then
+        return 0
+    fi
+
+    echo -e "  ${YELLOW}▸ Port ${port} already in use — stopping existing listener(s)${RESET}"
+    while IFS= read -r pid; do
+        [[ -z "$pid" ]] && continue
+        echo -e "  ${DIM}  kill ${pid}${RESET}"
+        kill "$pid" 2>/dev/null || true
+    done <<< "$pids"
+
+    sleep 1
+    pids=$(lsof -ti tcp:"$port" -sTCP:LISTEN 2>/dev/null || true)
+    if [[ -n "$pids" ]]; then
+        echo -e "  ${YELLOW}  forcing shutdown on port ${port}${RESET}"
+        while IFS= read -r pid; do
+            [[ -z "$pid" ]] && continue
+            echo -e "  ${DIM}  kill -9 ${pid}${RESET}"
+            kill -9 "$pid" 2>/dev/null || true
+        done <<< "$pids"
+        sleep 1
+    fi
+
+    if lsof -ti tcp:"$port" -sTCP:LISTEN >/dev/null 2>&1; then
+        echo -e "  ${RED}✗ Could not free port ${port}${RESET}"
+        return 1
+    fi
+}
+
+POSITIONAL=()
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --inspect)
+            INSPECT=1
+            shift
+            ;;
+        --inspect-port)
+            INSPECT=1
+            INSPECT_PORT="$2"
+            shift 2
+            ;;
+        *)
+            POSITIONAL+=("$1")
+            shift
+            ;;
+    esac
+done
+if [[ ${#POSITIONAL[@]} -gt 0 ]]; then
+    set -- "${POSITIONAL[@]}"
+else
+    set --
+fi
 
 # ── Parse arguments ──────────────────────────────────────────────────
 CONFIG=""
@@ -145,6 +206,19 @@ if [[ $EXIT_CODE -eq 0 ]]; then
     for f in results/reports/*.md; do
         [[ -f "$f" ]] && echo -e "    ${DIM}📝${RESET} $f"
     done
+    if [[ $INSPECT -eq 1 ]]; then
+        LATEST_METRIC=$(ls -t results/metrics/*.yaml 2>/dev/null | head -1 || true)
+        echo ""
+        echo -e "  ${YELLOW}▸ Launching inspector on http://127.0.0.1:${INSPECT_PORT}${RESET}"
+        free_port "$INSPECT_PORT"
+        : >/tmp/zembeddings_inspector.log
+        if [[ -n "$LATEST_METRIC" ]]; then
+            "$VENV" player/inspector.py --host 127.0.0.1 --port "$INSPECT_PORT" --open-browser --focus-run "$LATEST_METRIC" >/tmp/zembeddings_inspector.log 2>&1 &
+        else
+            "$VENV" player/inspector.py --host 127.0.0.1 --port "$INSPECT_PORT" --open-browser >/tmp/zembeddings_inspector.log 2>&1 &
+        fi
+        echo -e "  ${DIM}  Inspector log: /tmp/zembeddings_inspector.log${RESET}"
+    fi
 else
     echo -e "  ${RED}${BOLD}✗ Experiment failed${RESET} ${DIM}(${ELAPSED}s)${RESET}"
 fi

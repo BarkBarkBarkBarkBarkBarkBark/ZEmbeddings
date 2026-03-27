@@ -11,9 +11,11 @@ build/
 *.egg
 .venv/
 venv/
+.hf_cache/
 
 # ─── Data (raw uploads can be large / sensitive) ─────────────────────
 data/raw/
+data/processed/
 data/processed/*.npz
 data/processed/*.parquet
 
@@ -26,3 +28,4 @@ data/processed/*.parquet
 
 # ─── Jupyter ─────────────────────────────────────────────────────────
 .ipynb_checkpoints/
+

@@ -2,9 +2,33 @@
 
 # ZEmbeddings
 
+![Inspector: 3D embedding trajectory, streaming text, and live metrics](assets/inspector-dashboard.png)
+
 ### *When someone speaks, how does meaning move?*
 
 **Quantify the trajectory of thought through semantic space.**
+
+## Quick Run
+
+```bash
+# Fastest path: creates .venv if needed, local embeddings, fixation smoke test
+./scripts/start.sh
+./scripts/start.sh --inspect
+
+# Or manual setup
+python -m venv .venv && .venv/bin/pip install -e ".[dev,player]"
+./scripts/run_experiment.sh
+./scripts/run_experiment.sh --inspect
+./scripts/run_corpus.sh --inspect
+```
+
+Set `model.cache_embeddings: true` in YAML to reuse `data/processed/*.npz` (saves OpenAI cost when using the API backend).
+
+`start.sh` sets `HF_HOME` to `.hf_cache/` so the local embedding model downloads beside the project (override with your own `HF_HOME` if you prefer the global cache).
+
+- The inspector binds to `127.0.0.1:8766` by default.
+- Use `--inspect-port 8770` to change the port.
+- Existing runs can also be opened directly with `python player/inspector.py`.
 
 ---
 
@@ -45,7 +69,7 @@ Every computation is **strictly causal** — at time *t* we use only the
 past and present, never the future. This mirrors the constraint a
 biological listener operates under.
 
-> *"The path through meaning-space is itself meaningful."*
+> *"Is the path through meaning-space meaningful?"*
 > — [MANIFESTO.md](MANIFESTO.md)
 
 ---
